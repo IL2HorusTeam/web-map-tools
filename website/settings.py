@@ -1,6 +1,10 @@
+# -*- coding: utf-8 -*-
 # Django settings for maptools project.
+import os
+import dj_database_url
+from django.utils.translation import ugettext_lazy as _
 
-DEBUG = True
+DEBUG = bool(os.environ.get('HORUS_MAP_TOOLS_DJANGO_DEBUG', ''))
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
@@ -9,16 +13,11 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
+if not os.environ.has_key('DATABASE_URL'):
+    os.environ['DATABASE_URL'] = os.environ.get('HORUS_MAP_TOOLS_DJANGO_DATABASE_URL')
+
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': '',                      # Or path to database file if using sqlite3.
-        # The following settings are not used with sqlite3:
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',                      # Empty for localhost through domain sockets or '127.0.0.1' for localhost through TCP.
-        'PORT': '',                      # Set to empty string for default.
-    }
+    'default': dj_database_url.config()
 }
 
 # Hosts/domain names that are valid for this site; required if DEBUG is False
@@ -29,11 +28,15 @@ ALLOWED_HOSTS = []
 # http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
 # although not all choices may be available on all operating systems.
 # In a Windows environment this must be set to your system time zone.
-TIME_ZONE = 'America/Chicago'
+TIME_ZONE = 'Europe/Kiev'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru' # Russian is the main language
+LANGUAGES = (
+    ('ru', _(u'Русский')),
+    ('en', _(u'Английский')),
+)
 
 SITE_ID = 1
 
@@ -83,7 +86,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = '$ob*=acjwz$3((mvvo!1qll%_qcw-w&mf8b-^azpa9moe(_sz&'
+SECRET_KEY = os.environ.get('HORUS_MAP_TOOLS_DJANGO_SECRET_KEY')
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -102,10 +105,10 @@ MIDDLEWARE_CLASSES = (
     # 'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'maptools.urls'
+ROOT_URLCONF = 'website.urls'
 
 # Python dotted path to the WSGI application used by Django's runserver.
-WSGI_APPLICATION = 'maptools.wsgi.application'
+WSGI_APPLICATION = 'website.wsgi.application'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
@@ -124,6 +127,7 @@ INSTALLED_APPS = (
     # 'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
+    'django_extensions',
 )
 
 # A sample logging configuration. The only tangible logging
