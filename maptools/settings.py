@@ -4,7 +4,7 @@ import os
 import dj_database_url
 from django.utils.translation import ugettext_lazy as _
 
-import website
+import maptools
 
 DEBUG = bool(os.environ.get('HORUS_WEB_MAP_TOOLS_DJANGO_DEBUG', ''))
 TEMPLATE_DEBUG = DEBUG
@@ -53,11 +53,11 @@ USE_L10N = True
 # If you set this to False, Django will not use timezone-aware datetimes.
 USE_TZ = True
 
-PROJECT_ROOT = os.path.dirname(os.path.realpath(website.__file__))
+PROJECT_ROOT = os.path.dirname(os.path.realpath(maptools.__file__))
 
 # Absolute filesystem path to the directory that will hold user-uploaded files.
 # Example: "/var/www/example.com/media/"
-MEDIA_ROOT = os.path.join(PROJECT_ROOT, 'uploads')
+MEDIA_ROOT = os.path.join(PROJECT_ROOT, 'files', 'uploads')
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash.
@@ -68,7 +68,7 @@ MEDIA_URL = '/media/'
 # Don't put anything in this directory yourself; store your static files
 # in apps' "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/var/www/example.com/static/"
-STATIC_ROOT = ''
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'files', 'static')
 
 # URL prefix for static files.
 # Example: "http://example.com/static/", "http://static.example.com/"
@@ -106,10 +106,10 @@ MIDDLEWARE_CLASSES = (
     # 'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'website.urls'
+ROOT_URLCONF = 'maptools.urls'
 
 # Python dotted path to the WSGI application used by Django's runserver.
-WSGI_APPLICATION = 'website.wsgi.application'
+WSGI_APPLICATION = 'maptools.wsgi.application'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
@@ -136,6 +136,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.admindocs',
     'django_extensions',
+    'maptools',
 )
 
 # A sample logging configuration. The only tangible logging
