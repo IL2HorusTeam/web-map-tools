@@ -16,7 +16,5 @@ urlpatterns = patterns('',
 
 if settings.DEBUG is False:   #if DEBUG is True it will be served automatically
     urlpatterns += patterns('',
-        url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {
-            'document_root': settings.STATIC_ROOT
-        }),
+        (r'^static/(?P.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
     )
