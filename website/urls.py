@@ -11,8 +11,6 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
     url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
-
-    url(r'^favicon\.ico$', RedirectView.as_view(url='/static/favicon.ico')),
 )
 
 # Serve static files when debug false
