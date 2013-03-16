@@ -10,9 +10,10 @@ gem 'jquery-rails'
 gem 'execjs'
 gem 'therubyracer'
 gem 'unicorn'
+gem 'foreman'
 
 group :assets do
-    gem 'sass-rails',   '~> 3.2.5'
+    gem 'sass-rails', '~> 3.2.5'
     gem 'coffee-rails', '~> 3.2.2'
     gem 'uglifier', '>= 1.2.3'
     gem 'less'
