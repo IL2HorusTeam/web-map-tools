@@ -5,16 +5,19 @@
 1. Create postgres database and setup DATABASE_URL environment variable:
     export DATABASE_URL="postgres://login:password@localhost/database_name"
 
-2. Install dependencies:
+2. Setup HORUS_WEB_MAPTOOLS_SECRET_TOKEN environment variable:
+    export HORUS_WEB_MAPTOOLS_SECRET_TOKEN="my_long_long_long_production_secret_random_key"
+
+3. Install dependencies:
     bundle install
 
-3. Create ".env" file
+4. Create ".env" file
     echo "RACK_ENV=development" >>.env
 
-4. Migrate database:
+5. Migrate database:
     rake db:migrate
 
-5. Start server:
+6. Start server:
     foreman start
 
 == Example
