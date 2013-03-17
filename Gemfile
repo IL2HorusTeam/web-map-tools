@@ -8,8 +8,6 @@ gem "meta_search", '>= 1.1.0.pre'
 gem 'pg', '0.12.2'
 gem 'rails-database-url'
 
-gem 'jquery-rails'
-
 gem 'execjs'
 gem 'therubyracer'
 gem 'unicorn'
@@ -21,6 +19,7 @@ group :assets do
     gem 'uglifier', '>= 1.2.3'
     gem 'less'
     gem 'ink-rails'
+    gem 'jquery-rails'
 end
 
 group :development, :test do
