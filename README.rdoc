@@ -14,10 +14,13 @@
 4. Create ".env" file
     echo "RACK_ENV=development" >>.env
 
-5. Migrate database:
+5. Precompile assets
+    rake assets:precompile
+
+6. Migrate database:
     rake db:migrate
 
-6. Start server:
+7. Start server:
     foreman start
 
 == Using
