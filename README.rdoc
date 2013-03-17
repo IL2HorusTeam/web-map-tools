@@ -20,5 +20,13 @@
 6. Start server:
     foreman start
 
+== Using
+
+Visit http://localhost:5000 to look at your application working.
+Visit http://localhost:5000/admin to enter admin dashboard using:
+
+* User: admin@example.com
+* Password: password
+
 == Example
-http://il2-horus-maptools.herokuapp.com/
+http://il2-horus-maptools.herokuapp.com

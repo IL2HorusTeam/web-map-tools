@@ -2,6 +2,9 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
 
+gem 'activeadmin'
+gem "meta_search", '>= 1.1.0.pre'
+
 gem 'pg', '0.12.2'
 gem 'rails-database-url'
 
