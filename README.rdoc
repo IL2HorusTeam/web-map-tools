@@ -31,5 +31,8 @@ Visit http://localhost:5000/admin to enter admin dashboard using:
 * User: admin@example.com
 * Password: password
 
-== Example
+== Current staging version
 http://il2-horus-maptools.herokuapp.com
+
+== Discussions
+Our {discussion forum}[http://ost.io/@IL2HorusTeam/web-map-tools].
