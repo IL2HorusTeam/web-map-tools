@@ -1,6 +1,17 @@
-= Horus Maptools {<img src="https://codeclimate.com/github/IL2HorusTeam/web-map-tools.png" />}[https://codeclimate.com/github/IL2HorusTeam/web-map-tools]
+{Horus-System}[https://github.com/IL2HorusTeam/Horus-System] >
+{Web}[https://github.com/IL2HorusTeam/web] >
+Map Tools
 
-== Getting Started
+----
+
+= Horus Map Tools {<img src="https://codeclimate.com/github/IL2HorusTeam/web-map-tools.png" />}[https://codeclimate.com/github/IL2HorusTeam/web-map-tools]
+
+== Synopsis
+
+This is a web appication which purpose is to help creating routes for
+flights on IL-2 online servers (especially for bombers).
+
+== Starting your server
 
 1. Create postgres database and setup DATABASE_URL environment variable:
     export DATABASE_URL="postgres://login:password@localhost/database_name"
