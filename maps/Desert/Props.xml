@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>Desert</MisCode>
+    <Width>84800</Width>
+    <Height>64000</Height>
+    <Towns>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="12794.50" Y="48733.20" A="270" T1="1" Res="PE_3SERIES1_g"/>
+        <Airfield ID="2" X="47568.27" Y="21761.99" A="225" T1="1" Res="PE_3BIS_g"/>
+        <Airfield ID="3" X="70744.69" Y="35353.95" A="285" T1="1" Res="PE_3SERIES1_g"/>
+    </Airfields>
+    <AdvTexts>
+    </AdvTexts>
+</TBaseMapSettings>

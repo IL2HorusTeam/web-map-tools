@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>Net2</MisCode>
+    <Width>51200</Width>
+    <Height>51200</Height>
+    <Towns>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="13036.08" Y="41901.32" A="120" T1="1" Res="B_24J100_g"/>
+        <Airfield ID="2" X="33983.03" Y="46020.68" A="60" T1="1" Res="B_24J100_g"/>
+        <Airfield ID="3" X="27979.05" Y="39322.86" A="300" T1="1" Res="B_17D_g"/>
+        <Airfield ID="4" X="13935.36" Y="31081.07" A="270" T1="1" Res="A_20G_g"/>
+        <Airfield ID="5" X="4131.86" Y="34004.08" A="45" T1="1" Res="B_17F_g"/>
+        <Airfield ID="6" X="13518.64" Y="23329.45" A="120" T1="1" Res="B_24J100_g"/>
+        <Airfield ID="7" X="25395.78" Y="27990.65" A="60" T1="1" Res="A_20G_g"/>
+        <Airfield ID="8" X="41912.29" Y="27444.24" A="75" T1="1" Res="B_17E_g"/>
+        <Airfield ID="9" X="46759.41" Y="37292.46" A="90" T1="1" Res="A_20G_g"/>
+        <Airfield ID="10" X="32601.90" Y="18663.73" A="105" T1="1" Res="B_17F_g"/>
+        <Airfield ID="11" X="20323.92" Y="13758.94" A="30" T1="1" Res="TBM3AVENGER3_g"/>
+        <Airfield ID="12" X="10231.46" Y="11019.10" A="120" T1="1" Res="B_17E_g"/>
+        <Airfield ID="13" X="7216.15" Y="3010.81" A="90" T1="1" Res="A_20G_g"/>
+        <Airfield ID="14" X="26602.43" Y="9920.18" A="225" T1="1" Res="B_17D_g"/>
+        <Airfield ID="15" X="42734.88" Y="7847.74" A="95" T1="1" Res="TBM3AVENGER3_g"/>
+        <Airfield ID="16" X="47002.03" Y="16410.17" A="135" T1="2" Res="B_17E_b"/>
+    </Airfields>
+    <AdvTexts>
+    </AdvTexts>
+</TBaseMapSettings>

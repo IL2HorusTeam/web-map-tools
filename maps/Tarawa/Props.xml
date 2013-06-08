@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>Tarawa</MisCode>
+    <Width>102400</Width>
+    <Height>102400</Height>
+    <Towns>
+        <MapText Code="Banraeba_Village" NameEng="Banraeba Village" NameRus="Banraeba Village" X="48924" Y="24355" Type="1"/>
+        <MapText Code="Bikenibeu_Village" NameEng="Bikenibeu Village" NameRus="Bikenibeu Village" X="68235" Y="29398" Type="1"/>
+        <MapText Code="Buariki_Village" NameEng="Buariki Village" NameRus="Buariki Village" X="40153" Y="76684" Type="1"/>
+        <MapText Code="Buota_Village" NameEng="Buota Village" NameRus="Buota Village" X="71436" Y="33444" Type="1"/>
+        <MapText Code="Elta_Village" NameEng="Elta Village" NameRus="Elta Village" X="57002" Y="27284" Type="1"/>
+        <MapText Code="Maraneunka_Village" NameEng="Maraneunka Village" NameRus="Maraneunka Village" X="49134" Y="52258" Type="1"/>
+        <MapText Code="Missionary_Station" NameEng="Missionary Station" NameRus="Missionary Station" X="46857" Y="57480" Type="1"/>
+        <MapText Code="Nabeina_Village" NameEng="Nabeina Village" NameRus="Nabeina Village" X="60928" Y="42563" Type="1"/>
+        <MapText Code="Naurabu_Village" NameEng="Naurabu Village" NameRus="Naurabu Village" X="41603" Y="66297" Type="1"/>
+        <MapText Code="Tabiteuea_Village" NameEng="Tabiteuea Village" NameRus="Tabiteuea Village" X="64732" Y="39242" Type="1"/>
+        <MapText Code="Taratai_Village" NameEng="Taratai Village" NameRus="Taratai Village" X="45135" Y="62253" Type="1"/>
+        <MapText Code="Bikeman_I" NameEng="Bikeman I." NameRus="Bikeman I." X="44079" Y="39242" Type="8"/>
+        <MapText Code="Bairiki_I" NameEng="Bairiki I." NameRus="Bairiki I." X="40214" Y="25291" Type="9"/>
+        <MapText Code="Betio_I" NameEng="Betio I." NameRus="Betio I." X="31215" Y="30364" Type="9"/>
+        <MapText Code="Na-a" NameEng="Na'a" NameRus="Na'a" X="39851" Y="79764" Type="9"/>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="31592.08" Y="29413.09" A="86" T1="1" Res="PE_2SERIES359_g"/>
+    </Airfields>
+    <AdvTexts>
+        <AdvText Code="Betio_I" DeltaX="0" DeltaY="-5"/>
+    </AdvTexts>
+</TBaseMapSettings>

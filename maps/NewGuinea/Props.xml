@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>NewGuinea</MisCode>
+    <Width>435200</Width>
+    <Height>243200</Height>
+    <Towns>
+        <MapText Code="Abau" NameEng="Abau" NameRus="Abau" X="192226" Y="70376" Type="1"/>
+        <MapText Code="Aimari" NameEng="Aimari" NameRus="Aimari" X="157438" Y="108139" Type="1"/>
+        <MapText Code="Alola" NameEng="Alola" NameRus="Alola" X="87509" Y="197070" Type="1"/>
+        <MapText Code="Arapara" NameEng="Arapara" NameRus="Arapara" X="95833" Y="137861" Type="1"/>
+        <MapText Code="Boera" NameEng="Boera" NameRus="Boera" X="4892" Y="153890" Type="1"/>
+        <MapText Code="Bofu" NameEng="Bofu" NameRus="Bofu" X="146321" Y="207048" Type="1"/>
+        <MapText Code="Buna_Mission" NameEng="Buna Mission" NameRus="Buna Mission" X="154839" Y="232096" Type="1"/>
+        <MapText Code="Embeso" NameEng="Embeso" NameRus="Embeso" X="186368" Y="141912" Type="1"/>
+        <MapText Code="Embogo" NameEng="Embogo" NameRus="Embogo" X="162838" Y="213748" Type="1"/>
+        <MapText Code="Etogi" NameEng="Etogi" NameRus="Etogi" X="76504" Y="179731" Type="1"/>
+        <MapText Code="Gabe" NameEng="Gabe" NameRus="Gabe" X="214296" Y="190346" Type="1"/>
+        <MapText Code="Iawon" NameEng="Iawon" NameRus="Iawon" X="44298" Y="162267" Type="1"/>
+        <MapText Code="Jaure" NameEng="Jaure" NameRus="Jaure" X="133609" Y="171374" Type="1"/>
+        <MapText Code="Kalikodobu" NameEng="Kalikodobu" NameRus="Kalikodobu" X="83365" Y="117127" Type="1"/>
+        <MapText Code="Kapa_Kapa" NameEng="Kapa Kapa" NameRus="Kapa Kapa" X="58208" Y="109401" Type="1"/>
+        <MapText Code="Kokoda" NameEng="Kokoda" NameRus="Kokoda" X="87609" Y="201313" Type="1"/>
+        <MapText Code="Laruni" NameEng="Laruni" NameRus="Laruni" X="118571" Y="157031" Type="1"/>
+        <MapText Code="Loribaiwa" NameEng="Loribaiwa" NameRus="Loribaiwa" X="64861" Y="163171" Type="1"/>
+        <MapText Code="Mt_Diamond_Mission" NameEng="Mt Diamond Mission" NameRus="Mt Diamond Mission" X="31430" Y="145480" Type="1"/>
+        <MapText Code="Napa_Napa" NameEng="Napa Napa" NameRus="Napa Napa" X="14585" Y="146686" Type="1"/>
+        <MapText Code="Natungo" NameEng="Natungo" NameRus="Natungo" X="146321" Y="193179" Type="1"/>
+        <MapText Code="Naura" NameEng="Naura" NameRus="Naura" X="71827" Y="172757" Type="1"/>
+        <MapText Code="Pangani" NameEng="Pangani" NameRus="Pangani" X="163510" Y="194452" Type="1"/>
+        <MapText Code="Porebada" NameEng="Porebada" NameRus="Porebada" X="6817" Y="150410" Type="1"/>
+        <MapText Code="Rouna" NameEng="Rouna" NameRus="Rouna" X="61297" Y="147779" Type="1"/>
+        <MapText Code="Sogeri" NameEng="Sogeri" NameRus="Sogeri" X="50957" Y="147909" Type="1"/>
+        <MapText Code="Totore" NameEng="Totore" NameRus="Totore" X="217102" Y="170065" Type="1"/>
+        <MapText Code="Tuti" NameEng="Tuti" NameRus="Tuti" X="254405" Y="186408" Type="1"/>
+        <MapText Code="Wairopi" NameEng="Wairopi" NameRus="Wairopi" X="107933" Y="199040" Type="1"/>
+        <MapText Code="Wanigela" NameEng="Wanigela" NameRus="Wanigela" X="239594" Y="159796" Type="1"/>
+        <MapText Code="Yodda" NameEng="Yodda" NameRus="Yodda" X="71212" Y="220449" Type="1"/>
+        <MapText Code="Port_Moresby" NameEng="Port Moresby" NameRus="Port Moresby" X="19267" Y="144428" Type="2"/>
+        <MapText Code="Berry_Airdrome" NameEng="Berry Airdrome" NameRus="Berry Airdrome" X="29056" Y="154543" Type="5"/>
+        <MapText Code="Boera_Field" NameEng="Boera Field" NameRus="Boera Field" X="4770" Y="155690" Type="5"/>
+        <MapText Code="DOB_1" NameEng="DOB 1" NameRus="DOB 1" X="155344" Y="222422" Type="5"/>
+        <MapText Code="DOB_2" NameEng="DOB 2" NameRus="DOB 2" X="151069" Y="220361" Type="5"/>
+        <MapText Code="DOB_3" NameEng="DOB 3" NameRus="DOB 3" X="156630" Y="227518" Type="5"/>
+        <MapText Code="DOB_4" NameEng="DOB 4" NameRus="DOB 4" X="146609" Y="217332" Type="5"/>
+        <MapText Code="Durand_Airdrome" NameEng="Durand Airdrome" NameRus="Durand Airdrome" X="22897" Y="157320" Type="5"/>
+        <MapText Code="Fighter_Strip" NameEng="Fighter Strip" NameRus="Fighter Strip" X="146994" Y="219094" Type="5"/>
+        <MapText Code="Garuahi_LG" NameEng="Garuahi LG" NameRus="Garuahi LG" X="380601" Y="63936" Type="5"/>
+        <MapText Code="Gurney_Aifrield" NameEng="Gurney Aifrield" NameRus="Gurney Aifrield" X="366372" Y="53452" Type="5"/>
+        <MapText Code="Jackson_Airdrome" NameEng="Jackson Airdrome" NameRus="Jackson Airdrome" X="23918" Y="145689" Type="5"/>
+        <MapText Code="Kila_Airdrome" NameEng="Kila Airdrome" NameRus="Kila Airdrome" X="24527" Y="141681" Type="5"/>
+        <MapText Code="New_Strip" NameEng="New Strip" NameRus="New Strip" X="158457" Y="230303" Type="5"/>
+        <MapText Code="No__2_Strip" NameEng="No. 2 Strip" NameRus="No. 2 Strip" X="358296" Y="53392" Type="5"/>
+        <MapText Code="Old_Strip" NameEng="Old Strip" NameRus="Old Strip" X="155894" Y="231665" Type="5"/>
+        <MapText Code="POP_3" NameEng="POP 3" NameRus="POP 3" X="136909" Y="217006" Type="5"/>
+        <MapText Code="Sagari_LG" NameEng="Sagari LG" NameRus="Sagari LG" X="345410" Y="37668" Type="5"/>
+        <MapText Code="Schwimmer_Airdrome" NameEng="Schwimmer Airdrome" NameRus="Schwimmer Airdrome" X="27064" Y="155630" Type="5"/>
+        <MapText Code="Soputa" NameEng="Soputa" NameRus="Soputa" X="144359" Y="225978" Type="5"/>
+        <MapText Code="Turnbull_LG" NameEng="Turnbull LG" NameRus="Turnbull LG" X="369574" Y="54677" Type="5"/>
+        <MapText Code="Vivigani_Airstrip" NameEng="Vivigani Airstrip" NameRus="Vivigani Airstrip" X="364318" Y="163404" Type="5"/>
+        <MapText Code="Wards_Airdrome" NameEng="Wards Airdrome" NameRus="Wards Airdrome" X="21498" Y="150120" Type="5"/>
+        <MapText Code="Wedau_LG" NameEng="Wedau LG" NameRus="Wedau LG" X="336789" Y="76865" Type="5"/>
+        <MapText Code="Colingwood_Bay" NameEng="Collingwood Bay" NameRus="Collingwood Bay" X="268420" Y="150423" Type="6"/>
+        <MapText Code="Goodenough_Bay" NameEng="Goodenough Bay" NameRus="Goodenough Bay" X="340028" Y="93677" Type="6"/>
+        <MapText Code="Milne_Bay" NameEng="Milne Bay" NameRus="Milne Bay" X="388811" Y="43235" Type="6"/>
+        <MapText Code="Oro_Bay" NameEng="Oro Bay" NameRus="Oro Bay" X="178346" Y="214376" Type="6"/>
+        <MapText Code="Coral_Sea" NameEng="Coral Sea" NameRus="Coral Sea" X="102230" Y="29618" Type="7"/>
+        <MapText Code="Solomon_Sea" NameEng="Solomon Sea" NameRus="Solomon Sea" X="266618" Y="225635" Type="7"/>
+        <MapText Code="Haidana_Is" NameEng="Haidana Is" NameRus="Haidana Is" X="6233" Y="147690" Type="8"/>
+        <MapText Code="Tatana_Is" NameEng="Tatana Is" NameRus="Tatana Is" X="16496" Y="148072" Type="8"/>
+        <MapText Code="D-Entrecasteaux_Is" NameEng="D'Entrecasteaux Is" NameRus="D'Entrecasteaux Is" X="411780" Y="170239" Type="9"/>
+        <MapText Code="Ferguson" NameEng="Ferguson" NameRus="Ferguson" X="397819" Y="134210" Type="9"/>
+        <MapText Code="Goodenough" NameEng="Goodenough" NameRus="Goodenough" X="355484" Y="160331" Type="9"/>
+        <MapText Code="Normanby" NameEng="Normanby" NameRus="Normanby" X="424841" Y="103585" Type="9"/>
+        <MapText Code="Owen_Stanley_Range" NameEng="Owen Stanley Range" NameRus="Owen Stanley Range" X="165879" Y="121149" Type="9"/>
+        <MapText Code="Samarai" NameEng="Samarai" NameRus="Samarai" X="405475" Y="16663" Type="9"/>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="136885.21" Y="217115.88" A="45" T1="2" Res="IL_2MEarly_b"/>
+        <Airfield ID="2" X="144541.85" Y="226071.78" A="50" T1="2" Res="IL_2I_b"/>
+        <Airfield ID="3" X="147270.07" Y="219181.83" A="320" T1="2" Res="IL_2MEarly_b"/>
+        <Airfield ID="4" X="146844.51" Y="217925.41" A="235" T1="2" Res="IL_2MLate_b"/>
+        <Airfield ID="5" X="149476.45" Y="219159.85" A="60" T1="2" Res="IL_2MLate_b"/>
+        <Airfield ID="6" X="154860.20" Y="221786.02" A="65" T1="2" Res="IL_2I_b"/>
+        <Airfield ID="7" X="156813.61" Y="227663.41" A="40" T1="2" Res="IL_2I_b"/>
+        <Airfield ID="8" X="157886.75" Y="230546.33" A="270" T1="2" Res="IL_2MLate_b"/>
+        <Airfield ID="9" X="156056.78" Y="231489.59" A="310" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="10" X="4929.16" Y="155837.09" A="140" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="11" X="22984.78" Y="157561.07" A="320" T1="2" Res="IL_2I_b"/>
+        <Airfield ID="12" X="21687.87" Y="150136.66" A="150" T1="2" Res="IL_4_DB3T_b"/>
+        <Airfield ID="13" X="23703.15" Y="145644.04" A="315" T1="2" Res="B_25G1_b"/>
+        <Airfield ID="14" X="24734.59" Y="141666.96" A="320" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="15" X="27330.30" Y="155540.49" A="140" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="16" X="29240.02" Y="154555.04" A="145" T1="2" Res="IL_2I_b"/>
+        <Airfield ID="17" X="336776.01" Y="76848.60" A="230" T1="2" Res="IL_2MLate_b"/>
+        <Airfield ID="18" X="345440.64" Y="37701.58" A="230" T1="2" Res="IL_2MLate_b"/>
+        <Airfield ID="19" X="366305.65" Y="53467.28" A="285" T1="2" Res="IL_2I_b"/>
+        <Airfield ID="20" X="369539.74" Y="54736.39" A="325" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="21" X="380646.65" Y="64087.76" A="290" T1="2" Res="IL_2MLate_b"/>
+        <Airfield ID="22" X="364359.02" Y="163413.54" A="135" T1="2" Res="PE_2SERIES110_b"/>
+        <Airfield ID="23" X="151062.43" Y="220461.74" A="215" T1="2" Res="IL_2MLate_b"/>
+    </Airfields>
+    <AdvTexts>
+        <AdvText Code="Berry_Airdrome" DeltaX="45" DeltaY="-5"/>
+        <AdvText Code="Boera_Field" DeltaX="35" DeltaY="-5"/>
+        <AdvText Code="Buna_Mission" DeltaX="0" DeltaY="-12"/>
+        <AdvText Code="DOB_1" DeltaX="0" DeltaY="-10"/>
+        <AdvText Code="DOB_2" DeltaX="20" DeltaY="5"/>
+        <AdvText Code="DOB_3" DeltaX="-18" DeltaY="-8"/>
+        <AdvText Code="DOB_4" DeltaX="10" DeltaY="8"/>
+        <AdvText Code="Durand_Airdrome" DeltaX="45" DeltaY="-10"/>
+        <AdvText Code="Fighter_Strip" DeltaX="0" DeltaY="-23"/>
+        <AdvText Code="Garuahi_LG" DeltaX="-25" DeltaY="8"/>
+        <AdvText Code="Gurney_Aifrield" DeltaX="0" DeltaY="12"/>
+        <AdvText Code="Jackson_Airdrome" DeltaX="40" DeltaY="-15"/>
+        <AdvText Code="Kila_Airdrome" DeltaX="40" DeltaY="-5"/>
+        <AdvText Code="New_Strip" DeltaX="0" DeltaY="7"/>
+        <AdvText Code="Old_Strip" DeltaX="30" DeltaY="0"/>
+        <AdvText Code="POP_3" DeltaX="-20" DeltaY="-5"/>
+        <AdvText Code="Sagari_LG" DeltaX="25" DeltaY="8"/>
+        <AdvText Code="Schwimmer_Airdrome" DeltaX="52" DeltaY="-10"/>
+        <AdvText Code="Soputa" DeltaX="-18" DeltaY="-8"/>
+        <AdvText Code="Turnbull_LG" DeltaX="28" DeltaY="-5"/>
+        <AdvText Code="Vivigani_Airstrip" DeltaX="0" DeltaY="-20"/>
+        <AdvText Code="Wards_Airdrome" DeltaX="50" DeltaY="-10"/>
+        <AdvText Code="Wedau_LG" DeltaX="27" DeltaY="10"/>
+    </AdvTexts>
+</TBaseMapSettings>

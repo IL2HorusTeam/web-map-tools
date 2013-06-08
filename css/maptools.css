@@ -1,0 +1,188 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Monda', sans-serif;
+    font-size: 14px;
+    color: #444;
+}
+
+#dashboard {
+    display: inline-block;
+    height: 100%;
+    background: #F0F0F0;
+    float: left;
+    border-right: 2px solid #333;
+}
+
+/* Logo and version */
+
+#logo {;
+    padding: 3px 10px;
+    border-bottom: 1px solid #CCC;
+}
+
+#project_name {
+    font-size: 18px;
+    font-family: 'Fugaz One', cursive;
+    color: #222;
+}
+
+#version_info {
+    color: #BBB;
+    font-size: 14px;
+}
+
+#version_info:before {
+    content: "|";
+    margin: 0 10px;
+}
+
+/* Map selector */
+
+#map_selector_block {
+    padding: 10px;
+    display: block;
+    height: 25px;
+}
+
+#map_selector_wrap, #display_loading {
+    display: inline-block;
+    float: left;
+}
+
+#map_selector {
+    width: 190px;
+}
+
+#display_loading {
+    background: url("../img/loader.gif") no-repeat;
+    background-position: left 0px top 4px;
+    width: 18px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+/* Map size info */
+
+#map_size_info {
+    display: block;
+    padding: 0px 15px;
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 5px;
+}
+
+#map_size_info div {
+    display: inline-block;
+}
+
+#map_width, #map_height {
+    height: 20px;
+    width: 40px;
+    padding-left: 20px;
+}
+
+#map_width {
+    background: url("../img/dimension-width.png") no-repeat;
+    background-position: left 0px top 3px;
+}
+
+#map_height {
+    background: url("../img/dimension-height.png") no-repeat;
+    background-position: left 0px top 4px;
+}
+
+/* Current position */
+
+#position_holder {
+    background: url('../img/position.png') no-repeat;
+    background-position: left 0px top 3px;
+    padding-left: 23px;
+    height: 20px;
+    margin: 5px 10px 5px 13px;
+    display: block;
+}
+
+#position_holder div {
+    display: inline-block;
+}
+
+#current_pos_x, #current_pos_y {
+    height: 20px;
+    width: 45px;
+    padding: 0px 5px;
+    text-align: right;
+}
+
+/* Cell display */
+
+#cell_holder {
+    background: url('../img/grid.png') no-repeat;
+    background-position: left 0px top 3px;
+    padding-left: 32px;
+    height: 20px;
+    margin: 5px 10px 5px 13px;
+}
+
+/* Height display */
+
+#height_holder {
+    background: url('../img/mountain.png') no-repeat;
+    background-position: left 0px top -4px;
+    padding-left: 35px;
+    width: 100px;
+    margin: 5px 10px;
+}
+
+/* Map body */
+
+#content_wrap {
+    display: inline-block;
+    height: 100%;
+    float: left;
+}
+
+#ruler_top_wrap {
+    height: 20px;
+    background: #F00;
+    margin-left: 20px;
+}
+
+#ruler_left_wrap {
+    height: 750px;
+    width: 20px;
+    background: #0F0;
+}
+
+#horizontal_container div {
+    float: left;
+}
+
+#map_container_wrap {
+    overflow: hidden;
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>Singapore</MisCode>
+    <Width>400000</Width>
+    <Height>270400</Height>
+    <Towns>
+        <MapText Code="Dumai" NameEng="Dumai" NameRus="Dumai" X="87237" Y="50106" Type="2"/>
+        <MapText Code="Endau" NameEng="Endau" NameRus="Endau" X="346385" Y="134374" Type="2"/>
+        <MapText Code="Jemaluang" NameEng="Jemaluang" NameRus="Jemaluang" X="374852" Y="78418" Type="2"/>
+        <MapText Code="Johore_Bahru" NameEng="Johore Bahru" NameRus="Johore Bahru" X="336150" Y="28099" Type="2"/>
+        <MapText Code="Kluang" NameEng="Kluang" NameRus="Kluang" X="296682" Y="90076" Type="2"/>
+        <MapText Code="Kuala_Lumpur" NameEng="Kuala Lumpur" NameRus="Kuala Lumpur" X="111328" Y="213895" Type="2"/>
+        <MapText Code="Malacca" NameEng="Malacca" NameRus="Malacca" X="164160" Y="111624" Type="2"/>
+        <MapText Code="Mersing" NameEng="Mersing" NameRus="Mersing" X="365659" Y="101411" Type="2"/>
+        <MapText Code="Muai" NameEng="Muai" NameRus="Muai" X="204870" Y="89539" Type="2"/>
+        <MapText Code="Port_Dickson" NameEng="Port Dickson" NameRus="Port Dickson" X="108076" Y="155485" Type="2"/>
+        <MapText Code="Port_Swettenham" NameEng="Port Swettenham" NameRus="Port Swettenham" X="73091" Y="200442" Type="2"/>
+        <MapText Code="Singapore2" NameEng="Singapore" NameRus="Singapore" X="347266" Y="7199" Type="2"/>
+        <MapText Code="Batu_Pahat" NameEng="Batu Pahat" NameRus="Batu Pahat" X="244402" Y="73950" Type="5"/>
+        <MapText Code="Endau_AF" NameEng="Endau AF" NameRus="Endau AF" X="323889" Y="159735" Type="5"/>
+        <MapText Code="Johore_AF" NameEng="Johore AF" NameRus="Johore AF" X="342416" Y="34553" Type="5"/>
+        <MapText Code="Kallang_AF" NameEng="Kallang AF" NameRus="Kallang AF" X="350955" Y="9933" Type="5"/>
+        <MapText Code="Kluang_AF" NameEng="Kluang AF" NameRus="Kluang AF" X="280826" Y="82623" Type="5"/>
+        <MapText Code="Kuala_Lumpur_AF" NameEng="Kuala Lumpur AF" NameRus="Kuala Lumpur AF" X="107073" Y="209307" Type="5"/>
+        <MapText Code="Netherlands_Airbase" NameEng="Netherlands Airbase" NameRus="Netherlands Airbase" X="75440" Y="54848" Type="5"/>
+        <MapText Code="Nippon_AF_East" NameEng="Nippon AF East" NameRus="Nippon AF East" X="279170" Y="258691" Type="5"/>
+        <MapText Code="Nippon_AF_West" NameEng="Nippon AF West" NameRus="Nippon AF West" X="92745" Y="264585" Type="5"/>
+        <MapText Code="Selangor_AF" NameEng="Selangor AF" NameRus="Selangor AF" X="66013" Y="188778" Type="5"/>
+        <MapText Code="Seletar_AF" NameEng="Seletar AF" NameRus="Seletar AF" X="349622" Y="22018" Type="5"/>
+        <MapText Code="Sembawang_AF" NameEng="Sembawang AF" NameRus="Sembawang AF" X="343758" Y="23084" Type="5"/>
+        <MapText Code="Tengah_AF" NameEng="Tengah AF" NameRus="Tengah AF" X="331673" Y="18819" Type="5"/>
+        <MapText Code="Yong_Peng_AF" NameEng="Yong Peng AF" NameRus="Yong Peng AF" X="296849" Y="100649" Type="5"/>
+        <MapText Code="Malacca_Strait" NameEng="Malacca Strait" NameRus="Malacca Strait" X="180291" Y="63796" Type="7"/>
+        <MapText Code="South_China_Sea" NameEng="South China Sea" NameRus="South China Sea" X="340913" Y="210309" Type="7"/>
+        <MapText Code="Bengkalis" NameEng="Bengkalis" NameRus="Bengkalis" X="176173" Y="30547" Type="8"/>
+        <MapText Code="Padang" NameEng="Padang" NameRus="Padang" X="174671" Y="11519" Type="8"/>
+        <MapText Code="Rupat" NameEng="Rupat" NameRus="Rupat" X="97559" Y="77115" Type="8"/>
+        <MapText Code="Tiaman" NameEng="Tiaman" NameRus="Tiaman" X="382474" Y="173756" Type="8"/>
+        <MapText Code="Malaya" NameEng="Malaya" NameRus="Malaya" X="223963" Y="184741" Type="9"/>
+        <MapText Code="Singapore" NameEng="Singapore" NameRus="Singapore" X="342416" Y="15024" Type="9"/>
+        <MapText Code="Sumatra" NameEng="Sumatra" NameRus="Sumatra" X="61506" Y="32049" Type="9"/>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="67692.12" Y="190220.34" A="300" T1="1" Res="IL_4_DB3M_g"/>
+        <Airfield ID="2" X="109201.23" Y="209993.08" A="120" T1="1" Res="IL_4_DB3F_g"/>
+        <Airfield ID="3" X="324090.24" Y="159646.72" A="135" T1="1" Res="B_17F_g"/>
+        <Airfield ID="4" X="347220.30" Y="133290.61" A="410" T1="1" Res="B_17F_g"/>
+        <Airfield ID="5" X="297669.42" Y="100614.27" A="395" T1="1" Res="B_17F_g"/>
+        <Airfield ID="6" X="282089.89" Y="83443.67" A="385" T1="1" Res="IL_4_DB3M_g"/>
+        <Airfield ID="7" X="244376.26" Y="74475.05" A="390" T1="1" Res="IL_4_DB3M_g"/>
+        <Airfield ID="8" X="343142.69" Y="35171.45" A="315" T1="2" Res="B_25G1_b"/>
+        <Airfield ID="9" X="331862.80" Y="18612.30" A="0" T1="2" Res="B_25G1_b"/>
+        <Airfield ID="10" X="344060.84" Y="23372.76" A="425" T1="1" Res="IL_4_DB3F_g"/>
+        <Airfield ID="11" X="349674.82" Y="22190.61" A="395" T1="1" Res="IL_4_DB3M_g"/>
+        <Airfield ID="12" X="351129.94" Y="10047.89" A="410" T1="1" Res="B_17F_g"/>
+        <Airfield ID="13" X="75449.48" Y="54944.59" A="290" T1="2" Res="B_25G1_b"/>
+        <Airfield ID="14" X="93019.30" Y="264382.98" A="240" T1="1" Res="IL_4_DB3F_g"/>
+        <Airfield ID="15" X="279259.29" Y="258651.27" A="295" T1="1" Res="IL_4_DB3M_g"/>
+    </Airfields>
+    <AdvTexts>
+        <AdvText Code="Batu_Pahat" DeltaX="30" DeltaY="3"/>
+        <AdvText Code="Endau" DeltaX="-15" DeltaY="-5"/>
+        <AdvText Code="Endau_AF" DeltaX="-25" DeltaY="10"/>
+        <AdvText Code="Johore_AF" DeltaX="-23" DeltaY="0"/>
+        <AdvText Code="Kallang_AF" DeltaX="-30" DeltaY="-5"/>
+        <AdvText Code="Kluang_AF" DeltaX="-15" DeltaY="-12"/>
+        <AdvText Code="Kuala_Lumpur_AF" DeltaX="0" DeltaY="10"/>
+        <AdvText Code="Netherlands_Airbase" DeltaX="0" DeltaY="12"/>
+        <AdvText Code="Nippon_AF_East" DeltaX="40" DeltaY="-10"/>
+        <AdvText Code="Nippon_AF_West" DeltaX="0" DeltaY="16"/>
+        <AdvText Code="Seletar_AF" DeltaX="32" DeltaY="3"/>
+        <AdvText Code="Sembawang_AF" DeltaX="-40" DeltaY="12"/>
+        <AdvText Code="Tengah_AF" DeltaX="-30" DeltaY="0"/>
+        <AdvText Code="Yong_Peng_AF" DeltaX="-28" DeltaY="-10"/>
+    </AdvTexts>
+</TBaseMapSettings>

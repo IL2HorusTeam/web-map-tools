@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>Marianas</MisCode>
+    <Width>147200</Width>
+    <Height>243200</Height>
+    <Towns>
+        <MapText Code="Agana" NameEng="Agana" NameRus="Agana" X="19967" Y="32194" Type="1"/>
+        <MapText Code="Agat" NameEng="Agat" NameRus="Agat" X="10773" Y="23962" Type="1"/>
+        <MapText Code="Chacha" NameEng="Chacha" NameRus="Chacha" X="134606" Y="223760" Type="1"/>
+        <MapText Code="Charan_Kanoa" NameEng="Charan Kanoa" NameRus="Charan Kanoa" X="127549" Y="220660" Type="1"/>
+        <MapText Code="Garapan" NameEng="Garapan" NameRus="Garapan" X="129219" Y="227022" Type="1"/>
+        <MapText Code="Hashigoru" NameEng="Hashigoru" NameRus="Hashigoru" X="134952" Y="226331" Type="1"/>
+        <MapText Code="Inarajan" NameEng="Inarajan" NameRus="Inarajan" X="21206" Y="10973" Type="1"/>
+        <MapText Code="Laulau" NameEng="Laulau" NameRus="Laulau" X="134422" Y="222515" Type="1"/>
+        <MapText Code="Makunsha" NameEng="Makunsha" NameRus="Makunsha" X="134953" Y="231920" Type="1"/>
+        <MapText Code="Mangilao" NameEng="Mangilao" NameRus="Mangilao" X="26181" Y="27818" Type="1"/>
+        <MapText Code="Merizo" NameEng="Merizo" NameRus="Merizo" X="11538" Y="8375" Type="1"/>
+        <MapText Code="Santa_Rita" NameEng="Santa Rita" NameRus="Santa Rita" X="12179" Y="24958" Type="1"/>
+        <MapText Code="Sinajana" NameEng="Sinajana" NameRus="Sinajana" X="21204" Y="29596" Type="1"/>
+        <MapText Code="Talofofo" NameEng="Talofofo" NameRus="Talofofo" X="19860" Y="14394" Type="1"/>
+        <MapText Code="Tanapag" NameEng="Tanapag" NameRus="Tanapag" X="133239" Y="231043" Type="1"/>
+        <MapText Code="Tinian_Town" NameEng="Tinian Town" NameRus="Tinian Town" X="119544" Y="199455" Type="1"/>
+        <MapText Code="Tsutsuran" NameEng="Tsutsuran" NameRus="Tsutsuran" X="131018" Y="219839" Type="1"/>
+        <MapText Code="Umatac" NameEng="Umatac" NameRus="Umatac" X="10464" Y="12145" Type="1"/>
+        <MapText Code="Yona" NameEng="Yona" NameRus="Yona" X="22396" Y="20537" Type="1"/>
+        <MapText Code="Air_Strip" NameEng="Air Strip" NameRus="Air Strip" X="7819" Y="27636" Type="5"/>
+        <MapText Code="Airfield_1" NameEng="Airfield 1" NameRus="Airfield 1" X="120960" Y="213428" Type="5"/>
+        <MapText Code="Airfield_2" NameEng="Airfield 2" NameRus="Airfield 2" X="115862" Y="204365" Type="5"/>
+        <MapText Code="Airfield_3" NameEng="Airfield 3" NameRus="Airfield 3" X="120702" Y="211832" Type="5"/>
+        <MapText Code="Airfield_4" NameEng="Airfield 4" NameRus="Airfield 4" X="120651" Y="200040" Type="5"/>
+        <MapText Code="Aslito_Airfield" NameEng="Aslito Airfield" NameRus="Aslito Airfield" X="130357" Y="217908" Type="5"/>
+        <MapText Code="Landing_Strip" NameEng="Landing Strip" NameRus="Landing Strip" X="128452" Y="222903" Type="5"/>
+        <MapText Code="Seaplane_Base" NameEng="Seaplane Base" NameRus="Seaplane Base" X="131732" Y="230010" Type="5"/>
+        <MapText Code="Tiyan_Airfield" NameEng="Tiyan Airfield" NameRus="Tiyan Airfield" X="25423" Y="33971" Type="5"/>
+        <MapText Code="Agana_Bay" NameEng="Agana Bay" NameRus="Agana Bay" X="21350" Y="34043" Type="6"/>
+        <MapText Code="Agat_Bay" NameEng="Agat Bay" NameRus="Agat Bay" X="7746" Y="22129" Type="6"/>
+        <MapText Code="Apra_Harbor" NameEng="Apra Harbor" NameRus="Apra Harbor" X="8767" Y="29692" Type="6"/>
+        <MapText Code="Asiga_Bay" NameEng="Asiga Bay" NameRus="Asiga Bay" X="122881" Y="207669" Type="6"/>
+        <MapText Code="Cocos_Lagoon" NameEng="Cocos Lagoon" NameRus="Cocos Lagoon" X="11828" Y="5665" Type="6"/>
+        <MapText Code="Magicienne_Bay" NameEng="Magicienne Bay" NameRus="Magicienne Bay" X="134388" Y="220779" Type="6"/>
+        <MapText Code="Pago_Bay" NameEng="Pago Bay" NameRus="Pago Bay" X="26151" Y="25877" Type="6"/>
+        <MapText Code="Sunharon_Harbor" NameEng="Sunharon Harbor" NameRus="Sunharon Harbor" X="117856" Y="198752" Type="6"/>
+        <MapText Code="Tanapag_Harbor" NameEng="Tanapag Harbor" NameRus="Tanapag Harbor" X="130350" Y="229344" Type="6"/>
+        <MapText Code="Tilmon_Bay" NameEng="Tilmon Bay" NameRus="Tilmon Bay" X="25165" Y="37054" Type="6"/>
+        <MapText Code="Aguijan" NameEng="Aguijan" NameRus="Aguijan" X="111003" Y="187629" Type="9"/>
+        <MapText Code="Guam" NameEng="Guam" NameRus="Guam" X="17032" Y="23541" Type="9"/>
+        <MapText Code="Rota" NameEng="Rota" NameRus="Rota" X="72333" Y="109117" Type="9"/>
+        <MapText Code="Saipan" NameEng="Saipan" NameRus="Saipan" X="131966" Y="225257" Type="9"/>
+        <MapText Code="Tinian" NameEng="Tinian" NameRus="Tinian" X="119097" Y="205784" Type="9"/>
+        <MapText Code="Afetna_Pt" NameEng="Afetna Pt" NameRus="Afetna Pt" X="127420" Y="221901" Type="10"/>
+        <MapText Code="Aga_Pt" NameEng="Aga Pt" NameRus="Aga Pt" X="17674" Y="6275" Type="10"/>
+        <MapText Code="Agingan_Pt" NameEng="Agingan Pt" NameRus="Agingan Pt" X="126353" Y="218080" Type="10"/>
+        <MapText Code="Asiga_Pt" NameEng="Asiga Pt" NameRus="Asiga Pt" X="122218" Y="210140" Type="10"/>
+        <MapText Code="Cape_Obiam" NameEng="Cape Obiam" NameRus="Cape Obiam" X="128319" Y="216506" Type="10"/>
+        <MapText Code="Facpi_Pt" NameEng="Facpi Pt" NameRus="Facpi Pt" X="7773" Y="16917" Type="10"/>
+        <MapText Code="Faibus_San_Hilo_Pt" NameEng="Faibus San Hilo Pt" NameRus="Faibus San Hilo Pt" X="116041" Y="209732" Type="10"/>
+        <MapText Code="Gurguan_Pt" NameEng="Gurguan Pt" NameRus="Gurguan Pt" X="114815" Y="203482" Type="10"/>
+        <MapText Code="Lalo_Pt" NameEng="Lalo Pt" NameRus="Lalo Pt" X="120318" Y="195817" Type="10"/>
+        <MapText Code="Marpo_Pt" NameEng="Marpo Pt" NameRus="Marpo Pt" X="123169" Y="198464" Type="10"/>
+        <MapText Code="Masalog_Pt" NameEng="Masalog Pt" NameRus="Masalog Pt" X="123983" Y="204506" Type="10"/>
+        <MapText Code="Mt_Lasso" NameEng="Mt Lasso" NameRus="Mt Lasso" X="118814" Y="208179" Type="10"/>
+        <MapText Code="Mt_Nafutan" NameEng="Mt Nafutan" NameRus="Mt Nafutan" X="132210" Y="217279" Type="10"/>
+        <MapText Code="Mt_Tapotchau" NameEng="Mt Tapotchau" NameRus="Mt Tapotchau" X="131816" Y="224926" Type="10"/>
+        <MapText Code="Mutcho_Pt" NameEng="Mutcho Pt" NameRus="Mutcho Pt" X="129106" Y="228644" Type="10"/>
+        <MapText Code="Nafutan_Pt" NameEng="Nafutan Pt" NameRus="Nafutan Pt" X="132478" Y="214765" Type="10"/>
+        <MapText Code="Oce_Pt" NameEng="Oce Pt" NameRus="Oce Pt" X="23412" Y="35239" Type="10"/>
+        <MapText Code="Orote_Pt" NameEng="Orote Pt" NameRus="Orote Pt" X="5922" Y="28484" Type="10"/>
+        <MapText Code="Pagat_Pt" NameEng="Pagat Pt" NameRus="Pagat Pt" X="35812" Y="34962" Type="10"/>
+        <MapText Code="Pati_Pt" NameEng="Pati Pt" NameRus="Pati Pt" X="43029" Y="46159" Type="10"/>
+        <MapText Code="Ritidian_Pt" NameEng="Ritidian Pt" NameRus="Ritidian Pt" X="33035" Y="52451" Type="10"/>
+        <MapText Code="Ushi_Pt" NameEng="Ushi Pt" NameRus="Ushi Pt" X="121064" Y="214620" Type="10"/>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="139834.57" Y="235442.59" A="315" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="2" X="128451.42" Y="223032.52" A="20" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="3" X="130486.58" Y="217985.33" A="60" T1="2" Res="IL_4_DB3T_b"/>
+        <Airfield ID="4" X="120938.46" Y="213144.51" A="90" T1="2" Res="B_25G1_b"/>
+        <Airfield ID="5" X="120695.40" Y="212175.38" A="270" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="6" X="116040.97" Y="204289.35" A="95" T1="1" Res="LI_2_g"/>
+        <Airfield ID="7" X="120738.19" Y="200259.16" A="45" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="8" X="25481.84" Y="34021.97" A="240" T1="1" Res="B_25J1_g"/>
+        <Airfield ID="9" X="7975.15" Y="27591.78" A="300" T1="2" Res="IL_4_DB3T_b"/>
+        <Airfield ID="10" X="131533.13" Y="230095.77" A="230" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="11" X="134421.77" Y="221769.50" A="150" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="12" X="121797.02" Y="207794.69" A="160" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="13" X="119150.82" Y="199046.21" A="155" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="14" X="75869.47" Y="107574.17" A="65" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="15" X="67129.35" Y="106211.41" A="140" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="16" X="26012.33" Y="36578.33" A="220" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="17" X="25213.59" Y="26070.10" A="70" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="18" X="8645.08" Y="28771.15" A="275" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="19" X="9240.33" Y="5677.40" A="55" T1="3" Res="MBR_2AM34_w"/>
+    </Airfields>
+    <AdvTexts>
+    </AdvTexts>
+</TBaseMapSettings>

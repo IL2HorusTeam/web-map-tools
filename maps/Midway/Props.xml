@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>Midway</MisCode>
+    <Width>142400</Width>
+    <Height>92800</Height>
+    <Towns>
+        <MapText Code="Eastern_Island" NameEng="Eastern Island" NameRus="Eastern Island" X="124725" Y="36436" Type="8"/>
+        <MapText Code="Sand_Island" NameEng="Sand Island" NameRus="Sand Island" X="119263" Y="35919" Type="8"/>
+        <MapText Code="Spit_Island" NameEng="Spit Island" NameRus="Spit Island" X="122680" Y="35482" Type="8"/>
+        <MapText Code="Kure_Atoll" NameEng="Kure Atoll" NameRus="Kure Atoll" X="22087" Y="58478" Type="9"/>
+        <MapText Code="Midway" NameEng="Midway" NameRus="Midway" X="121148" Y="41111" Type="9"/>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="121443.71" Y="36072.69" A="75" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="2" X="124373.19" Y="35686.89" A="250" T1="1" Res="PE_2SERIES110_g"/>
+    </Airfields>
+    <AdvTexts>
+        <AdvText Code="Eastern_Island" DeltaX="50" DeltaY="0"/>
+        <AdvText Code="Sand_Island" DeltaX="-23" DeltaY="0"/>
+        <AdvText Code="Spit_Island" DeltaX="0" DeltaY="12"/>
+    </AdvTexts>
+</TBaseMapSettings>

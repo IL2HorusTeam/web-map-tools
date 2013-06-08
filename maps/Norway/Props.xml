@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>Norway</MisCode>
+    <Width>140800</Width>
+    <Height>140800</Height>
+    <Towns>
+        <MapText Code="Aukrasanden" NameEng="Aukrasanden" NameRus="Aukrasanden" X="72748" Y="129781" Type="1"/>
+        <MapText Code="Buelle" NameEng="Buelle" NameRus="Buelle" X="66653" Y="131834" Type="1"/>
+        <MapText Code="Falkhytten" NameEng="Falkhytten" NameRus="Falkhytten" X="70813" Y="130936" Type="1"/>
+        <MapText Code="AASTVEIT" NameEng="AASTVEIT" NameRus="AASTVEIT" X="111363" Y="11922" Type="2"/>
+        <MapText Code="Askvoll" NameEng="Askvoll" NameRus="Askvoll" X="95676" Y="103625" Type="2"/>
+        <MapText Code="Bygstad" NameEng="Bygstad" NameRus="Bygstad" X="127468" Y="108753" Type="2"/>
+        <MapText Code="Byrknes" NameEng="Byrknes" NameRus="Byrknes" X="84312" Y="55445" Type="2"/>
+        <MapText Code="Dale" NameEng="Dale" NameRus="Dale" X="112540" Y="106282" Type="2"/>
+        <MapText Code="Eikefjord" NameEng="Eikefjord" NameRus="Eikefjord" X="115330" Y="131289" Type="2"/>
+        <MapText Code="Eivindvik" NameEng="Eivindvik" NameRus="Eivindvik" X="97865" Y="62982" Type="2"/>
+        <MapText Code="FLOROE" NameEng="FLOROE" NameRus="FLOROE" X="91004" Y="130018" Type="2"/>
+        <MapText Code="Forlandsvaag" NameEng="Forlandsvaag" NameRus="Forlandsvaag" X="123700" Y="19986" Type="2"/>
+        <MapText Code="Frekhaug" NameEng="Frekhaug" NameRus="Frekhaug" X="107016" Y="11055" Type="2"/>
+        <MapText Code="Fure" NameEng="Fure" NameRus="Fure" X="98400" Y="98627" Type="2"/>
+        <MapText Code="Hannover" NameEng="Hannover" NameRus="Hannover" X="68968" Y="133002" Type="2"/>
+        <MapText Code="Hardbakke" NameEng="Hardbakke" NameRus="Hardbakke" X="83467" Y="74027" Type="2"/>
+        <MapText Code="Haugland" NameEng="Haugland" NameRus="Haugland" X="89922" Y="32679" Type="2"/>
+        <MapText Code="Holme" NameEng="Holme" NameRus="Holme" X="102471" Y="12485" Type="2"/>
+        <MapText Code="Knarvik" NameEng="Knarvik" NameRus="Knarvik" X="109543" Y="15511" Type="2"/>
+        <MapText Code="Lindaas" NameEng="Lindaas" NameRus="Lindaas" X="103103" Y="34169" Type="2"/>
+        <MapText Code="Lonevaag" NameEng="Lonevaag" NameRus="Lonevaag" X="125586" Y="8598" Type="2"/>
+        <MapText Code="Naustdal" NameEng="Naustdal" NameRus="Naustdal" X="129623" Y="122991" Type="2"/>
+        <MapText Code="Vaage" NameEng="Vaage" NameRus="Vaage" X="91241" Y="96828" Type="2"/>
+        <MapText Code="Austefjorden" NameEng="Austefjorden" NameRus="Austefjorden" X="97546" Y="45510" Type="6"/>
+        <MapText Code="Buefjorden" NameEng="Buefjorden" NameRus="Buefjorden" X="79734" Y="84805" Type="6"/>
+        <MapText Code="Foerdefjorden" NameEng="Foerdefjorden" NameRus="Foerdefjorden" X="102325" Y="120397" Type="6"/>
+        <MapText Code="Froysjoen" NameEng="Froysjoen" NameRus="Froysjoen" X="74197" Y="125079" Type="6"/>
+        <MapText Code="Hoydalsfjorden" NameEng="Hoydalsfjorden" NameRus="Hoydalsfjorden" X="96382" Y="130621" Type="6"/>
+        <MapText Code="Masfjorden" NameEng="Masfjorden" NameRus="Masfjorden" X="112565" Y="46477" Type="6"/>
+        <MapText Code="Norddalsfjorden" NameEng="Norddalsfjorden" NameRus="Norddalsfjorden" X="96437" Y="134219" Type="6"/>
+        <MapText Code="Sognefjorden" NameEng="Sognefjorden" NameRus="Sognefjorden" X="113138" Y="73027" Type="6"/>
+        <MapText Code="Stongfjorden" NameEng="Stongfjorden" NameRus="Stongfjorden" X="93572" Y="110292" Type="6"/>
+        <MapText Code="Straumsfjorden" NameEng="Straumsfjorden" NameRus="Straumsfjorden" X="80053" Y="62847" Type="6"/>
+        <MapText Code="Vilnesfjorden" NameEng="Vilnesfjorden" NameRus="Vilnesfjorden" X="101489" Y="101539" Type="6"/>
+        <MapText Code="Askoy" NameEng="Askoy" NameRus="Askoy" X="104035" Y="8522" Type="11"/>
+        <MapText Code="Atloyna" NameEng="Atloyna" NameRus="Atloyna" X="90072" Y="103330" Type="11"/>
+        <MapText Code="BANFF" NameEng="BANFF" NameRus="BANFF" X="4261" Y="28235" Type="11"/>
+        <MapText Code="Byrknesoyna" NameEng="Byrknesoyna" NameRus="Byrknesoyna" X="87256" Y="50666" Type="11"/>
+        <MapText Code="Fedjeosen" NameEng="Fedjeosen" NameRus="Fedjeosen" X="79082" Y="33988" Type="11"/>
+        <MapText Code="Fosnoyna" NameEng="Fosnoyna" NameRus="Fosnoyna" X="89249" Y="40500" Type="11"/>
+        <MapText Code="GOSSEN" NameEng="GOSSEN" NameRus="GOSSEN" X="66967" Y="134725" Type="11"/>
+        <MapText Code="HERDLA" NameEng="HERDLA" NameRus="HERDLA" X="92319" Y="18353" Type="11"/>
+        <MapText Code="Holsnoyni" NameEng="Holsnoyni" NameRus="Holsnoyni" X="104113" Y="15085" Type="11"/>
+        <MapText Code="Hyseroyna" NameEng="Hyseroyna" NameRus="Hyseroyna" X="89994" Y="64647" Type="11"/>
+        <MapText Code="Landrooyane" NameEng="Landrooyane" NameRus="Landrooyane" X="92514" Y="3791" Type="11"/>
+        <MapText Code="Lindaas" NameEng="Lindaas" NameRus="Lindaas" X="108831" Y="29547" Type="11"/>
+        <MapText Code="Olsund" NameEng="Olsund" NameRus="Olsund" X="76720" Y="98363" Type="11"/>
+        <MapText Code="Osteroy" NameEng="Osteroy" NameRus="Osteroy" X="125143" Y="13057" Type="11"/>
+        <MapText Code="Oygarden" NameEng="Oygarden" NameRus="Oygarden" X="84874" Y="12719" Type="11"/>
+        <MapText Code="PETERHEAD" NameEng="PETERHEAD" NameRus="PETERHEAD" X="15659" Y="13786" Type="11"/>
+        <MapText Code="Radoy" NameEng="Radoy" NameRus="Radoy" X="94559" Y="29630" Type="11"/>
+        <MapText Code="Sula" NameEng="Sula" NameRus="Sula" X="88804" Y="80205" Type="11"/>
+        <MapText Code="Svanoyna" NameEng="Svanoyna" NameRus="Svanoyna" X="94970" Y="118862" Type="11"/>
+        <MapText Code="Ytre Sula" NameEng="Ytre Sula" NameRus="Ytre Sula" X="75141" Y="67843" Type="11"/>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="4811.55" Y="26961.12" A="223" T1="1" Res="SB_2M100A_g"/>
+        <Airfield ID="2" X="13197.50" Y="20088.43" A="320" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="3" X="15097.18" Y="14055.94" A="180" T1="2" Res="B_25J1_b"/>
+        <Airfield ID="4" X="92661.00" Y="18091.00" A="15" T1="2" Res="IL_2_1940Late_b"/>
+        <Airfield ID="5" X="66869.00" Y="134352.00" A="270" T1="2" Res="B_25H1_b"/>
+        <Airfield ID="6" X="68610.00" Y="136444.66" A="315" T1="3" Res="MBR_2AM34_w"/>
+    </Airfields>
+    <AdvTexts>
+        <AdvText Code="BANFF" DeltaX="0" DeltaY="-4"/>
+        <AdvText Code="GOSSEN" DeltaX="41" DeltaY="0"/>
+        <AdvText Code="Hannover" DeltaX="0" DeltaY="3"/>
+        <AdvText Code="HERDLA" DeltaX="40" DeltaY="5"/>
+        <AdvText Code="PETERHEAD" DeltaX="0" DeltaY="-25"/>
+    </AdvTexts>
+</TBaseMapSettings>

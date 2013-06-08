@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<TBaseMapSettings>
+    <MisCode>MTO</MisCode>
+    <Width>204800</Width>
+    <Height>204800</Height>
+    <Towns>
+    </Towns>
+    <Airfields>
+        <Airfield ID="1" X="44435.28" Y="163703.26" A="125" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="2" X="45564.32" Y="164544.57" A="265" T1="2" Res="IL_10_b"/>
+        <Airfield ID="3" X="141284.36" Y="197403.27" A="335" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="4" X="181134.06" Y="179680.66" A="105" T1="1" Res="A_20G_g"/>
+        <Airfield ID="5" X="186405.66" Y="186219.11" A="25" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="6" X="188429.29" Y="185736.65" A="30" T1="1" Res="B_29_g"/>
+        <Airfield ID="7" X="17912.46" Y="97534.61" A="250" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="8" X="18425.55" Y="94996.68" A="45" T1="1" Res="A_20G_g"/>
+        <Airfield ID="9" X="49645.61" Y="82492.17" A="235" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="10" X="74030.86" Y="71248.38" A="150" T1="1" Res="A_20G_g"/>
+        <Airfield ID="11" X="115835.72" Y="60692.60" A="54" T1="1" Res="A_20G_g"/>
+        <Airfield ID="12" X="118142.68" Y="63221.74" A="25" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="13" X="155185.78" Y="65144.21" A="270" T1="1" Res="A_20G_g"/>
+        <Airfield ID="14" X="195806.14" Y="69233.19" A="215" T1="3" Res="MBR_2AM34_w"/>
+        <Airfield ID="15" X="197941.15" Y="68361.02" A="0" T1="1" Res="A_20G_g"/>
+        <Airfield ID="16" X="166816.96" Y="21889.85" A="315" T1="1" Res="PE_3BIS_g"/>
+        <Airfield ID="17" X="76472.18" Y="16451.73" A="45" T1="1" Res="PE_3BIS_g"/>
+        <Airfield ID="18" X="17455.34" Y="27782.40" A="3" T1="1" Res="PE_3BIS_g"/>
+    </Airfields>
+    <AdvTexts>
+    </AdvTexts>
+</TBaseMapSettings>
