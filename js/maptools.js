@@ -217,7 +217,7 @@ function drawMapContainer() {
 
 function setMapChangeHandler() {
     $("#map_selector").change(function () {
-        map_path = "../maps/" + $(this).val() + "/";
+        map_path = "maps/" + $(this).val() + "/";
         map_img.src = map_path + "Map.png";
         $("#display_loading").css('visibility', 'visible');
     });
@@ -285,7 +285,7 @@ function initVariables() {
     height_img = new Image()
 
     airplane_img = new Image();
-    airplane_img.src = "../img/airplane.png";
+    airplane_img.src = "img/airplane.png";
 
     map_canvas = document.getElementById("map_holder");
     map_ctx = map_canvas.getContext("2d");
