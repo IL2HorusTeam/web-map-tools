@@ -122,8 +122,8 @@ function drawMapData(){
 }
 
 function displayMapSize(){
-    $("#map_width").text(Math.floor(map_canvas.width*CELL_SIDE/1000));
-    $("#map_height").text(Math.floor(map_canvas.height*CELL_SIDE/1000));
+    $("#map_width").text((map_canvas.width*CELL_SIDE/1000).toFixed(1));
+    $("#map_height").text((map_canvas.height*CELL_SIDE/1000).toFixed(1));
 }
 
 function displayCurrentHeight(){
