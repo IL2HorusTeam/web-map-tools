@@ -27,17 +27,17 @@
         <MapText Code="Lonevaag" NameEng="Lonevaag" NameRus="Lonevaag" X="125586" Y="8598" Type="2"/>
         <MapText Code="Naustdal" NameEng="Naustdal" NameRus="Naustdal" X="129623" Y="122991" Type="2"/>
         <MapText Code="Vaage" NameEng="Vaage" NameRus="Vaage" X="91241" Y="96828" Type="2"/>
-        <MapText Code="Austefjorden" NameEng="Austefjorden" NameRus="Austefjorden" X="97546" Y="45510" Type="6"/>
-        <MapText Code="Buefjorden" NameEng="Buefjorden" NameRus="Buefjorden" X="79734" Y="84805" Type="6"/>
-        <MapText Code="Foerdefjorden" NameEng="Foerdefjorden" NameRus="Foerdefjorden" X="102325" Y="120397" Type="6"/>
-        <MapText Code="Froysjoen" NameEng="Froysjoen" NameRus="Froysjoen" X="74197" Y="125079" Type="6"/>
-        <MapText Code="Hoydalsfjorden" NameEng="Hoydalsfjorden" NameRus="Hoydalsfjorden" X="96382" Y="130621" Type="6"/>
-        <MapText Code="Masfjorden" NameEng="Masfjorden" NameRus="Masfjorden" X="112565" Y="46477" Type="6"/>
-        <MapText Code="Norddalsfjorden" NameEng="Norddalsfjorden" NameRus="Norddalsfjorden" X="96437" Y="134219" Type="6"/>
-        <MapText Code="Sognefjorden" NameEng="Sognefjorden" NameRus="Sognefjorden" X="113138" Y="73027" Type="6"/>
-        <MapText Code="Stongfjorden" NameEng="Stongfjorden" NameRus="Stongfjorden" X="93572" Y="110292" Type="6"/>
-        <MapText Code="Straumsfjorden" NameEng="Straumsfjorden" NameRus="Straumsfjorden" X="80053" Y="62847" Type="6"/>
-        <MapText Code="Vilnesfjorden" NameEng="Vilnesfjorden" NameRus="Vilnesfjorden" X="101489" Y="101539" Type="6"/>
+        <MapText Code="Austefjorden" NameEng="Austefjorden" NameRus="Austefjorden" X="97546" Y="45510" Type="3"/>
+        <MapText Code="Buefjorden" NameEng="Buefjorden" NameRus="Buefjorden" X="79734" Y="84805" Type="3"/>
+        <MapText Code="Foerdefjorden" NameEng="Foerdefjorden" NameRus="Foerdefjorden" X="102325" Y="120397" Type="3"/>
+        <MapText Code="Froysjoen" NameEng="Froysjoen" NameRus="Froysjoen" X="74197" Y="125079" Type="3"/>
+        <MapText Code="Hoydalsfjorden" NameEng="Hoydalsfjorden" NameRus="Hoydalsfjorden" X="96382" Y="130621" Type="3"/>
+        <MapText Code="Masfjorden" NameEng="Masfjorden" NameRus="Masfjorden" X="112565" Y="46477" Type="3"/>
+        <MapText Code="Norddalsfjorden" NameEng="Norddalsfjorden" NameRus="Norddalsfjorden" X="96437" Y="134219" Type="3"/>
+        <MapText Code="Sognefjorden" NameEng="Sognefjorden" NameRus="Sognefjorden" X="113138" Y="73027" Type="3"/>
+        <MapText Code="Stongfjorden" NameEng="Stongfjorden" NameRus="Stongfjorden" X="93572" Y="110292" Type="3"/>
+        <MapText Code="Straumsfjorden" NameEng="Straumsfjorden" NameRus="Straumsfjorden" X="80053" Y="62847" Type="3"/>
+        <MapText Code="Vilnesfjorden" NameEng="Vilnesfjorden" NameRus="Vilnesfjorden" X="101489" Y="101539" Type="3"/>
         <MapText Code="Askoy" NameEng="Askoy" NameRus="Askoy" X="104035" Y="8522" Type="11"/>
         <MapText Code="Atloyna" NameEng="Atloyna" NameRus="Atloyna" X="90072" Y="103330" Type="11"/>
         <MapText Code="BANFF" NameEng="BANFF" NameRus="BANFF" X="4261" Y="28235" Type="11"/>

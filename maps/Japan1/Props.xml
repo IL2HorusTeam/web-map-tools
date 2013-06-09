@@ -11,12 +11,12 @@
         <MapText Code="Omura" NameEng="Omura" NameRus="Omura" X="70930" Y="218247" Type="2"/>
         <MapText Code="Omuta" NameEng="Omuta" NameRus="Omuta" X="121649" Y="227399" Type="2"/>
         <MapText Code="Sasebo" NameEng="Sasebo" NameRus="Sasebo" X="47287" Y="243034" Type="2"/>
-        <MapText Code="Ashiya" NameEng="Ashiya" NameRus="Ashiya" X="147977" Y="320592" Type="5"/>
-        <MapText Code="Bansei" NameEng="Bansei" NameRus="Bansei" X="108684" Y="90496" Type="5"/>
-        <MapText Code="Chiran" NameEng="Chiran" NameRus="Chiran" X="131251" Y="84291" Type="5"/>
-        <MapText Code="Gan-No-Su" NameEng="Gan-No-Su" NameRus="Gan-No-Su" X="113726" Y="293442" Type="5"/>
-        <MapText Code="Miyakonojo" NameEng="Miyakonojo" NameRus="Miyakonojo" X="180797" Y="84659" Type="5"/>
-        <MapText Code="Kyushu" NameEng="Kyushu" NameRus="Kyushu" X="189529" Y="199561" Type="9"/>
+        <MapText Code="Ashiya" NameEng="Ashiya" NameRus="Ashiya" X="147977" Y="320592" Type="3"/>
+        <MapText Code="Bansei" NameEng="Bansei" NameRus="Bansei" X="108684" Y="90496" Type="3"/>
+        <MapText Code="Chiran" NameEng="Chiran" NameRus="Chiran" X="131251" Y="84291" Type="3"/>
+        <MapText Code="Gan-No-Su" NameEng="Gan-No-Su" NameRus="Gan-No-Su" X="113726" Y="293442" Type="3"/>
+        <MapText Code="Miyakonojo" NameEng="Miyakonojo" NameRus="Miyakonojo" X="180797" Y="84659" Type="3"/>
+        <MapText Code="Kyushu" NameEng="Kyushu" NameRus="Kyushu" X="189529" Y="199561" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="71186.59" Y="225370.09" A="350" T1="1" Res="B_25J1_g"/>

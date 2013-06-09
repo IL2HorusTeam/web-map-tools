@@ -242,8 +242,8 @@
         <MapText Code="SAMBIR" NameEng="SAMBOR" NameRus="ÑÀÌÁÎÐ" X="111266" Y="103136" Type="3"/>
         <MapText Code="STRYI" NameEng="STRYI" NameRus="ÑÒÐÛÉ" X="150554" Y="77829" Type="3"/>
         <MapText Code="UZHGOROD" NameEng="UZHGOROD" NameRus="ÓÆÃÎÐÎÄ" X="54900" Y="15781" Type="3"/>
-        <MapText Code="Dnestr" NameEng="Dnestr" NameRus="Äíåñòð" X="134688" Y="106273" Type="6"/>
-        <MapText Code="Dnestr2" NameEng="Dnestr" NameRus="Äíåñòð" X="169041" Y="93580" Type="6"/>
+        <MapText Code="Dnestr" NameEng="Dnestr" NameRus="Äíåñòð" X="134688" Y="106273" Type="3"/>
+        <MapText Code="Dnestr2" NameEng="Dnestr" NameRus="Äíåñòð" X="169041" Y="93580" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="42406.23" Y="121425.79" A="135" T1="1" Res="B_24J100_g"/>

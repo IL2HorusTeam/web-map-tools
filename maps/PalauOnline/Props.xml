@@ -7,16 +7,16 @@
         <MapText Code="Goikul" NameEng="Goikul" NameRus="Goikul" X="71674" Y="52999" Type="1"/>
         <MapText Code="Madalai" NameEng="Madalai" NameRus="Madalai" X="58229" Y="51727" Type="1"/>
         <MapText Code="Mukeru" NameEng="Mukeru" NameRus="Mukeru" X="61311" Y="59403" Type="1"/>
-        <MapText Code="Akarebesan_I" NameEng="Akarebesan I." NameRus="Akarebesan I." X="53720" Y="53583" Type="8"/>
-        <MapText Code="Eil_Malk" NameEng="Eil Malk" NameRus="Eil Malk" X="47618" Y="31566" Type="8"/>
-        <MapText Code="Garakayo" NameEng="Garakayo" NameRus="Garakayo" X="38334" Y="25465" Type="8"/>
-        <MapText Code="Koror" NameEng="Koror" NameRus="Koror" X="61943" Y="49737" Type="8"/>
-        <MapText Code="Ngemesis" NameEng="Ngemesis" NameRus="Ngemesis" X="35283" Y="34749" Type="8"/>
-        <MapText Code="Ngeregong" NameEng="Ngeregong" NameRus="Ngeregong" X="46292" Y="27057" Type="8"/>
-        <MapText Code="Urukthapel" NameEng="Urukthapel" NameRus="Urukthapel" X="50802" Y="41381" Type="8"/>
-        <MapText Code="Angaur" NameEng="Angaur" NameRus="Angaur" X="25469" Y="4907" Type="9"/>
-        <MapText Code="Babelthuap" NameEng="Babelthuap" NameRus="Babelthuap" X="68177" Y="66051" Type="9"/>
-        <MapText Code="Peleliu" NameEng="Peleliu" NameRus="Peleliu" X="33559" Y="14987" Type="9"/>
+        <MapText Code="Akarebesan_I" NameEng="Akarebesan I." NameRus="Akarebesan I." X="53720" Y="53583" Type="3"/>
+        <MapText Code="Eil_Malk" NameEng="Eil Malk" NameRus="Eil Malk" X="47618" Y="31566" Type="3"/>
+        <MapText Code="Garakayo" NameEng="Garakayo" NameRus="Garakayo" X="38334" Y="25465" Type="3"/>
+        <MapText Code="Koror" NameEng="Koror" NameRus="Koror" X="61943" Y="49737" Type="3"/>
+        <MapText Code="Ngemesis" NameEng="Ngemesis" NameRus="Ngemesis" X="35283" Y="34749" Type="3"/>
+        <MapText Code="Ngeregong" NameEng="Ngeregong" NameRus="Ngeregong" X="46292" Y="27057" Type="3"/>
+        <MapText Code="Urukthapel" NameEng="Urukthapel" NameRus="Urukthapel" X="50802" Y="41381" Type="3"/>
+        <MapText Code="Angaur" NameEng="Angaur" NameRus="Angaur" X="25469" Y="4907" Type="3"/>
+        <MapText Code="Babelthuap" NameEng="Babelthuap" NameRus="Babelthuap" X="68177" Y="66051" Type="3"/>
+        <MapText Code="Peleliu" NameEng="Peleliu" NameRus="Peleliu" X="33559" Y="14987" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="54842.34" Y="52989.57" A="330" T1="3" Res="MBR_2AM34_w"/>

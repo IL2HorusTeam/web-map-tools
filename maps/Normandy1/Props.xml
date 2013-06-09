@@ -206,16 +206,16 @@
         <MapText Code="Falaise" NameEng="Falaise" NameRus="Фалэз" X="89544" Y="30373" Type="3"/>
         <MapText Code="Le_Havre" NameEng="Le Havre" NameRus="Гавр" X="110659" Y="95600" Type="3"/>
         <MapText Code="St_Lo" NameEng="St.-Lo" NameRus="Сен-Ло" X="27615" Y="55248" Type="3"/>
-        <MapText Code="Argentan" NameEng="Argentan" NameRus="Аржентан" X="107004" Y="17508" Type="5"/>
-        <MapText Code="Carpiquet" NameEng="Carpiquet" NameRus="Карпике" X="74307" Y="62209" Type="5"/>
-        <MapText Code="Maupertus" NameEng="Maupertus" NameRus="Моперту" X="3756" Y="100630" Type="5"/>
-        <MapText Code="Octeville" NameEng="Octeville" NameRus="Октэвиль" X="109221" Y="101085" Type="5"/>
-        <MapText Code="Saint_Paul" NameEng="Saint-Paul" NameRus="Сен-Поль" X="40054" Y="30666" Type="5"/>
-        <MapText Code="Saint_Romain" NameEng="Saint-Romain" NameRus="Сен-Ромэн" X="142623" Y="99350" Type="5"/>
-        <MapText Code="St_Gatien" NameEng="St.-Gatien" NameRus="Сен-Гатьен" X="116793" Y="86782" Type="5"/>
-        <MapText Code="St_Martin" NameEng="St.-Martin" NameRus="Сен-Мартэн" X="146372" Y="52448" Type="5"/>
-        <MapText Code="Pegasus_Bridge" NameEng="Pegasus Bridge" NameRus="Пегасус" X="85236" Y="69478" Type="10"/>
-        <MapText Code="Pointe_du_Hoc" NameEng="Pointe du Hoc" NameRus="Пуан-дю-Хок" X="36817" Y="87345" Type="10"/>
+        <MapText Code="Argentan" NameEng="Argentan" NameRus="Аржентан" X="107004" Y="17508" Type="3"/>
+        <MapText Code="Carpiquet" NameEng="Carpiquet" NameRus="Карпике" X="74307" Y="62209" Type="3"/>
+        <MapText Code="Maupertus" NameEng="Maupertus" NameRus="Моперту" X="3756" Y="100630" Type="3"/>
+        <MapText Code="Octeville" NameEng="Octeville" NameRus="Октэвиль" X="109221" Y="101085" Type="3"/>
+        <MapText Code="Saint_Paul" NameEng="Saint-Paul" NameRus="Сен-Поль" X="40054" Y="30666" Type="3"/>
+        <MapText Code="Saint_Romain" NameEng="Saint-Romain" NameRus="Сен-Ромэн" X="142623" Y="99350" Type="3"/>
+        <MapText Code="St_Gatien" NameEng="St.-Gatien" NameRus="Сен-Гатьен" X="116793" Y="86782" Type="3"/>
+        <MapText Code="St_Martin" NameEng="St.-Martin" NameRus="Сен-Мартэн" X="146372" Y="52448" Type="3"/>
+        <MapText Code="Pegasus_Bridge" NameEng="Pegasus Bridge" NameRus="Пегасус" X="85236" Y="69478" Type="3"/>
+        <MapText Code="Pointe_du_Hoc" NameEng="Pointe du Hoc" NameRus="Пуан-дю-Хок" X="36817" Y="87345" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="106019.00" Y="15481.00" A="35" T1="1" Res="IL_4_DB3B_g"/>

@@ -414,12 +414,12 @@
         <MapText Code="Ussuriysk" NameEng="Ussuriysk" NameRus="Уссурийск" X="167750" Y="207312" Type="3"/>
         <MapText Code="Vladivostok" NameEng="Vladivostok" NameRus="Владивосток" X="166059" Y="132263" Type="3"/>
         <MapText Code="Yuki" NameEng="Yuki" NameRus="Юки (Юхендон)" X="47065" Y="47312" Type="3"/>
-        <MapText Code="Amur_Bay" NameEng="Amur Bay" NameRus="Амурский залив" X="142787" Y="115912" Type="6"/>
-        <MapText Code="Lake_Hanka" NameEng="Lake Hanka" NameRus="оз.Ханка" X="204700" Y="334702" Type="6"/>
-        <MapText Code="Lake_Hasan" NameEng="Lake Hasan" NameRus="оз.Хасан" X="63637" Y="60585" Type="6"/>
-        <MapText Code="PetertheGreatBay" NameEng="Peter the Great Bay" NameRus="Залив Петра Великого" X="175157" Y="83610" Type="6"/>
-        <MapText Code="Ussuriysky_Bay" NameEng="Ussuriysky Bay" NameRus="Уссурийский залив" X="184572" Y="115117" Type="6"/>
-        <MapText Code="SEA_OF_JAPAN" NameEng="SEA OF JAPAN" NameRus="Японское море" X="172086" Y="44741" Type="7"/>
+        <MapText Code="Amur_Bay" NameEng="Amur Bay" NameRus="Амурский залив" X="142787" Y="115912" Type="3"/>
+        <MapText Code="Lake_Hanka" NameEng="Lake Hanka" NameRus="оз.Ханка" X="204700" Y="334702" Type="3"/>
+        <MapText Code="Lake_Hasan" NameEng="Lake Hasan" NameRus="оз.Хасан" X="63637" Y="60585" Type="3"/>
+        <MapText Code="PetertheGreatBay" NameEng="Peter the Great Bay" NameRus="Залив Петра Великого" X="175157" Y="83610" Type="3"/>
+        <MapText Code="Ussuriysky_Bay" NameEng="Ussuriysky Bay" NameRus="Уссурийский залив" X="184572" Y="115117" Type="3"/>
+        <MapText Code="SEA_OF_JAPAN" NameEng="SEA OF JAPAN" NameRus="Японское море" X="172086" Y="44741" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="168249.72" Y="218930.61" A="20" T1="2" Res="B_25G1_b"/>

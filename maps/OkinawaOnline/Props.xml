@@ -42,27 +42,27 @@
         <MapText Code="Toguchi" NameEng="Toguchi" NameRus="Toguchi" X="126203" Y="75186" Type="1"/>
         <MapText Code="Unten" NameEng="Unten" NameRus="Unten" X="133413" Y="78170" Type="1"/>
         <MapText Code="Naha" NameEng="Naha" NameRus="Naha" X="104162" Y="27686" Type="2"/>
-        <MapText Code="Nakagusuku_Wan" NameEng="Nakagusuku Wan" NameRus="Nakagusuku Wan" X="121545" Y="31246" Type="6"/>
-        <MapText Code="Chimu_Wan" NameEng="Chimu Wan" NameRus="Chimu Wan" X="125316" Y="50349" Type="8"/>
-        <MapText Code="Chinen_Peninsula" NameEng="Chinen Peninsula" NameRus="Chinen Peninsula" X="118121" Y="23721" Type="8"/>
-        <MapText Code="Hamahika_Shima" NameEng="Hamahika Shima" NameRus="Hamahika Shima" X="131765" Y="39277" Type="8"/>
-        <MapText Code="Hedo_Misaki" NameEng="Hedo Misaki" NameRus="Hedo Misaki" X="160054" Y="98226" Type="8"/>
-        <MapText Code="Ike_Shima" NameEng="Ike Shima" NameRus="Ike Shima" X="135476" Y="46759" Type="8"/>
-        <MapText Code="Keise_Shima" NameEng="Keise Shima" NameRus="Keise Shima" X="94290" Y="32706" Type="8"/>
-        <MapText Code="Kitchin_Peninsula" NameEng="Kitchin Peninsula" NameRus="Kitchin Peninsula" X="124465" Y="40493" Type="8"/>
-        <MapText Code="Kouri_Shima" NameEng="Kouri Shima" NameRus="Kouri Shima" X="138153" Y="80706" Type="8"/>
-        <MapText Code="Kutaka_Shima" NameEng="Kutaka Shima" NameRus="Kutaka Shima" X="125681" Y="21878" Type="8"/>
-        <MapText Code="Minna_Shima" NameEng="Minna Shima" NameRus="Minna Shima" X="118259" Y="74501" Type="8"/>
-        <MapText Code="O_Shima" NameEng="O Shima" NameRus="O Shima" X="139369" Y="73527" Type="8"/>
-        <MapText Code="Sesoko_Shima" NameEng="Sesoko Shima" NameRus="Sesoko Shima" X="123005" Y="74196" Type="8"/>
-        <MapText Code="Takabanare_Shima" NameEng="Takabanare Shima" NameRus="Takabanare Shima" X="132550" Y="43041" Type="8"/>
-        <MapText Code="Tsuga_Shima" NameEng="Tsuga Shima" NameRus="Tsuga Shima" X="129879" Y="31490" Type="8"/>
-        <MapText Code="Tsuga_Shima2" NameEng="Tsuga Shima" NameRus="Tsuga Shima" X="105301" Y="12691" Type="8"/>
-        <MapText Code="Ukubaru_Shima" NameEng="Ukubaru Shima" NameRus="Ukubaru Shima" X="135233" Y="36722" Type="8"/>
-        <MapText Code="Yagachi_Shima" NameEng="Yagachi Shima" NameRus="Yagachi Shima" X="137240" Y="76021" Type="8"/>
-        <MapText Code="Ie_Shima" NameEng="Ie Shima" NameRus="Ie Shima" X="113727" Y="81717" Type="9"/>
-        <MapText Code="Motobu_Peninsula" NameEng="Motobu Peninsula" NameRus="Motobu Peninsula" X="130593" Y="73855" Type="9"/>
-        <MapText Code="Okinawa_Shima" NameEng="Okinawa Shima" NameRus="Okinawa Shima" X="129449" Y="57182" Type="9"/>
+        <MapText Code="Nakagusuku_Wan" NameEng="Nakagusuku Wan" NameRus="Nakagusuku Wan" X="121545" Y="31246" Type="3"/>
+        <MapText Code="Chimu_Wan" NameEng="Chimu Wan" NameRus="Chimu Wan" X="125316" Y="50349" Type="3"/>
+        <MapText Code="Chinen_Peninsula" NameEng="Chinen Peninsula" NameRus="Chinen Peninsula" X="118121" Y="23721" Type="3"/>
+        <MapText Code="Hamahika_Shima" NameEng="Hamahika Shima" NameRus="Hamahika Shima" X="131765" Y="39277" Type="3"/>
+        <MapText Code="Hedo_Misaki" NameEng="Hedo Misaki" NameRus="Hedo Misaki" X="160054" Y="98226" Type="3"/>
+        <MapText Code="Ike_Shima" NameEng="Ike Shima" NameRus="Ike Shima" X="135476" Y="46759" Type="3"/>
+        <MapText Code="Keise_Shima" NameEng="Keise Shima" NameRus="Keise Shima" X="94290" Y="32706" Type="3"/>
+        <MapText Code="Kitchin_Peninsula" NameEng="Kitchin Peninsula" NameRus="Kitchin Peninsula" X="124465" Y="40493" Type="3"/>
+        <MapText Code="Kouri_Shima" NameEng="Kouri Shima" NameRus="Kouri Shima" X="138153" Y="80706" Type="3"/>
+        <MapText Code="Kutaka_Shima" NameEng="Kutaka Shima" NameRus="Kutaka Shima" X="125681" Y="21878" Type="3"/>
+        <MapText Code="Minna_Shima" NameEng="Minna Shima" NameRus="Minna Shima" X="118259" Y="74501" Type="3"/>
+        <MapText Code="O_Shima" NameEng="O Shima" NameRus="O Shima" X="139369" Y="73527" Type="3"/>
+        <MapText Code="Sesoko_Shima" NameEng="Sesoko Shima" NameRus="Sesoko Shima" X="123005" Y="74196" Type="3"/>
+        <MapText Code="Takabanare_Shima" NameEng="Takabanare Shima" NameRus="Takabanare Shima" X="132550" Y="43041" Type="3"/>
+        <MapText Code="Tsuga_Shima" NameEng="Tsuga Shima" NameRus="Tsuga Shima" X="129879" Y="31490" Type="3"/>
+        <MapText Code="Tsuga_Shima2" NameEng="Tsuga Shima" NameRus="Tsuga Shima" X="105301" Y="12691" Type="3"/>
+        <MapText Code="Ukubaru_Shima" NameEng="Ukubaru Shima" NameRus="Ukubaru Shima" X="135233" Y="36722" Type="3"/>
+        <MapText Code="Yagachi_Shima" NameEng="Yagachi Shima" NameRus="Yagachi Shima" X="137240" Y="76021" Type="3"/>
+        <MapText Code="Ie_Shima" NameEng="Ie Shima" NameRus="Ie Shima" X="113727" Y="81717" Type="3"/>
+        <MapText Code="Motobu_Peninsula" NameEng="Motobu Peninsula" NameRus="Motobu Peninsula" X="130593" Y="73855" Type="3"/>
+        <MapText Code="Okinawa_Shima" NameEng="Okinawa Shima" NameRus="Okinawa Shima" X="129449" Y="57182" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="111916.35" Y="80923.90" A="210" T1="2" Res="IL_4_DB3T_b"/>

@@ -1702,23 +1702,23 @@
         <MapText Code="Ruzomberok" NameEng="Ruzomberok" NameRus="Ruzomberok" X="122638" Y="101004" Type="3"/>
         <MapText Code="Spisska_Nova_Ves" NameEng="Spisska Nova Ves" NameRus="Spisska Nova Ves" X="214676" Y="87000" Type="3"/>
         <MapText Code="Zlin" NameEng="Zlin" NameRus="Zlin" X="5638" Y="119681" Type="3"/>
-        <MapText Code="B_O_H_M_E_N_-_M_A_H_R_E_N" NameEng="B O H M E N - M A H R E N" NameRus="B O H M E N - M A H R E N" X="17418" Y="110760" Type="4"/>
-        <MapText Code="D_E_U_T_S_C_H_E_S___R_E_I_C_H" NameEng="D E U T S C H E S   R E I C H" NameRus="D E U T S C H E S   R E I C H" X="172324" Y="129178" Type="4"/>
-        <MapText Code="M_A_G_Y_A_R_O_R_Z_S_A_G" NameEng="M A G Y A R O R Z S A G" NameRus="M A G Y A R O R Z S A G" X="185817" Y="9556" Type="4"/>
-        <MapText Code="P_R_O_T_E_K_T_O_R_A_T" NameEng="P R O T E K T O R A T" NameRus="P R O T E K T O R A T" X="15981" Y="113780" Type="4"/>
-        <MapText Code="S_L_O_V_E_N_S_K_O" NameEng="S L O V E N S K O" NameRus="S L O V E N S K O" X="111072" Y="74871" Type="4"/>
-        <MapText Code="Letisko_Drazkovce" NameEng="Letisko Drazkovce" NameRus="Letisko Drazkovce" X="97241" Y="101484" Type="5"/>
-        <MapText Code="Letisko_Mokrad" NameEng="Letisko Mokrad" NameRus="Letisko Mokrad" X="154709" Y="100692" Type="5"/>
-        <MapText Code="Letisko_Nitra" NameEng="Letisko Nitra" NameRus="Letisko Nitra" X="33921" Y="16266" Type="5"/>
-        <MapText Code="Letisko_Piestany" NameEng="Letisko Piestany" NameRus="Letisko Piestany" X="14281" Y="51386" Type="5"/>
-        <MapText Code="Letisko_Rohozna" NameEng="Letisko Rohozna" NameRus="Letisko Rohozna" X="152396" Y="70963" Type="5"/>
-        <MapText Code="Letisko_SNV" NameEng="Letisko SNV" NameRus="Letisko SNV" X="213143" Y="85676" Type="5"/>
-        <MapText Code="Letisko_Tatry" NameEng="Letisko Tatry" NameRus="Letisko Tatry" X="192622" Y="101442" Type="5"/>
-        <MapText Code="Letisko_Trencianske_Biskupice" NameEng="Letisko Trencianske Biskupice" NameRus="Letisko Trencianske Biskupice" X="28371" Y="78615" Type="5"/>
-        <MapText Code="Letisko_Tri_Duby" NameEng="Letisko Tri Duby" NameRus="Letisko Tri Duby" X="110947" Y="52954" Type="5"/>
-        <MapText Code="Letisko_Velka_Luka" NameEng="Letisko Velka Luka" NameRus="Letisko Velka Luka" X="179562" Y="67608" Type="5"/>
-        <MapText Code="Letisko_Zilina" NameEng="Letisko Zilina" NameRus="Letisko Zilina" X="83995" Y="115122" Type="5"/>
-        <MapText Code="Letisko_Zolna" NameEng="Letisko Zolna" NameRus="Letisko Zolna" X="117383" Y="47879" Type="5"/>
+        <MapText Code="B_O_H_M_E_N_-_M_A_H_R_E_N" NameEng="B O H M E N - M A H R E N" NameRus="B O H M E N - M A H R E N" X="17418" Y="110760" Type="3"/>
+        <MapText Code="D_E_U_T_S_C_H_E_S___R_E_I_C_H" NameEng="D E U T S C H E S   R E I C H" NameRus="D E U T S C H E S   R E I C H" X="172324" Y="129178" Type="3"/>
+        <MapText Code="M_A_G_Y_A_R_O_R_Z_S_A_G" NameEng="M A G Y A R O R Z S A G" NameRus="M A G Y A R O R Z S A G" X="185817" Y="9556" Type="3"/>
+        <MapText Code="P_R_O_T_E_K_T_O_R_A_T" NameEng="P R O T E K T O R A T" NameRus="P R O T E K T O R A T" X="15981" Y="113780" Type="3"/>
+        <MapText Code="S_L_O_V_E_N_S_K_O" NameEng="S L O V E N S K O" NameRus="S L O V E N S K O" X="111072" Y="74871" Type="3"/>
+        <MapText Code="Letisko_Drazkovce" NameEng="Letisko Drazkovce" NameRus="Letisko Drazkovce" X="97241" Y="101484" Type="3"/>
+        <MapText Code="Letisko_Mokrad" NameEng="Letisko Mokrad" NameRus="Letisko Mokrad" X="154709" Y="100692" Type="3"/>
+        <MapText Code="Letisko_Nitra" NameEng="Letisko Nitra" NameRus="Letisko Nitra" X="33921" Y="16266" Type="3"/>
+        <MapText Code="Letisko_Piestany" NameEng="Letisko Piestany" NameRus="Letisko Piestany" X="14281" Y="51386" Type="3"/>
+        <MapText Code="Letisko_Rohozna" NameEng="Letisko Rohozna" NameRus="Letisko Rohozna" X="152396" Y="70963" Type="3"/>
+        <MapText Code="Letisko_SNV" NameEng="Letisko SNV" NameRus="Letisko SNV" X="213143" Y="85676" Type="3"/>
+        <MapText Code="Letisko_Tatry" NameEng="Letisko Tatry" NameRus="Letisko Tatry" X="192622" Y="101442" Type="3"/>
+        <MapText Code="Letisko_Trencianske_Biskupice" NameEng="Letisko Trencianske Biskupice" NameRus="Letisko Trencianske Biskupice" X="28371" Y="78615" Type="3"/>
+        <MapText Code="Letisko_Tri_Duby" NameEng="Letisko Tri Duby" NameRus="Letisko Tri Duby" X="110947" Y="52954" Type="3"/>
+        <MapText Code="Letisko_Velka_Luka" NameEng="Letisko Velka Luka" NameRus="Letisko Velka Luka" X="179562" Y="67608" Type="3"/>
+        <MapText Code="Letisko_Zilina" NameEng="Letisko Zilina" NameRus="Letisko Zilina" X="83995" Y="115122" Type="3"/>
+        <MapText Code="Letisko_Zolna" NameEng="Letisko Zolna" NameRus="Letisko Zolna" X="117383" Y="47879" Type="3"/>
         <MapText Code="B_i_e_l_e____K_a_r_p_a_t_y" NameEng="B i e l e    K a r p a t y" NameRus="B i e l e    K a r p a t y" X="12911" Y="87191" Type="11"/>
         <MapText Code="C_h_o_c_s_k_e____v_r_c_h_y" NameEng="C h o c s k e    v r c h y" NameRus="C h o c s k e    v r c h y" X="132512" Y="111103" Type="11"/>
         <MapText Code="J_a_v_o_r_i_e" NameEng="J a v o r i e" NameRus="J a v o r i e" X="117419" Y="37367" Type="11"/>

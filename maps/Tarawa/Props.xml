@@ -15,10 +15,10 @@
         <MapText Code="Naurabu_Village" NameEng="Naurabu Village" NameRus="Naurabu Village" X="41603" Y="66297" Type="1"/>
         <MapText Code="Tabiteuea_Village" NameEng="Tabiteuea Village" NameRus="Tabiteuea Village" X="64732" Y="39242" Type="1"/>
         <MapText Code="Taratai_Village" NameEng="Taratai Village" NameRus="Taratai Village" X="45135" Y="62253" Type="1"/>
-        <MapText Code="Bikeman_I" NameEng="Bikeman I." NameRus="Bikeman I." X="44079" Y="39242" Type="8"/>
-        <MapText Code="Bairiki_I" NameEng="Bairiki I." NameRus="Bairiki I." X="40214" Y="25291" Type="9"/>
-        <MapText Code="Betio_I" NameEng="Betio I." NameRus="Betio I." X="31215" Y="30364" Type="9"/>
-        <MapText Code="Na-a" NameEng="Na'a" NameRus="Na'a" X="39851" Y="79764" Type="9"/>
+        <MapText Code="Bikeman_I" NameEng="Bikeman I." NameRus="Bikeman I." X="44079" Y="39242" Type="3"/>
+        <MapText Code="Bairiki_I" NameEng="Bairiki I." NameRus="Bairiki I." X="40214" Y="25291" Type="3"/>
+        <MapText Code="Betio_I" NameEng="Betio I." NameRus="Betio I." X="31215" Y="30364" Type="3"/>
+        <MapText Code="Na-a" NameEng="Na'a" NameRus="Na'a" X="39851" Y="79764" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="31592.08" Y="29413.09" A="86" T1="1" Res="PE_2SERIES359_g"/>

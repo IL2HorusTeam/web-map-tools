@@ -4,9 +4,9 @@
     <Width>12800</Width>
     <Height>12800</Height>
     <Towns>
-        <MapText Code="Peale_Island" NameEng="Peale Island" NameRus="Peale Island" X="6377" Y="7572" Type="8"/>
-        <MapText Code="Wilkes_Island" NameEng="Wilkes Island" NameRus="Wilkes Island" X="4327" Y="6060" Type="8"/>
-        <MapText Code="Wake_Island" NameEng="Wake Island" NameRus="Wake Island" X="7875" Y="5259" Type="9"/>
+        <MapText Code="Peale_Island" NameEng="Peale Island" NameRus="Peale Island" X="6377" Y="7572" Type="3"/>
+        <MapText Code="Wilkes_Island" NameEng="Wilkes Island" NameRus="Wilkes Island" X="4327" Y="6060" Type="3"/>
+        <MapText Code="Wake_Island" NameEng="Wake Island" NameRus="Wake Island" X="7875" Y="5259" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="8118.22" Y="4262.67" A="288" T1="1" Res="SBD5_g"/>

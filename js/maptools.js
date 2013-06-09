@@ -2,7 +2,7 @@ var CELL_SIDE = 100
     , MAX_LETTERS = 26
     , RULER_SIZE = 20
     , RULER_PADDING = 3
-    , RULER_STROKE = "AAA";
+    , RULER_STROKE = "#EEE";
 
 var map_path = null
     , map_img = null
@@ -153,7 +153,6 @@ function drawTopRuler() {
     ruler_top_ctx.fillRect(0, 0, ruler_top_canvas.width, ruler_top_canvas.height);
 
     ruler_top_ctx.fillStyle = RULER_STROKE;
-    ruler_top_ctx.strokeStyle = RULER_STROKE;
     ruler_top_ctx.font = "14px Sans-serif";
 
     var metrics = null;
@@ -168,6 +167,7 @@ function drawTopRuler() {
         ruler_top_ctx.fillText(text, x+(CELL_SIDE/2)-(metrics.width/2), 15);
     }
 
+    ruler_top_ctx.strokeStyle = RULER_STROKE;
     ruler_top_ctx.stroke();
 }
 
@@ -257,7 +257,7 @@ function onWindowScroll() {
 
 function onMouseMove(e) {
     current_pos_x = e.clientX + (window.pageXOffset || document.documentElement.scrollLeft) - 264
-    , current_pos_y = e.clientY - RULER_SIZE + 1 + (window.pageYOffset || document.documentElement.scrollTop);
+    , current_pos_y = e.clientY - RULER_SIZE + (window.pageYOffset || document.documentElement.scrollTop);
 
     var pixel = height_ctx.getImageData(current_pos_x/2, current_pos_y/2, 1, 1).data;
     current_height = intensityToHeight(pixel[0]);

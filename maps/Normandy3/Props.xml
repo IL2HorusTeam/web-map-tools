@@ -206,35 +206,35 @@
         <MapText Code="Falaise" NameEng="Falaise" NameRus="Фалэз" X="89544" Y="30373" Type="3"/>
         <MapText Code="Le_Havre" NameEng="Le Havre" NameRus="Гавр" X="110659" Y="95600" Type="3"/>
         <MapText Code="St_Lo" NameEng="St.-Lo" NameRus="Сен-Ло" X="27615" Y="55248" Type="3"/>
-        <MapText Code="A 1" NameEng="A 1" NameRus="A 1" X="34807" Y="85549" Type="5"/>
-        <MapText Code="A 10" NameEng="A 10" NameRus="A 10" X="13156" Y="74880" Type="5"/>
-        <MapText Code="A 12" NameEng="A 12" NameRus="A 12" X="33546" Y="75181" Type="5"/>
-        <MapText Code="A 16" NameEng="A 16" NameRus="A 16" X="20790" Y="85626" Type="5"/>
-        <MapText Code="A 2" NameEng="A 2" NameRus="A 2" X="34125" Y="83396" Type="5"/>
-        <MapText Code="A 22" NameEng="A 22" NameRus="A 22" X="43591" Y="80958" Type="5"/>
-        <MapText Code="A 5" NameEng="A 5" NameRus="A 5" X="30526" Y="78127" Type="5"/>
-        <MapText Code="A 6" NameEng="A 6" NameRus="A 6" X="10646" Y="97076" Type="5"/>
-        <MapText Code="A 7" NameEng="A 7" NameRus="A 7" X="14362" Y="95670" Type="5"/>
-        <MapText Code="Argentan" NameEng="Argentan" NameRus="Аржентан" X="107004" Y="17508" Type="5"/>
-        <MapText Code="B 1" NameEng="B 1" NameRus="B 1" X="60106" Y="79364" Type="5"/>
-        <MapText Code="B 11" NameEng="B 11" NameRus="B 11" X="54489" Y="78902" Type="5"/>
-        <MapText Code="B 12" NameEng="B 12" NameRus="B 12" X="57906" Y="67090" Type="5"/>
-        <MapText Code="B 14" NameEng="B 14" NameRus="B 14" X="70807" Y="77841" Type="5"/>
-        <MapText Code="B 4" NameEng="B 4" NameRus="B 4" X="79622" Y="70756" Type="5"/>
-        <MapText Code="B 5" NameEng="B 5" NameRus="B 5" X="67966" Y="71160" Type="5"/>
-        <MapText Code="B 7" NameEng="B 7" NameRus="B 7" X="59842" Y="69402" Type="5"/>
-        <MapText Code="B 8" NameEng="B 8" NameRus="B 8" X="60899" Y="73915" Type="5"/>
-        <MapText Code="B 9" NameEng="B 9" NameRus="B 9" X="65964" Y="77338" Type="5"/>
-        <MapText Code="Carpiquet" NameEng="Carpiquet" NameRus="Карпике" X="74158" Y="62262" Type="5"/>
-        <MapText Code="Maupertus" NameEng="Maupertus" NameRus="Моперту" X="3756" Y="100630" Type="5"/>
-        <MapText Code="Octeville" NameEng="Octeville" NameRus="Октэвиль" X="109221" Y="101085" Type="5"/>
-        <MapText Code="Saint_Paul" NameEng="Saint-Paul" NameRus="Сен-Поль" X="40054" Y="30666" Type="5"/>
-        <MapText Code="Saint_Romain" NameEng="Saint-Romain" NameRus="Сен-Ромэн" X="142623" Y="99350" Type="5"/>
-        <MapText Code="St_Gatien" NameEng="St.-Gatien" NameRus="Сен-Гатьен" X="116793" Y="86782" Type="5"/>
-        <MapText Code="St_Martin" NameEng="St.-Martin" NameRus="Сен-Мартэн" X="146373" Y="52449" Type="5"/>
-        <MapText Code="Hill 112" NameEng="Hill 112" NameRus="Hill 112" X="70763" Y="55928" Type="10"/>
-        <MapText Code="Pegasus_Bridge" NameEng="Pegasus Bridge" NameRus="Пегасус" X="85236" Y="69478" Type="10"/>
-        <MapText Code="Pointe_du_Hoc" NameEng="Pointe du Hoc" NameRus="Пуан-дю-Хок" X="36817" Y="87345" Type="10"/>
+        <MapText Code="A 1" NameEng="A 1" NameRus="A 1" X="34807" Y="85549" Type="3"/>
+        <MapText Code="A 10" NameEng="A 10" NameRus="A 10" X="13156" Y="74880" Type="3"/>
+        <MapText Code="A 12" NameEng="A 12" NameRus="A 12" X="33546" Y="75181" Type="3"/>
+        <MapText Code="A 16" NameEng="A 16" NameRus="A 16" X="20790" Y="85626" Type="3"/>
+        <MapText Code="A 2" NameEng="A 2" NameRus="A 2" X="34125" Y="83396" Type="3"/>
+        <MapText Code="A 22" NameEng="A 22" NameRus="A 22" X="43591" Y="80958" Type="3"/>
+        <MapText Code="A 5" NameEng="A 5" NameRus="A 5" X="30526" Y="78127" Type="3"/>
+        <MapText Code="A 6" NameEng="A 6" NameRus="A 6" X="10646" Y="97076" Type="3"/>
+        <MapText Code="A 7" NameEng="A 7" NameRus="A 7" X="14362" Y="95670" Type="3"/>
+        <MapText Code="Argentan" NameEng="Argentan" NameRus="Аржентан" X="107004" Y="17508" Type="3"/>
+        <MapText Code="B 1" NameEng="B 1" NameRus="B 1" X="60106" Y="79364" Type="3"/>
+        <MapText Code="B 11" NameEng="B 11" NameRus="B 11" X="54489" Y="78902" Type="3"/>
+        <MapText Code="B 12" NameEng="B 12" NameRus="B 12" X="57906" Y="67090" Type="3"/>
+        <MapText Code="B 14" NameEng="B 14" NameRus="B 14" X="70807" Y="77841" Type="3"/>
+        <MapText Code="B 4" NameEng="B 4" NameRus="B 4" X="79622" Y="70756" Type="3"/>
+        <MapText Code="B 5" NameEng="B 5" NameRus="B 5" X="67966" Y="71160" Type="3"/>
+        <MapText Code="B 7" NameEng="B 7" NameRus="B 7" X="59842" Y="69402" Type="3"/>
+        <MapText Code="B 8" NameEng="B 8" NameRus="B 8" X="60899" Y="73915" Type="3"/>
+        <MapText Code="B 9" NameEng="B 9" NameRus="B 9" X="65964" Y="77338" Type="3"/>
+        <MapText Code="Carpiquet" NameEng="Carpiquet" NameRus="Карпике" X="74158" Y="62262" Type="3"/>
+        <MapText Code="Maupertus" NameEng="Maupertus" NameRus="Моперту" X="3756" Y="100630" Type="3"/>
+        <MapText Code="Octeville" NameEng="Octeville" NameRus="Октэвиль" X="109221" Y="101085" Type="3"/>
+        <MapText Code="Saint_Paul" NameEng="Saint-Paul" NameRus="Сен-Поль" X="40054" Y="30666" Type="3"/>
+        <MapText Code="Saint_Romain" NameEng="Saint-Romain" NameRus="Сен-Ромэн" X="142623" Y="99350" Type="3"/>
+        <MapText Code="St_Gatien" NameEng="St.-Gatien" NameRus="Сен-Гатьен" X="116793" Y="86782" Type="3"/>
+        <MapText Code="St_Martin" NameEng="St.-Martin" NameRus="Сен-Мартэн" X="146373" Y="52449" Type="3"/>
+        <MapText Code="Hill 112" NameEng="Hill 112" NameRus="Hill 112" X="70763" Y="55928" Type="3"/>
+        <MapText Code="Pegasus_Bridge" NameEng="Pegasus Bridge" NameRus="Пегасус" X="85236" Y="69478" Type="3"/>
+        <MapText Code="Pointe_du_Hoc" NameEng="Pointe du Hoc" NameRus="Пуан-дю-Хок" X="36817" Y="87345" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="12668.00" Y="74716.00" A="30" T1="1" Res="B_17D_g"/>

@@ -4,11 +4,11 @@
     <Width>142400</Width>
     <Height>92800</Height>
     <Towns>
-        <MapText Code="Eastern_Island" NameEng="Eastern Island" NameRus="Eastern Island" X="124725" Y="36436" Type="8"/>
-        <MapText Code="Sand_Island" NameEng="Sand Island" NameRus="Sand Island" X="119263" Y="35919" Type="8"/>
-        <MapText Code="Spit_Island" NameEng="Spit Island" NameRus="Spit Island" X="122680" Y="35482" Type="8"/>
-        <MapText Code="Kure_Atoll" NameEng="Kure Atoll" NameRus="Kure Atoll" X="22087" Y="58478" Type="9"/>
-        <MapText Code="Midway" NameEng="Midway" NameRus="Midway" X="121148" Y="41111" Type="9"/>
+        <MapText Code="Eastern_Island" NameEng="Eastern Island" NameRus="Eastern Island" X="124725" Y="36436" Type="3"/>
+        <MapText Code="Sand_Island" NameEng="Sand Island" NameRus="Sand Island" X="119263" Y="35919" Type="3"/>
+        <MapText Code="Spit_Island" NameEng="Spit Island" NameRus="Spit Island" X="122680" Y="35482" Type="3"/>
+        <MapText Code="Kure_Atoll" NameEng="Kure Atoll" NameRus="Kure Atoll" X="22087" Y="58478" Type="3"/>
+        <MapText Code="Midway" NameEng="Midway" NameRus="Midway" X="121148" Y="41111" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="121443.71" Y="36072.69" A="75" T1="3" Res="MBR_2AM34_w"/>

@@ -188,8 +188,8 @@
         <MapText Code="Tulihal" NameEng="Tulihal" NameRus="Тулихал" X="6292" Y="85714" Type="2"/>
         <MapText Code="Wangjing" NameEng="Wangjing" NameRus="Ванцзин" X="18459" Y="67212" Type="2"/>
         <MapText Code="Imphal" NameEng="Imphal" NameRus="Импхал" X="8794" Y="90414" Type="3"/>
-        <MapText Code="Chindwin" NameEng="Chindwin" NameRus="Чиндуин" X="84354" Y="28813" Type="6"/>
-        <MapText Code="Yu" NameEng="Yu River" NameRus="Ю" X="57171" Y="30194" Type="6"/>
+        <MapText Code="Chindwin" NameEng="Chindwin" NameRus="Чиндуин" X="84354" Y="28813" Type="3"/>
+        <MapText Code="Yu" NameEng="Yu River" NameRus="Ю" X="57171" Y="30194" Type="3"/>
         <MapText Code="Kabaw_Valley" NameEng="Kabaw Valley" NameRus="долина Кабо" X="54002" Y="36696" Type="11"/>
     </Towns>
     <Airfields>

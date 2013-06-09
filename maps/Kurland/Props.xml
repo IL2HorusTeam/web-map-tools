@@ -334,40 +334,40 @@
         <MapText Code="LIBAU" NameEng="LIBAU" NameRus="ЛИБАУ" X="50462" Y="179984" Type="3"/>
         <MapText Code="MEMEL" NameEng="MEMEL" NameRus="МЕМЕЛЬ" X="52686" Y="93075" Type="3"/>
         <MapText Code="RIGA" NameEng="RIGA" NameRus="РИГА" X="230966" Y="231803" Type="3"/>
-        <MapText Code="Cirava2" NameEng="Cirava" NameRus="Цирава" X="73776" Y="201065" Type="5"/>
-        <MapText Code="Cranz2" NameEng="Cranz" NameRus="Кранц" X="5009" Y="6960" Type="5"/>
-        <MapText Code="Frauenburg2" NameEng="Frauenburg" NameRus="Фроенбург" X="141332" Y="203733" Type="5"/>
-        <MapText Code="Gross-Skaisgirren" NameEng="Gross-Skaisgirren" NameRus="Гросс-Скайсгиррен" X="98414" Y="9544" Type="5"/>
-        <MapText Code="Janischken2" NameEng="Janischken" NameRus="Янишкен" X="198639" Y="155709" Type="5"/>
-        <MapText Code="Kauen" NameEng="Kauen" NameRus="Кауен" X="232316" Y="10844" Type="5"/>
-        <MapText Code="Labiau2" NameEng="Labiau" NameRus="Лабиау" X="43669" Y="3528" Type="5"/>
-        <MapText Code="Libau-Grobin" NameEng="Libau-Grobin" NameRus="Либау-Гробин" X="54450" Y="176177" Type="5"/>
-        <MapText Code="Libau-Nord" NameEng="Libau-Nord" NameRus="Либау-Норд" X="54666" Y="180469" Type="5"/>
-        <MapText Code="Memel" NameEng="Memel" NameRus="Мемель" X="54921" Y="90104" Type="5"/>
-        <MapText Code="Mitau2" NameEng="Mitau" NameRus="Митау" X="208367" Y="202471" Type="5"/>
-        <MapText Code="Neuhausen" NameEng="Neuhausen" NameRus="Ньюхаузен" X="91657" Y="211270" Type="5"/>
-        <MapText Code="Polangen2" NameEng="Polangen" NameRus="Поланген" X="51760" Y="111697" Type="5"/>
-        <MapText Code="Raseinen2" NameEng="Raseinen" NameRus="Разейнен" X="176443" Y="54120" Type="5"/>
-        <MapText Code="Sairdak" NameEng="Sairdak" NameRus="Саирдак" X="233016" Y="241678" Type="5"/>
-        <MapText Code="Schaken2" NameEng="Schaken" NameRus="Шакен" X="169515" Y="10219" Type="5"/>
-        <MapText Code="Schaulen2" NameEng="Schaulen" NameRus="Шаулен" X="190569" Y="121712" Type="5"/>
-        <MapText Code="Schrunden2" NameEng="Schrunden" NameRus="Шрунден" X="111107" Y="202639" Type="5"/>
-        <MapText Code="Skulte" NameEng="Skulte" NameRus="Скулте" X="226368" Y="231349" Type="5"/>
-        <MapText Code="Spilve" NameEng="Spilve" NameRus="Спилве" X="226409" Y="237545" Type="5"/>
-        <MapText Code="Sredniki" NameEng="Sredniki" NameRus="Средники" X="188985" Y="25392" Type="5"/>
-        <MapText Code="Tauroggen2" NameEng="Tauroggen" NameRus="Таурогген" X="117170" Y="43487" Type="5"/>
-        <MapText Code="Telsche2" NameEng="Telsche" NameRus="Телше" X="119261" Y="120379" Type="5"/>
-        <MapText Code="Tilsit2" NameEng="Tilsit" NameRus="Тилсит" X="94740" Y="21407" Type="5"/>
-        <MapText Code="Tukkum2" NameEng="Tukkum" NameRus="Туккум" X="177544" Y="232360" Type="5"/>
-        <MapText Code="Wainoden2" NameEng="Wainoden" NameRus="Вайноден" X="100205" Y="166205" Type="5"/>
-        <MapText Code="Windau3" NameEng="Windau" NameRus="Виндау" X="91683" Y="284012" Type="5"/>
-        <MapText Code="Angern_See" NameEng="Angern See" NameRus="озеро Ангерн" X="184403" Y="264612" Type="6"/>
-        <MapText Code="Barta_River" NameEng="Barta River" NameRus="р. Барта" X="67985" Y="156464" Type="6"/>
-        <MapText Code="Dubysa_River" NameEng="Dubysa River" NameRus="р. Дубиса" X="178126" Y="63375" Type="6"/>
-        <MapText Code="Niemen_River" NameEng="Niemen River" NameRus="р. Ниемен" X="141500" Y="20234" Type="6"/>
-        <MapText Code="Windau_River" NameEng="Windau River" NameRus="р. Виндау" X="113221" Y="218758" Type="6"/>
-        <MapText Code="Baltic_Sea" NameEng="Baltic Sea" NameRus="Балтийское Море" X="14884" Y="192862" Type="7"/>
-        <MapText Code="Kurisches_Haff" NameEng="Kurisches Haff" NameRus="Куржский залив" X="39973" Y="21406" Type="7"/>
+        <MapText Code="Cirava2" NameEng="Cirava" NameRus="Цирава" X="73776" Y="201065" Type="3"/>
+        <MapText Code="Cranz2" NameEng="Cranz" NameRus="Кранц" X="5009" Y="6960" Type="3"/>
+        <MapText Code="Frauenburg2" NameEng="Frauenburg" NameRus="Фроенбург" X="141332" Y="203733" Type="3"/>
+        <MapText Code="Gross-Skaisgirren" NameEng="Gross-Skaisgirren" NameRus="Гросс-Скайсгиррен" X="98414" Y="9544" Type="3"/>
+        <MapText Code="Janischken2" NameEng="Janischken" NameRus="Янишкен" X="198639" Y="155709" Type="3"/>
+        <MapText Code="Kauen" NameEng="Kauen" NameRus="Кауен" X="232316" Y="10844" Type="3"/>
+        <MapText Code="Labiau2" NameEng="Labiau" NameRus="Лабиау" X="43669" Y="3528" Type="3"/>
+        <MapText Code="Libau-Grobin" NameEng="Libau-Grobin" NameRus="Либау-Гробин" X="54450" Y="176177" Type="3"/>
+        <MapText Code="Libau-Nord" NameEng="Libau-Nord" NameRus="Либау-Норд" X="54666" Y="180469" Type="3"/>
+        <MapText Code="Memel" NameEng="Memel" NameRus="Мемель" X="54921" Y="90104" Type="3"/>
+        <MapText Code="Mitau2" NameEng="Mitau" NameRus="Митау" X="208367" Y="202471" Type="3"/>
+        <MapText Code="Neuhausen" NameEng="Neuhausen" NameRus="Ньюхаузен" X="91657" Y="211270" Type="3"/>
+        <MapText Code="Polangen2" NameEng="Polangen" NameRus="Поланген" X="51760" Y="111697" Type="3"/>
+        <MapText Code="Raseinen2" NameEng="Raseinen" NameRus="Разейнен" X="176443" Y="54120" Type="3"/>
+        <MapText Code="Sairdak" NameEng="Sairdak" NameRus="Саирдак" X="233016" Y="241678" Type="3"/>
+        <MapText Code="Schaken2" NameEng="Schaken" NameRus="Шакен" X="169515" Y="10219" Type="3"/>
+        <MapText Code="Schaulen2" NameEng="Schaulen" NameRus="Шаулен" X="190569" Y="121712" Type="3"/>
+        <MapText Code="Schrunden2" NameEng="Schrunden" NameRus="Шрунден" X="111107" Y="202639" Type="3"/>
+        <MapText Code="Skulte" NameEng="Skulte" NameRus="Скулте" X="226368" Y="231349" Type="3"/>
+        <MapText Code="Spilve" NameEng="Spilve" NameRus="Спилве" X="226409" Y="237545" Type="3"/>
+        <MapText Code="Sredniki" NameEng="Sredniki" NameRus="Средники" X="188985" Y="25392" Type="3"/>
+        <MapText Code="Tauroggen2" NameEng="Tauroggen" NameRus="Таурогген" X="117170" Y="43487" Type="3"/>
+        <MapText Code="Telsche2" NameEng="Telsche" NameRus="Телше" X="119261" Y="120379" Type="3"/>
+        <MapText Code="Tilsit2" NameEng="Tilsit" NameRus="Тилсит" X="94740" Y="21407" Type="3"/>
+        <MapText Code="Tukkum2" NameEng="Tukkum" NameRus="Туккум" X="177544" Y="232360" Type="3"/>
+        <MapText Code="Wainoden2" NameEng="Wainoden" NameRus="Вайноден" X="100205" Y="166205" Type="3"/>
+        <MapText Code="Windau3" NameEng="Windau" NameRus="Виндау" X="91683" Y="284012" Type="3"/>
+        <MapText Code="Angern_See" NameEng="Angern See" NameRus="озеро Ангерн" X="184403" Y="264612" Type="3"/>
+        <MapText Code="Barta_River" NameEng="Barta River" NameRus="р. Барта" X="67985" Y="156464" Type="3"/>
+        <MapText Code="Dubysa_River" NameEng="Dubysa River" NameRus="р. Дубиса" X="178126" Y="63375" Type="3"/>
+        <MapText Code="Niemen_River" NameEng="Niemen River" NameRus="р. Ниемен" X="141500" Y="20234" Type="3"/>
+        <MapText Code="Windau_River" NameEng="Windau River" NameRus="р. Виндау" X="113221" Y="218758" Type="3"/>
+        <MapText Code="Baltic_Sea" NameEng="Baltic Sea" NameRus="Балтийское Море" X="14884" Y="192862" Type="3"/>
+        <MapText Code="Kurisches_Haff" NameEng="Kurisches Haff" NameRus="Куржский залив" X="39973" Y="21406" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="226004.81" Y="230908.58" A="130" T1="2" Res="B_17G_b"/>

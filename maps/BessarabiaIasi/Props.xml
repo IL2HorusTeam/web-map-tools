@@ -424,30 +424,30 @@
         <MapText Code="Tighina-Benderi" NameEng="Tighina-Benderi" NameRus="Tighina-Benderi" X="230000" Y="168400" Type="2"/>
         <MapText Code="Tiraspol" NameEng="Tiraspol" NameRus="Tiraspol" X="240000" Y="170900" Type="2"/>
         <MapText Code="Odessa" NameEng="Odessa" NameRus="Odessa" X="329608" Y="130197" Type="3"/>
-        <MapText Code="Bahlui" NameEng="Bahlui" NameRus="Bahlui" X="75020" Y="204129" Type="6"/>
-        <MapText Code="Bistrita" NameEng="Bistrita" NameRus="Bistrita" X="11572" Y="155607" Type="6"/>
-        <MapText Code="Bolsoi_Kuyalnik" NameEng="Bol'soi Kuyal'nik" NameRus="Bol'soi Kuyal'nik" X="296144" Y="209432" Type="6"/>
-        <MapText Code="Byk" NameEng="Byk" NameRus="Byk" X="186113" Y="183028" Type="6"/>
-        <MapText Code="Chadshibenski_Liman" NameEng="Chadshibenski Liman" NameRus="Chadshibenski Liman" X="308334" Y="152548" Type="6"/>
-        <MapText Code="Danube_Delta" NameEng="Danube Delta" NameRus="Danube Delta" X="249874" Y="5267" Type="6"/>
-        <MapText Code="Dnestr" NameEng="Dnestr" NameRus="Dnestr" X="226300" Y="181818" Type="6"/>
-        <MapText Code="Dnestr2" NameEng="Dnestr" NameRus="Dnestr" X="191268" Y="251479" Type="6"/>
-        <MapText Code="Jalpug" NameEng="Jalpug" NameRus="Jalpug" X="161427" Y="76553" Type="6"/>
-        <MapText Code="Jijia" NameEng="Jijia" NameRus="Jijia" X="64526" Y="226600" Type="6"/>
-        <MapText Code="Kogil'nik" NameEng="Kogil'nik" NameRus="Kogil'nik" X="219675" Y="76276" Type="6"/>
-        <MapText Code="Kucurgan" NameEng="Kucurgan" NameRus="Kucurgan" X="253181" Y="208046" Type="6"/>
-        <MapText Code="Kuyajnitski_Liman" NameEng="Kuyajnitski Liman" NameRus="Kuyajnitski Liman" X="316727" Y="158844" Type="6"/>
-        <MapText Code="Lacul_Alibei" NameEng="Lacul Alibei" NameRus="Lacul Alibei" X="271818" Y="55461" Type="6"/>
-        <MapText Code="Lacul_Conduc" NameEng="Lacul Conduc" NameRus="Lacul Conduc" X="246497" Y="36904" Type="6"/>
-        <MapText Code="Lacul_Sagani" NameEng="Lacul Sagani" NameRus="Lacul Sagani" X="261556" Y="46319" Type="6"/>
-        <MapText Code="Limanul_Nistrului" NameEng="Limanul Nistrului" NameRus="Limanul Nistrului" X="285216" Y="111494" Type="6"/>
-        <MapText Code="Prut" NameEng="Prut" NameRus="Prut" X="127050" Y="85989" Type="6"/>
-        <MapText Code="Prut2" NameEng="Prut" NameRus="Prut" X="101794" Y="197205" Type="6"/>
-        <MapText Code="Reut" NameEng="Reut" NameRus="Reut" X="163579" Y="240198" Type="6"/>
-        <MapText Code="Seret" NameEng="Seret" NameRus="Seret" X="44700" Y="106785" Type="6"/>
-        <MapText Code="Seret2" NameEng="Seret" NameRus="Seret" X="22194" Y="202528" Type="6"/>
-        <MapText Code="Tiligul" NameEng="Tiligul" NameRus="Tiligul" X="312775" Y="228003" Type="6"/>
-        <MapText Code="Black_Sea" NameEng="Black Sea" NameRus="Black Sea" X="319513" Y="47642" Type="7"/>
+        <MapText Code="Bahlui" NameEng="Bahlui" NameRus="Bahlui" X="75020" Y="204129" Type="3"/>
+        <MapText Code="Bistrita" NameEng="Bistrita" NameRus="Bistrita" X="11572" Y="155607" Type="3"/>
+        <MapText Code="Bolsoi_Kuyalnik" NameEng="Bol'soi Kuyal'nik" NameRus="Bol'soi Kuyal'nik" X="296144" Y="209432" Type="3"/>
+        <MapText Code="Byk" NameEng="Byk" NameRus="Byk" X="186113" Y="183028" Type="3"/>
+        <MapText Code="Chadshibenski_Liman" NameEng="Chadshibenski Liman" NameRus="Chadshibenski Liman" X="308334" Y="152548" Type="3"/>
+        <MapText Code="Danube_Delta" NameEng="Danube Delta" NameRus="Danube Delta" X="249874" Y="5267" Type="3"/>
+        <MapText Code="Dnestr" NameEng="Dnestr" NameRus="Dnestr" X="226300" Y="181818" Type="3"/>
+        <MapText Code="Dnestr2" NameEng="Dnestr" NameRus="Dnestr" X="191268" Y="251479" Type="3"/>
+        <MapText Code="Jalpug" NameEng="Jalpug" NameRus="Jalpug" X="161427" Y="76553" Type="3"/>
+        <MapText Code="Jijia" NameEng="Jijia" NameRus="Jijia" X="64526" Y="226600" Type="3"/>
+        <MapText Code="Kogil'nik" NameEng="Kogil'nik" NameRus="Kogil'nik" X="219675" Y="76276" Type="3"/>
+        <MapText Code="Kucurgan" NameEng="Kucurgan" NameRus="Kucurgan" X="253181" Y="208046" Type="3"/>
+        <MapText Code="Kuyajnitski_Liman" NameEng="Kuyajnitski Liman" NameRus="Kuyajnitski Liman" X="316727" Y="158844" Type="3"/>
+        <MapText Code="Lacul_Alibei" NameEng="Lacul Alibei" NameRus="Lacul Alibei" X="271818" Y="55461" Type="3"/>
+        <MapText Code="Lacul_Conduc" NameEng="Lacul Conduc" NameRus="Lacul Conduc" X="246497" Y="36904" Type="3"/>
+        <MapText Code="Lacul_Sagani" NameEng="Lacul Sagani" NameRus="Lacul Sagani" X="261556" Y="46319" Type="3"/>
+        <MapText Code="Limanul_Nistrului" NameEng="Limanul Nistrului" NameRus="Limanul Nistrului" X="285216" Y="111494" Type="3"/>
+        <MapText Code="Prut" NameEng="Prut" NameRus="Prut" X="127050" Y="85989" Type="3"/>
+        <MapText Code="Prut2" NameEng="Prut" NameRus="Prut" X="101794" Y="197205" Type="3"/>
+        <MapText Code="Reut" NameEng="Reut" NameRus="Reut" X="163579" Y="240198" Type="3"/>
+        <MapText Code="Seret" NameEng="Seret" NameRus="Seret" X="44700" Y="106785" Type="3"/>
+        <MapText Code="Seret2" NameEng="Seret" NameRus="Seret" X="22194" Y="202528" Type="3"/>
+        <MapText Code="Tiligul" NameEng="Tiligul" NameRus="Tiligul" X="312775" Y="228003" Type="3"/>
+        <MapText Code="Black_Sea" NameEng="Black Sea" NameRus="Black Sea" X="319513" Y="47642" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="2" X="52813.81" Y="270793.32" A="155" T1="1" Res="PE_3BIS_g"/>

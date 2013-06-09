@@ -5,22 +5,22 @@
     <Height>41600</Height>
     <Towns>
         <MapText Code="Nomonhan" NameEng="Nomonhan" NameRus="Номон-Хан" X="29717" Y="24853" Type="2"/>
-        <MapText Code="Bain-Tumen" NameEng="Bain-Tumen" NameRus="Баин-Тумен" X="2450" Y="22530" Type="5"/>
-        <MapText Code="Changchung" NameEng="Changchung" NameRus="Чанчунь" X="36085" Y="3781" Type="5"/>
-        <MapText Code="Hailar" NameEng="Hailar" NameRus="Хайлар" X="32963" Y="39308" Type="5"/>
-        <MapText Code="Kanchuerhmiao" NameEng="Kanchuerhmiao" NameRus="Ганчжур" X="10839" Y="40001" Type="5"/>
-        <MapText Code="Matat-Somon" NameEng="Matat-Somon" NameRus="Матат-Сомон" X="1545" Y="7084" Type="5"/>
-        <MapText Code="Tamsag" NameEng="Tamsag" NameRus="Тамсаг" X="4033" Y="3101" Type="5"/>
-        <MapText Code="Holsten_River" NameEng="r. Holsten" NameRus="р. Хайластын Гол" X="18147" Y="15386" Type="6"/>
-        <MapText Code="Khalkin_Gol_River" NameEng="r. Khalkhin Gol" NameRus="р. Халкин Гол" X="5853" Y="30904" Type="6"/>
-        <MapText Code="Khalkin_Gol_River2" NameEng="r. Khalkhin Gol" NameRus="р. Халкин Гол" X="24288" Y="4048" Type="6"/>
-        <MapText Code="Uzur_Nur_Lake" NameEng="l. Uzur Nur" NameRus="оз. Узур-Нур" X="28816" Y="28763" Type="6"/>
-        <MapText Code="Bain-Tsagan_Mt" NameEng="mt. Bain-Tsagan" NameRus="м. Баин-Цаган" X="8389" Y="27537" Type="10"/>
-        <MapText Code="Dungur_Obo" NameEng="Dungur Obo" NameRus="Дунгур Обо" X="14591" Y="12792" Type="10"/>
-        <MapText Code="Fui" NameEng="Fui Hill" NameRus="выс. Фуи" X="9838" Y="30877" Type="10"/>
-        <MapText Code="Khamar_Daba_Mt" NameEng="mt. Khamar Daba" NameRus="м. Хамар Даба" X="11900" Y="7128" Type="10"/>
-        <MapText Code="Paletz" NameEng="Paletz Hill" NameRus="выс. Палец" X="9499" Y="34303" Type="10"/>
-        <MapText Code="Renizov_Hill" NameEng="Renizov Hill" NameRus="выс. Ренизов" X="15420" Y="17789" Type="10"/>
+        <MapText Code="Bain-Tumen" NameEng="Bain-Tumen" NameRus="Баин-Тумен" X="2450" Y="22530" Type="3"/>
+        <MapText Code="Changchung" NameEng="Changchung" NameRus="Чанчунь" X="36085" Y="3781" Type="3"/>
+        <MapText Code="Hailar" NameEng="Hailar" NameRus="Хайлар" X="32963" Y="39308" Type="3"/>
+        <MapText Code="Kanchuerhmiao" NameEng="Kanchuerhmiao" NameRus="Ганчжур" X="10839" Y="40001" Type="3"/>
+        <MapText Code="Matat-Somon" NameEng="Matat-Somon" NameRus="Матат-Сомон" X="1545" Y="7084" Type="3"/>
+        <MapText Code="Tamsag" NameEng="Tamsag" NameRus="Тамсаг" X="4033" Y="3101" Type="3"/>
+        <MapText Code="Holsten_River" NameEng="r. Holsten" NameRus="р. Хайластын Гол" X="18147" Y="15386" Type="3"/>
+        <MapText Code="Khalkin_Gol_River" NameEng="r. Khalkhin Gol" NameRus="р. Халкин Гол" X="5853" Y="30904" Type="3"/>
+        <MapText Code="Khalkin_Gol_River2" NameEng="r. Khalkhin Gol" NameRus="р. Халкин Гол" X="24288" Y="4048" Type="3"/>
+        <MapText Code="Uzur_Nur_Lake" NameEng="l. Uzur Nur" NameRus="оз. Узур-Нур" X="28816" Y="28763" Type="3"/>
+        <MapText Code="Bain-Tsagan_Mt" NameEng="mt. Bain-Tsagan" NameRus="м. Баин-Цаган" X="8389" Y="27537" Type="3"/>
+        <MapText Code="Dungur_Obo" NameEng="Dungur Obo" NameRus="Дунгур Обо" X="14591" Y="12792" Type="3"/>
+        <MapText Code="Fui" NameEng="Fui Hill" NameRus="выс. Фуи" X="9838" Y="30877" Type="3"/>
+        <MapText Code="Khamar_Daba_Mt" NameEng="mt. Khamar Daba" NameRus="м. Хамар Даба" X="11900" Y="7128" Type="3"/>
+        <MapText Code="Paletz" NameEng="Paletz Hill" NameRus="выс. Палец" X="9499" Y="34303" Type="3"/>
+        <MapText Code="Renizov_Hill" NameEng="Renizov Hill" NameRus="выс. Ренизов" X="15420" Y="17789" Type="3"/>
         <MapText Code="Bol_Peski" NameEng="Bolshie Peski" NameRus="Большие Пески" X="30334" Y="10121" Type="11"/>
         <MapText Code="Mal_Peski" NameEng="Malye Peski" NameRus="Малые Пески" X="21758" Y="8522" Type="11"/>
     </Towns>

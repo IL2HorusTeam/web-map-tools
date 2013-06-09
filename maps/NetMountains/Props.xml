@@ -36,13 +36,13 @@
         <MapText Code="Olegovo" NameEng="Olegovo" NameRus="Олегово" X="14353" Y="24389" Type="2"/>
         <MapText Code="Sokovo" NameEng="Sokovo" NameRus="Соково" X="12974" Y="44813" Type="2"/>
         <MapText Code="Soldatenkovo" NameEng="Soldatenkovo" NameRus="Солдатенково" X="21804" Y="17341" Type="2"/>
-        <MapText Code="o_Krivoe" NameEng="o.Krivoe" NameRus="оз. Кривое" X="29716" Y="33709" Type="6"/>
-        <MapText Code="o_Luzha" NameEng="o.Luzha" NameRus="оз. Лужа" X="34915" Y="9156" Type="6"/>
-        <MapText Code="o_Nezhdanchik" NameEng="o.Nezhdanchik" NameRus="оз. Нежданчик" X="12332" Y="10990" Type="6"/>
-        <MapText Code="o_Nuzhda" NameEng="o.Nuzhda" NameRus="оз. Нужда" X="15699" Y="5324" Type="6"/>
-        <MapText Code="o_Plevok" NameEng="o.Plevok" NameRus="оз. Плевок" X="3043" Y="27054" Type="6"/>
-        <MapText Code="o_Velikoe_Krainee" NameEng="o.Velikoe Krainee" NameRus="оз. Великое Крайнее" X="31008" Y="45103" Type="6"/>
-        <MapText Code="r_Nikuda" NameEng="r.Nikuda" NameRus="р. Никуда" X="21914" Y="20437" Type="6"/>
+        <MapText Code="o_Krivoe" NameEng="o.Krivoe" NameRus="оз. Кривое" X="29716" Y="33709" Type="3"/>
+        <MapText Code="o_Luzha" NameEng="o.Luzha" NameRus="оз. Лужа" X="34915" Y="9156" Type="3"/>
+        <MapText Code="o_Nezhdanchik" NameEng="o.Nezhdanchik" NameRus="оз. Нежданчик" X="12332" Y="10990" Type="3"/>
+        <MapText Code="o_Nuzhda" NameEng="o.Nuzhda" NameRus="оз. Нужда" X="15699" Y="5324" Type="3"/>
+        <MapText Code="o_Plevok" NameEng="o.Plevok" NameRus="оз. Плевок" X="3043" Y="27054" Type="3"/>
+        <MapText Code="o_Velikoe_Krainee" NameEng="o.Velikoe Krainee" NameRus="оз. Великое Крайнее" X="31008" Y="45103" Type="3"/>
+        <MapText Code="r_Nikuda" NameEng="r.Nikuda" NameRus="р. Никуда" X="21914" Y="20437" Type="3"/>
         <MapText Code="gora_Krasnopup" NameEng="gora Krasnopup" NameRus="гора Краснопуп" X="35833" Y="25877" Type="11"/>
         <MapText Code="gora_Lysaya" NameEng="gora Lysaya" NameRus="гора Лысая" X="12569" Y="16754" Type="11"/>
         <MapText Code="gora_Sininos" NameEng="gora Sininos" NameRus="гора Синий Нос" X="14191" Y="35152" Type="11"/>

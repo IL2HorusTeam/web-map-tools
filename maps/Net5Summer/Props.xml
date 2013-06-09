@@ -16,17 +16,17 @@
         <MapText Code="Hamina" NameEng="Hamina" NameRus="Õàìèíà" X="28502" Y="89304" Type="2"/>
         <MapText Code="Kotka" NameEng="Kotka" NameRus="ÊÎÒÊÀ" X="16559" Y="76486" Type="2"/>
         <MapText Code="Virojoki" NameEng="Virojoki" NameRus="Âèðîéîêè" X="58118" Y="88349" Type="2"/>
-        <MapText Code="GULF_OF_FINLAND" NameEng="GULF OF FINLAND" NameRus="ÔÈÍÑÊÈÉ ÇÀËÈÂ" X="52864" Y="48940" Type="7"/>
-        <MapText Code="Lavansaari" NameEng="Lavansaari" NameRus="Lavansaari" X="61303" Y="25612" Type="8"/>
-        <MapText Code="o_Bolshoi_Tiuters" NameEng="Bolshoi Tiuters" NameRus="î. Áîëüøîé Òþòåðñ" X="26414" Y="6982" Type="8"/>
-        <MapText Code="o_Gogland" NameEng="Gogland" NameRus="î. Ãîãëàíä" X="15365" Y="31743" Type="8"/>
-        <MapText Code="o_Malyi" NameEng="Malyi" NameRus="î. Ìàëûé" X="73643" Y="24657" Type="8"/>
-        <MapText Code="o_Moschnyi" NameEng="Moschnyi" NameRus="î. Ìîùíûé" X="61382" Y="23861" Type="8"/>
-        <MapText Code="o_Seiskar" NameEng="Seskar" NameRus="î. Ñåñêàð" X="92750" Y="23622" Type="8"/>
-        <MapText Code="Peninsaari" NameEng="Peninsaari" NameRus="Peninsaari" X="72210" Y="26250" Type="8"/>
-        <MapText Code="Seiskari" NameEng="Seiskari" NameRus="Seiskari" X="92352" Y="25532" Type="8"/>
-        <MapText Code="Suursaari" NameEng="Suursaari" NameRus="Suursaari" X="14967" Y="33335" Type="8"/>
-        <MapText Code="Tutarsaari" NameEng="Tutarsaari" NameRus="Tutarsaari" X="26812" Y="8654" Type="8"/>
+        <MapText Code="GULF_OF_FINLAND" NameEng="GULF OF FINLAND" NameRus="ÔÈÍÑÊÈÉ ÇÀËÈÂ" X="52864" Y="48940" Type="3"/>
+        <MapText Code="Lavansaari" NameEng="Lavansaari" NameRus="Lavansaari" X="61303" Y="25612" Type="3"/>
+        <MapText Code="o_Bolshoi_Tiuters" NameEng="Bolshoi Tiuters" NameRus="î. Áîëüøîé Òþòåðñ" X="26414" Y="6982" Type="3"/>
+        <MapText Code="o_Gogland" NameEng="Gogland" NameRus="î. Ãîãëàíä" X="15365" Y="31743" Type="3"/>
+        <MapText Code="o_Malyi" NameEng="Malyi" NameRus="î. Ìàëûé" X="73643" Y="24657" Type="3"/>
+        <MapText Code="o_Moschnyi" NameEng="Moschnyi" NameRus="î. Ìîùíûé" X="61382" Y="23861" Type="3"/>
+        <MapText Code="o_Seiskar" NameEng="Seskar" NameRus="î. Ñåñêàð" X="92750" Y="23622" Type="3"/>
+        <MapText Code="Peninsaari" NameEng="Peninsaari" NameRus="Peninsaari" X="72210" Y="26250" Type="3"/>
+        <MapText Code="Seiskari" NameEng="Seiskari" NameRus="Seiskari" X="92352" Y="25532" Type="3"/>
+        <MapText Code="Suursaari" NameEng="Suursaari" NameRus="Suursaari" X="14967" Y="33335" Type="3"/>
+        <MapText Code="Tutarsaari" NameEng="Tutarsaari" NameRus="Tutarsaari" X="26812" Y="8654" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="12255.11" Y="90817.15" A="0" T1="1" Res="B_24J100_g"/>

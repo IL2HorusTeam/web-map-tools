@@ -151,8 +151,8 @@
         <MapText Code="Palermo" NameEng="Palermo" NameRus="Palermo" X="97817" Y="28188" Type="2"/>
         <MapText Code="Trapani" NameEng="Trapani" NameRus="Trapani" X="84840" Y="15169" Type="2"/>
         <MapText Code="Milano" NameEng="Milano" NameRus="Milano" X="92078" Y="132149" Type="3"/>
-        <MapText Code="Lago_di_Giorgio" NameEng="Lago di Giorgio" NameRus="Lago di Giorgio" X="72629" Y="143363" Type="6"/>
-        <MapText Code="Paludi_Pontine" NameEng="Paludi Pontine" NameRus="Paludi Pontine" X="81960" Y="99474" Type="6"/>
+        <MapText Code="Lago_di_Giorgio" NameEng="Lago di Giorgio" NameRus="Lago di Giorgio" X="72629" Y="143363" Type="3"/>
+        <MapText Code="Paludi_Pontine" NameEng="Paludi Pontine" NameRus="Paludi Pontine" X="81960" Y="99474" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="31616.20" Y="125889.11" A="210" T1="3" Res="MBR_2AM34_w"/>

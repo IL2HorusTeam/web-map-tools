@@ -39,30 +39,30 @@
         <MapText Code="Kirkenes" NameEng="Kirkenes" NameRus="Киркенес" X="109251" Y="196871" Type="3"/>
         <MapText Code="Murmansk" NameEng="Murmansk" NameRus="Мурманск" X="245950" Y="131628" Type="3"/>
         <MapText Code="Petsamo" NameEng="Petsamo" NameRus="Петсамо" X="159351" Y="184169" Type="3"/>
-        <MapText Code="Ivalo2" NameEng="Ivalo" NameRus="Ивало" X="13843" Y="58175" Type="5"/>
-        <MapText Code="Kildin" NameEng="Kildin" NameRus="Кильдин" X="284166" Y="175772" Type="5"/>
-        <MapText Code="Kilpyavr" NameEng="Kilpyavr" NameRus="Килпъявр" X="215339" Y="136634" Type="5"/>
-        <MapText Code="Kirkenes2" NameEng="Kirkenes" NameRus="Киркенес" X="102672" Y="194470" Type="5"/>
-        <MapText Code="Monchegorsk2" NameEng="Monchegorsk" NameRus="Мончегорск" X="258274" Y="11823" Type="5"/>
-        <MapText Code="Murmashi2" NameEng="Murmashi" NameRus="Мурмаши" X="235949" Y="105473" Type="5"/>
-        <MapText Code="Nautsi" NameEng="Nautsi" NameRus="Наутси" X="82144" Y="114554" Type="5"/>
-        <MapText Code="Olen'ya" NameEng="Olen'ya" NameRus="Оленья" X="273509" Y="35577" Type="5"/>
-        <MapText Code="Petsamo2" NameEng="Petsamo" NameRus="Петсамо" X="153411" Y="164709" Type="5"/>
-        <MapText Code="Salmijarvi" NameEng="Salmijarvi" NameRus="Сальмиярви" X="124231" Y="160425" Type="5"/>
-        <MapText Code="Shongui" NameEng="Shongui" NameRus="Шонгуй" X="251596" Y="98239" Type="5"/>
-        <MapText Code="Taybola" NameEng="Taybola" NameRus="Тайбола" X="258073" Y="74537" Type="5"/>
-        <MapText Code="Ura_Guba3" NameEng="Ura Guba" NameRus="Ура губа" X="229161" Y="159052" Type="5"/>
-        <MapText Code="Vayenga-1" NameEng="Vayenga-1" NameRus="Ваенга-1" X="256119" Y="135594" Type="5"/>
-        <MapText Code="Vayenga-2" NameEng="Vayenga-2" NameRus="Ваенга-2" X="256623" Y="132445" Type="5"/>
-        <MapText Code="Guba_Malaya_Volkovaya" NameEng="Guba Malaya Volkovaya" NameRus="Малая Волковая губа" X="175209" Y="201963" Type="6"/>
-        <MapText Code="Kolskiy_Zaliv" NameEng="Kolskiy Zaliv" NameRus="Кольский залив" X="256787" Y="165272" Type="6"/>
-        <MapText Code="Motovskiy_Zaliv" NameEng="Motovskiy Zaliv" NameRus="Мотовский залив" X="205140" Y="196585" Type="6"/>
-        <MapText Code="o__Khutoyavr" NameEng="o. Khutoyavr" NameRus="о. Хутояр" X="141841" Y="105746" Type="6"/>
-        <MapText Code="o__Kulozero" NameEng="o. Kulozero" NameRus="о. Кулозеро" X="264205" Y="44177" Type="6"/>
-        <MapText Code="Ozero_Imandra" NameEng="Ozero Imandra" NameRus="озеро Имандра" X="270093" Y="5121" Type="6"/>
-        <MapText Code="r__Tuloma" NameEng="r. Tuloma" NameRus="р. Тулома" X="208315" Y="90871" Type="6"/>
-        <MapText Code="Ura_Guba2" NameEng="Ura Guba" NameRus="Ура губа" X="232894" Y="173993" Type="6"/>
-        <MapText Code="Varangerfjorden" NameEng="Varangerfjorden" NameRus="Варангерфьорден" X="73585" Y="231412" Type="6"/>
+        <MapText Code="Ivalo2" NameEng="Ivalo" NameRus="Ивало" X="13843" Y="58175" Type="3"/>
+        <MapText Code="Kildin" NameEng="Kildin" NameRus="Кильдин" X="284166" Y="175772" Type="3"/>
+        <MapText Code="Kilpyavr" NameEng="Kilpyavr" NameRus="Килпъявр" X="215339" Y="136634" Type="3"/>
+        <MapText Code="Kirkenes2" NameEng="Kirkenes" NameRus="Киркенес" X="102672" Y="194470" Type="3"/>
+        <MapText Code="Monchegorsk2" NameEng="Monchegorsk" NameRus="Мончегорск" X="258274" Y="11823" Type="3"/>
+        <MapText Code="Murmashi2" NameEng="Murmashi" NameRus="Мурмаши" X="235949" Y="105473" Type="3"/>
+        <MapText Code="Nautsi" NameEng="Nautsi" NameRus="Наутси" X="82144" Y="114554" Type="3"/>
+        <MapText Code="Olen'ya" NameEng="Olen'ya" NameRus="Оленья" X="273509" Y="35577" Type="3"/>
+        <MapText Code="Petsamo2" NameEng="Petsamo" NameRus="Петсамо" X="153411" Y="164709" Type="3"/>
+        <MapText Code="Salmijarvi" NameEng="Salmijarvi" NameRus="Сальмиярви" X="124231" Y="160425" Type="3"/>
+        <MapText Code="Shongui" NameEng="Shongui" NameRus="Шонгуй" X="251596" Y="98239" Type="3"/>
+        <MapText Code="Taybola" NameEng="Taybola" NameRus="Тайбола" X="258073" Y="74537" Type="3"/>
+        <MapText Code="Ura_Guba3" NameEng="Ura Guba" NameRus="Ура губа" X="229161" Y="159052" Type="3"/>
+        <MapText Code="Vayenga-1" NameEng="Vayenga-1" NameRus="Ваенга-1" X="256119" Y="135594" Type="3"/>
+        <MapText Code="Vayenga-2" NameEng="Vayenga-2" NameRus="Ваенга-2" X="256623" Y="132445" Type="3"/>
+        <MapText Code="Guba_Malaya_Volkovaya" NameEng="Guba Malaya Volkovaya" NameRus="Малая Волковая губа" X="175209" Y="201963" Type="3"/>
+        <MapText Code="Kolskiy_Zaliv" NameEng="Kolskiy Zaliv" NameRus="Кольский залив" X="256787" Y="165272" Type="3"/>
+        <MapText Code="Motovskiy_Zaliv" NameEng="Motovskiy Zaliv" NameRus="Мотовский залив" X="205140" Y="196585" Type="3"/>
+        <MapText Code="o__Khutoyavr" NameEng="o. Khutoyavr" NameRus="о. Хутояр" X="141841" Y="105746" Type="3"/>
+        <MapText Code="o__Kulozero" NameEng="o. Kulozero" NameRus="о. Кулозеро" X="264205" Y="44177" Type="3"/>
+        <MapText Code="Ozero_Imandra" NameEng="Ozero Imandra" NameRus="озеро Имандра" X="270093" Y="5121" Type="3"/>
+        <MapText Code="r__Tuloma" NameEng="r. Tuloma" NameRus="р. Тулома" X="208315" Y="90871" Type="3"/>
+        <MapText Code="Ura_Guba2" NameEng="Ura Guba" NameRus="Ура губа" X="232894" Y="173993" Type="3"/>
+        <MapText Code="Varangerfjorden" NameEng="Varangerfjorden" NameRus="Варангерфьорден" X="73585" Y="231412" Type="3"/>
         <MapText Code="Ostrov_Kildin" NameEng="Ostrov Kildin" NameRus="о. Кильдин" X="283538" Y="178769" Type="11"/>
         <MapText Code="Poluostrov_Rybachiy" NameEng="Poluostrov Rybachiy" NameRus="п-ов Рыбачий" X="205470" Y="212925" Type="11"/>
         <MapText Code="Poluostrov_Svednyl" NameEng="Poluostrov Svednyl" NameRus="п-ов Средний" X="185447" Y="206041" Type="11"/>
