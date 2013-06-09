@@ -16,7 +16,10 @@ var map_path = null
     , ruler_top_canvas = null
     , ruler_top_ctx = null
     , ruler_left_canvas = null
-    , ruler_left_ctx = null;
+    , ruler_left_ctx = null
+    , current_pos_x = 0
+    , current_pos_y = 0
+    , current_height = 0;
 
 function squareName(x) {
     var k = Math.floor(x / CELL_SIDE);
@@ -118,6 +121,25 @@ function drawMapData(){
     });
 }
 
+function displayMapSize(){
+    $("#map_width").text(Math.floor(map_canvas.width*CELL_SIDE/1000));
+    $("#map_height").text(Math.floor(map_canvas.height*CELL_SIDE/1000));
+}
+
+function displayCurrentHeight(){
+    $("#current_height").text((current_height).toFixed(1));
+}
+
+function displayCurrentSquare(){
+    $("#current_cell_letter").text(squareName(current_pos_x));
+    $("#current_cell_number").text(squareNumber(current_pos_y));
+}
+
+function displayCurrentPos(){
+    $("#current_pos_x").text((current_pos_x/1000).toFixed(1));
+    $("#current_pos_y").text((current_pos_y/1000).toFixed(1));
+}
+
 function drawTopRuler() {
     ruler_top_canvas.style.left = '0px';
 
@@ -217,7 +239,7 @@ function onMapImageLoad() {
     drawBoard(map_canvas.width, map_canvas.height, 0);
     drawMapContainer();
     drawMapData();
-    // displayMapSize();
+    displayMapSize();
 };
 
 function onHeightMapImageLoad() {
@@ -233,12 +255,29 @@ function onWindowScroll() {
     $('#left_ruler').css('margin-top', -$(window).scrollTop());
 };
 
+function onMouseMove(e) {
+    current_pos_x = e.clientX + (window.pageXOffset || document.documentElement.scrollLeft) - 264
+    , current_pos_y = e.clientY - RULER_SIZE + 1 + (window.pageYOffset || document.documentElement.scrollTop);
+
+    var pixel = height_ctx.getImageData(current_pos_x/2, current_pos_y/2, 1, 1).data;
+    current_height = intensityToHeight(pixel[0]);
+    displayCurrentHeight();
+
+    current_pos_y = map_img.height-current_pos_y;
+    displayCurrentSquare();
+
+    current_pos_x *= CELL_SIDE;
+    current_pos_y *= CELL_SIDE;
+    displayCurrentPos();
+}
+
 function setHandlers() {
     setMapChangeHandler();
     map_img.onload = onMapImageLoad;
     height_img.onload = onHeightMapImageLoad;
 
     $(window).scroll(onWindowScroll);
+    $(map_canvas).mousemove(onMouseMove);
 }
 
 function initVariables() {
