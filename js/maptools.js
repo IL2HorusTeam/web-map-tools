@@ -62,6 +62,62 @@ function drawBoard(bw, bh, p){
     map_ctx.stroke();
 }
 
+function drawRotatedImage(image, x, y, angle) {
+    map_ctx.save();
+    map_ctx.translate(x, y);
+    map_ctx.rotate(angle * Math.PI/180);
+    map_ctx.drawImage(image, -(image.width/2), -(image.height/2));
+    map_ctx.restore();
+}
+
+function drawField(x, y, angle, type) {
+    map_ctx.beginPath();
+    map_ctx.fillStyle = "black";
+    map_ctx.arc(x, y, 11, 0, 4 * Math.PI, false);
+    map_ctx.fill();
+
+    drawRotatedImage(airplane_img, x, y, angle);
+}
+
+function drawStroked(text, type, x, y) {
+    var font_size = 12+(type-1)*2.5;
+
+    map_ctx.font = font_size + "px Sans-serif";
+    map_ctx.lineWidth = 2;
+
+    var metrics = map_ctx.measureText(text);
+
+    x -= metrics.width/2;
+    y += font_size/2;
+
+    if (x<3) x=3;
+    if(x+metrics.width > map_img.width) x = map_img.width-metrics.width-3;
+
+    map_ctx.strokeStyle = 'white';
+    map_ctx.strokeText(text, x, y);
+    map_ctx.fillStyle = 'black';
+    map_ctx.fillText(text, x, y);
+}
+
+function drawMapData(){
+    $.get(map_path + "Props.xml", {}, function (xml){
+        $('Airfield', xml).each(function(i){
+            drawField(
+                $(this).attr('X')/CELL_SIDE
+                , map_img.height-($(this).attr('Y')/CELL_SIDE)
+                , $(this).attr('A')
+                , $(this).attr('T1'));
+        });
+        $('MapText', xml).each(function(i){
+            drawStroked(
+                $(this).attr('NameEng')
+                , $(this).attr('Type')
+                , $(this).attr('X')/CELL_SIDE
+                , map_img.height-($(this).attr('Y')/CELL_SIDE));
+        });
+    });
+}
+
 function drawTopRuler() {
     ruler_top_canvas.style.left = '0px';
 
@@ -160,7 +216,7 @@ function onMapImageLoad() {
     map_ctx.drawImage(this, 0, 0, this.width, this.height);
     drawBoard(map_canvas.width, map_canvas.height, 0);
     drawMapContainer();
-    // drawMapData();
+    drawMapData();
     // displayMapSize();
 };
 
