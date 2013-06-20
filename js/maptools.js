@@ -97,9 +97,9 @@ function drawStroked(text, type, x, y) {
     if (x<3) x=3;
     if(x+metrics.width > map_img.width) x = map_img.width-metrics.width-3;
 
-    map_ctx.strokeStyle = 'white';
+    map_ctx.strokeStyle = "rgba(255, 255, 255, 0.7)";
     map_ctx.strokeText(text, x, y);
-    map_ctx.fillStyle = 'black';
+    map_ctx.fillStyle = "rgba(0, 0, 0, 0.7)";
     map_ctx.fillText(text, x, y);
 }
 
