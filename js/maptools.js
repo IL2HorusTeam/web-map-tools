@@ -2,7 +2,8 @@ var CELL_SIDE = 100
     , MAX_LETTERS = 26
     , RULER_SIZE = 20
     , RULER_PADDING = 3
-    , RULER_STROKE = "#EEE";
+    , RULER_STROKE = "#EEE"
+    , FEET_COEF = 3.28084;
 
 var map_path = null
     , map_img = null
@@ -127,7 +128,8 @@ function displayMapSize(){
 }
 
 function displayCurrentHeight(){
-    $("#current_height").text((current_height).toFixed(1));
+    $("#current_height_m").text(Math.floor(current_height));
+    $("#current_height_ft").text(Math.floor(current_height*FEET_COEF));
 }
 
 function displayCurrentSquare(){

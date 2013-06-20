@@ -129,7 +129,7 @@ table {
 #position_holder {
     background: url('../img/position.png') no-repeat;
     background-position: left 0px top 3px;
-    padding-left: 23px;
+    padding-left: 35px;
     height: 20px;
     margin: 5px 10px 5px 13px;
     display: block;
@@ -146,6 +146,28 @@ table {
     text-align: right;
 }
 
+/* Height display */
+
+#height_holder {
+    background: url('../img/mountain.png') no-repeat;
+    background-position: left 0px top -4px;
+    padding-left: 30px;
+    height: 20px;
+    margin: 5px 10px;
+    display: block;
+}
+
+#height_holder div {
+    display: inline-block;
+}
+
+#current_height_m, #current_height_ft {
+    height: 20px;
+    width: 35px;
+    padding: 0px 5px;
+    text-align: right;
+}
+
 /* Cell display */
 
 #cell_holder {
@@ -154,16 +176,6 @@ table {
     padding-left: 32px;
     height: 20px;
     margin: 5px 10px 5px 13px;
-}
-
-/* Height display */
-
-#height_holder {
-    background: url('../img/mountain.png') no-repeat;
-    background-position: left 0px top -4px;
-    padding-left: 35px;
-    width: 100px;
-    margin: 5px 10px;
 }
 
 /* Map body */
