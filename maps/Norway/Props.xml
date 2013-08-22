@@ -38,26 +38,26 @@
         <MapText Code="Stongfjorden" NameEng="Stongfjorden" NameRus="Stongfjorden" X="93572" Y="110292" Type="3"/>
         <MapText Code="Straumsfjorden" NameEng="Straumsfjorden" NameRus="Straumsfjorden" X="80053" Y="62847" Type="3"/>
         <MapText Code="Vilnesfjorden" NameEng="Vilnesfjorden" NameRus="Vilnesfjorden" X="101489" Y="101539" Type="3"/>
-        <MapText Code="Askoy" NameEng="Askoy" NameRus="Askoy" X="104035" Y="8522" Type="11"/>
-        <MapText Code="Atloyna" NameEng="Atloyna" NameRus="Atloyna" X="90072" Y="103330" Type="11"/>
-        <MapText Code="BANFF" NameEng="BANFF" NameRus="BANFF" X="4261" Y="28235" Type="11"/>
-        <MapText Code="Byrknesoyna" NameEng="Byrknesoyna" NameRus="Byrknesoyna" X="87256" Y="50666" Type="11"/>
-        <MapText Code="Fedjeosen" NameEng="Fedjeosen" NameRus="Fedjeosen" X="79082" Y="33988" Type="11"/>
-        <MapText Code="Fosnoyna" NameEng="Fosnoyna" NameRus="Fosnoyna" X="89249" Y="40500" Type="11"/>
-        <MapText Code="GOSSEN" NameEng="GOSSEN" NameRus="GOSSEN" X="66967" Y="134725" Type="11"/>
-        <MapText Code="HERDLA" NameEng="HERDLA" NameRus="HERDLA" X="92319" Y="18353" Type="11"/>
-        <MapText Code="Holsnoyni" NameEng="Holsnoyni" NameRus="Holsnoyni" X="104113" Y="15085" Type="11"/>
-        <MapText Code="Hyseroyna" NameEng="Hyseroyna" NameRus="Hyseroyna" X="89994" Y="64647" Type="11"/>
-        <MapText Code="Landrooyane" NameEng="Landrooyane" NameRus="Landrooyane" X="92514" Y="3791" Type="11"/>
-        <MapText Code="Lindaas" NameEng="Lindaas" NameRus="Lindaas" X="108831" Y="29547" Type="11"/>
-        <MapText Code="Olsund" NameEng="Olsund" NameRus="Olsund" X="76720" Y="98363" Type="11"/>
-        <MapText Code="Osteroy" NameEng="Osteroy" NameRus="Osteroy" X="125143" Y="13057" Type="11"/>
-        <MapText Code="Oygarden" NameEng="Oygarden" NameRus="Oygarden" X="84874" Y="12719" Type="11"/>
-        <MapText Code="PETERHEAD" NameEng="PETERHEAD" NameRus="PETERHEAD" X="15659" Y="13786" Type="11"/>
-        <MapText Code="Radoy" NameEng="Radoy" NameRus="Radoy" X="94559" Y="29630" Type="11"/>
-        <MapText Code="Sula" NameEng="Sula" NameRus="Sula" X="88804" Y="80205" Type="11"/>
-        <MapText Code="Svanoyna" NameEng="Svanoyna" NameRus="Svanoyna" X="94970" Y="118862" Type="11"/>
-        <MapText Code="Ytre Sula" NameEng="Ytre Sula" NameRus="Ytre Sula" X="75141" Y="67843" Type="11"/>
+        <MapText Code="Askoy" NameEng="Askoy" NameRus="Askoy" X="104035" Y="8522" Type="4"/>
+        <MapText Code="Atloyna" NameEng="Atloyna" NameRus="Atloyna" X="90072" Y="103330" Type="4"/>
+        <MapText Code="BANFF" NameEng="BANFF" NameRus="BANFF" X="4261" Y="28235" Type="4"/>
+        <MapText Code="Byrknesoyna" NameEng="Byrknesoyna" NameRus="Byrknesoyna" X="87256" Y="50666" Type="4"/>
+        <MapText Code="Fedjeosen" NameEng="Fedjeosen" NameRus="Fedjeosen" X="79082" Y="33988" Type="4"/>
+        <MapText Code="Fosnoyna" NameEng="Fosnoyna" NameRus="Fosnoyna" X="89249" Y="40500" Type="4"/>
+        <MapText Code="GOSSEN" NameEng="GOSSEN" NameRus="GOSSEN" X="66967" Y="134725" Type="4"/>
+        <MapText Code="HERDLA" NameEng="HERDLA" NameRus="HERDLA" X="92319" Y="18353" Type="4"/>
+        <MapText Code="Holsnoyni" NameEng="Holsnoyni" NameRus="Holsnoyni" X="104113" Y="15085" Type="4"/>
+        <MapText Code="Hyseroyna" NameEng="Hyseroyna" NameRus="Hyseroyna" X="89994" Y="64647" Type="4"/>
+        <MapText Code="Landrooyane" NameEng="Landrooyane" NameRus="Landrooyane" X="92514" Y="3791" Type="4"/>
+        <MapText Code="Lindaas" NameEng="Lindaas" NameRus="Lindaas" X="108831" Y="29547" Type="4"/>
+        <MapText Code="Olsund" NameEng="Olsund" NameRus="Olsund" X="76720" Y="98363" Type="4"/>
+        <MapText Code="Osteroy" NameEng="Osteroy" NameRus="Osteroy" X="125143" Y="13057" Type="4"/>
+        <MapText Code="Oygarden" NameEng="Oygarden" NameRus="Oygarden" X="84874" Y="12719" Type="4"/>
+        <MapText Code="PETERHEAD" NameEng="PETERHEAD" NameRus="PETERHEAD" X="15659" Y="13786" Type="4"/>
+        <MapText Code="Radoy" NameEng="Radoy" NameRus="Radoy" X="94559" Y="29630" Type="4"/>
+        <MapText Code="Sula" NameEng="Sula" NameRus="Sula" X="88804" Y="80205" Type="4"/>
+        <MapText Code="Svanoyna" NameEng="Svanoyna" NameRus="Svanoyna" X="94970" Y="118862" Type="4"/>
+        <MapText Code="Ytre Sula" NameEng="Ytre Sula" NameRus="Ytre Sula" X="75141" Y="67843" Type="4"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="4811.55" Y="26961.12" A="223" T1="1" Res="SB_2M100A_g"/>
