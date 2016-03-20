@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TBaseMapSettings>
     <MisCode>Net5Summer</MisCode>
     <Width>99200</Width>
     <Height>94400</Height>
     <Towns>
-        <MapText Code="Karhula" NameEng="Karhula" NameRus="Кархула" X="14330" Y="82378" Type="1"/>
+        <MapText Code="Karhula" NameEng="Karhula" NameRus="РљР°СЂС…СѓР»Р°" X="14330" Y="82378" Type="1"/>
         <MapText Code="Kiiskinkyla" NameEng="Kiiskinkyla" NameRus="Kiiskinkyla" X="16438" Y="30206" Type="1"/>
-        <MapText Code="Klamila" NameEng="Klamila" NameRus="Кламила" X="44106" Y="81502" Type="1"/>
-        <MapText Code="Kondratievo" NameEng="Kondratiyevo" NameRus="Кондратьево" X="84391" Y="91374" Type="1"/>
+        <MapText Code="Klamila" NameEng="Klamila" NameRus="РљР»Р°РјРёР»Р°" X="44106" Y="81502" Type="1"/>
+        <MapText Code="Kondratievo" NameEng="Kondratiyevo" NameRus="РљРѕРЅРґСЂР°С‚СЊРµРІРѕ" X="84391" Y="91374" Type="1"/>
         <MapText Code="Kymi" NameEng="Kymi" NameRus="Kymi" X="11948" Y="89645" Type="1"/>
         <MapText Code="Sakkijarvi" NameEng="Sakkijarvi" NameRus="Sakkijarvi" X="84312" Y="92807" Type="1"/>
-        <MapText Code="Siltakyla" NameEng="Siltakyla" NameRus="Силтакюля" X="3980" Y="81582" Type="1"/>
+        <MapText Code="Siltakyla" NameEng="Siltakyla" NameRus="РЎРёР»С‚Р°РєСЋР»СЏ" X="3980" Y="81582" Type="1"/>
         <MapText Code="Suurkyla" NameEng="Suurkyla" NameRus="Suurkyla" X="14636" Y="34376" Type="1"/>
-        <MapText Code="Virolahti" NameEng="Virolahti" NameRus="Виролахти" X="56924" Y="80626" Type="1"/>
-        <MapText Code="Hamina" NameEng="Hamina" NameRus="Хамина" X="28502" Y="89304" Type="2"/>
-        <MapText Code="Kotka" NameEng="Kotka" NameRus="КОТКА" X="16559" Y="76486" Type="2"/>
-        <MapText Code="Virojoki" NameEng="Virojoki" NameRus="Виройоки" X="58118" Y="88349" Type="2"/>
-        <MapText Code="GULF_OF_FINLAND" NameEng="GULF OF FINLAND" NameRus="ФИНСКИЙ ЗАЛИВ" X="52864" Y="48940" Type="3"/>
+        <MapText Code="Virolahti" NameEng="Virolahti" NameRus="Р’РёСЂРѕР»Р°С…С‚Рё" X="56924" Y="80626" Type="1"/>
+        <MapText Code="Hamina" NameEng="Hamina" NameRus="РҐР°РјРёРЅР°" X="28502" Y="89304" Type="2"/>
+        <MapText Code="Kotka" NameEng="Kotka" NameRus="РљРћРўРљРђ" X="16559" Y="76486" Type="2"/>
+        <MapText Code="Virojoki" NameEng="Virojoki" NameRus="Р’РёСЂРѕР№РѕРєРё" X="58118" Y="88349" Type="2"/>
+        <MapText Code="GULF_OF_FINLAND" NameEng="GULF OF FINLAND" NameRus="Р¤РРќРЎРљРР™ Р—РђР›РР’" X="52864" Y="48940" Type="3"/>
         <MapText Code="Lavansaari" NameEng="Lavansaari" NameRus="Lavansaari" X="61303" Y="25612" Type="3"/>
-        <MapText Code="o_Bolshoi_Tiuters" NameEng="Bolshoi Tiuters" NameRus="о. Большой Тютерс" X="26414" Y="6982" Type="3"/>
-        <MapText Code="o_Gogland" NameEng="Gogland" NameRus="о. Гогланд" X="15365" Y="31743" Type="3"/>
-        <MapText Code="o_Malyi" NameEng="Malyi" NameRus="о. Малый" X="73643" Y="24657" Type="3"/>
-        <MapText Code="o_Moschnyi" NameEng="Moschnyi" NameRus="о. Мощный" X="61382" Y="23861" Type="3"/>
-        <MapText Code="o_Seiskar" NameEng="Seskar" NameRus="о. Сескар" X="92750" Y="23622" Type="3"/>
+        <MapText Code="o_Bolshoi_Tiuters" NameEng="Bolshoi Tiuters" NameRus="Рѕ. Р‘РѕР»СЊС€РѕР№ РўСЋС‚РµСЂСЃ" X="26414" Y="6982" Type="3"/>
+        <MapText Code="o_Gogland" NameEng="Gogland" NameRus="Рѕ. Р“РѕРіР»Р°РЅРґ" X="15365" Y="31743" Type="3"/>
+        <MapText Code="o_Malyi" NameEng="Malyi" NameRus="Рѕ. РњР°Р»С‹Р№" X="73643" Y="24657" Type="3"/>
+        <MapText Code="o_Moschnyi" NameEng="Moschnyi" NameRus="Рѕ. РњРѕС‰РЅС‹Р№" X="61382" Y="23861" Type="3"/>
+        <MapText Code="o_Seiskar" NameEng="Seskar" NameRus="Рѕ. РЎРµСЃРєР°СЂ" X="92750" Y="23622" Type="3"/>
         <MapText Code="Peninsaari" NameEng="Peninsaari" NameRus="Peninsaari" X="72210" Y="26250" Type="3"/>
         <MapText Code="Seiskari" NameEng="Seiskari" NameRus="Seiskari" X="92352" Y="25532" Type="3"/>
         <MapText Code="Suursaari" NameEng="Suursaari" NameRus="Suursaari" X="14967" Y="33335" Type="3"/>

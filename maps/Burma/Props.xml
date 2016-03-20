@@ -1,196 +1,196 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TBaseMapSettings>
     <MisCode>Burma</MisCode>
     <Width>139200</Width>
     <Height>102400</Height>
     <Towns>
-        <MapText Code="Aihang" NameEng="Aihang" NameRus="Айханг" X="11921" Y="46231" Type="1"/>
-        <MapText Code="Andro" NameEng="Andro" NameRus="Андро" X="18343" Y="83379" Type="1"/>
-        <MapText Code="Andro_Khunou" NameEng="Andro Khunou" NameRus="Андро Хуну" X="19907" Y="85224" Type="1"/>
-        <MapText Code="Angbreshu" NameEng="Angbreshu" NameRus="Ангбрешу" X="30865" Y="36040" Type="1"/>
-        <MapText Code="Auklaung" NameEng="Auklaung" NameRus="Ауклаун" X="74757" Y="7385" Type="1"/>
-        <MapText Code="Chabungba" NameEng="Chabungba" NameRus="Чабунгба" X="3344" Y="68976" Type="1"/>
-        <MapText Code="Chaiyang" NameEng="Chaiyang" NameRus="Чайанг" X="11773" Y="37564" Type="1"/>
-        <MapText Code="Charanjing_Khulen" NameEng="Charanjing Khulen" NameRus="Чаранджинг Хулен" X="13033" Y="32176" Type="1"/>
-        <MapText Code="Charanjing_Khunou" NameEng="Charanjing Khunou" NameRus="Чаранджинг Хуну" X="11164" Y="35874" Type="1"/>
-        <MapText Code="Charing_Cross" NameEng="Charing Cross" NameRus="Чаринг Кросс" X="47883" Y="22879" Type="1"/>
-        <MapText Code="Chassud" NameEng="Chassud" NameRus="Чассуд" X="69300" Y="95182" Type="1"/>
-        <MapText Code="Chesaba" NameEng="Chesaba" NameRus="Чесаба" X="6325" Y="72343" Type="1"/>
-        <MapText Code="Chingsou" NameEng="Chingsou" NameRus="Чингсо" X="44686" Y="80285" Type="1"/>
-        <MapText Code="Chinywa" NameEng="Chinywa" NameRus="Чинива" X="50749" Y="9877" Type="1"/>
-        <MapText Code="Chongkat" NameEng="Chongkat" NameRus="Чонгкат" X="58563" Y="82560" Type="1"/>
-        <MapText Code="Ferry" NameEng="Ferry" NameRus="Паром" X="71942" Y="3434" Type="1"/>
-        <MapText Code="Ferry2" NameEng="Ferry" NameRus="Паром" X="89086" Y="53824" Type="1"/>
-        <MapText Code="Hanggul" NameEng="Hanggul" NameRus="Ханггул" X="4096" Y="62669" Type="1"/>
-        <MapText Code="Hehkam" NameEng="Hehkam" NameRus="Некам" X="119537" Y="93515" Type="1"/>
-        <MapText Code="Henin" NameEng="Henin" NameRus="Хенин" X="72867" Y="4747" Type="1"/>
-        <MapText Code="Hiwazingon" NameEng="Hiwazingon" NameRus="Хивазингон" X="118851" Y="86736" Type="1"/>
-        <MapText Code="Hkodaung" NameEng="Hkodaung" NameRus="Хкодаун" X="107034" Y="79342" Type="1"/>
-        <MapText Code="Hkonsa" NameEng="Hkonsa" NameRus="Хконса" X="128824" Y="79947" Type="1"/>
-        <MapText Code="Hlezeik" NameEng="Hlezeik" NameRus="Хлезейк" X="47569" Y="10855" Type="1"/>
-        <MapText Code="Htongkadin" NameEng="Htongkadin" NameRus="Хтонгкадин" X="60024" Y="44975" Type="1"/>
-        <MapText Code="Htongkyaw" NameEng="Htongkyaw" NameRus="Нтонгкьо" X="63904" Y="53081" Type="1"/>
-        <MapText Code="Ingon" NameEng="Ingon" NameRus="Ингон" X="118774" Y="38535" Type="1"/>
-        <MapText Code="Itham" NameEng="Itham" NameRus="Итхан" X="39488" Y="91905" Type="1"/>
-        <MapText Code="Kakching" NameEng="Kakching" NameRus="Какчинг" X="12215" Y="57144" Type="1"/>
-        <MapText Code="Kakching_Khunou" NameEng="Kakching Khunou" NameRus="Какчинг Хуну" X="4820" Y="45674" Type="1"/>
-        <MapText Code="Kambachingjin" NameEng="Kambachingjin" NameRus="Камбачинцзин" X="19839" Y="93177" Type="1"/>
-        <MapText Code="Kambongphut" NameEng="Kambongphut" NameRus="Камбонпхут" X="16594" Y="91535" Type="1"/>
-        <MapText Code="Kawe" NameEng="Kawe" NameRus="Каве" X="82896" Y="19739" Type="1"/>
-        <MapText Code="Kawkan" NameEng="Kawkan" NameRus="Кокан" X="96275" Y="36600" Type="1"/>
-        <MapText Code="Kawkkwa" NameEng="Kawkkwa" NameRus="Кокква" X="103710" Y="42716" Type="1"/>
-        <MapText Code="Kaya" NameEng="Kaya" NameRus="Кайа" X="76432" Y="16042" Type="1"/>
-        <MapText Code="Kaya2" NameEng="Kaya" NameRus="Кайа" X="136387" Y="13848" Type="1"/>
-        <MapText Code="Keirak" NameEng="Keirak" NameRus="Кейрак" X="10659" Y="58967" Type="1"/>
-        <MapText Code="Keplai_Ching" NameEng="Keplai Ching" NameRus="Кеплай Чинг" X="15404" Y="29397" Type="1"/>
-        <MapText Code="Khetri" NameEng="Khetri" NameRus="Кхетри" X="12371" Y="82089" Type="1"/>
-        <MapText Code="Khoibu" NameEng="Khoibu" NameRus="Хойбу" X="38864" Y="60983" Type="1"/>
-        <MapText Code="Khongbung" NameEng="Khongbung" NameRus="Хонгбунг" X="49538" Y="55789" Type="1"/>
-        <MapText Code="Khongjan" NameEng="Khongjan" NameRus="Хонгджан" X="56884" Y="88682" Type="1"/>
-        <MapText Code="Khongkhang" NameEng="Khongkhang" NameRus="Хонгханг" X="33919" Y="41162" Type="1"/>
-        <MapText Code="Khunbi" NameEng="Khunbi" NameRus="Хунби" X="27140" Y="56551" Type="1"/>
-        <MapText Code="Kiydra" NameEng="Kiydra" NameRus="Кийдра" X="13110" Y="72392" Type="1"/>
-        <MapText Code="Kodaungma" NameEng="Kodaungma" NameRus="Кодаунма" X="134231" Y="52550" Type="1"/>
-        <MapText Code="Kondan" NameEng="Kondan" NameRus="Кондан" X="131349" Y="78787" Type="1"/>
-        <MapText Code="Kongbei" NameEng="Kongbei" NameRus="Конгбей" X="24694" Y="36390" Type="1"/>
-        <MapText Code="Kongjol" NameEng="Kongjol" NameRus="Конгджол" X="14132" Y="20387" Type="1"/>
-        <MapText Code="Kouksa" NameEng="Kouksa" NameRus="Кукса" X="112607" Y="28369" Type="1"/>
-        <MapText Code="Kyauksedi" NameEng="Kyauksedi" NameRus="Кьяукседи" X="57857" Y="21224" Type="1"/>
-        <MapText Code="Laiching" NameEng="Laiching" NameRus="Лайчинг" X="32205" Y="19911" Type="1"/>
-        <MapText Code="Laimanai" NameEng="Laimanai" NameRus="Лайманай" X="8119" Y="51344" Type="1"/>
-        <MapText Code="Lilong" NameEng="Lilong" NameRus="Лилонг" X="8441" Y="80286" Type="1"/>
-        <MapText Code="Linpha" NameEng="Linpha" NameRus="Линфа" X="80213" Y="26688" Type="1"/>
-        <MapText Code="Lisamlok_Khunou" NameEng="Lisamlok Khunou" NameRus="Лисамлок Хину" X="21491" Y="76489" Type="1"/>
-        <MapText Code="Loushing" NameEng="Loushing" NameRus="Лушинг" X="53464" Y="92518" Type="1"/>
-        <MapText Code="Lwin-u" NameEng="Lwin-u" NameRus="Лвин-ю" X="100440" Y="49984" Type="1"/>
-        <MapText Code="Maibi_Khunou" NameEng="Maibi Khunou" NameRus="Майби Хуно" X="28939" Y="58013" Type="1"/>
-        <MapText Code="Maipi" NameEng="Maipi" NameRus="Майпи" X="35343" Y="32708" Type="1"/>
-        <MapText Code="Malon" NameEng="Malon" NameRus="Малон" X="127646" Y="93949" Type="1"/>
-        <MapText Code="Man_Huna" NameEng="Man Huna" NameRus="Ман Хуна" X="123878" Y="73027" Type="1"/>
-        <MapText Code="Manata" NameEng="Manata" NameRus="Маната" X="92277" Y="26289" Type="1"/>
-        <MapText Code="Manmaw" NameEng="Manmaw" NameRus="Манмо" X="97965" Y="5014" Type="1"/>
-        <MapText Code="ManMaw" NameEng="Manmaw" NameRus="Манмо" X="92020" Y="34598" Type="1"/>
-        <MapText Code="Mauksapha" NameEng="Mauksapha" NameRus="Моксафа" X="85301" Y="17095" Type="1"/>
-        <MapText Code="Mayengba_Lamjaa" NameEng="Mayengba Lamjaa" NameRus="Майенгба Ламджаа" X="8626" Y="53639" Type="1"/>
-        <MapText Code="Meitram" NameEng="Meitram" NameRus="Майтрем" X="4119" Y="81830" Type="1"/>
-        <MapText Code="Metkalet" NameEng="Metkalet" NameRus="Меткалет" X="117855" Y="65382" Type="1"/>
-        <MapText Code="Mezali" NameEng="Mezali" NameRus="Мезали" X="125198" Y="69371" Type="1"/>
-        <MapText Code="Minbwe" NameEng="Minbwe" NameRus="Минбве" X="103463" Y="85352" Type="1"/>
-        <MapText Code="Mintha" NameEng="Mintha" NameRus="Минта" X="57200" Y="48697" Type="1"/>
-        <MapText Code="Moirangprem" NameEng="Moirangprem" NameRus="Мойрангпрем" X="27911" Y="88043" Type="1"/>
-        <MapText Code="Monkali" NameEng="Monkali" NameRus="Монкали" X="107374" Y="87653" Type="1"/>
-        <MapText Code="Moreh" NameEng="Moreh" NameRus="Морех" X="45207" Y="25663" Type="1"/>
-        <MapText Code="Moreh_Supply_Depot" NameEng="Moreh Supply Depot" NameRus="база снабжения Морех" X="45643" Y="24343" Type="1"/>
-        <MapText Code="Myaukkon" NameEng="Myaukkon" NameRus="Мьяукон" X="113919" Y="94121" Type="1"/>
-        <MapText Code="Myothit" NameEng="Myothit" NameRus="Мйотхит" X="69044" Y="63284" Type="1"/>
-        <MapText Code="Nache" NameEng="Nache" NameRus="Наче" X="56614" Y="32726" Type="1"/>
-        <MapText Code="Naheimkaw" NameEng="Naheimkaw" NameRus="Нахеймко" X="92364" Y="74674" Type="1"/>
-        <MapText Code="Namhkan" NameEng="Namhkan" NameRus="Намхкан" X="91968" Y="66994" Type="1"/>
-        <MapText Code="Nammaw" NameEng="Nammaw" NameRus="Наммо" X="128497" Y="82266" Type="1"/>
-        <MapText Code="Namphou_Phasna" NameEng="Namphou Phasna" NameRus="Намфу Фасна" X="6782" Y="21214" Type="1"/>
-        <MapText Code="Namsaga" NameEng="Namsaga" NameRus="Намсага" X="128462" Y="84914" Type="1"/>
-        <MapText Code="Nankan" NameEng="Nankan" NameRus="Нанкан" X="103777" Y="3532" Type="1"/>
-        <MapText Code="Nantat" NameEng="Nantat" NameRus="Нантат" X="82234" Y="50410" Type="1"/>
-        <MapText Code="Nanyinzeik" NameEng="Nanyinzeik" NameRus="Наньинзейк" X="89533" Y="28779" Type="1"/>
-        <MapText Code="Napet" NameEng="Napet" NameRus="Напет" X="20880" Y="96011" Type="1"/>
-        <MapText Code="Natset" NameEng="Natset" NameRus="Натсет" X="87085" Y="59556" Type="1"/>
-        <MapText Code="Naugma" NameEng="Naugma" NameRus="Наугма" X="127019" Y="46206" Type="1"/>
-        <MapText Code="Naukpaw" NameEng="Naukpaw" NameRus="Наукпо" X="93829" Y="8508" Type="1"/>
-        <MapText Code="Naungphatan" NameEng="Naungphatan" NameRus="Наунгфатан" X="105061" Y="31440" Type="1"/>
-        <MapText Code="Nawagsankyin" NameEng="Nawagsankyin" NameRus="Навагсанкин" X="93421" Y="81428" Type="1"/>
-        <MapText Code="Nawnghkam" NameEng="Nawnghkam" NameRus="Нонткам" X="135338" Y="89273" Type="1"/>
-        <MapText Code="Nepali_Khuti" NameEng="Nepali Khuti" NameRus="Непали Хути" X="61969" Y="41045" Type="1"/>
-        <MapText Code="Nethat" NameEng="Nethat" NameRus="Нетхат" X="123897" Y="78278" Type="1"/>
-        <MapText Code="Nga-ywa" NameEng="Nga-ywa" NameRus="Нга-ива" X="76421" Y="14357" Type="1"/>
-        <MapText Code="Nonen_Lukokkhul" NameEng="Nonen Lukokkhul" NameRus="Нонен Лукокхул" X="23230" Y="92223" Type="1"/>
-        <MapText Code="Nongman_Khunou" NameEng="Nongman Khunou" NameRus="Ногман Хуну" X="26312" Y="79166" Type="1"/>
-        <MapText Code="Nungdam" NameEng="Nungdam" NameRus="Нунгдам" X="34718" Y="94119" Type="1"/>
-        <MapText Code="Oksu" NameEng="Oksu" NameRus="Оксу" X="22455" Y="89383" Type="1"/>
-        <MapText Code="Ontba" NameEng="Ontba" NameRus="Онтба" X="99192" Y="19435" Type="1"/>
-        <MapText Code="Pa-aung" NameEng="Pa-aung" NameRus="Па-аунг" X="86633" Y="29011" Type="1"/>
-        <MapText Code="Panghta" NameEng="Panghta" NameRus="Пангта" X="129507" Y="63338" Type="1"/>
-        <MapText Code="Pantha" NameEng="Pantha" NameRus="Пантха" X="42937" Y="13668" Type="1"/>
-        <MapText Code="Pawse" NameEng="Pawse" NameRus="Посе" X="109481" Y="18687" Type="1"/>
-        <MapText Code="Pegon" NameEng="Pegon" NameRus="Пегон" X="130469" Y="60999" Type="1"/>
-        <MapText Code="Phaisat" NameEng="Phaisat" NameRus="Файсат" X="56419" Y="83469" Type="1"/>
-        <MapText Code="Phunan" NameEng="Phunan" NameRus="Фунан" X="11311" Y="50585" Type="1"/>
-        <MapText Code="Pintha" NameEng="Pintha" NameRus="Пинта" X="102443" Y="33427" Type="1"/>
-        <MapText Code="Puttha" NameEng="Puttha" NameRus="Путтха" X="46577" Y="3199" Type="1"/>
-        <MapText Code="Sandang" NameEng="Sandang" NameRus="Санданг" X="17530" Y="80446" Type="1"/>
-        <MapText Code="Sarbung" NameEng="Sarbung" NameRus="Сарбунг" X="53816" Y="76827" Type="1"/>
-        <MapText Code="Sarum" NameEng="Sarum" NameRus="Сарум" X="36780" Y="70361" Type="1"/>
-        <MapText Code="Sauksaik" NameEng="Sauksaik" NameRus="Сауксайк" X="96871" Y="90434" Type="1"/>
-        <MapText Code="Sawkaw" NameEng="Sawkaw" NameRus="Соко" X="89860" Y="11548" Type="1"/>
-        <MapText Code="Sawombung" NameEng="Sawombung" NameRus="Савомбунг" X="17444" Y="97596" Type="1"/>
-        <MapText Code="Setpyigyaung" NameEng="Setpyigyaung" NameRus="Сетпьигьяун" X="97889" Y="30014" Type="1"/>
-        <MapText Code="Se-U" NameEng="Se-U" NameRus="Се-У" X="123567" Y="75590" Type="1"/>
-        <MapText Code="Shamol" NameEng="Shamol" NameRus="Шамол" X="32341" Y="41343" Type="1"/>
-        <MapText Code="Shenam" NameEng="Shenam" NameRus="Шенам" X="22104" Y="46087" Type="1"/>
-        <MapText Code="Shwe-inbin" NameEng="Shwe-inbin" NameRus="Шве-Инбин" X="94761" Y="3695" Type="1"/>
-        <MapText Code="Shwelebo" NameEng="Shwelebo" NameRus="Швелебо" X="71809" Y="73960" Type="1"/>
-        <MapText Code="Sibong" NameEng="Sibong" NameRus="Сибонг" X="38254" Y="36716" Type="1"/>
-        <MapText Code="Simol_Laikol" NameEng="Simol Laikol" NameRus="Симол Лайкол" X="50371" Y="80007" Type="1"/>
-        <MapText Code="Sitsegon" NameEng="Sitsegon" NameRus="Ситсегон" X="115066" Y="51405" Type="1"/>
-        <MapText Code="Steamer_Station" NameEng="Steamer Station" NameRus="Пароходная станция" X="82308" Y="16912" Type="1"/>
-        <MapText Code="Steamer_Station2" NameEng="Steamer Station" NameRus="Пароходная станция" X="75946" Y="15626" Type="1"/>
-        <MapText Code="Steamer_Station3" NameEng="Steamer Station" NameRus="Пароходная станция" X="86099" Y="48115" Type="1"/>
-        <MapText Code="Steamer_Station4" NameEng="Steamer Station" NameRus="Пароходная станция" X="75209" Y="11528" Type="1"/>
-        <MapText Code="Sunnan" NameEng="Sunnan" NameRus="Суннан" X="95035" Y="38108" Type="1"/>
-        <MapText Code="Tapan" NameEng="Tapan" NameRus="Тапан" X="128256" Y="66834" Type="1"/>
-        <MapText Code="Tarao" NameEng="Tarao" NameRus="Тарао" X="21685" Y="33881" Type="1"/>
-        <MapText Code="Tarong" NameEng="Tarong" NameRus="Таронг" X="44657" Y="69217" Type="1"/>
-        <MapText Code="Tarpha" NameEng="Tarpha" NameRus="Тарфа" X="90459" Y="30273" Type="1"/>
-        <MapText Code="Taungbala" NameEng="Taungbala" NameRus="Таунбала" X="87899" Y="53216" Type="1"/>
-        <MapText Code="Taungbaw" NameEng="Taungbaw" NameRus="Таунбо" X="83347" Y="52529" Type="1"/>
-        <MapText Code="Tawmagon" NameEng="Tawmagon" NameRus="Томагон" X="107196" Y="45290" Type="1"/>
-        <MapText Code="Tawmaseik" NameEng="Tawmaseik" NameRus="Томасейк" X="96117" Y="39813" Type="1"/>
-        <MapText Code="Tawngbola" NameEng="Tawngbola" NameRus="Тонгбола" X="119033" Y="81502" Type="1"/>
-        <MapText Code="Tayawzeik" NameEng="Tayawzeik" NameRus="Тайозейк" X="83932" Y="62435" Type="1"/>
-        <MapText Code="Tellou" NameEng="Tellou" NameRus="Теллоу" X="23138" Y="94324" Type="1"/>
-        <MapText Code="Tema" NameEng="Tema" NameRus="Тема" X="104133" Y="20952" Type="1"/>
-        <MapText Code="Tengnoupal" NameEng="Tengnoupal" NameRus="Тенгнупал" X="29456" Y="44062" Type="1"/>
-        <MapText Code="Thabyedaw" NameEng="Thabyedaw" NameRus="Табедо" X="99353" Y="2374" Type="1"/>
-        <MapText Code="Thapangon" NameEng="Thapangon" NameRus="Тапангон" X="124906" Y="88969" Type="1"/>
-        <MapText Code="Thayetkon" NameEng="Thayetkon" NameRus="Тайетко" X="81283" Y="23901" Type="1"/>
-        <MapText Code="Thazi" NameEng="Thazi" NameRus="Тази" X="102475" Y="38092" Type="1"/>
-        <MapText Code="Thetla" NameEng="Thetla" NameRus="Тетла" X="122015" Y="35936" Type="1"/>
-        <MapText Code="Tingy" NameEng="Tingy" NameRus="Тинги" X="75862" Y="9863" Type="1"/>
-        <MapText Code="Tolbung" NameEng="Tolbung" NameRus="Толбунг" X="10158" Y="4943" Type="1"/>
-        <MapText Code="Tonzi" NameEng="Tonzi" NameRus="Тонзи" X="114364" Y="69525" Type="1"/>
-        <MapText Code="Uchiwa" NameEng="Uchiwa" NameRus="Учива" X="5016" Y="66334" Type="1"/>
-        <MapText Code="Wabagai" NameEng="Wabagai" NameRus="Вабагай" X="7732" Y="58988" Type="1"/>
-        <MapText Code="Waikhong" NameEng="Waikhong" NameRus="Вайкхонг" X="7040" Y="47319" Type="1"/>
-        <MapText Code="Wangol" NameEng="Wangol" NameRus="Вангол" X="5252" Y="77685" Type="1"/>
-        <MapText Code="Wayontha" NameEng="Wayontha" NameRus="Вайонта" X="134457" Y="9327" Type="1"/>
-        <MapText Code="Wedaung" NameEng="Wedaung" NameRus="Ведаун" X="86882" Y="47651" Type="1"/>
-        <MapText Code="Wehek" NameEng="Wehek" NameRus="Веек" X="81676" Y="47228" Type="1"/>
-        <MapText Code="Yambem" NameEng="Yambem" NameRus="Ямбем" X="15660" Y="74550" Type="1"/>
-        <MapText Code="Yaza" NameEng="Yaza" NameRus="Яза" X="109443" Y="74183" Type="1"/>
-        <MapText Code="Ye-a" NameEng="Ye-a" NameRus="Е-а" X="58057" Y="27701" Type="1"/>
-        <MapText Code="Yele" NameEng="Yele" NameRus="Еле" X="111198" Y="94399" Type="1"/>
-        <MapText Code="Yumnam_Longmeidong" NameEng="Yumnam Longmeidong" NameRus="Юмнам Лонгмейдонг" X="7783" Y="49698" Type="1"/>
-        <MapText Code="Yu-ywa" NameEng="Yu-ywa" NameRus="Ю-ива" X="92055" Y="13502" Type="1"/>
-        <MapText Code="Ywadaw" NameEng="Ywadaw" NameRus="Ивадо" X="62070" Y="42960" Type="1"/>
-        <MapText Code="Ywathit" NameEng="Ywathit" NameRus="Иватхит" X="134117" Y="75774" Type="1"/>
-        <MapText Code="Zaungkalaw" NameEng="Zaungkalaw" NameRus="Заунгкало" X="93970" Y="44395" Type="1"/>
-        <MapText Code="Zawgyi" NameEng="Zawgyi" NameRus="Зогьи" X="93815" Y="24893" Type="1"/>
-        <MapText Code="Zedi" NameEng="Zedi" NameRus="Зеди" X="70372" Y="79724" Type="1"/>
-        <MapText Code="Zibyugon" NameEng="Zibyugon" NameRus="Зибьюгон" X="89442" Y="66019" Type="1"/>
-        <MapText Code="Zigon" NameEng="Zigon" NameRus="Зигон" X="97461" Y="20695" Type="1"/>
-        <MapText Code="Aberdeen" NameEng="Aberdeen" NameRus="Абердин" X="135207" Y="23383" Type="2"/>
-        <MapText Code="Homalin" NameEng="Homalin" NameRus="Хомалин" X="108254" Y="96464" Type="2"/>
-        <MapText Code="Imphal_Main" NameEng="Imphal Main" NameRus="Импхал Мейн" X="3947" Y="96329" Type="2"/>
-        <MapText Code="Kangla" NameEng="Kangla" NameRus="Кангла" X="13272" Y="93200" Type="2"/>
-        <MapText Code="Palel" NameEng="Palel" NameRus="Палел" X="16601" Y="54792" Type="2"/>
-        <MapText Code="Sapam" NameEng="Sapam" NameRus="Сапам" X="14709" Y="58523" Type="2"/>
-        <MapText Code="Sittaung" NameEng="Sittaung" NameRus="Ситаун" X="73911" Y="17711" Type="2"/>
-        <MapText Code="Tamu" NameEng="Tamu" NameRus="Таму" X="47766" Y="24718" Type="2"/>
-        <MapText Code="Tulihal" NameEng="Tulihal" NameRus="Тулихал" X="6292" Y="85714" Type="2"/>
-        <MapText Code="Wangjing" NameEng="Wangjing" NameRus="Ванцзин" X="18459" Y="67212" Type="2"/>
-        <MapText Code="Imphal" NameEng="Imphal" NameRus="Импхал" X="8794" Y="90414" Type="3"/>
-        <MapText Code="Chindwin" NameEng="Chindwin" NameRus="Чиндуин" X="84354" Y="28813" Type="3"/>
-        <MapText Code="Yu" NameEng="Yu River" NameRus="Ю" X="57171" Y="30194" Type="3"/>
-        <MapText Code="Kabaw_Valley" NameEng="Kabaw Valley" NameRus="долина Кабо" X="54002" Y="36696" Type="11"/>
+        <MapText Code="Aihang" NameEng="Aihang" NameRus="РђР№С…Р°РЅРі" X="11921" Y="46231" Type="1"/>
+        <MapText Code="Andro" NameEng="Andro" NameRus="РђРЅРґСЂРѕ" X="18343" Y="83379" Type="1"/>
+        <MapText Code="Andro_Khunou" NameEng="Andro Khunou" NameRus="РђРЅРґСЂРѕ РҐСѓРЅСѓ" X="19907" Y="85224" Type="1"/>
+        <MapText Code="Angbreshu" NameEng="Angbreshu" NameRus="РђРЅРіР±СЂРµС€Сѓ" X="30865" Y="36040" Type="1"/>
+        <MapText Code="Auklaung" NameEng="Auklaung" NameRus="РђСѓРєР»Р°СѓРЅ" X="74757" Y="7385" Type="1"/>
+        <MapText Code="Chabungba" NameEng="Chabungba" NameRus="Р§Р°Р±СѓРЅРіР±Р°" X="3344" Y="68976" Type="1"/>
+        <MapText Code="Chaiyang" NameEng="Chaiyang" NameRus="Р§Р°Р№Р°РЅРі" X="11773" Y="37564" Type="1"/>
+        <MapText Code="Charanjing_Khulen" NameEng="Charanjing Khulen" NameRus="Р§Р°СЂР°РЅРґР¶РёРЅРі РҐСѓР»РµРЅ" X="13033" Y="32176" Type="1"/>
+        <MapText Code="Charanjing_Khunou" NameEng="Charanjing Khunou" NameRus="Р§Р°СЂР°РЅРґР¶РёРЅРі РҐСѓРЅСѓ" X="11164" Y="35874" Type="1"/>
+        <MapText Code="Charing_Cross" NameEng="Charing Cross" NameRus="Р§Р°СЂРёРЅРі РљСЂРѕСЃСЃ" X="47883" Y="22879" Type="1"/>
+        <MapText Code="Chassud" NameEng="Chassud" NameRus="Р§Р°СЃСЃСѓРґ" X="69300" Y="95182" Type="1"/>
+        <MapText Code="Chesaba" NameEng="Chesaba" NameRus="Р§РµСЃР°Р±Р°" X="6325" Y="72343" Type="1"/>
+        <MapText Code="Chingsou" NameEng="Chingsou" NameRus="Р§РёРЅРіСЃРѕ" X="44686" Y="80285" Type="1"/>
+        <MapText Code="Chinywa" NameEng="Chinywa" NameRus="Р§РёРЅРёРІР°" X="50749" Y="9877" Type="1"/>
+        <MapText Code="Chongkat" NameEng="Chongkat" NameRus="Р§РѕРЅРіРєР°С‚" X="58563" Y="82560" Type="1"/>
+        <MapText Code="Ferry" NameEng="Ferry" NameRus="РџР°СЂРѕРј" X="71942" Y="3434" Type="1"/>
+        <MapText Code="Ferry2" NameEng="Ferry" NameRus="РџР°СЂРѕРј" X="89086" Y="53824" Type="1"/>
+        <MapText Code="Hanggul" NameEng="Hanggul" NameRus="РҐР°РЅРіРіСѓР»" X="4096" Y="62669" Type="1"/>
+        <MapText Code="Hehkam" NameEng="Hehkam" NameRus="РќРµРєР°Рј" X="119537" Y="93515" Type="1"/>
+        <MapText Code="Henin" NameEng="Henin" NameRus="РҐРµРЅРёРЅ" X="72867" Y="4747" Type="1"/>
+        <MapText Code="Hiwazingon" NameEng="Hiwazingon" NameRus="РҐРёРІР°Р·РёРЅРіРѕРЅ" X="118851" Y="86736" Type="1"/>
+        <MapText Code="Hkodaung" NameEng="Hkodaung" NameRus="РҐРєРѕРґР°СѓРЅ" X="107034" Y="79342" Type="1"/>
+        <MapText Code="Hkonsa" NameEng="Hkonsa" NameRus="РҐРєРѕРЅСЃР°" X="128824" Y="79947" Type="1"/>
+        <MapText Code="Hlezeik" NameEng="Hlezeik" NameRus="РҐР»РµР·РµР№Рє" X="47569" Y="10855" Type="1"/>
+        <MapText Code="Htongkadin" NameEng="Htongkadin" NameRus="РҐС‚РѕРЅРіРєР°РґРёРЅ" X="60024" Y="44975" Type="1"/>
+        <MapText Code="Htongkyaw" NameEng="Htongkyaw" NameRus="РќС‚РѕРЅРіРєСЊРѕ" X="63904" Y="53081" Type="1"/>
+        <MapText Code="Ingon" NameEng="Ingon" NameRus="РРЅРіРѕРЅ" X="118774" Y="38535" Type="1"/>
+        <MapText Code="Itham" NameEng="Itham" NameRus="РС‚С…Р°РЅ" X="39488" Y="91905" Type="1"/>
+        <MapText Code="Kakching" NameEng="Kakching" NameRus="РљР°РєС‡РёРЅРі" X="12215" Y="57144" Type="1"/>
+        <MapText Code="Kakching_Khunou" NameEng="Kakching Khunou" NameRus="РљР°РєС‡РёРЅРі РҐСѓРЅСѓ" X="4820" Y="45674" Type="1"/>
+        <MapText Code="Kambachingjin" NameEng="Kambachingjin" NameRus="РљР°РјР±Р°С‡РёРЅС†Р·РёРЅ" X="19839" Y="93177" Type="1"/>
+        <MapText Code="Kambongphut" NameEng="Kambongphut" NameRus="РљР°РјР±РѕРЅРїС…СѓС‚" X="16594" Y="91535" Type="1"/>
+        <MapText Code="Kawe" NameEng="Kawe" NameRus="РљР°РІРµ" X="82896" Y="19739" Type="1"/>
+        <MapText Code="Kawkan" NameEng="Kawkan" NameRus="РљРѕРєР°РЅ" X="96275" Y="36600" Type="1"/>
+        <MapText Code="Kawkkwa" NameEng="Kawkkwa" NameRus="РљРѕРєРєРІР°" X="103710" Y="42716" Type="1"/>
+        <MapText Code="Kaya" NameEng="Kaya" NameRus="РљР°Р№Р°" X="76432" Y="16042" Type="1"/>
+        <MapText Code="Kaya2" NameEng="Kaya" NameRus="РљР°Р№Р°" X="136387" Y="13848" Type="1"/>
+        <MapText Code="Keirak" NameEng="Keirak" NameRus="РљРµР№СЂР°Рє" X="10659" Y="58967" Type="1"/>
+        <MapText Code="Keplai_Ching" NameEng="Keplai Ching" NameRus="РљРµРїР»Р°Р№ Р§РёРЅРі" X="15404" Y="29397" Type="1"/>
+        <MapText Code="Khetri" NameEng="Khetri" NameRus="РљС…РµС‚СЂРё" X="12371" Y="82089" Type="1"/>
+        <MapText Code="Khoibu" NameEng="Khoibu" NameRus="РҐРѕР№Р±Сѓ" X="38864" Y="60983" Type="1"/>
+        <MapText Code="Khongbung" NameEng="Khongbung" NameRus="РҐРѕРЅРіР±СѓРЅРі" X="49538" Y="55789" Type="1"/>
+        <MapText Code="Khongjan" NameEng="Khongjan" NameRus="РҐРѕРЅРіРґР¶Р°РЅ" X="56884" Y="88682" Type="1"/>
+        <MapText Code="Khongkhang" NameEng="Khongkhang" NameRus="РҐРѕРЅРіС…Р°РЅРі" X="33919" Y="41162" Type="1"/>
+        <MapText Code="Khunbi" NameEng="Khunbi" NameRus="РҐСѓРЅР±Рё" X="27140" Y="56551" Type="1"/>
+        <MapText Code="Kiydra" NameEng="Kiydra" NameRus="РљРёР№РґСЂР°" X="13110" Y="72392" Type="1"/>
+        <MapText Code="Kodaungma" NameEng="Kodaungma" NameRus="РљРѕРґР°СѓРЅРјР°" X="134231" Y="52550" Type="1"/>
+        <MapText Code="Kondan" NameEng="Kondan" NameRus="РљРѕРЅРґР°РЅ" X="131349" Y="78787" Type="1"/>
+        <MapText Code="Kongbei" NameEng="Kongbei" NameRus="РљРѕРЅРіР±РµР№" X="24694" Y="36390" Type="1"/>
+        <MapText Code="Kongjol" NameEng="Kongjol" NameRus="РљРѕРЅРіРґР¶РѕР»" X="14132" Y="20387" Type="1"/>
+        <MapText Code="Kouksa" NameEng="Kouksa" NameRus="РљСѓРєСЃР°" X="112607" Y="28369" Type="1"/>
+        <MapText Code="Kyauksedi" NameEng="Kyauksedi" NameRus="РљСЊСЏСѓРєСЃРµРґРё" X="57857" Y="21224" Type="1"/>
+        <MapText Code="Laiching" NameEng="Laiching" NameRus="Р›Р°Р№С‡РёРЅРі" X="32205" Y="19911" Type="1"/>
+        <MapText Code="Laimanai" NameEng="Laimanai" NameRus="Р›Р°Р№РјР°РЅР°Р№" X="8119" Y="51344" Type="1"/>
+        <MapText Code="Lilong" NameEng="Lilong" NameRus="Р›РёР»РѕРЅРі" X="8441" Y="80286" Type="1"/>
+        <MapText Code="Linpha" NameEng="Linpha" NameRus="Р›РёРЅС„Р°" X="80213" Y="26688" Type="1"/>
+        <MapText Code="Lisamlok_Khunou" NameEng="Lisamlok Khunou" NameRus="Р›РёСЃР°РјР»РѕРє РҐРёРЅСѓ" X="21491" Y="76489" Type="1"/>
+        <MapText Code="Loushing" NameEng="Loushing" NameRus="Р›СѓС€РёРЅРі" X="53464" Y="92518" Type="1"/>
+        <MapText Code="Lwin-u" NameEng="Lwin-u" NameRus="Р›РІРёРЅ-СЋ" X="100440" Y="49984" Type="1"/>
+        <MapText Code="Maibi_Khunou" NameEng="Maibi Khunou" NameRus="РњР°Р№Р±Рё РҐСѓРЅРѕ" X="28939" Y="58013" Type="1"/>
+        <MapText Code="Maipi" NameEng="Maipi" NameRus="РњР°Р№РїРё" X="35343" Y="32708" Type="1"/>
+        <MapText Code="Malon" NameEng="Malon" NameRus="РњР°Р»РѕРЅ" X="127646" Y="93949" Type="1"/>
+        <MapText Code="Man_Huna" NameEng="Man Huna" NameRus="РњР°РЅ РҐСѓРЅР°" X="123878" Y="73027" Type="1"/>
+        <MapText Code="Manata" NameEng="Manata" NameRus="РњР°РЅР°С‚Р°" X="92277" Y="26289" Type="1"/>
+        <MapText Code="Manmaw" NameEng="Manmaw" NameRus="РњР°РЅРјРѕ" X="97965" Y="5014" Type="1"/>
+        <MapText Code="ManMaw" NameEng="Manmaw" NameRus="РњР°РЅРјРѕ" X="92020" Y="34598" Type="1"/>
+        <MapText Code="Mauksapha" NameEng="Mauksapha" NameRus="РњРѕРєСЃР°С„Р°" X="85301" Y="17095" Type="1"/>
+        <MapText Code="Mayengba_Lamjaa" NameEng="Mayengba Lamjaa" NameRus="РњР°Р№РµРЅРіР±Р° Р›Р°РјРґР¶Р°Р°" X="8626" Y="53639" Type="1"/>
+        <MapText Code="Meitram" NameEng="Meitram" NameRus="РњР°Р№С‚СЂРµРј" X="4119" Y="81830" Type="1"/>
+        <MapText Code="Metkalet" NameEng="Metkalet" NameRus="РњРµС‚РєР°Р»РµС‚" X="117855" Y="65382" Type="1"/>
+        <MapText Code="Mezali" NameEng="Mezali" NameRus="РњРµР·Р°Р»Рё" X="125198" Y="69371" Type="1"/>
+        <MapText Code="Minbwe" NameEng="Minbwe" NameRus="РњРёРЅР±РІРµ" X="103463" Y="85352" Type="1"/>
+        <MapText Code="Mintha" NameEng="Mintha" NameRus="РњРёРЅС‚Р°" X="57200" Y="48697" Type="1"/>
+        <MapText Code="Moirangprem" NameEng="Moirangprem" NameRus="РњРѕР№СЂР°РЅРіРїСЂРµРј" X="27911" Y="88043" Type="1"/>
+        <MapText Code="Monkali" NameEng="Monkali" NameRus="РњРѕРЅРєР°Р»Рё" X="107374" Y="87653" Type="1"/>
+        <MapText Code="Moreh" NameEng="Moreh" NameRus="РњРѕСЂРµС…" X="45207" Y="25663" Type="1"/>
+        <MapText Code="Moreh_Supply_Depot" NameEng="Moreh Supply Depot" NameRus="Р±Р°Р·Р° СЃРЅР°Р±Р¶РµРЅРёСЏ РњРѕСЂРµС…" X="45643" Y="24343" Type="1"/>
+        <MapText Code="Myaukkon" NameEng="Myaukkon" NameRus="РњСЊСЏСѓРєРѕРЅ" X="113919" Y="94121" Type="1"/>
+        <MapText Code="Myothit" NameEng="Myothit" NameRus="РњР№РѕС‚С…РёС‚" X="69044" Y="63284" Type="1"/>
+        <MapText Code="Nache" NameEng="Nache" NameRus="РќР°С‡Рµ" X="56614" Y="32726" Type="1"/>
+        <MapText Code="Naheimkaw" NameEng="Naheimkaw" NameRus="РќР°С…РµР№РјРєРѕ" X="92364" Y="74674" Type="1"/>
+        <MapText Code="Namhkan" NameEng="Namhkan" NameRus="РќР°РјС…РєР°РЅ" X="91968" Y="66994" Type="1"/>
+        <MapText Code="Nammaw" NameEng="Nammaw" NameRus="РќР°РјРјРѕ" X="128497" Y="82266" Type="1"/>
+        <MapText Code="Namphou_Phasna" NameEng="Namphou Phasna" NameRus="РќР°РјС„Сѓ Р¤Р°СЃРЅР°" X="6782" Y="21214" Type="1"/>
+        <MapText Code="Namsaga" NameEng="Namsaga" NameRus="РќР°РјСЃР°РіР°" X="128462" Y="84914" Type="1"/>
+        <MapText Code="Nankan" NameEng="Nankan" NameRus="РќР°РЅРєР°РЅ" X="103777" Y="3532" Type="1"/>
+        <MapText Code="Nantat" NameEng="Nantat" NameRus="РќР°РЅС‚Р°С‚" X="82234" Y="50410" Type="1"/>
+        <MapText Code="Nanyinzeik" NameEng="Nanyinzeik" NameRus="РќР°РЅСЊРёРЅР·РµР№Рє" X="89533" Y="28779" Type="1"/>
+        <MapText Code="Napet" NameEng="Napet" NameRus="РќР°РїРµС‚" X="20880" Y="96011" Type="1"/>
+        <MapText Code="Natset" NameEng="Natset" NameRus="РќР°С‚СЃРµС‚" X="87085" Y="59556" Type="1"/>
+        <MapText Code="Naugma" NameEng="Naugma" NameRus="РќР°СѓРіРјР°" X="127019" Y="46206" Type="1"/>
+        <MapText Code="Naukpaw" NameEng="Naukpaw" NameRus="РќР°СѓРєРїРѕ" X="93829" Y="8508" Type="1"/>
+        <MapText Code="Naungphatan" NameEng="Naungphatan" NameRus="РќР°СѓРЅРіС„Р°С‚Р°РЅ" X="105061" Y="31440" Type="1"/>
+        <MapText Code="Nawagsankyin" NameEng="Nawagsankyin" NameRus="РќР°РІР°РіСЃР°РЅРєРёРЅ" X="93421" Y="81428" Type="1"/>
+        <MapText Code="Nawnghkam" NameEng="Nawnghkam" NameRus="РќРѕРЅС‚РєР°Рј" X="135338" Y="89273" Type="1"/>
+        <MapText Code="Nepali_Khuti" NameEng="Nepali Khuti" NameRus="РќРµРїР°Р»Рё РҐСѓС‚Рё" X="61969" Y="41045" Type="1"/>
+        <MapText Code="Nethat" NameEng="Nethat" NameRus="РќРµС‚С…Р°С‚" X="123897" Y="78278" Type="1"/>
+        <MapText Code="Nga-ywa" NameEng="Nga-ywa" NameRus="РќРіР°-РёРІР°" X="76421" Y="14357" Type="1"/>
+        <MapText Code="Nonen_Lukokkhul" NameEng="Nonen Lukokkhul" NameRus="РќРѕРЅРµРЅ Р›СѓРєРѕРєС…СѓР»" X="23230" Y="92223" Type="1"/>
+        <MapText Code="Nongman_Khunou" NameEng="Nongman Khunou" NameRus="РќРѕРіРјР°РЅ РҐСѓРЅСѓ" X="26312" Y="79166" Type="1"/>
+        <MapText Code="Nungdam" NameEng="Nungdam" NameRus="РќСѓРЅРіРґР°Рј" X="34718" Y="94119" Type="1"/>
+        <MapText Code="Oksu" NameEng="Oksu" NameRus="РћРєСЃСѓ" X="22455" Y="89383" Type="1"/>
+        <MapText Code="Ontba" NameEng="Ontba" NameRus="РћРЅС‚Р±Р°" X="99192" Y="19435" Type="1"/>
+        <MapText Code="Pa-aung" NameEng="Pa-aung" NameRus="РџР°-Р°СѓРЅРі" X="86633" Y="29011" Type="1"/>
+        <MapText Code="Panghta" NameEng="Panghta" NameRus="РџР°РЅРіС‚Р°" X="129507" Y="63338" Type="1"/>
+        <MapText Code="Pantha" NameEng="Pantha" NameRus="РџР°РЅС‚С…Р°" X="42937" Y="13668" Type="1"/>
+        <MapText Code="Pawse" NameEng="Pawse" NameRus="РџРѕСЃРµ" X="109481" Y="18687" Type="1"/>
+        <MapText Code="Pegon" NameEng="Pegon" NameRus="РџРµРіРѕРЅ" X="130469" Y="60999" Type="1"/>
+        <MapText Code="Phaisat" NameEng="Phaisat" NameRus="Р¤Р°Р№СЃР°С‚" X="56419" Y="83469" Type="1"/>
+        <MapText Code="Phunan" NameEng="Phunan" NameRus="Р¤СѓРЅР°РЅ" X="11311" Y="50585" Type="1"/>
+        <MapText Code="Pintha" NameEng="Pintha" NameRus="РџРёРЅС‚Р°" X="102443" Y="33427" Type="1"/>
+        <MapText Code="Puttha" NameEng="Puttha" NameRus="РџСѓС‚С‚С…Р°" X="46577" Y="3199" Type="1"/>
+        <MapText Code="Sandang" NameEng="Sandang" NameRus="РЎР°РЅРґР°РЅРі" X="17530" Y="80446" Type="1"/>
+        <MapText Code="Sarbung" NameEng="Sarbung" NameRus="РЎР°СЂР±СѓРЅРі" X="53816" Y="76827" Type="1"/>
+        <MapText Code="Sarum" NameEng="Sarum" NameRus="РЎР°СЂСѓРј" X="36780" Y="70361" Type="1"/>
+        <MapText Code="Sauksaik" NameEng="Sauksaik" NameRus="РЎР°СѓРєСЃР°Р№Рє" X="96871" Y="90434" Type="1"/>
+        <MapText Code="Sawkaw" NameEng="Sawkaw" NameRus="РЎРѕРєРѕ" X="89860" Y="11548" Type="1"/>
+        <MapText Code="Sawombung" NameEng="Sawombung" NameRus="РЎР°РІРѕРјР±СѓРЅРі" X="17444" Y="97596" Type="1"/>
+        <MapText Code="Setpyigyaung" NameEng="Setpyigyaung" NameRus="РЎРµС‚РїСЊРёРіСЊСЏСѓРЅ" X="97889" Y="30014" Type="1"/>
+        <MapText Code="Se-U" NameEng="Se-U" NameRus="РЎРµ-РЈ" X="123567" Y="75590" Type="1"/>
+        <MapText Code="Shamol" NameEng="Shamol" NameRus="РЁР°РјРѕР»" X="32341" Y="41343" Type="1"/>
+        <MapText Code="Shenam" NameEng="Shenam" NameRus="РЁРµРЅР°Рј" X="22104" Y="46087" Type="1"/>
+        <MapText Code="Shwe-inbin" NameEng="Shwe-inbin" NameRus="РЁРІРµ-РРЅР±РёРЅ" X="94761" Y="3695" Type="1"/>
+        <MapText Code="Shwelebo" NameEng="Shwelebo" NameRus="РЁРІРµР»РµР±Рѕ" X="71809" Y="73960" Type="1"/>
+        <MapText Code="Sibong" NameEng="Sibong" NameRus="РЎРёР±РѕРЅРі" X="38254" Y="36716" Type="1"/>
+        <MapText Code="Simol_Laikol" NameEng="Simol Laikol" NameRus="РЎРёРјРѕР» Р›Р°Р№РєРѕР»" X="50371" Y="80007" Type="1"/>
+        <MapText Code="Sitsegon" NameEng="Sitsegon" NameRus="РЎРёС‚СЃРµРіРѕРЅ" X="115066" Y="51405" Type="1"/>
+        <MapText Code="Steamer_Station" NameEng="Steamer Station" NameRus="РџР°СЂРѕС…РѕРґРЅР°СЏ СЃС‚Р°РЅС†РёСЏ" X="82308" Y="16912" Type="1"/>
+        <MapText Code="Steamer_Station2" NameEng="Steamer Station" NameRus="РџР°СЂРѕС…РѕРґРЅР°СЏ СЃС‚Р°РЅС†РёСЏ" X="75946" Y="15626" Type="1"/>
+        <MapText Code="Steamer_Station3" NameEng="Steamer Station" NameRus="РџР°СЂРѕС…РѕРґРЅР°СЏ СЃС‚Р°РЅС†РёСЏ" X="86099" Y="48115" Type="1"/>
+        <MapText Code="Steamer_Station4" NameEng="Steamer Station" NameRus="РџР°СЂРѕС…РѕРґРЅР°СЏ СЃС‚Р°РЅС†РёСЏ" X="75209" Y="11528" Type="1"/>
+        <MapText Code="Sunnan" NameEng="Sunnan" NameRus="РЎСѓРЅРЅР°РЅ" X="95035" Y="38108" Type="1"/>
+        <MapText Code="Tapan" NameEng="Tapan" NameRus="РўР°РїР°РЅ" X="128256" Y="66834" Type="1"/>
+        <MapText Code="Tarao" NameEng="Tarao" NameRus="РўР°СЂР°Рѕ" X="21685" Y="33881" Type="1"/>
+        <MapText Code="Tarong" NameEng="Tarong" NameRus="РўР°СЂРѕРЅРі" X="44657" Y="69217" Type="1"/>
+        <MapText Code="Tarpha" NameEng="Tarpha" NameRus="РўР°СЂС„Р°" X="90459" Y="30273" Type="1"/>
+        <MapText Code="Taungbala" NameEng="Taungbala" NameRus="РўР°СѓРЅР±Р°Р»Р°" X="87899" Y="53216" Type="1"/>
+        <MapText Code="Taungbaw" NameEng="Taungbaw" NameRus="РўР°СѓРЅР±Рѕ" X="83347" Y="52529" Type="1"/>
+        <MapText Code="Tawmagon" NameEng="Tawmagon" NameRus="РўРѕРјР°РіРѕРЅ" X="107196" Y="45290" Type="1"/>
+        <MapText Code="Tawmaseik" NameEng="Tawmaseik" NameRus="РўРѕРјР°СЃРµР№Рє" X="96117" Y="39813" Type="1"/>
+        <MapText Code="Tawngbola" NameEng="Tawngbola" NameRus="РўРѕРЅРіР±РѕР»Р°" X="119033" Y="81502" Type="1"/>
+        <MapText Code="Tayawzeik" NameEng="Tayawzeik" NameRus="РўР°Р№РѕР·РµР№Рє" X="83932" Y="62435" Type="1"/>
+        <MapText Code="Tellou" NameEng="Tellou" NameRus="РўРµР»Р»РѕСѓ" X="23138" Y="94324" Type="1"/>
+        <MapText Code="Tema" NameEng="Tema" NameRus="РўРµРјР°" X="104133" Y="20952" Type="1"/>
+        <MapText Code="Tengnoupal" NameEng="Tengnoupal" NameRus="РўРµРЅРіРЅСѓРїР°Р»" X="29456" Y="44062" Type="1"/>
+        <MapText Code="Thabyedaw" NameEng="Thabyedaw" NameRus="РўР°Р±РµРґРѕ" X="99353" Y="2374" Type="1"/>
+        <MapText Code="Thapangon" NameEng="Thapangon" NameRus="РўР°РїР°РЅРіРѕРЅ" X="124906" Y="88969" Type="1"/>
+        <MapText Code="Thayetkon" NameEng="Thayetkon" NameRus="РўР°Р№РµС‚РєРѕ" X="81283" Y="23901" Type="1"/>
+        <MapText Code="Thazi" NameEng="Thazi" NameRus="РўР°Р·Рё" X="102475" Y="38092" Type="1"/>
+        <MapText Code="Thetla" NameEng="Thetla" NameRus="РўРµС‚Р»Р°" X="122015" Y="35936" Type="1"/>
+        <MapText Code="Tingy" NameEng="Tingy" NameRus="РўРёРЅРіРё" X="75862" Y="9863" Type="1"/>
+        <MapText Code="Tolbung" NameEng="Tolbung" NameRus="РўРѕР»Р±СѓРЅРі" X="10158" Y="4943" Type="1"/>
+        <MapText Code="Tonzi" NameEng="Tonzi" NameRus="РўРѕРЅР·Рё" X="114364" Y="69525" Type="1"/>
+        <MapText Code="Uchiwa" NameEng="Uchiwa" NameRus="РЈС‡РёРІР°" X="5016" Y="66334" Type="1"/>
+        <MapText Code="Wabagai" NameEng="Wabagai" NameRus="Р’Р°Р±Р°РіР°Р№" X="7732" Y="58988" Type="1"/>
+        <MapText Code="Waikhong" NameEng="Waikhong" NameRus="Р’Р°Р№РєС…РѕРЅРі" X="7040" Y="47319" Type="1"/>
+        <MapText Code="Wangol" NameEng="Wangol" NameRus="Р’Р°РЅРіРѕР»" X="5252" Y="77685" Type="1"/>
+        <MapText Code="Wayontha" NameEng="Wayontha" NameRus="Р’Р°Р№РѕРЅС‚Р°" X="134457" Y="9327" Type="1"/>
+        <MapText Code="Wedaung" NameEng="Wedaung" NameRus="Р’РµРґР°СѓРЅ" X="86882" Y="47651" Type="1"/>
+        <MapText Code="Wehek" NameEng="Wehek" NameRus="Р’РµРµРє" X="81676" Y="47228" Type="1"/>
+        <MapText Code="Yambem" NameEng="Yambem" NameRus="РЇРјР±РµРј" X="15660" Y="74550" Type="1"/>
+        <MapText Code="Yaza" NameEng="Yaza" NameRus="РЇР·Р°" X="109443" Y="74183" Type="1"/>
+        <MapText Code="Ye-a" NameEng="Ye-a" NameRus="Р•-Р°" X="58057" Y="27701" Type="1"/>
+        <MapText Code="Yele" NameEng="Yele" NameRus="Р•Р»Рµ" X="111198" Y="94399" Type="1"/>
+        <MapText Code="Yumnam_Longmeidong" NameEng="Yumnam Longmeidong" NameRus="Р®РјРЅР°Рј Р›РѕРЅРіРјРµР№РґРѕРЅРі" X="7783" Y="49698" Type="1"/>
+        <MapText Code="Yu-ywa" NameEng="Yu-ywa" NameRus="Р®-РёРІР°" X="92055" Y="13502" Type="1"/>
+        <MapText Code="Ywadaw" NameEng="Ywadaw" NameRus="РРІР°РґРѕ" X="62070" Y="42960" Type="1"/>
+        <MapText Code="Ywathit" NameEng="Ywathit" NameRus="РРІР°С‚С…РёС‚" X="134117" Y="75774" Type="1"/>
+        <MapText Code="Zaungkalaw" NameEng="Zaungkalaw" NameRus="Р—Р°СѓРЅРіРєР°Р»Рѕ" X="93970" Y="44395" Type="1"/>
+        <MapText Code="Zawgyi" NameEng="Zawgyi" NameRus="Р—РѕРіСЊРё" X="93815" Y="24893" Type="1"/>
+        <MapText Code="Zedi" NameEng="Zedi" NameRus="Р—РµРґРё" X="70372" Y="79724" Type="1"/>
+        <MapText Code="Zibyugon" NameEng="Zibyugon" NameRus="Р—РёР±СЊСЋРіРѕРЅ" X="89442" Y="66019" Type="1"/>
+        <MapText Code="Zigon" NameEng="Zigon" NameRus="Р—РёРіРѕРЅ" X="97461" Y="20695" Type="1"/>
+        <MapText Code="Aberdeen" NameEng="Aberdeen" NameRus="РђР±РµСЂРґРёРЅ" X="135207" Y="23383" Type="2"/>
+        <MapText Code="Homalin" NameEng="Homalin" NameRus="РҐРѕРјР°Р»РёРЅ" X="108254" Y="96464" Type="2"/>
+        <MapText Code="Imphal_Main" NameEng="Imphal Main" NameRus="РРјРїС…Р°Р» РњРµР№РЅ" X="3947" Y="96329" Type="2"/>
+        <MapText Code="Kangla" NameEng="Kangla" NameRus="РљР°РЅРіР»Р°" X="13272" Y="93200" Type="2"/>
+        <MapText Code="Palel" NameEng="Palel" NameRus="РџР°Р»РµР»" X="16601" Y="54792" Type="2"/>
+        <MapText Code="Sapam" NameEng="Sapam" NameRus="РЎР°РїР°Рј" X="14709" Y="58523" Type="2"/>
+        <MapText Code="Sittaung" NameEng="Sittaung" NameRus="РЎРёС‚Р°СѓРЅ" X="73911" Y="17711" Type="2"/>
+        <MapText Code="Tamu" NameEng="Tamu" NameRus="РўР°РјСѓ" X="47766" Y="24718" Type="2"/>
+        <MapText Code="Tulihal" NameEng="Tulihal" NameRus="РўСѓР»РёС…Р°Р»" X="6292" Y="85714" Type="2"/>
+        <MapText Code="Wangjing" NameEng="Wangjing" NameRus="Р’Р°РЅС†Р·РёРЅ" X="18459" Y="67212" Type="2"/>
+        <MapText Code="Imphal" NameEng="Imphal" NameRus="РРјРїС…Р°Р»" X="8794" Y="90414" Type="3"/>
+        <MapText Code="Chindwin" NameEng="Chindwin" NameRus="Р§РёРЅРґСѓРёРЅ" X="84354" Y="28813" Type="3"/>
+        <MapText Code="Yu" NameEng="Yu River" NameRus="Р®" X="57171" Y="30194" Type="3"/>
+        <MapText Code="Kabaw_Valley" NameEng="Kabaw Valley" NameRus="РґРѕР»РёРЅР° РљР°Р±Рѕ" X="54002" Y="36696" Type="11"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="4742.95" Y="95358.49" A="154" T1="1" Res="PE_2SERIES1_g"/>

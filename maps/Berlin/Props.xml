@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TBaseMapSettings>
     <MisCode>Berlin</MisCode>
     <Width>195200</Width>
     <Height>83200</Height>
     <Towns>
-        <MapText Code="Bernau" NameEng="Bernau" NameRus="Бернау" X="56749" Y="58307" Type="1"/>
-        <MapText Code="Boczow" NameEng="Boczow" NameRus="Божков" X="131773" Y="26407" Type="1"/>
-        <MapText Code="Debno(Neudamm)" NameEng="Debno (Neudamm)" NameRus="Дебно (Нейдамм)" X="126089" Y="65854" Type="1"/>
-        <MapText Code="Eberswalde-Finow" NameEng="Eberswalde-Finow" NameRus="Эберсвальде-Финов" X="71838" Y="74726" Type="1"/>
-        <MapText Code="Gatow" NameEng="Gatow" NameRus="Гатов" X="33105" Y="40536" Type="1"/>
-        <MapText Code="Gorzow_Wielkopolski(Landsherg)" NameEng="Gorzow Wielkopolski (Landsberg)" NameRus="Горцов Великопольский" X="155020" Y="65079" Type="1"/>
-        <MapText Code="Koenigs_Wusterhausen" NameEng="Koenigs Wusterhausen" NameRus="Кенигс-Вюстерхаузен" X="60362" Y="22766" Type="1"/>
-        <MapText Code="Kostrzyn(Kuestrin)" NameEng="Kostrzyn (Kustrin)" NameRus="Кюстрин" X="120353" Y="51510" Type="1"/>
-        <MapText Code="Luckenwalde" NameEng="Luckenwalde" NameRus="Люкенвальде" X="34443" Y="3054" Type="1"/>
-        <MapText Code="Ludwigsfelde" NameEng="Ludwigsfelde" NameRus="Людвигсфельде" X="39784" Y="23438" Type="1"/>
-        <MapText Code="Miedzyrzecz" NameEng="Miedzyrzecz" NameRus="Меджырзец" X="175079" Y="37111" Type="1"/>
-        <MapText Code="Nauen" NameEng="Nauen" NameRus="Науэн" X="18523" Y="53367" Type="1"/>
-        <MapText Code="Oranienburg" NameEng="Oranienburg" NameRus="Ораниенбург" X="38850" Y="68721" Type="1"/>
-        <MapText Code="Reeskow" NameEng="Reeskow" NameRus="Реесков" X="96904" Y="12387" Type="1"/>
-        <MapText Code="Schonefeld" NameEng="Schonefeld" NameRus="Шонефельд" X="57274" Y="31994" Type="1"/>
-        <MapText Code="Seelow" NameEng="Seelowe" NameRus="Зеелов" X="104445" Y="45514" Type="1"/>
-        <MapText Code="Sperenberg" NameEng="Sperenberg" NameRus="Шперенберг" X="46478" Y="6966" Type="1"/>
-        <MapText Code="Strzelce_Krajenskie" NameEng="Strzelce Krajenskie" NameRus="Стржельце Краенские" X="172017" Y="78178" Type="1"/>
-        <MapText Code="Sulechow" NameEng="Sulechow" NameRus="Сулешоу" X="177510" Y="3566" Type="1"/>
-        <MapText Code="Sulecin" NameEng="Sulecin" NameRus="Сулечин" X="148071" Y="36710" Type="1"/>
-        <MapText Code="Swiebodzin" NameEng="Swiebodzin" NameRus="Швиебодзин" X="171836" Y="17715" Type="1"/>
-        <MapText Code="Wriezen" NameEng="Wriezen" NameRus="Вриезен" X="90386" Y="63178" Type="1"/>
-        <MapText Code="Bad_Freienwalde" NameEng="Bad Freienwalde" NameRus="Бад Фрайенвальде" X="84710" Y="69886" Type="2"/>
-        <MapText Code="Eisenhuettenstadt" NameEng="Eisenhuettenstadt" NameRus="Айзенхюттенштадт" X="120373" Y="8868" Type="2"/>
-        <MapText Code="Falkensee" NameEng="Falkensee" NameRus="Фалькензее" X="28454" Y="47995" Type="2"/>
-        <MapText Code="Fuerstenwalde" NameEng="Fuerstenwalde" NameRus="Фюрстенвальде" X="88422" Y="29471" Type="2"/>
-        <MapText Code="Berlin" NameEng="Berlin" NameRus="Берлин" X="49259" Y="43095" Type="3"/>
-        <MapText Code="Frankfurt_an_der_Oder" NameEng="Frankfurt an der Oder" NameRus="Франкфурт-на-Одере" X="114402" Y="27830" Type="3"/>
-        <MapText Code="Potsdam" NameEng="Potsdam" NameRus="Потсдам" X="19528" Y="33204" Type="3"/>
+        <MapText Code="Bernau" NameEng="Bernau" NameRus="Р‘РµСЂРЅР°Сѓ" X="56749" Y="58307" Type="1"/>
+        <MapText Code="Boczow" NameEng="Boczow" NameRus="Р‘РѕР¶РєРѕРІ" X="131773" Y="26407" Type="1"/>
+        <MapText Code="Debno(Neudamm)" NameEng="Debno (Neudamm)" NameRus="Р”РµР±РЅРѕ (РќРµР№РґР°РјРј)" X="126089" Y="65854" Type="1"/>
+        <MapText Code="Eberswalde-Finow" NameEng="Eberswalde-Finow" NameRus="Р­Р±РµСЂСЃРІР°Р»СЊРґРµ-Р¤РёРЅРѕРІ" X="71838" Y="74726" Type="1"/>
+        <MapText Code="Gatow" NameEng="Gatow" NameRus="Р“Р°С‚РѕРІ" X="33105" Y="40536" Type="1"/>
+        <MapText Code="Gorzow_Wielkopolski(Landsherg)" NameEng="Gorzow Wielkopolski (Landsberg)" NameRus="Р“РѕСЂС†РѕРІ Р’РµР»РёРєРѕРїРѕР»СЊСЃРєРёР№" X="155020" Y="65079" Type="1"/>
+        <MapText Code="Koenigs_Wusterhausen" NameEng="Koenigs Wusterhausen" NameRus="РљРµРЅРёРіСЃ-Р’СЋСЃС‚РµСЂС…Р°СѓР·РµРЅ" X="60362" Y="22766" Type="1"/>
+        <MapText Code="Kostrzyn(Kuestrin)" NameEng="Kostrzyn (Kustrin)" NameRus="РљСЋСЃС‚СЂРёРЅ" X="120353" Y="51510" Type="1"/>
+        <MapText Code="Luckenwalde" NameEng="Luckenwalde" NameRus="Р›СЋРєРµРЅРІР°Р»СЊРґРµ" X="34443" Y="3054" Type="1"/>
+        <MapText Code="Ludwigsfelde" NameEng="Ludwigsfelde" NameRus="Р›СЋРґРІРёРіСЃС„РµР»СЊРґРµ" X="39784" Y="23438" Type="1"/>
+        <MapText Code="Miedzyrzecz" NameEng="Miedzyrzecz" NameRus="РњРµРґР¶С‹СЂР·РµС†" X="175079" Y="37111" Type="1"/>
+        <MapText Code="Nauen" NameEng="Nauen" NameRus="РќР°СѓСЌРЅ" X="18523" Y="53367" Type="1"/>
+        <MapText Code="Oranienburg" NameEng="Oranienburg" NameRus="РћСЂР°РЅРёРµРЅР±СѓСЂРі" X="38850" Y="68721" Type="1"/>
+        <MapText Code="Reeskow" NameEng="Reeskow" NameRus="Р РµРµСЃРєРѕРІ" X="96904" Y="12387" Type="1"/>
+        <MapText Code="Schonefeld" NameEng="Schonefeld" NameRus="РЁРѕРЅРµС„РµР»СЊРґ" X="57274" Y="31994" Type="1"/>
+        <MapText Code="Seelow" NameEng="Seelowe" NameRus="Р—РµРµР»РѕРІ" X="104445" Y="45514" Type="1"/>
+        <MapText Code="Sperenberg" NameEng="Sperenberg" NameRus="РЁРїРµСЂРµРЅР±РµСЂРі" X="46478" Y="6966" Type="1"/>
+        <MapText Code="Strzelce_Krajenskie" NameEng="Strzelce Krajenskie" NameRus="РЎС‚СЂР¶РµР»СЊС†Рµ РљСЂР°РµРЅСЃРєРёРµ" X="172017" Y="78178" Type="1"/>
+        <MapText Code="Sulechow" NameEng="Sulechow" NameRus="РЎСѓР»РµС€РѕСѓ" X="177510" Y="3566" Type="1"/>
+        <MapText Code="Sulecin" NameEng="Sulecin" NameRus="РЎСѓР»РµС‡РёРЅ" X="148071" Y="36710" Type="1"/>
+        <MapText Code="Swiebodzin" NameEng="Swiebodzin" NameRus="РЁРІРёРµР±РѕРґР·РёРЅ" X="171836" Y="17715" Type="1"/>
+        <MapText Code="Wriezen" NameEng="Wriezen" NameRus="Р’СЂРёРµР·РµРЅ" X="90386" Y="63178" Type="1"/>
+        <MapText Code="Bad_Freienwalde" NameEng="Bad Freienwalde" NameRus="Р‘Р°Рґ Р¤СЂР°Р№РµРЅРІР°Р»СЊРґРµ" X="84710" Y="69886" Type="2"/>
+        <MapText Code="Eisenhuettenstadt" NameEng="Eisenhuettenstadt" NameRus="РђР№Р·РµРЅС…СЋС‚С‚РµРЅС€С‚Р°РґС‚" X="120373" Y="8868" Type="2"/>
+        <MapText Code="Falkensee" NameEng="Falkensee" NameRus="Р¤Р°Р»СЊРєРµРЅР·РµРµ" X="28454" Y="47995" Type="2"/>
+        <MapText Code="Fuerstenwalde" NameEng="Fuerstenwalde" NameRus="Р¤СЋСЂСЃС‚РµРЅРІР°Р»СЊРґРµ" X="88422" Y="29471" Type="2"/>
+        <MapText Code="Berlin" NameEng="Berlin" NameRus="Р‘РµСЂР»РёРЅ" X="49259" Y="43095" Type="3"/>
+        <MapText Code="Frankfurt_an_der_Oder" NameEng="Frankfurt an der Oder" NameRus="Р¤СЂР°РЅРєС„СѓСЂС‚-РЅР°-РћРґРµСЂРµ" X="114402" Y="27830" Type="3"/>
+        <MapText Code="Potsdam" NameEng="Potsdam" NameRus="РџРѕС‚СЃРґР°Рј" X="19528" Y="33204" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="112679.00" Y="23040.00" A="120" T1="2" Res="B_17F_b"/>

@@ -1,222 +1,222 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TBaseMapSettings>
     <MisCode>Normandy</MisCode>
     <Width>153600</Width>
     <Height>102400</Height>
     <Towns>
-        <MapText Code="Amfreville" NameEng="Amfreville" NameRus="Амфревиль" X="88162" Y="69816" Type="1"/>
-        <MapText Code="Anguenny" NameEng="Anguenny" NameRus="Анжени" X="75048" Y="74128" Type="1"/>
-        <MapText Code="Anisy" NameEng="Anisy" NameRus="Аниси" X="75864" Y="72377" Type="1"/>
-        <MapText Code="Argences" NameEng="Argences" NameRus="Аржанс" X="98808" Y="61753" Type="1"/>
-        <MapText Code="Ariel" NameEng="Ariel" NameRus="Ариэль" X="29262" Y="68034" Type="1"/>
-        <MapText Code="Arromances-les-Bains" NameEng="Arromanches-les-Bains" NameRus="Арроманс-ле-Бэн" X="59405" Y="80227" Type="1"/>
-        <MapText Code="Asnelles-sur-Mer" NameEng="Asnelles-sur-Mer" NameRus="Аснэль-сюр-Мэр" X="63069" Y="80257" Type="1"/>
-        <MapText Code="Aunay-sur-Odone" NameEng="Aunay-sur-Odone" NameRus="Онэ-сюр-Одон" X="59420" Y="44306" Type="1"/>
-        <MapText Code="Avenay" NameEng="Avenay" NameRus="Авенэ" X="72458" Y="53769" Type="1"/>
-        <MapText Code="Balleroy" NameEng="Balleroy" NameRus="Балеруа" X="43307" Y="61969" Type="1"/>
-        <MapText Code="Banville" NameEng="Banville" NameRus="Банвиль" X="69844" Y="77578" Type="1"/>
-        <MapText Code="Baron" NameEng="Baron" NameRus="Барон" X="70730" Y="57408" Type="1"/>
-        <MapText Code="Basly" NameEng="Basly" NameRus="Басли" X="73909" Y="74928" Type="1"/>
-        <MapText Code="Basse" NameEng="Basse" NameRus="Бас" X="77457" Y="58034" Type="1"/>
-        <MapText Code="Baupte" NameEng="Baupte" NameRus="Боптэ" X="8698" Y="77696" Type="1"/>
-        <MapText Code="Bazenville" NameEng="Bazenville" NameRus="Базенвиль" X="58937" Y="75276" Type="1"/>
-        <MapText Code="Bemieres-sur-Mer" NameEng="Bemieres-sur-Mer" NameRus="Бемьер-сюр-Мэр" X="74555" Y="79206" Type="1"/>
-        <MapText Code="Benouville" NameEng="Benouville" NameRus="Бенувиль" X="84339" Y="69788" Type="1"/>
-        <MapText Code="Berigny" NameEng="Berigny" NameRus="Бериньи" X="36498" Y="58884" Type="1"/>
-        <MapText Code="Bernay" NameEng="Bernay" NameRus="Бернэ" X="145215" Y="54235" Type="1"/>
-        <MapText Code="Bieville" NameEng="Bieville" NameRus="Бьевиль" X="82215" Y="70321" Type="1"/>
-        <MapText Code="Blainville" NameEng="Blainville" NameRus="Блэйнвиль" X="81207" Y="68486" Type="1"/>
-        <MapText Code="Blosville" NameEng="Blosville" NameRus="Блосвиль" X="14323" Y="83400" Type="1"/>
-        <MapText Code="Bougy" NameEng="Bougy" NameRus="Буги" X="66873" Y="54222" Type="1"/>
-        <MapText Code="Bourguebus" NameEng="Bourguebus" NameRus="Буржебу" X="83698" Y="55981" Type="1"/>
-        <MapText Code="Bras" NameEng="Bras" NameRus="Бра" X="81293" Y="58672" Type="1"/>
-        <MapText Code="Brecey" NameEng="Brecey" NameRus="Бреси" X="20103" Y="15043" Type="1"/>
-        <MapText Code="Brecy" NameEng="Brecy" NameRus="Бреси" X="63901" Y="72435" Type="1"/>
-        <MapText Code="Bretteville-sur-Odon" NameEng="Bretteville-sur-Odon" NameRus="Бретвиль-сюр-Одон" X="75016" Y="61156" Type="1"/>
-        <MapText Code="Broglie" NameEng="Broglie" NameRus="Брольи" X="139018" Y="44968" Type="1"/>
-        <MapText Code="Buhot" NameEng="Buhot" NameRus="Буо" X="61530" Y="78995" Type="1"/>
-        <MapText Code="Buron" NameEng="Buron" NameRus="Бюрон" X="74615" Y="67035" Type="1"/>
-        <MapText Code="Cabourg" NameEng="Cabourg" NameRus="Кабур" X="96084" Y="74131" Type="1"/>
-        <MapText Code="Cabourg2" NameEng="Cabourg" NameRus="Кабур" X="44733" Y="81308" Type="1"/>
-        <MapText Code="Cambes" NameEng="Cambes" NameRus="Камбэ" X="77255" Y="68225" Type="1"/>
-        <MapText Code="Canisy" NameEng="Canisy" NameRus="Каниси" X="21404" Y="50533" Type="1"/>
-        <MapText Code="Carpiquet2" NameEng="Carpiquet" NameRus="Карпике" X="72276" Y="62314" Type="1"/>
-        <MapText Code="Caumont" NameEng="Caumont" NameRus="Комон" X="44247" Y="52973" Type="1"/>
-        <MapText Code="Chambois" NameEng="Chambois" NameRus="Шамбуа" X="118336" Y="12785" Type="1"/>
-        <MapText Code="Chef_du_Pont" NameEng="Chef-du-Pont" NameRus="Шеф-дю-Пон" X="10033" Y="85331" Type="1"/>
-        <MapText Code="Clecy" NameEng="Clecy" NameRus="Клеси" X="68472" Y="32149" Type="1"/>
-        <MapText Code="Colleville" NameEng="Colleville" NameRus="Кольвиль" X="67526" Y="59409" Type="1"/>
-        <MapText Code="Colleville-sur-Mer" NameEng="Colleville-sur-Mer" NameRus="Кольвиль-сюр-Мэр" X="43148" Y="81762" Type="1"/>
-        <MapText Code="Collleville-sur-Ome" NameEng="Colleville-sur-Ome" NameRus="Кольвиль-сюр-Ом" X="83805" Y="73325" Type="1"/>
-        <MapText Code="Colombelles" NameEng="Colombelles" NameRus="Коломбей" X="84291" Y="64593" Type="1"/>
-        <MapText Code="Colombiers-sur-Seulles" NameEng="Colombiers-sur-Seulles" NameRus="Коломбьер-сюр-Сей" X="68520" Y="75945" Type="1"/>
-        <MapText Code="Colomby-sur-Thaon" NameEng="Colomby-sur-Thaon" NameRus="Коломби-сюр-Таон" X="72555" Y="73851" Type="1"/>
-        <MapText Code="Conde" NameEng="Conde" NameRus="Конде" X="62315" Y="27054" Type="1"/>
-        <MapText Code="Coulombs" NameEng="Coulombs" NameRus="Куломб" X="64917" Y="71018" Type="1"/>
-        <MapText Code="Courseulles-sur-Mer" NameEng="Courseulles-sur-Mer" NameRus="Курсей-сюр-Мэр" X="72339" Y="79022" Type="1"/>
-        <MapText Code="Crepon" NameEng="Crepon" NameRus="Крепон" X="63039" Y="76500" Type="1"/>
-        <MapText Code="Creully" NameEng="Creully" NameRus="Крелли" X="66334" Y="75422" Type="1"/>
-        <MapText Code="Cristot" NameEng="Cristot" NameRus="Кристо" X="63285" Y="64643" Type="1"/>
-        <MapText Code="Cuverville" NameEng="Cuverville" NameRus="Кувервиль" X="85964" Y="63665" Type="1"/>
-        <MapText Code="Deauville" NameEng="Deauville" NameRus="Довиль" X="110505" Y="83573" Type="1"/>
-        <MapText Code="Demouville" NameEng="Demouville" NameRus="Демувиль" X="86042" Y="62003" Type="1"/>
-        <MapText Code="Dives-sur-Mer" NameEng="Dives-sur-Mer" NameRus="Див-сюр-Мэр" X="99096" Y="74656" Type="1"/>
-        <MapText Code="Douvres-la-Delivrande" NameEng="Douvres-la-Delivrande" NameRus="Дувре-ля-Деливранд" X="77860" Y="75200" Type="1"/>
-        <MapText Code="Ducy-Sainte-Marguerite" NameEng="Ducy-Sainte-Marguerite" NameRus="Дюси-Сент-Маргерит" X="61240" Y="68045" Type="1"/>
-        <MapText Code="Ecoqueneauville" NameEng="Ecoqueneauville" NameRus="Экокеновиль" X="13996" Y="86696" Type="1"/>
-        <MapText Code="Ecouche" NameEng="Ecouche" NameRus="Экуш" X="76369" Y="10993" Type="1"/>
-        <MapText Code="Escoville" NameEng="Escoville" NameRus="Эсковиль" X="88222" Y="65657" Type="1"/>
-        <MapText Code="Esquay" NameEng="Esquay" NameRus="Эскэ" X="70451" Y="54986" Type="1"/>
-        <MapText Code="Esquay-sur-Seulles" NameEng="Esquay-sur-Seulles" NameRus="Эске-сюр-Сей" X="57258" Y="71458" Type="1"/>
-        <MapText Code="Etavaut" NameEng="Etavaut" NameRus="Этаво" X="77114" Y="57172" Type="1"/>
-        <MapText Code="Eterville" NameEng="Eterville" NameRus="Этервиль" X="75574" Y="58999" Type="1"/>
-        <MapText Code="Evrecy" NameEng="Evrecy" NameRus="Эвреси" X="69524" Y="53592" Type="1"/>
-        <MapText Code="Feuguerollas-sur-Orne" NameEng="Feuguerollas-sur-Orne" NameRus="Фегеролла-сюр-Орн" X="74555" Y="55917" Type="1"/>
-        <MapText Code="Flers" NameEng="Flers" NameRus="Флер" X="61158" Y="17078" Type="1"/>
-        <MapText Code="Fleury-sur-Orne" NameEng="Fleury-sur-Orne" NameRus="Флери-сюр-Орн" X="79019" Y="58362" Type="1"/>
-        <MapText Code="Folie" NameEng="Folie" NameRus="Фоли" X="82752" Y="57064" Type="1"/>
-        <MapText Code="Fontaine-Etoupefour" NameEng="Fontaine-Etoupefour" NameRus="Фонтэн-Этупефур" X="73628" Y="58669" Type="1"/>
-        <MapText Code="Formigny" NameEng="Formigny" NameRus="Форминьи" X="42833" Y="79793" Type="1"/>
-        <MapText Code="Fouville" NameEng="Fouville" NameRus="Фувиль" X="12661" Y="86015" Type="1"/>
-        <MapText Code="Franceville-Plage" NameEng="Franceville-Plage" NameRus="Франсвиль-Плаг" X="90744" Y="73911" Type="1"/>
-        <MapText Code="Gace" NameEng="Gace" NameRus="Гас" X="123484" Y="20579" Type="1"/>
-        <MapText Code="Gavray" NameEng="Gavray" NameRus="Гаврэ" X="12444" Y="34052" Type="1"/>
-        <MapText Code="Gavrus" NameEng="Gavrus" NameRus="Гавру" X="67875" Y="54965" Type="1"/>
-        <MapText Code="Grainville" NameEng="Grainville" NameRus="Грэнвиль" X="56706" Y="61193" Type="1"/>
-        <MapText Code="Grand_Hameau_de_Dunes" NameEng="Grand Hameau de Dunes" NameRus="Гран-Амо-де-Дюн" X="18156" Y="91774" Type="1"/>
-        <MapText Code="Grandcamp-les-Bains" NameEng="Grandcamp-les-Bains" NameRus="Гранкамп-ле-Бэн" X="29265" Y="84388" Type="1"/>
-        <MapText Code="Graye-sur-Mer" NameEng="Graye-sur-Mer" NameRus="Грайн-сюр-Мэр" X="70031" Y="79546" Type="1"/>
-        <MapText Code="Hamel_de_Crutes" NameEng="Hamel de Crutes" NameRus="Амель-де-Крют" X="20235" Y="91306" Type="1"/>
-        <MapText Code="Hermanville-sur-Mer" NameEng="Hermanville-sur-Mer" NameRus="Эрманвиль-сюр-Мэр" X="82295" Y="73768" Type="1"/>
-        <MapText Code="Herouvillette" NameEng="Herouvillette" NameRus="Эрувийет" X="87154" Y="66588" Type="1"/>
-        <MapText Code="Houlgate" NameEng="Houlgate" NameRus="Ульгат" X="102445" Y="76058" Type="1"/>
-        <MapText Code="Hube" NameEng="Hube" NameRus="Юб" X="80962" Y="56625" Type="1"/>
-        <MapText Code="Isigny" NameEng="Isigny" NameRus="Изиньи" X="26060" Y="76700" Type="1"/>
-        <MapText Code="Jumeaux" NameEng="Jumeaux" NameRus="Жюмо" X="73867" Y="60778" Type="1"/>
-        <MapText Code="L_Aigle" NameEng="L'Aigle" NameRus="Л'Эй" X="143515" Y="15410" Type="1"/>
-        <MapText Code="la_Breche" NameEng="La Breche" NameRus="Ля-Бреш" X="83807" Y="74998" Type="1"/>
-        <MapText Code="la_Riviere" NameEng="La Riviere" NameRus="Ля-Ривьер" X="67256" Y="80658" Type="1"/>
-        <MapText Code="la_Rosiere" NameEng="la Rosiere" NameRus="Ла-Розьер" X="57468" Y="77566" Type="1"/>
-        <MapText Code="Langrune-sur-Mer" NameEng="Langrune-sur-Mer" NameRus="Лангрюн-сюр-Мэр" X="77910" Y="78529" Type="1"/>
-        <MapText Code="Le_Beny_Bocage" NameEng="Le Beny Bocage" NameRus="Ле-Бени-Бокаж" X="43144" Y="33669" Type="1"/>
-        <MapText Code="le_Fresne_Camilly" NameEng="Le Fresne Camilly" NameRus="Ле Фресн Камиьи" X="69505" Y="72127" Type="1"/>
-        <MapText Code="Le_Mariquet" NameEng="Le Mariquet" NameRus="Ле-Марикэ" X="89352" Y="67677" Type="1"/>
-        <MapText Code="Le_Valtru" NameEng="Le Valtru" NameRus="Ле-Вальтру" X="56505" Y="56931" Type="1"/>
-        <MapText Code="Lebisey" NameEng="Lebisey" NameRus="Лебиси" X="80199" Y="66491" Type="1"/>
-        <MapText Code="Les_Dunes_de_Vareville" NameEng="Les Dunes de Vareville" NameRus="Ле-Дюн-де-Варевиль" X="19826" Y="90156" Type="1"/>
-        <MapText Code="Les_Forges" NameEng="Les Forges" NameRus="Ле-Форж" X="13506" Y="84517" Type="1"/>
-        <MapText Code="Lion-Sur-Mer" NameEng="Lion-Sur-Mer" NameRus="Лион-сюр-Мэр" X="82114" Y="76006" Type="1"/>
-        <MapText Code="Lisieux" NameEng="Lisieux" NameRus="Лизье" X="117980" Y="58429" Type="1"/>
-        <MapText Code="Longues" NameEng="Longues" NameRus="Лонг" X="55447" Y="80249" Type="1"/>
-        <MapText Code="Longueval" NameEng="Longueval" NameRus="Лонгевал" X="84755" Y="66489" Type="1"/>
-        <MapText Code="Loucelles" NameEng="Loucelles" NameRus="Лусей" X="63685" Y="67846" Type="1"/>
-        <MapText Code="Louvieres" NameEng="Louvieres" NameRus="Лувьер" X="39854" Y="82292" Type="1"/>
-        <MapText Code="Louvigny" NameEng="Louvigny" NameRus="Лувиньи" X="76585" Y="60053" Type="1"/>
-        <MapText Code="Luc-sur-Mer" NameEng="Luc-sur-Mer" NameRus="Люк-сюр-Мэр" X="79513" Y="77881" Type="1"/>
-        <MapText Code="Maltot" NameEng="Maltot" NameRus="Мальто" X="74768" Y="57596" Type="1"/>
-        <MapText Code="Marigny" NameEng="Marigny" NameRus="Мариньи" X="15743" Y="55383" Type="1"/>
-        <MapText Code="May-sur-Orne" NameEng="May-sur-Orne" NameRus="Мэ-сюр-Орн" X="77714" Y="53813" Type="1"/>
-        <MapText Code="Merville" NameEng="Merville" NameRus="Мервиль" X="90381" Y="72600" Type="1"/>
-        <MapText Code="Meuvaines" NameEng="Meuvaines" NameRus="Мовэн" X="64332" Y="79025" Type="1"/>
-        <MapText Code="Montebourg" NameEng="Montebourg" NameRus="Монтебур" X="7723" Y="96210" Type="1"/>
-        <MapText Code="Mont-Fleury" NameEng="Mont-Fleury" NameRus="Мон-Флери" X="65963" Y="79272" Type="1"/>
-        <MapText Code="Mouen" NameEng="Mouen" NameRus="Муан" X="68993" Y="59134" Type="1"/>
-        <MapText Code="Nonant-le-Pin" NameEng="Nonant-le-Pin" NameRus="Нонан-ле-Пин" X="58573" Y="69551" Type="1"/>
-        <MapText Code="Orbec" NameEng="Orbec" NameRus="Орбек" X="129670" Y="46046" Type="1"/>
-        <MapText Code="Ouistreham" NameEng="Ouistreham" NameRus="Уистрехам" X="85863" Y="73689" Type="1"/>
-        <MapText Code="Percy" NameEng="Percy" NameRus="Перси" X="16604" Y="33143" Type="1"/>
-        <MapText Code="Periers" NameEng="Periers" NameRus="Перье" X="5363" Y="64414" Type="1"/>
-        <MapText Code="Periers-sur-le-Dan" NameEng="Periers-sur-le-Dan" NameRus="Перье-сюр-ле-Дан" X="80340" Y="71369" Type="1"/>
-        <MapText Code="Point_Hebert" NameEng="Point Hebert" NameRus="Пойнт Эберт" X="23004" Y="61689" Type="1"/>
-        <MapText Code="Pont_Audemer" NameEng="Pont Audemer" NameRus="Пон-Одемэр" X="138709" Y="82137" Type="1"/>
-        <MapText Code="Pont_l-Eveque" NameEng="Pont l'Eveque" NameRus="Пон-л'Эвек" X="121977" Y="79607" Type="1"/>
-        <MapText Code="Pontfarcy" NameEng="Pontfarcy" NameRus="Понфранси" X="28535" Y="36700" Type="1"/>
-        <MapText Code="Port-en-Bessin" NameEng="Port-en-Bessin" NameRus="Пор-ан-Бессин" X="51209" Y="80481" Type="1"/>
-        <MapText Code="Potigny" NameEng="Potigny" NameRus="Потиньи" X="87271" Y="42668" Type="1"/>
-        <MapText Code="Pouliguy" NameEng="Pouliguy" NameRus="Пулиги" X="56502" Y="76421" Type="1"/>
-        <MapText Code="Quineville" NameEng="Quineville" NameRus="Киневиль" X="13085" Y="98415" Type="1"/>
-        <MapText Code="Ranville" NameEng="Ranville" NameRus="Ранвиль" X="86710" Y="68040" Type="1"/>
-        <MapText Code="Ravenoville" NameEng="Ravenoville" NameRus="Равеновиль" X="16429" Y="90881" Type="1"/>
-        <MapText Code="Reviere" NameEng="Reviere" NameRus="Ревьер" X="71908" Y="76282" Type="1"/>
-        <MapText Code="Robenhomme" NameEng="Robenhomme" NameRus="Робеном" X="92366" Y="66151" Type="1"/>
-        <MapText Code="Roncey" NameEng="Roncey" NameRus="Ронси" X="9946" Y="41083" Type="1"/>
-        <MapText Code="Rucqueville" NameEng="Rucqueville" NameRus="Рюкевиль" X="63285" Y="70187" Type="1"/>
-        <MapText Code="Saint-Aubin-d'Arquenay" NameEng="Saint-Aubin-d'Arquenay" NameRus="Сен-Обен-д'Аркенэ" X="84089" Y="71470" Type="1"/>
-        <MapText Code="Saint-Aubin-sur-Mer" NameEng="Saint-Aubin-sur-Mer" NameRus="Сен-Обен-сюр-Мэр" X="76032" Y="79760" Type="1"/>
-        <MapText Code="Saint-Contest" NameEng="Saint-Contest" NameRus="Сен-Конте" X="75945" Y="66309" Type="1"/>
-        <MapText Code="Saint-Croix-Grand-Tonne" NameEng="Saint-Croix-Grand-Tonne" NameRus="Сен-Круа-Гран-Тон" X="65225" Y="68708" Type="1"/>
-        <MapText Code="Sainte-Croix-sur-Mer" NameEng="Sainte-Croix-sur-Mer" NameRus="Сент-Круа-сюр-Мэр" X="68026" Y="78194" Type="1"/>
-        <MapText Code="Sainte-Martin-de-Vareville" NameEng="Saint-Martin-de-Vareville" NameRus="Сент-Мартэн-де-Варевиль" X="17311" Y="89337" Type="1"/>
-        <MapText Code="Sainteny" NameEng="Sainteny" NameRus="Сэйнтени" X="10574" Y="68552" Type="1"/>
-        <MapText Code="Saint-Gabriel" NameEng="Saint-Gabriel" NameRus="Сент-Габриэль" X="64794" Y="74129" Type="1"/>
-        <MapText Code="Saint-Leger" NameEng="Saint-Leger" NameRus="Сен-Леже" X="61036" Y="69302" Type="1"/>
-        <MapText Code="Saint-Sulpice" NameEng="Saint-Sulpice" NameRus="Сен-Сюлпис" X="57415" Y="75724" Type="1"/>
-        <MapText Code="Sallenelles" NameEng="Sallenelles" NameRus="Салленей" X="88478" Y="71551" Type="1"/>
-        <MapText Code="Sannerville" NameEng="Sannerville" NameRus="Саннервиль" X="88932" Y="62327" Type="1"/>
-        <MapText Code="Sommervieu" NameEng="Sommervieu" NameRus="Соммервье" X="59453" Y="73220" Type="1"/>
-        <MapText Code="St_Come_du_Mont" NameEng="St.-Come-du-Mont" NameRus="Сен-Ком-дю-Мон" X="14800" Y="79526" Type="1"/>
-        <MapText Code="St_Denis-le-Gast" NameEng="St Denis-le-Gast" NameRus="Сен-Дени-ле-Га" X="12207" Y="37100" Type="1"/>
-        <MapText Code="St_Gilles" NameEng="St Gilles" NameRus="Сен-Жиль" X="20304" Y="55445" Type="1"/>
-        <MapText Code="St_Jean-de-Baisants" NameEng="St Jean-de-Baisants" NameRus="Сен-Жан-де-Бэзан" X="36591" Y="52892" Type="1"/>
-        <MapText Code="St_Jores" NameEng="St. Jores" NameRus="Сен-Жоре" X="3878" Y="78165" Type="1"/>
-        <MapText Code="St_Laurent" NameEng="St Laurent" NameRus="Сен-Лоран" X="41680" Y="82788" Type="1"/>
-        <MapText Code="St_Martin2" NameEng="St Martin" NameRus="Сен-Мартэн" X="74624" Y="54671" Type="1"/>
-        <MapText Code="St_Martin-des-Besaces" NameEng="St Martin-des-Besaces" NameRus="Сен Мартэн-де-Безас" X="42035" Y="39465" Type="1"/>
-        <MapText Code="St_Pierre" NameEng="St. Pierre" NameRus="Сен-Пьер" X="102711" Y="45850" Type="1"/>
-        <MapText Code="St_Remy" NameEng="St Remy" NameRus="Сен-Реми" X="69766" Y="40771" Type="1"/>
-        <MapText Code="St_Saveur_Lendelin" NameEng="St Saveur Lendelin" NameRus="Сен-Савер-Ленделин" X="3927" Y="57201" Type="1"/>
-        <MapText Code="St-Andres-sur-Orne" NameEng="St-Andres-sur-Orne" NameRus="Сен-Андрэ-сюр-Орн" X="78060" Y="55682" Type="1"/>
-        <MapText Code="Ste_Marie_du_Mont" NameEng="Ste.-Marie-du-Mont" NameRus="Сент-Мари-дю-Монт" X="18377" Y="84449" Type="1"/>
-        <MapText Code="Ste_Mere_Eglise" NameEng="Ste.-Mere-Eglise" NameRus="Сент-Мер-Эглиз" X="11435" Y="88051" Type="1"/>
-        <MapText Code="Subles" NameEng="Subles" NameRus="Сюбле" X="51584" Y="70074" Type="1"/>
-        <MapText Code="Sully" NameEng="Sully" NameRus="Сюлли" X="51817" Y="75510" Type="1"/>
-        <MapText Code="Taileville" NameEng="Taileville" NameRus="Тэлевиль" X="75356" Y="76775" Type="1"/>
-        <MapText Code="Tessy-sur-Vire" NameEng="Tessy-sur-Vire" NameRus="Тесси-сюр-Вир" X="27355" Y="39109" Type="1"/>
-        <MapText Code="Thaon" NameEng="Thaon" NameRus="Таон" X="72802" Y="71419" Type="1"/>
-        <MapText Code="Tierceville" NameEng="Tierceville" NameRus="Тьерсевиль" X="66671" Y="76561" Type="1"/>
-        <MapText Code="Torigny-sur-Vire" NameEng="Torigny-sur-Vire" NameRus="Ториньи-сюр-Вир" X="32424" Y="42772" Type="1"/>
-        <MapText Code="Toufreville" NameEng="Toufreville" NameRus="Туфревиль" X="89174" Y="63579" Type="1"/>
-        <MapText Code="Tribenou" NameEng="Tribenou" NameRus="Трибену" X="16378" Y="66074" Type="1"/>
-        <MapText Code="Trouville" NameEng="Trouville" NameRus="Трувиль" X="120033" Y="87611" Type="1"/>
-        <MapText Code="Turqueville" NameEng="Turqueville" NameRus="Тюркевиль" X="15088" Y="87449" Type="1"/>
-        <MapText Code="Ussy" NameEng="Ussy" NameRus="Юсси" X="82527" Y="37751" Type="1"/>
-        <MapText Code="Varaville" NameEng="Varaville" NameRus="Варавиль" X="93180" Y="69522" Type="1"/>
-        <MapText Code="Vaux" NameEng="Vaux" NameRus="Во" X="69164" Y="80430" Type="1"/>
-        <MapText Code="Vaux-sur-Aure" NameEng="Vaux-sur-Aure" NameRus="Во-сюр-Ор" X="54946" Y="76278" Type="1"/>
-        <MapText Code="Verrieres" NameEng="Verrieres" NameRus="Верьер" X="90614" Y="48891" Type="1"/>
-        <MapText Code="Verson" NameEng="Verson" NameRus="Версон" X="71976" Y="59915" Type="1"/>
-        <MapText Code="Vierville" NameEng="Vierville" NameRus="Вьервиль" X="16298" Y="82325" Type="1"/>
-        <MapText Code="Vierville-sur-Mer" NameEng="Vierville-sur-Mer" NameRus="Вьервиль-сюр-Мэр" X="39583" Y="83851" Type="1"/>
-        <MapText Code="Vieux" NameEng="Vieux" NameRus="Вье" X="74698" Y="54080" Type="1"/>
-        <MapText Code="Villebaudon" NameEng="Villebaudon" NameRus="Вильбодон" X="18143" Y="38077" Type="1"/>
-        <MapText Code="Villedieu" NameEng="Villedieu" NameRus="Вилледье" X="16341" Y="25889" Type="1"/>
-        <MapText Code="Villers_Bocage" NameEng="Villers Bocage" NameRus="Виллер-Бокаж" X="56273" Y="51231" Type="1"/>
-        <MapText Code="Villers_Sur_Mer" NameEng="Villers Sur Mer" NameRus="Вийе-сюр-Мэр" X="107049" Y="79679" Type="1"/>
-        <MapText Code="Villions-les-Buissons" NameEng="Villions-les-Buissons" NameRus="Вийон-ле-Бьюссон" X="75784" Y="70119" Type="1"/>
-        <MapText Code="Vilners-le-Sec" NameEng="Vilners-le-Sec" NameRus="Вильнер-ле-Сек" X="64455" Y="75453" Type="1"/>
-        <MapText Code="Vimoutiers" NameEng="Vimoutiers" NameRus="Вимутьер" X="115503" Y="36194" Type="1"/>
-        <MapText Code="Vire" NameEng="Vire" NameRus="Вир" X="41495" Y="27488" Type="1"/>
-        <MapText Code="Coutances" NameEng="Coutances" NameRus="Кутанс" X="2169" Y="50621" Type="2"/>
-        <MapText Code="Valognes" NameEng="Valognes" NameRus="Валонь" X="1301" Y="98478" Type="2"/>
-        <MapText Code="Argentan2" NameEng="Argentan" NameRus="Аржентан" X="101548" Y="15910" Type="3"/>
-        <MapText Code="Avranches" NameEng="Avranches" NameRus="Авранш" X="7662" Y="10572" Type="3"/>
-        <MapText Code="Bayeux" NameEng="Bayeux" NameRus="Байе" X="54363" Y="73899" Type="3"/>
-        <MapText Code="Caen" NameEng="Caen" NameRus="Кан" X="80408" Y="63787" Type="3"/>
-        <MapText Code="Carentan" NameEng="Carentan" NameRus="Карентан" X="16337" Y="75923" Type="3"/>
-        <MapText Code="Falaise" NameEng="Falaise" NameRus="Фалэз" X="89544" Y="30373" Type="3"/>
-        <MapText Code="Le_Havre" NameEng="Le Havre" NameRus="Гавр" X="110659" Y="95600" Type="3"/>
-        <MapText Code="St_Lo" NameEng="St.-Lo" NameRus="Сен-Ло" X="27615" Y="55248" Type="3"/>
-        <MapText Code="Argentan" NameEng="Argentan" NameRus="Аржентан" X="107004" Y="17508" Type="3"/>
-        <MapText Code="British_Base" NameEng="British Base" NameRus="Атлантида" X="72362" Y="98425" Type="3"/>
-        <MapText Code="Carpiquet" NameEng="Carpiquet" NameRus="Карпике" X="74307" Y="62209" Type="3"/>
-        <MapText Code="Maupertus" NameEng="Maupertus" NameRus="Моперту" X="3756" Y="100630" Type="3"/>
-        <MapText Code="Octeville" NameEng="Octeville" NameRus="Октэвиль" X="109221" Y="101085" Type="3"/>
-        <MapText Code="Saint_Paul" NameEng="Saint-Paul" NameRus="Сен-Поль" X="40054" Y="30666" Type="3"/>
-        <MapText Code="Saint_Romain" NameEng="Saint-Romain" NameRus="Сен-Ромэн" X="142623" Y="99350" Type="3"/>
-        <MapText Code="St_Gatien" NameEng="St.-Gatien" NameRus="Сен-Гатьен" X="116793" Y="86782" Type="3"/>
-        <MapText Code="St_Martin" NameEng="St.-Martin" NameRus="Сен-Мартэн" X="146372" Y="52448" Type="3"/>
-        <MapText Code="Pegasus_Bridge" NameEng="Pegasus Bridge" NameRus="Пегасус" X="85236" Y="69478" Type="3"/>
-        <MapText Code="Pointe_du_Hoc" NameEng="Pointe du Hoc" NameRus="Пуан-дю-Хок" X="36817" Y="87345" Type="3"/>
+        <MapText Code="Amfreville" NameEng="Amfreville" NameRus="РђРјС„СЂРµРІРёР»СЊ" X="88162" Y="69816" Type="1"/>
+        <MapText Code="Anguenny" NameEng="Anguenny" NameRus="РђРЅР¶РµРЅРё" X="75048" Y="74128" Type="1"/>
+        <MapText Code="Anisy" NameEng="Anisy" NameRus="РђРЅРёСЃРё" X="75864" Y="72377" Type="1"/>
+        <MapText Code="Argences" NameEng="Argences" NameRus="РђСЂР¶Р°РЅСЃ" X="98808" Y="61753" Type="1"/>
+        <MapText Code="Ariel" NameEng="Ariel" NameRus="РђСЂРёСЌР»СЊ" X="29262" Y="68034" Type="1"/>
+        <MapText Code="Arromances-les-Bains" NameEng="Arromanches-les-Bains" NameRus="РђСЂСЂРѕРјР°РЅСЃ-Р»Рµ-Р‘СЌРЅ" X="59405" Y="80227" Type="1"/>
+        <MapText Code="Asnelles-sur-Mer" NameEng="Asnelles-sur-Mer" NameRus="РђСЃРЅСЌР»СЊ-СЃСЋСЂ-РњСЌСЂ" X="63069" Y="80257" Type="1"/>
+        <MapText Code="Aunay-sur-Odone" NameEng="Aunay-sur-Odone" NameRus="РћРЅСЌ-СЃСЋСЂ-РћРґРѕРЅ" X="59420" Y="44306" Type="1"/>
+        <MapText Code="Avenay" NameEng="Avenay" NameRus="РђРІРµРЅСЌ" X="72458" Y="53769" Type="1"/>
+        <MapText Code="Balleroy" NameEng="Balleroy" NameRus="Р‘Р°Р»РµСЂСѓР°" X="43307" Y="61969" Type="1"/>
+        <MapText Code="Banville" NameEng="Banville" NameRus="Р‘Р°РЅРІРёР»СЊ" X="69844" Y="77578" Type="1"/>
+        <MapText Code="Baron" NameEng="Baron" NameRus="Р‘Р°СЂРѕРЅ" X="70730" Y="57408" Type="1"/>
+        <MapText Code="Basly" NameEng="Basly" NameRus="Р‘Р°СЃР»Рё" X="73909" Y="74928" Type="1"/>
+        <MapText Code="Basse" NameEng="Basse" NameRus="Р‘Р°СЃ" X="77457" Y="58034" Type="1"/>
+        <MapText Code="Baupte" NameEng="Baupte" NameRus="Р‘РѕРїС‚СЌ" X="8698" Y="77696" Type="1"/>
+        <MapText Code="Bazenville" NameEng="Bazenville" NameRus="Р‘Р°Р·РµРЅРІРёР»СЊ" X="58937" Y="75276" Type="1"/>
+        <MapText Code="Bemieres-sur-Mer" NameEng="Bemieres-sur-Mer" NameRus="Р‘РµРјСЊРµСЂ-СЃСЋСЂ-РњСЌСЂ" X="74555" Y="79206" Type="1"/>
+        <MapText Code="Benouville" NameEng="Benouville" NameRus="Р‘РµРЅСѓРІРёР»СЊ" X="84339" Y="69788" Type="1"/>
+        <MapText Code="Berigny" NameEng="Berigny" NameRus="Р‘РµСЂРёРЅСЊРё" X="36498" Y="58884" Type="1"/>
+        <MapText Code="Bernay" NameEng="Bernay" NameRus="Р‘РµСЂРЅСЌ" X="145215" Y="54235" Type="1"/>
+        <MapText Code="Bieville" NameEng="Bieville" NameRus="Р‘СЊРµРІРёР»СЊ" X="82215" Y="70321" Type="1"/>
+        <MapText Code="Blainville" NameEng="Blainville" NameRus="Р‘Р»СЌР№РЅРІРёР»СЊ" X="81207" Y="68486" Type="1"/>
+        <MapText Code="Blosville" NameEng="Blosville" NameRus="Р‘Р»РѕСЃРІРёР»СЊ" X="14323" Y="83400" Type="1"/>
+        <MapText Code="Bougy" NameEng="Bougy" NameRus="Р‘СѓРіРё" X="66873" Y="54222" Type="1"/>
+        <MapText Code="Bourguebus" NameEng="Bourguebus" NameRus="Р‘СѓСЂР¶РµР±Сѓ" X="83698" Y="55981" Type="1"/>
+        <MapText Code="Bras" NameEng="Bras" NameRus="Р‘СЂР°" X="81293" Y="58672" Type="1"/>
+        <MapText Code="Brecey" NameEng="Brecey" NameRus="Р‘СЂРµСЃРё" X="20103" Y="15043" Type="1"/>
+        <MapText Code="Brecy" NameEng="Brecy" NameRus="Р‘СЂРµСЃРё" X="63901" Y="72435" Type="1"/>
+        <MapText Code="Bretteville-sur-Odon" NameEng="Bretteville-sur-Odon" NameRus="Р‘СЂРµС‚РІРёР»СЊ-СЃСЋСЂ-РћРґРѕРЅ" X="75016" Y="61156" Type="1"/>
+        <MapText Code="Broglie" NameEng="Broglie" NameRus="Р‘СЂРѕР»СЊРё" X="139018" Y="44968" Type="1"/>
+        <MapText Code="Buhot" NameEng="Buhot" NameRus="Р‘СѓРѕ" X="61530" Y="78995" Type="1"/>
+        <MapText Code="Buron" NameEng="Buron" NameRus="Р‘СЋСЂРѕРЅ" X="74615" Y="67035" Type="1"/>
+        <MapText Code="Cabourg" NameEng="Cabourg" NameRus="РљР°Р±СѓСЂ" X="96084" Y="74131" Type="1"/>
+        <MapText Code="Cabourg2" NameEng="Cabourg" NameRus="РљР°Р±СѓСЂ" X="44733" Y="81308" Type="1"/>
+        <MapText Code="Cambes" NameEng="Cambes" NameRus="РљР°РјР±СЌ" X="77255" Y="68225" Type="1"/>
+        <MapText Code="Canisy" NameEng="Canisy" NameRus="РљР°РЅРёСЃРё" X="21404" Y="50533" Type="1"/>
+        <MapText Code="Carpiquet2" NameEng="Carpiquet" NameRus="РљР°СЂРїРёРєРµ" X="72276" Y="62314" Type="1"/>
+        <MapText Code="Caumont" NameEng="Caumont" NameRus="РљРѕРјРѕРЅ" X="44247" Y="52973" Type="1"/>
+        <MapText Code="Chambois" NameEng="Chambois" NameRus="РЁР°РјР±СѓР°" X="118336" Y="12785" Type="1"/>
+        <MapText Code="Chef_du_Pont" NameEng="Chef-du-Pont" NameRus="РЁРµС„-РґСЋ-РџРѕРЅ" X="10033" Y="85331" Type="1"/>
+        <MapText Code="Clecy" NameEng="Clecy" NameRus="РљР»РµСЃРё" X="68472" Y="32149" Type="1"/>
+        <MapText Code="Colleville" NameEng="Colleville" NameRus="РљРѕР»СЊРІРёР»СЊ" X="67526" Y="59409" Type="1"/>
+        <MapText Code="Colleville-sur-Mer" NameEng="Colleville-sur-Mer" NameRus="РљРѕР»СЊРІРёР»СЊ-СЃСЋСЂ-РњСЌСЂ" X="43148" Y="81762" Type="1"/>
+        <MapText Code="Collleville-sur-Ome" NameEng="Colleville-sur-Ome" NameRus="РљРѕР»СЊРІРёР»СЊ-СЃСЋСЂ-РћРј" X="83805" Y="73325" Type="1"/>
+        <MapText Code="Colombelles" NameEng="Colombelles" NameRus="РљРѕР»РѕРјР±РµР№" X="84291" Y="64593" Type="1"/>
+        <MapText Code="Colombiers-sur-Seulles" NameEng="Colombiers-sur-Seulles" NameRus="РљРѕР»РѕРјР±СЊРµСЂ-СЃСЋСЂ-РЎРµР№" X="68520" Y="75945" Type="1"/>
+        <MapText Code="Colomby-sur-Thaon" NameEng="Colomby-sur-Thaon" NameRus="РљРѕР»РѕРјР±Рё-СЃСЋСЂ-РўР°РѕРЅ" X="72555" Y="73851" Type="1"/>
+        <MapText Code="Conde" NameEng="Conde" NameRus="РљРѕРЅРґРµ" X="62315" Y="27054" Type="1"/>
+        <MapText Code="Coulombs" NameEng="Coulombs" NameRus="РљСѓР»РѕРјР±" X="64917" Y="71018" Type="1"/>
+        <MapText Code="Courseulles-sur-Mer" NameEng="Courseulles-sur-Mer" NameRus="РљСѓСЂСЃРµР№-СЃСЋСЂ-РњСЌСЂ" X="72339" Y="79022" Type="1"/>
+        <MapText Code="Crepon" NameEng="Crepon" NameRus="РљСЂРµРїРѕРЅ" X="63039" Y="76500" Type="1"/>
+        <MapText Code="Creully" NameEng="Creully" NameRus="РљСЂРµР»Р»Рё" X="66334" Y="75422" Type="1"/>
+        <MapText Code="Cristot" NameEng="Cristot" NameRus="РљСЂРёСЃС‚Рѕ" X="63285" Y="64643" Type="1"/>
+        <MapText Code="Cuverville" NameEng="Cuverville" NameRus="РљСѓРІРµСЂРІРёР»СЊ" X="85964" Y="63665" Type="1"/>
+        <MapText Code="Deauville" NameEng="Deauville" NameRus="Р”РѕРІРёР»СЊ" X="110505" Y="83573" Type="1"/>
+        <MapText Code="Demouville" NameEng="Demouville" NameRus="Р”РµРјСѓРІРёР»СЊ" X="86042" Y="62003" Type="1"/>
+        <MapText Code="Dives-sur-Mer" NameEng="Dives-sur-Mer" NameRus="Р”РёРІ-СЃСЋСЂ-РњСЌСЂ" X="99096" Y="74656" Type="1"/>
+        <MapText Code="Douvres-la-Delivrande" NameEng="Douvres-la-Delivrande" NameRus="Р”СѓРІСЂРµ-Р»СЏ-Р”РµР»РёРІСЂР°РЅРґ" X="77860" Y="75200" Type="1"/>
+        <MapText Code="Ducy-Sainte-Marguerite" NameEng="Ducy-Sainte-Marguerite" NameRus="Р”СЋСЃРё-РЎРµРЅС‚-РњР°СЂРіРµСЂРёС‚" X="61240" Y="68045" Type="1"/>
+        <MapText Code="Ecoqueneauville" NameEng="Ecoqueneauville" NameRus="Р­РєРѕРєРµРЅРѕРІРёР»СЊ" X="13996" Y="86696" Type="1"/>
+        <MapText Code="Ecouche" NameEng="Ecouche" NameRus="Р­РєСѓС€" X="76369" Y="10993" Type="1"/>
+        <MapText Code="Escoville" NameEng="Escoville" NameRus="Р­СЃРєРѕРІРёР»СЊ" X="88222" Y="65657" Type="1"/>
+        <MapText Code="Esquay" NameEng="Esquay" NameRus="Р­СЃРєСЌ" X="70451" Y="54986" Type="1"/>
+        <MapText Code="Esquay-sur-Seulles" NameEng="Esquay-sur-Seulles" NameRus="Р­СЃРєРµ-СЃСЋСЂ-РЎРµР№" X="57258" Y="71458" Type="1"/>
+        <MapText Code="Etavaut" NameEng="Etavaut" NameRus="Р­С‚Р°РІРѕ" X="77114" Y="57172" Type="1"/>
+        <MapText Code="Eterville" NameEng="Eterville" NameRus="Р­С‚РµСЂРІРёР»СЊ" X="75574" Y="58999" Type="1"/>
+        <MapText Code="Evrecy" NameEng="Evrecy" NameRus="Р­РІСЂРµСЃРё" X="69524" Y="53592" Type="1"/>
+        <MapText Code="Feuguerollas-sur-Orne" NameEng="Feuguerollas-sur-Orne" NameRus="Р¤РµРіРµСЂРѕР»Р»Р°-СЃСЋСЂ-РћСЂРЅ" X="74555" Y="55917" Type="1"/>
+        <MapText Code="Flers" NameEng="Flers" NameRus="Р¤Р»РµСЂ" X="61158" Y="17078" Type="1"/>
+        <MapText Code="Fleury-sur-Orne" NameEng="Fleury-sur-Orne" NameRus="Р¤Р»РµСЂРё-СЃСЋСЂ-РћСЂРЅ" X="79019" Y="58362" Type="1"/>
+        <MapText Code="Folie" NameEng="Folie" NameRus="Р¤РѕР»Рё" X="82752" Y="57064" Type="1"/>
+        <MapText Code="Fontaine-Etoupefour" NameEng="Fontaine-Etoupefour" NameRus="Р¤РѕРЅС‚СЌРЅ-Р­С‚СѓРїРµС„СѓСЂ" X="73628" Y="58669" Type="1"/>
+        <MapText Code="Formigny" NameEng="Formigny" NameRus="Р¤РѕСЂРјРёРЅСЊРё" X="42833" Y="79793" Type="1"/>
+        <MapText Code="Fouville" NameEng="Fouville" NameRus="Р¤СѓРІРёР»СЊ" X="12661" Y="86015" Type="1"/>
+        <MapText Code="Franceville-Plage" NameEng="Franceville-Plage" NameRus="Р¤СЂР°РЅСЃРІРёР»СЊ-РџР»Р°Рі" X="90744" Y="73911" Type="1"/>
+        <MapText Code="Gace" NameEng="Gace" NameRus="Р“Р°СЃ" X="123484" Y="20579" Type="1"/>
+        <MapText Code="Gavray" NameEng="Gavray" NameRus="Р“Р°РІСЂСЌ" X="12444" Y="34052" Type="1"/>
+        <MapText Code="Gavrus" NameEng="Gavrus" NameRus="Р“Р°РІСЂСѓ" X="67875" Y="54965" Type="1"/>
+        <MapText Code="Grainville" NameEng="Grainville" NameRus="Р“СЂСЌРЅРІРёР»СЊ" X="56706" Y="61193" Type="1"/>
+        <MapText Code="Grand_Hameau_de_Dunes" NameEng="Grand Hameau de Dunes" NameRus="Р“СЂР°РЅ-РђРјРѕ-РґРµ-Р”СЋРЅ" X="18156" Y="91774" Type="1"/>
+        <MapText Code="Grandcamp-les-Bains" NameEng="Grandcamp-les-Bains" NameRus="Р“СЂР°РЅРєР°РјРї-Р»Рµ-Р‘СЌРЅ" X="29265" Y="84388" Type="1"/>
+        <MapText Code="Graye-sur-Mer" NameEng="Graye-sur-Mer" NameRus="Р“СЂР°Р№РЅ-СЃСЋСЂ-РњСЌСЂ" X="70031" Y="79546" Type="1"/>
+        <MapText Code="Hamel_de_Crutes" NameEng="Hamel de Crutes" NameRus="РђРјРµР»СЊ-РґРµ-РљСЂСЋС‚" X="20235" Y="91306" Type="1"/>
+        <MapText Code="Hermanville-sur-Mer" NameEng="Hermanville-sur-Mer" NameRus="Р­СЂРјР°РЅРІРёР»СЊ-СЃСЋСЂ-РњСЌСЂ" X="82295" Y="73768" Type="1"/>
+        <MapText Code="Herouvillette" NameEng="Herouvillette" NameRus="Р­СЂСѓРІРёР№РµС‚" X="87154" Y="66588" Type="1"/>
+        <MapText Code="Houlgate" NameEng="Houlgate" NameRus="РЈР»СЊРіР°С‚" X="102445" Y="76058" Type="1"/>
+        <MapText Code="Hube" NameEng="Hube" NameRus="Р®Р±" X="80962" Y="56625" Type="1"/>
+        <MapText Code="Isigny" NameEng="Isigny" NameRus="РР·РёРЅСЊРё" X="26060" Y="76700" Type="1"/>
+        <MapText Code="Jumeaux" NameEng="Jumeaux" NameRus="Р–СЋРјРѕ" X="73867" Y="60778" Type="1"/>
+        <MapText Code="L_Aigle" NameEng="L'Aigle" NameRus="Р›'Р­Р№" X="143515" Y="15410" Type="1"/>
+        <MapText Code="la_Breche" NameEng="La Breche" NameRus="Р›СЏ-Р‘СЂРµС€" X="83807" Y="74998" Type="1"/>
+        <MapText Code="la_Riviere" NameEng="La Riviere" NameRus="Р›СЏ-Р РёРІСЊРµСЂ" X="67256" Y="80658" Type="1"/>
+        <MapText Code="la_Rosiere" NameEng="la Rosiere" NameRus="Р›Р°-Р РѕР·СЊРµСЂ" X="57468" Y="77566" Type="1"/>
+        <MapText Code="Langrune-sur-Mer" NameEng="Langrune-sur-Mer" NameRus="Р›Р°РЅРіСЂСЋРЅ-СЃСЋСЂ-РњСЌСЂ" X="77910" Y="78529" Type="1"/>
+        <MapText Code="Le_Beny_Bocage" NameEng="Le Beny Bocage" NameRus="Р›Рµ-Р‘РµРЅРё-Р‘РѕРєР°Р¶" X="43144" Y="33669" Type="1"/>
+        <MapText Code="le_Fresne_Camilly" NameEng="Le Fresne Camilly" NameRus="Р›Рµ Р¤СЂРµСЃРЅ РљР°РјРёСЊРё" X="69505" Y="72127" Type="1"/>
+        <MapText Code="Le_Mariquet" NameEng="Le Mariquet" NameRus="Р›Рµ-РњР°СЂРёРєСЌ" X="89352" Y="67677" Type="1"/>
+        <MapText Code="Le_Valtru" NameEng="Le Valtru" NameRus="Р›Рµ-Р’Р°Р»СЊС‚СЂСѓ" X="56505" Y="56931" Type="1"/>
+        <MapText Code="Lebisey" NameEng="Lebisey" NameRus="Р›РµР±РёСЃРё" X="80199" Y="66491" Type="1"/>
+        <MapText Code="Les_Dunes_de_Vareville" NameEng="Les Dunes de Vareville" NameRus="Р›Рµ-Р”СЋРЅ-РґРµ-Р’Р°СЂРµРІРёР»СЊ" X="19826" Y="90156" Type="1"/>
+        <MapText Code="Les_Forges" NameEng="Les Forges" NameRus="Р›Рµ-Р¤РѕСЂР¶" X="13506" Y="84517" Type="1"/>
+        <MapText Code="Lion-Sur-Mer" NameEng="Lion-Sur-Mer" NameRus="Р›РёРѕРЅ-СЃСЋСЂ-РњСЌСЂ" X="82114" Y="76006" Type="1"/>
+        <MapText Code="Lisieux" NameEng="Lisieux" NameRus="Р›РёР·СЊРµ" X="117980" Y="58429" Type="1"/>
+        <MapText Code="Longues" NameEng="Longues" NameRus="Р›РѕРЅРі" X="55447" Y="80249" Type="1"/>
+        <MapText Code="Longueval" NameEng="Longueval" NameRus="Р›РѕРЅРіРµРІР°Р»" X="84755" Y="66489" Type="1"/>
+        <MapText Code="Loucelles" NameEng="Loucelles" NameRus="Р›СѓСЃРµР№" X="63685" Y="67846" Type="1"/>
+        <MapText Code="Louvieres" NameEng="Louvieres" NameRus="Р›СѓРІСЊРµСЂ" X="39854" Y="82292" Type="1"/>
+        <MapText Code="Louvigny" NameEng="Louvigny" NameRus="Р›СѓРІРёРЅСЊРё" X="76585" Y="60053" Type="1"/>
+        <MapText Code="Luc-sur-Mer" NameEng="Luc-sur-Mer" NameRus="Р›СЋРє-СЃСЋСЂ-РњСЌСЂ" X="79513" Y="77881" Type="1"/>
+        <MapText Code="Maltot" NameEng="Maltot" NameRus="РњР°Р»СЊС‚Рѕ" X="74768" Y="57596" Type="1"/>
+        <MapText Code="Marigny" NameEng="Marigny" NameRus="РњР°СЂРёРЅСЊРё" X="15743" Y="55383" Type="1"/>
+        <MapText Code="May-sur-Orne" NameEng="May-sur-Orne" NameRus="РњСЌ-СЃСЋСЂ-РћСЂРЅ" X="77714" Y="53813" Type="1"/>
+        <MapText Code="Merville" NameEng="Merville" NameRus="РњРµСЂРІРёР»СЊ" X="90381" Y="72600" Type="1"/>
+        <MapText Code="Meuvaines" NameEng="Meuvaines" NameRus="РњРѕРІСЌРЅ" X="64332" Y="79025" Type="1"/>
+        <MapText Code="Montebourg" NameEng="Montebourg" NameRus="РњРѕРЅС‚РµР±СѓСЂ" X="7723" Y="96210" Type="1"/>
+        <MapText Code="Mont-Fleury" NameEng="Mont-Fleury" NameRus="РњРѕРЅ-Р¤Р»РµСЂРё" X="65963" Y="79272" Type="1"/>
+        <MapText Code="Mouen" NameEng="Mouen" NameRus="РњСѓР°РЅ" X="68993" Y="59134" Type="1"/>
+        <MapText Code="Nonant-le-Pin" NameEng="Nonant-le-Pin" NameRus="РќРѕРЅР°РЅ-Р»Рµ-РџРёРЅ" X="58573" Y="69551" Type="1"/>
+        <MapText Code="Orbec" NameEng="Orbec" NameRus="РћСЂР±РµРє" X="129670" Y="46046" Type="1"/>
+        <MapText Code="Ouistreham" NameEng="Ouistreham" NameRus="РЈРёСЃС‚СЂРµС…Р°Рј" X="85863" Y="73689" Type="1"/>
+        <MapText Code="Percy" NameEng="Percy" NameRus="РџРµСЂСЃРё" X="16604" Y="33143" Type="1"/>
+        <MapText Code="Periers" NameEng="Periers" NameRus="РџРµСЂСЊРµ" X="5363" Y="64414" Type="1"/>
+        <MapText Code="Periers-sur-le-Dan" NameEng="Periers-sur-le-Dan" NameRus="РџРµСЂСЊРµ-СЃСЋСЂ-Р»Рµ-Р”Р°РЅ" X="80340" Y="71369" Type="1"/>
+        <MapText Code="Point_Hebert" NameEng="Point Hebert" NameRus="РџРѕР№РЅС‚ Р­Р±РµСЂС‚" X="23004" Y="61689" Type="1"/>
+        <MapText Code="Pont_Audemer" NameEng="Pont Audemer" NameRus="РџРѕРЅ-РћРґРµРјСЌСЂ" X="138709" Y="82137" Type="1"/>
+        <MapText Code="Pont_l-Eveque" NameEng="Pont l'Eveque" NameRus="РџРѕРЅ-Р»'Р­РІРµРє" X="121977" Y="79607" Type="1"/>
+        <MapText Code="Pontfarcy" NameEng="Pontfarcy" NameRus="РџРѕРЅС„СЂР°РЅСЃРё" X="28535" Y="36700" Type="1"/>
+        <MapText Code="Port-en-Bessin" NameEng="Port-en-Bessin" NameRus="РџРѕСЂ-Р°РЅ-Р‘РµСЃСЃРёРЅ" X="51209" Y="80481" Type="1"/>
+        <MapText Code="Potigny" NameEng="Potigny" NameRus="РџРѕС‚РёРЅСЊРё" X="87271" Y="42668" Type="1"/>
+        <MapText Code="Pouliguy" NameEng="Pouliguy" NameRus="РџСѓР»РёРіРё" X="56502" Y="76421" Type="1"/>
+        <MapText Code="Quineville" NameEng="Quineville" NameRus="РљРёРЅРµРІРёР»СЊ" X="13085" Y="98415" Type="1"/>
+        <MapText Code="Ranville" NameEng="Ranville" NameRus="Р Р°РЅРІРёР»СЊ" X="86710" Y="68040" Type="1"/>
+        <MapText Code="Ravenoville" NameEng="Ravenoville" NameRus="Р Р°РІРµРЅРѕРІРёР»СЊ" X="16429" Y="90881" Type="1"/>
+        <MapText Code="Reviere" NameEng="Reviere" NameRus="Р РµРІСЊРµСЂ" X="71908" Y="76282" Type="1"/>
+        <MapText Code="Robenhomme" NameEng="Robenhomme" NameRus="Р РѕР±РµРЅРѕРј" X="92366" Y="66151" Type="1"/>
+        <MapText Code="Roncey" NameEng="Roncey" NameRus="Р РѕРЅСЃРё" X="9946" Y="41083" Type="1"/>
+        <MapText Code="Rucqueville" NameEng="Rucqueville" NameRus="Р СЋРєРµРІРёР»СЊ" X="63285" Y="70187" Type="1"/>
+        <MapText Code="Saint-Aubin-d'Arquenay" NameEng="Saint-Aubin-d'Arquenay" NameRus="РЎРµРЅ-РћР±РµРЅ-Рґ'РђСЂРєРµРЅСЌ" X="84089" Y="71470" Type="1"/>
+        <MapText Code="Saint-Aubin-sur-Mer" NameEng="Saint-Aubin-sur-Mer" NameRus="РЎРµРЅ-РћР±РµРЅ-СЃСЋСЂ-РњСЌСЂ" X="76032" Y="79760" Type="1"/>
+        <MapText Code="Saint-Contest" NameEng="Saint-Contest" NameRus="РЎРµРЅ-РљРѕРЅС‚Рµ" X="75945" Y="66309" Type="1"/>
+        <MapText Code="Saint-Croix-Grand-Tonne" NameEng="Saint-Croix-Grand-Tonne" NameRus="РЎРµРЅ-РљСЂСѓР°-Р“СЂР°РЅ-РўРѕРЅ" X="65225" Y="68708" Type="1"/>
+        <MapText Code="Sainte-Croix-sur-Mer" NameEng="Sainte-Croix-sur-Mer" NameRus="РЎРµРЅС‚-РљСЂСѓР°-СЃСЋСЂ-РњСЌСЂ" X="68026" Y="78194" Type="1"/>
+        <MapText Code="Sainte-Martin-de-Vareville" NameEng="Saint-Martin-de-Vareville" NameRus="РЎРµРЅС‚-РњР°СЂС‚СЌРЅ-РґРµ-Р’Р°СЂРµРІРёР»СЊ" X="17311" Y="89337" Type="1"/>
+        <MapText Code="Sainteny" NameEng="Sainteny" NameRus="РЎСЌР№РЅС‚РµРЅРё" X="10574" Y="68552" Type="1"/>
+        <MapText Code="Saint-Gabriel" NameEng="Saint-Gabriel" NameRus="РЎРµРЅС‚-Р“Р°Р±СЂРёСЌР»СЊ" X="64794" Y="74129" Type="1"/>
+        <MapText Code="Saint-Leger" NameEng="Saint-Leger" NameRus="РЎРµРЅ-Р›РµР¶Рµ" X="61036" Y="69302" Type="1"/>
+        <MapText Code="Saint-Sulpice" NameEng="Saint-Sulpice" NameRus="РЎРµРЅ-РЎСЋР»РїРёСЃ" X="57415" Y="75724" Type="1"/>
+        <MapText Code="Sallenelles" NameEng="Sallenelles" NameRus="РЎР°Р»Р»РµРЅРµР№" X="88478" Y="71551" Type="1"/>
+        <MapText Code="Sannerville" NameEng="Sannerville" NameRus="РЎР°РЅРЅРµСЂРІРёР»СЊ" X="88932" Y="62327" Type="1"/>
+        <MapText Code="Sommervieu" NameEng="Sommervieu" NameRus="РЎРѕРјРјРµСЂРІСЊРµ" X="59453" Y="73220" Type="1"/>
+        <MapText Code="St_Come_du_Mont" NameEng="St.-Come-du-Mont" NameRus="РЎРµРЅ-РљРѕРј-РґСЋ-РњРѕРЅ" X="14800" Y="79526" Type="1"/>
+        <MapText Code="St_Denis-le-Gast" NameEng="St Denis-le-Gast" NameRus="РЎРµРЅ-Р”РµРЅРё-Р»Рµ-Р“Р°" X="12207" Y="37100" Type="1"/>
+        <MapText Code="St_Gilles" NameEng="St Gilles" NameRus="РЎРµРЅ-Р–РёР»СЊ" X="20304" Y="55445" Type="1"/>
+        <MapText Code="St_Jean-de-Baisants" NameEng="St Jean-de-Baisants" NameRus="РЎРµРЅ-Р–Р°РЅ-РґРµ-Р‘СЌР·Р°РЅ" X="36591" Y="52892" Type="1"/>
+        <MapText Code="St_Jores" NameEng="St. Jores" NameRus="РЎРµРЅ-Р–РѕСЂРµ" X="3878" Y="78165" Type="1"/>
+        <MapText Code="St_Laurent" NameEng="St Laurent" NameRus="РЎРµРЅ-Р›РѕСЂР°РЅ" X="41680" Y="82788" Type="1"/>
+        <MapText Code="St_Martin2" NameEng="St Martin" NameRus="РЎРµРЅ-РњР°СЂС‚СЌРЅ" X="74624" Y="54671" Type="1"/>
+        <MapText Code="St_Martin-des-Besaces" NameEng="St Martin-des-Besaces" NameRus="РЎРµРЅ РњР°СЂС‚СЌРЅ-РґРµ-Р‘РµР·Р°СЃ" X="42035" Y="39465" Type="1"/>
+        <MapText Code="St_Pierre" NameEng="St. Pierre" NameRus="РЎРµРЅ-РџСЊРµСЂ" X="102711" Y="45850" Type="1"/>
+        <MapText Code="St_Remy" NameEng="St Remy" NameRus="РЎРµРЅ-Р РµРјРё" X="69766" Y="40771" Type="1"/>
+        <MapText Code="St_Saveur_Lendelin" NameEng="St Saveur Lendelin" NameRus="РЎРµРЅ-РЎР°РІРµСЂ-Р›РµРЅРґРµР»РёРЅ" X="3927" Y="57201" Type="1"/>
+        <MapText Code="St-Andres-sur-Orne" NameEng="St-Andres-sur-Orne" NameRus="РЎРµРЅ-РђРЅРґСЂСЌ-СЃСЋСЂ-РћСЂРЅ" X="78060" Y="55682" Type="1"/>
+        <MapText Code="Ste_Marie_du_Mont" NameEng="Ste.-Marie-du-Mont" NameRus="РЎРµРЅС‚-РњР°СЂРё-РґСЋ-РњРѕРЅС‚" X="18377" Y="84449" Type="1"/>
+        <MapText Code="Ste_Mere_Eglise" NameEng="Ste.-Mere-Eglise" NameRus="РЎРµРЅС‚-РњРµСЂ-Р­РіР»РёР·" X="11435" Y="88051" Type="1"/>
+        <MapText Code="Subles" NameEng="Subles" NameRus="РЎСЋР±Р»Рµ" X="51584" Y="70074" Type="1"/>
+        <MapText Code="Sully" NameEng="Sully" NameRus="РЎСЋР»Р»Рё" X="51817" Y="75510" Type="1"/>
+        <MapText Code="Taileville" NameEng="Taileville" NameRus="РўСЌР»РµРІРёР»СЊ" X="75356" Y="76775" Type="1"/>
+        <MapText Code="Tessy-sur-Vire" NameEng="Tessy-sur-Vire" NameRus="РўРµСЃСЃРё-СЃСЋСЂ-Р’РёСЂ" X="27355" Y="39109" Type="1"/>
+        <MapText Code="Thaon" NameEng="Thaon" NameRus="РўР°РѕРЅ" X="72802" Y="71419" Type="1"/>
+        <MapText Code="Tierceville" NameEng="Tierceville" NameRus="РўСЊРµСЂСЃРµРІРёР»СЊ" X="66671" Y="76561" Type="1"/>
+        <MapText Code="Torigny-sur-Vire" NameEng="Torigny-sur-Vire" NameRus="РўРѕСЂРёРЅСЊРё-СЃСЋСЂ-Р’РёСЂ" X="32424" Y="42772" Type="1"/>
+        <MapText Code="Toufreville" NameEng="Toufreville" NameRus="РўСѓС„СЂРµРІРёР»СЊ" X="89174" Y="63579" Type="1"/>
+        <MapText Code="Tribenou" NameEng="Tribenou" NameRus="РўСЂРёР±РµРЅСѓ" X="16378" Y="66074" Type="1"/>
+        <MapText Code="Trouville" NameEng="Trouville" NameRus="РўСЂСѓРІРёР»СЊ" X="120033" Y="87611" Type="1"/>
+        <MapText Code="Turqueville" NameEng="Turqueville" NameRus="РўСЋСЂРєРµРІРёР»СЊ" X="15088" Y="87449" Type="1"/>
+        <MapText Code="Ussy" NameEng="Ussy" NameRus="Р®СЃСЃРё" X="82527" Y="37751" Type="1"/>
+        <MapText Code="Varaville" NameEng="Varaville" NameRus="Р’Р°СЂР°РІРёР»СЊ" X="93180" Y="69522" Type="1"/>
+        <MapText Code="Vaux" NameEng="Vaux" NameRus="Р’Рѕ" X="69164" Y="80430" Type="1"/>
+        <MapText Code="Vaux-sur-Aure" NameEng="Vaux-sur-Aure" NameRus="Р’Рѕ-СЃСЋСЂ-РћСЂ" X="54946" Y="76278" Type="1"/>
+        <MapText Code="Verrieres" NameEng="Verrieres" NameRus="Р’РµСЂСЊРµСЂ" X="90614" Y="48891" Type="1"/>
+        <MapText Code="Verson" NameEng="Verson" NameRus="Р’РµСЂСЃРѕРЅ" X="71976" Y="59915" Type="1"/>
+        <MapText Code="Vierville" NameEng="Vierville" NameRus="Р’СЊРµСЂРІРёР»СЊ" X="16298" Y="82325" Type="1"/>
+        <MapText Code="Vierville-sur-Mer" NameEng="Vierville-sur-Mer" NameRus="Р’СЊРµСЂРІРёР»СЊ-СЃСЋСЂ-РњСЌСЂ" X="39583" Y="83851" Type="1"/>
+        <MapText Code="Vieux" NameEng="Vieux" NameRus="Р’СЊРµ" X="74698" Y="54080" Type="1"/>
+        <MapText Code="Villebaudon" NameEng="Villebaudon" NameRus="Р’РёР»СЊР±РѕРґРѕРЅ" X="18143" Y="38077" Type="1"/>
+        <MapText Code="Villedieu" NameEng="Villedieu" NameRus="Р’РёР»Р»РµРґСЊРµ" X="16341" Y="25889" Type="1"/>
+        <MapText Code="Villers_Bocage" NameEng="Villers Bocage" NameRus="Р’РёР»Р»РµСЂ-Р‘РѕРєР°Р¶" X="56273" Y="51231" Type="1"/>
+        <MapText Code="Villers_Sur_Mer" NameEng="Villers Sur Mer" NameRus="Р’РёР№Рµ-СЃСЋСЂ-РњСЌСЂ" X="107049" Y="79679" Type="1"/>
+        <MapText Code="Villions-les-Buissons" NameEng="Villions-les-Buissons" NameRus="Р’РёР№РѕРЅ-Р»Рµ-Р‘СЊСЋСЃСЃРѕРЅ" X="75784" Y="70119" Type="1"/>
+        <MapText Code="Vilners-le-Sec" NameEng="Vilners-le-Sec" NameRus="Р’РёР»СЊРЅРµСЂ-Р»Рµ-РЎРµРє" X="64455" Y="75453" Type="1"/>
+        <MapText Code="Vimoutiers" NameEng="Vimoutiers" NameRus="Р’РёРјСѓС‚СЊРµСЂ" X="115503" Y="36194" Type="1"/>
+        <MapText Code="Vire" NameEng="Vire" NameRus="Р’РёСЂ" X="41495" Y="27488" Type="1"/>
+        <MapText Code="Coutances" NameEng="Coutances" NameRus="РљСѓС‚Р°РЅСЃ" X="2169" Y="50621" Type="2"/>
+        <MapText Code="Valognes" NameEng="Valognes" NameRus="Р’Р°Р»РѕРЅСЊ" X="1301" Y="98478" Type="2"/>
+        <MapText Code="Argentan2" NameEng="Argentan" NameRus="РђСЂР¶РµРЅС‚Р°РЅ" X="101548" Y="15910" Type="3"/>
+        <MapText Code="Avranches" NameEng="Avranches" NameRus="РђРІСЂР°РЅС€" X="7662" Y="10572" Type="3"/>
+        <MapText Code="Bayeux" NameEng="Bayeux" NameRus="Р‘Р°Р№Рµ" X="54363" Y="73899" Type="3"/>
+        <MapText Code="Caen" NameEng="Caen" NameRus="РљР°РЅ" X="80408" Y="63787" Type="3"/>
+        <MapText Code="Carentan" NameEng="Carentan" NameRus="РљР°СЂРµРЅС‚Р°РЅ" X="16337" Y="75923" Type="3"/>
+        <MapText Code="Falaise" NameEng="Falaise" NameRus="Р¤Р°Р»СЌР·" X="89544" Y="30373" Type="3"/>
+        <MapText Code="Le_Havre" NameEng="Le Havre" NameRus="Р“Р°РІСЂ" X="110659" Y="95600" Type="3"/>
+        <MapText Code="St_Lo" NameEng="St.-Lo" NameRus="РЎРµРЅ-Р›Рѕ" X="27615" Y="55248" Type="3"/>
+        <MapText Code="Argentan" NameEng="Argentan" NameRus="РђСЂР¶РµРЅС‚Р°РЅ" X="107004" Y="17508" Type="3"/>
+        <MapText Code="British_Base" NameEng="British Base" NameRus="РђС‚Р»Р°РЅС‚РёРґР°" X="72362" Y="98425" Type="3"/>
+        <MapText Code="Carpiquet" NameEng="Carpiquet" NameRus="РљР°СЂРїРёРєРµ" X="74307" Y="62209" Type="3"/>
+        <MapText Code="Maupertus" NameEng="Maupertus" NameRus="РњРѕРїРµСЂС‚Сѓ" X="3756" Y="100630" Type="3"/>
+        <MapText Code="Octeville" NameEng="Octeville" NameRus="РћРєС‚СЌРІРёР»СЊ" X="109221" Y="101085" Type="3"/>
+        <MapText Code="Saint_Paul" NameEng="Saint-Paul" NameRus="РЎРµРЅ-РџРѕР»СЊ" X="40054" Y="30666" Type="3"/>
+        <MapText Code="Saint_Romain" NameEng="Saint-Romain" NameRus="РЎРµРЅ-Р РѕРјСЌРЅ" X="142623" Y="99350" Type="3"/>
+        <MapText Code="St_Gatien" NameEng="St.-Gatien" NameRus="РЎРµРЅ-Р“Р°С‚СЊРµРЅ" X="116793" Y="86782" Type="3"/>
+        <MapText Code="St_Martin" NameEng="St.-Martin" NameRus="РЎРµРЅ-РњР°СЂС‚СЌРЅ" X="146372" Y="52448" Type="3"/>
+        <MapText Code="Pegasus_Bridge" NameEng="Pegasus Bridge" NameRus="РџРµРіР°СЃСѓСЃ" X="85236" Y="69478" Type="3"/>
+        <MapText Code="Pointe_du_Hoc" NameEng="Pointe du Hoc" NameRus="РџСѓР°РЅ-РґСЋ-РҐРѕРє" X="36817" Y="87345" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="106019.00" Y="15481.00" A="35" T1="1" Res="IL_4_DB3B_g"/>

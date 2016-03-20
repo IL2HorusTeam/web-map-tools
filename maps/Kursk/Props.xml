@@ -1,103 +1,103 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TBaseMapSettings>
     <MisCode>Kursk</MisCode>
     <Width>192000</Width>
     <Height>166400</Height>
     <Towns>
-        <MapText Code="Arkhangelskoe" NameEng="Arkhangelskoe" NameRus="Архангельское" X="145438" Y="141115" Type="1"/>
-        <MapText Code="Berezovka" NameEng="Berezovka" NameRus="Березовка" X="161277" Y="118034" Type="1"/>
-        <MapText Code="Bolshie_Ugoni" NameEng="Bolshiye Ugoni" NameRus="Большие Угоны" X="62850" Y="19778" Type="1"/>
-        <MapText Code="Brasovo" NameEng="Brasovo" NameRus="Брасово" X="13808" Y="113590" Type="1"/>
-        <MapText Code="Budanovka" NameEng="Budanovka" NameRus="Будановка" X="113232" Y="50980" Type="1"/>
-        <MapText Code="Buzuluk" NameEng="Buzuluk" NameRus="Бузулук" X="112272" Y="93003" Type="1"/>
-        <MapText Code="Cheremushki" NameEng="Cheremushki" NameRus="Черемушки" X="100185" Y="12660" Type="1"/>
-        <MapText Code="Dolqoye" NameEng="Dolgoe" NameRus="Долгое" X="174040" Y="61239" Type="1"/>
-        <MapText Code="Droskovo" NameEng="Droskovo" NameRus="Дросково" X="155358" Y="101996" Type="1"/>
-        <MapText Code="Ekaterinovka" NameEng="Ekaterinovka" NameRus="Екатериновка" X="185758" Y="72467" Type="1"/>
-        <MapText Code="Glazunovka" NameEng="Glazunovka" NameRus="Глазуновка" X="112530" Y="102968" Type="1"/>
-        <MapText Code="Gremjatchka" NameEng="Gremjatchka" NameRus="Гремячка" X="128249" Y="50649" Type="1"/>
-        <MapText Code="Gubkino" NameEng="Gubkino" NameRus="Губкино" X="130791" Y="89917" Type="1"/>
-        <MapText Code="Gustomoiy" NameEng="Gustomoy" NameRus="Густомой" X="31233" Y="18154" Type="1"/>
-        <MapText Code="Homutovo" NameEng="Homutovo" NameRus="Хомутово" X="178416" Y="137300" Type="1"/>
-        <MapText Code="Ivanino" NameEng="Ivanino" NameRus="Иванино" X="69068" Y="22636" Type="1"/>
-        <MapText Code="Ivanovskoe" NameEng="Ivanovskoye" NameRus="Ивановское" X="23302" Y="16390" Type="1"/>
-        <MapText Code="Kamenka" NameEng="Kamenka" NameRus="Каменка" X="127208" Y="102888" Type="1"/>
-        <MapText Code="Kamenka2" NameEng="Kamenka" NameRus="Каменка" X="156379" Y="140691" Type="1"/>
-        <MapText Code="Kasinovka" NameEng="Kasinovka" NameRus="Касиновка" X="134170" Y="58896" Type="1"/>
-        <MapText Code="Khomutovka" NameEng="Khomutovka" NameRus="Хомутово" X="9805" Y="47600" Type="1"/>
-        <MapText Code="Khotynets" NameEng="Khotynets" NameRus="Хотынец" X="57940" Y="162703" Type="1"/>
-        <MapText Code="Kolpny" NameEng="Kolpny" NameRus="Колпны" X="152418" Y="78852" Type="1"/>
-        <MapText Code="Komarichi" NameEng="Komarichi" NameRus="Комаричи" X="23042" Y="96189" Type="1"/>
-        <MapText Code="Konishevka" NameEng="Konyshevka" NameRus="Конышевка" X="52478" Y="40972" Type="1"/>
-        <MapText Code="Korotish" NameEng="Korotysh" NameRus="Коротыш" X="178245" Y="91778" Type="1"/>
-        <MapText Code="Kosorzha" NameEng="Kosorzha" NameRus="Косоржа" X="137031" Y="65990" Type="1"/>
-        <MapText Code="Kostino" NameEng="Kostino" NameRus="Костино" X="116985" Y="83702" Type="1"/>
-        <MapText Code="Krivtsovka" NameEng="Kryvtsovka" NameRus="Кривцовка" X="137976" Y="52360" Type="1"/>
-        <MapText Code="Kromy" NameEng="Kromy" NameRus="Кромы" X="77080" Y="121398" Type="1"/>
-        <MapText Code="Krutoe" NameEng="Krutoe" NameRus="Крутое" X="177962" Y="98426" Type="1"/>
-        <MapText Code="Kumatch" NameEng="Kumatch" NameRus="Кумач" X="136512" Y="45160" Type="1"/>
-        <MapText Code="Lgovo" NameEng="Lgov" NameRus="Льгов" X="50908" Y="24532" Type="1"/>
-        <MapText Code="Lipovets" NameEng="Lipovets" NameRus="Липовец" X="156332" Y="114977" Type="1"/>
-        <MapText Code="Litezg" NameEng="Litizh" NameRus="Литиж" X="29942" Y="88294" Type="1"/>
-        <MapText Code="Loboshevo" NameEng="Loboshevo" NameRus="Лубошево" X="15208" Y="103365" Type="1"/>
-        <MapText Code="Lokot" NameEng="Lokot" NameRus="Локоть" X="11453" Y="111647" Type="1"/>
-        <MapText Code="Lubimovka" NameEng="Lubimovka" NameRus="Любимовка" X="73879" Y="8365" Type="1"/>
-        <MapText Code="Lubjanki" NameEng="Lubjanki" NameRus="Лубянки" X="51632" Y="111628" Type="1"/>
-        <MapText Code="Maroisa" NameEng="Maritsa" NameRus="Марица" X="52238" Y="30380" Type="1"/>
-        <MapText Code="Mikhaylovka" NameEng="Zheleznogorsk" NameRus="Железногорск" X="55241" Y="78797" Type="1"/>
-        <MapText Code="Mokhovoye" NameEng="Mokhovoe" NameRus="Моховое" X="127195" Y="147654" Type="1"/>
-        <MapText Code="Narysh" NameEng="Naryshkino" NameRus="Нарышкино" X="77207" Y="148801" Type="1"/>
-        <MapText Code="Navlya" NameEng="Navlya" NameRus="Навля" X="5154" Y="135478" Type="1"/>
-        <MapText Code="Nikolskoe" NameEng="Nikolskoe" NameRus="Никольское" X="98059" Y="118475" Type="1"/>
-        <MapText Code="Novosil" NameEng="Novosil" NameRus="Новосиль" X="153934" Y="150666" Type="1"/>
-        <MapText Code="Ognevka" NameEng="Ognevka" NameRus="Огневка" X="185961" Y="43622" Type="1"/>
-        <MapText Code="Olkhovatka" NameEng="Olkhovatka" NameRus="Ольховатка" X="94409" Y="78600" Type="1"/>
-        <MapText Code="Panino" NameEng="Panino" NameRus="Панино" X="102807" Y="9329" Type="1"/>
-        <MapText Code="Pervoavgustovsky" NameEng="Pervoavgustovskiy" NameRus="Первоавгустовский" X="37022" Y="78071" Type="1"/>
-        <MapText Code="Peshkovo" NameEng="Peshkovo" NameRus="Пешково" X="181992" Y="108482" Type="1"/>
-        <MapText Code="Petrishchego" NameEng="Petrishchevo" NameRus="Петрищево" X="166306" Y="45797" Type="1"/>
-        <MapText Code="Pogozhee_Zarechie" NameEng="Pogozhee Zarechie" NameRus="Погожее Заречье" X="185696" Y="16693" Type="1"/>
-        <MapText Code="Pokrovskoe" NameEng="Pokrovskoe" NameRus="Покровское" X="182276" Y="133764" Type="1"/>
-        <MapText Code="Polevaja" NameEng="Polevaja" NameRus="Полевая" X="131546" Y="9289" Type="1"/>
-        <MapText Code="Ponyri_1" NameEng="Ponyri-1" NameRus="Поныри 1-е" X="106101" Y="84481" Type="1"/>
-        <MapText Code="Prjamitsino" NameEng="Prjamitsino" NameRus="Прямицыно" X="93195" Y="22889" Type="1"/>
-        <MapText Code="Retchitsa" NameEng="Retchitsa" NameRus="Речица" X="171728" Y="94545" Type="1"/>
-        <MapText Code="Russkiy_Brod" NameEng="Russkiy Brod" NameRus="Русский Брод" X="174587" Y="113370" Type="1"/>
-        <MapText Code="Rylsk" NameEng="Rylsk" NameRus="Рыльск" X="17240" Y="14635" Type="1"/>
-        <MapText Code="Rzhava" NameEng="Rzhava" NameRus="Ржава" X="83123" Y="77793" Type="1"/>
-        <MapText Code="Sevsk" NameEng="Sevsk" NameRus="Севск" X="6049" Y="70743" Type="1"/>
-        <MapText Code="Shablykino" NameEng="Shablykino" NameRus="Шаблыкино" X="47012" Y="138005" Type="1"/>
-        <MapText Code="Sinezerki" NameEng="Sinezerskiy" NameRus="Синезерский" X="3017" Y="154023" Type="1"/>
-        <MapText Code="Somovo" NameEng="Somovo" NameRus="Сомово" X="141932" Y="79174" Type="1"/>
-        <MapText Code="Stakanovo" NameEng="Stakanovo" NameRus="Стаканово" X="155984" Y="58906" Type="1"/>
-        <MapText Code="Stanovoe" NameEng="Stanovoe" NameRus="Становое" X="154733" Y="21462" Type="1"/>
-        <MapText Code="Stanovoe2" NameEng="Stanovoe" NameRus="Становое" X="94596" Y="74493" Type="1"/>
-        <MapText Code="Studenoe" NameEng="Studenoe" NameRus="Студеное" X="180503" Y="65634" Type="1"/>
-        <MapText Code="Svoboda" NameEng="Svoboda" NameRus="Свобода" X="109914" Y="54059" Type="1"/>
-        <MapText Code="Telegino" NameEng="Telegino" NameRus="Телегино" X="108182" Y="58831" Type="1"/>
-        <MapText Code="Tim" NameEng="Tim" NameRus="Тим" X="165236" Y="17945" Type="1"/>
-        <MapText Code="Troitskoe" NameEng="Troitskoe" NameRus="Троицкое" X="185824" Y="87348" Type="1"/>
-        <MapText Code="Troitskoe2" NameEng="Troitskoe" NameRus="Троицкое" X="167623" Y="117060" Type="1"/>
-        <MapText Code="Trosna" NameEng="Trosna" NameRus="Тросна" X="80737" Y="99121" Type="1"/>
-        <MapText Code="Troyanovo" NameEng="Lopadino" NameRus="Лопадино" X="25256" Y="101184" Type="1"/>
-        <MapText Code="Turovka" NameEng="Turovka" NameRus="Туровка" X="151443" Y="131222" Type="1"/>
-        <MapText Code="Verhnesmorodino" NameEng="Verhnesmorodino" NameRus="Верхнесмородино" X="104750" Y="76249" Type="1"/>
-        <MapText Code="Verkhovie" NameEng="Verkhovie" NameRus="Верховье" X="166952" Y="136025" Type="1"/>
-        <MapText Code="Voronovoe" NameEng="Voronovo" NameRus="Вороново" X="139455" Y="100050" Type="1"/>
-        <MapText Code="Yatseno" NameEng="Yatseno" NameRus="Яцено" X="53950" Y="50656" Type="1"/>
-        <MapText Code="Yevlanovo" NameEng="Yevlanovo" NameRus="Евланово" X="174204" Y="76799" Type="1"/>
-        <MapText Code="Zmiyevka" NameEng="Zmievka" NameRus="Змиевка" X="115761" Y="120072" Type="1"/>
-        <MapText Code="Zolotukhino" NameEng="Zolotukhino" NameRus="Золотухино" X="116455" Y="62664" Type="1"/>
-        <MapText Code="Dmitriev_Lgovskiy" NameEng="Dmitriev-Lgovskiy" NameRus="Дмитриев-Льговский" X="40676" Y="67302" Type="2"/>
-        <MapText Code="Dmitrovsk_Orlovskiy" NameEng="Dmitrovsk-Orlovskiy" NameRus="Дмитровск-Орловский" X="43344" Y="104845" Type="2"/>
-        <MapText Code="Fatezh" NameEng="Fatezh" NameRus="Фатеж" X="84901" Y="65188" Type="2"/>
-        <MapText Code="Maloarkhangelsk" NameEng="Maloarkhangelsk" NameRus="Малоархангельск" X="120489" Y="93863" Type="2"/>
-        <MapText Code="Ponyri" NameEng="Ponyri" NameRus="Поныри" X="110989" Y="84117" Type="2"/>
-        <MapText Code="Shchigry" NameEng="Shchigry" NameRus="Щигры" X="145721" Y="43358" Type="2"/>
-        <MapText Code="Tagino" NameEng="Tagino" NameRus="Тагино" X="94154" Y="98574" Type="2"/>
-        <MapText Code="Kursk" NameEng="Kursk" NameRus="Курск" X="103025" Y="30979" Type="3"/>
-        <MapText Code="Livny" NameEng="Livny" NameRus="Ливны" X="185419" Y="97176" Type="3"/>
-        <MapText Code="Orel" NameEng="Orel" NameRus="Орел" X="98106" Y="149725" Type="3"/>
+        <MapText Code="Arkhangelskoe" NameEng="Arkhangelskoe" NameRus="РђСЂС…Р°РЅРіРµР»СЊСЃРєРѕРµ" X="145438" Y="141115" Type="1"/>
+        <MapText Code="Berezovka" NameEng="Berezovka" NameRus="Р‘РµСЂРµР·РѕРІРєР°" X="161277" Y="118034" Type="1"/>
+        <MapText Code="Bolshie_Ugoni" NameEng="Bolshiye Ugoni" NameRus="Р‘РѕР»СЊС€РёРµ РЈРіРѕРЅС‹" X="62850" Y="19778" Type="1"/>
+        <MapText Code="Brasovo" NameEng="Brasovo" NameRus="Р‘СЂР°СЃРѕРІРѕ" X="13808" Y="113590" Type="1"/>
+        <MapText Code="Budanovka" NameEng="Budanovka" NameRus="Р‘СѓРґР°РЅРѕРІРєР°" X="113232" Y="50980" Type="1"/>
+        <MapText Code="Buzuluk" NameEng="Buzuluk" NameRus="Р‘СѓР·СѓР»СѓРє" X="112272" Y="93003" Type="1"/>
+        <MapText Code="Cheremushki" NameEng="Cheremushki" NameRus="Р§РµСЂРµРјСѓС€РєРё" X="100185" Y="12660" Type="1"/>
+        <MapText Code="Dolqoye" NameEng="Dolgoe" NameRus="Р”РѕР»РіРѕРµ" X="174040" Y="61239" Type="1"/>
+        <MapText Code="Droskovo" NameEng="Droskovo" NameRus="Р”СЂРѕСЃРєРѕРІРѕ" X="155358" Y="101996" Type="1"/>
+        <MapText Code="Ekaterinovka" NameEng="Ekaterinovka" NameRus="Р•РєР°С‚РµСЂРёРЅРѕРІРєР°" X="185758" Y="72467" Type="1"/>
+        <MapText Code="Glazunovka" NameEng="Glazunovka" NameRus="Р“Р»Р°Р·СѓРЅРѕРІРєР°" X="112530" Y="102968" Type="1"/>
+        <MapText Code="Gremjatchka" NameEng="Gremjatchka" NameRus="Р“СЂРµРјСЏС‡РєР°" X="128249" Y="50649" Type="1"/>
+        <MapText Code="Gubkino" NameEng="Gubkino" NameRus="Р“СѓР±РєРёРЅРѕ" X="130791" Y="89917" Type="1"/>
+        <MapText Code="Gustomoiy" NameEng="Gustomoy" NameRus="Р“СѓСЃС‚РѕРјРѕР№" X="31233" Y="18154" Type="1"/>
+        <MapText Code="Homutovo" NameEng="Homutovo" NameRus="РҐРѕРјСѓС‚РѕРІРѕ" X="178416" Y="137300" Type="1"/>
+        <MapText Code="Ivanino" NameEng="Ivanino" NameRus="РРІР°РЅРёРЅРѕ" X="69068" Y="22636" Type="1"/>
+        <MapText Code="Ivanovskoe" NameEng="Ivanovskoye" NameRus="РРІР°РЅРѕРІСЃРєРѕРµ" X="23302" Y="16390" Type="1"/>
+        <MapText Code="Kamenka" NameEng="Kamenka" NameRus="РљР°РјРµРЅРєР°" X="127208" Y="102888" Type="1"/>
+        <MapText Code="Kamenka2" NameEng="Kamenka" NameRus="РљР°РјРµРЅРєР°" X="156379" Y="140691" Type="1"/>
+        <MapText Code="Kasinovka" NameEng="Kasinovka" NameRus="РљР°СЃРёРЅРѕРІРєР°" X="134170" Y="58896" Type="1"/>
+        <MapText Code="Khomutovka" NameEng="Khomutovka" NameRus="РҐРѕРјСѓС‚РѕРІРѕ" X="9805" Y="47600" Type="1"/>
+        <MapText Code="Khotynets" NameEng="Khotynets" NameRus="РҐРѕС‚С‹РЅРµС†" X="57940" Y="162703" Type="1"/>
+        <MapText Code="Kolpny" NameEng="Kolpny" NameRus="РљРѕР»РїРЅС‹" X="152418" Y="78852" Type="1"/>
+        <MapText Code="Komarichi" NameEng="Komarichi" NameRus="РљРѕРјР°СЂРёС‡Рё" X="23042" Y="96189" Type="1"/>
+        <MapText Code="Konishevka" NameEng="Konyshevka" NameRus="РљРѕРЅС‹С€РµРІРєР°" X="52478" Y="40972" Type="1"/>
+        <MapText Code="Korotish" NameEng="Korotysh" NameRus="РљРѕСЂРѕС‚С‹С€" X="178245" Y="91778" Type="1"/>
+        <MapText Code="Kosorzha" NameEng="Kosorzha" NameRus="РљРѕСЃРѕСЂР¶Р°" X="137031" Y="65990" Type="1"/>
+        <MapText Code="Kostino" NameEng="Kostino" NameRus="РљРѕСЃС‚РёРЅРѕ" X="116985" Y="83702" Type="1"/>
+        <MapText Code="Krivtsovka" NameEng="Kryvtsovka" NameRus="РљСЂРёРІС†РѕРІРєР°" X="137976" Y="52360" Type="1"/>
+        <MapText Code="Kromy" NameEng="Kromy" NameRus="РљСЂРѕРјС‹" X="77080" Y="121398" Type="1"/>
+        <MapText Code="Krutoe" NameEng="Krutoe" NameRus="РљСЂСѓС‚РѕРµ" X="177962" Y="98426" Type="1"/>
+        <MapText Code="Kumatch" NameEng="Kumatch" NameRus="РљСѓРјР°С‡" X="136512" Y="45160" Type="1"/>
+        <MapText Code="Lgovo" NameEng="Lgov" NameRus="Р›СЊРіРѕРІ" X="50908" Y="24532" Type="1"/>
+        <MapText Code="Lipovets" NameEng="Lipovets" NameRus="Р›РёРїРѕРІРµС†" X="156332" Y="114977" Type="1"/>
+        <MapText Code="Litezg" NameEng="Litizh" NameRus="Р›РёС‚РёР¶" X="29942" Y="88294" Type="1"/>
+        <MapText Code="Loboshevo" NameEng="Loboshevo" NameRus="Р›СѓР±РѕС€РµРІРѕ" X="15208" Y="103365" Type="1"/>
+        <MapText Code="Lokot" NameEng="Lokot" NameRus="Р›РѕРєРѕС‚СЊ" X="11453" Y="111647" Type="1"/>
+        <MapText Code="Lubimovka" NameEng="Lubimovka" NameRus="Р›СЋР±РёРјРѕРІРєР°" X="73879" Y="8365" Type="1"/>
+        <MapText Code="Lubjanki" NameEng="Lubjanki" NameRus="Р›СѓР±СЏРЅРєРё" X="51632" Y="111628" Type="1"/>
+        <MapText Code="Maroisa" NameEng="Maritsa" NameRus="РњР°СЂРёС†Р°" X="52238" Y="30380" Type="1"/>
+        <MapText Code="Mikhaylovka" NameEng="Zheleznogorsk" NameRus="Р–РµР»РµР·РЅРѕРіРѕСЂСЃРє" X="55241" Y="78797" Type="1"/>
+        <MapText Code="Mokhovoye" NameEng="Mokhovoe" NameRus="РњРѕС…РѕРІРѕРµ" X="127195" Y="147654" Type="1"/>
+        <MapText Code="Narysh" NameEng="Naryshkino" NameRus="РќР°СЂС‹С€РєРёРЅРѕ" X="77207" Y="148801" Type="1"/>
+        <MapText Code="Navlya" NameEng="Navlya" NameRus="РќР°РІР»СЏ" X="5154" Y="135478" Type="1"/>
+        <MapText Code="Nikolskoe" NameEng="Nikolskoe" NameRus="РќРёРєРѕР»СЊСЃРєРѕРµ" X="98059" Y="118475" Type="1"/>
+        <MapText Code="Novosil" NameEng="Novosil" NameRus="РќРѕРІРѕСЃРёР»СЊ" X="153934" Y="150666" Type="1"/>
+        <MapText Code="Ognevka" NameEng="Ognevka" NameRus="РћРіРЅРµРІРєР°" X="185961" Y="43622" Type="1"/>
+        <MapText Code="Olkhovatka" NameEng="Olkhovatka" NameRus="РћР»СЊС…РѕРІР°С‚РєР°" X="94409" Y="78600" Type="1"/>
+        <MapText Code="Panino" NameEng="Panino" NameRus="РџР°РЅРёРЅРѕ" X="102807" Y="9329" Type="1"/>
+        <MapText Code="Pervoavgustovsky" NameEng="Pervoavgustovskiy" NameRus="РџРµСЂРІРѕР°РІРіСѓСЃС‚РѕРІСЃРєРёР№" X="37022" Y="78071" Type="1"/>
+        <MapText Code="Peshkovo" NameEng="Peshkovo" NameRus="РџРµС€РєРѕРІРѕ" X="181992" Y="108482" Type="1"/>
+        <MapText Code="Petrishchego" NameEng="Petrishchevo" NameRus="РџРµС‚СЂРёС‰РµРІРѕ" X="166306" Y="45797" Type="1"/>
+        <MapText Code="Pogozhee_Zarechie" NameEng="Pogozhee Zarechie" NameRus="РџРѕРіРѕР¶РµРµ Р—Р°СЂРµС‡СЊРµ" X="185696" Y="16693" Type="1"/>
+        <MapText Code="Pokrovskoe" NameEng="Pokrovskoe" NameRus="РџРѕРєСЂРѕРІСЃРєРѕРµ" X="182276" Y="133764" Type="1"/>
+        <MapText Code="Polevaja" NameEng="Polevaja" NameRus="РџРѕР»РµРІР°СЏ" X="131546" Y="9289" Type="1"/>
+        <MapText Code="Ponyri_1" NameEng="Ponyri-1" NameRus="РџРѕРЅС‹СЂРё 1-Рµ" X="106101" Y="84481" Type="1"/>
+        <MapText Code="Prjamitsino" NameEng="Prjamitsino" NameRus="РџСЂСЏРјРёС†С‹РЅРѕ" X="93195" Y="22889" Type="1"/>
+        <MapText Code="Retchitsa" NameEng="Retchitsa" NameRus="Р РµС‡РёС†Р°" X="171728" Y="94545" Type="1"/>
+        <MapText Code="Russkiy_Brod" NameEng="Russkiy Brod" NameRus="Р СѓСЃСЃРєРёР№ Р‘СЂРѕРґ" X="174587" Y="113370" Type="1"/>
+        <MapText Code="Rylsk" NameEng="Rylsk" NameRus="Р С‹Р»СЊСЃРє" X="17240" Y="14635" Type="1"/>
+        <MapText Code="Rzhava" NameEng="Rzhava" NameRus="Р Р¶Р°РІР°" X="83123" Y="77793" Type="1"/>
+        <MapText Code="Sevsk" NameEng="Sevsk" NameRus="РЎРµРІСЃРє" X="6049" Y="70743" Type="1"/>
+        <MapText Code="Shablykino" NameEng="Shablykino" NameRus="РЁР°Р±Р»С‹РєРёРЅРѕ" X="47012" Y="138005" Type="1"/>
+        <MapText Code="Sinezerki" NameEng="Sinezerskiy" NameRus="РЎРёРЅРµР·РµСЂСЃРєРёР№" X="3017" Y="154023" Type="1"/>
+        <MapText Code="Somovo" NameEng="Somovo" NameRus="РЎРѕРјРѕРІРѕ" X="141932" Y="79174" Type="1"/>
+        <MapText Code="Stakanovo" NameEng="Stakanovo" NameRus="РЎС‚Р°РєР°РЅРѕРІРѕ" X="155984" Y="58906" Type="1"/>
+        <MapText Code="Stanovoe" NameEng="Stanovoe" NameRus="РЎС‚Р°РЅРѕРІРѕРµ" X="154733" Y="21462" Type="1"/>
+        <MapText Code="Stanovoe2" NameEng="Stanovoe" NameRus="РЎС‚Р°РЅРѕРІРѕРµ" X="94596" Y="74493" Type="1"/>
+        <MapText Code="Studenoe" NameEng="Studenoe" NameRus="РЎС‚СѓРґРµРЅРѕРµ" X="180503" Y="65634" Type="1"/>
+        <MapText Code="Svoboda" NameEng="Svoboda" NameRus="РЎРІРѕР±РѕРґР°" X="109914" Y="54059" Type="1"/>
+        <MapText Code="Telegino" NameEng="Telegino" NameRus="РўРµР»РµРіРёРЅРѕ" X="108182" Y="58831" Type="1"/>
+        <MapText Code="Tim" NameEng="Tim" NameRus="РўРёРј" X="165236" Y="17945" Type="1"/>
+        <MapText Code="Troitskoe" NameEng="Troitskoe" NameRus="РўСЂРѕРёС†РєРѕРµ" X="185824" Y="87348" Type="1"/>
+        <MapText Code="Troitskoe2" NameEng="Troitskoe" NameRus="РўСЂРѕРёС†РєРѕРµ" X="167623" Y="117060" Type="1"/>
+        <MapText Code="Trosna" NameEng="Trosna" NameRus="РўСЂРѕСЃРЅР°" X="80737" Y="99121" Type="1"/>
+        <MapText Code="Troyanovo" NameEng="Lopadino" NameRus="Р›РѕРїР°РґРёРЅРѕ" X="25256" Y="101184" Type="1"/>
+        <MapText Code="Turovka" NameEng="Turovka" NameRus="РўСѓСЂРѕРІРєР°" X="151443" Y="131222" Type="1"/>
+        <MapText Code="Verhnesmorodino" NameEng="Verhnesmorodino" NameRus="Р’РµСЂС…РЅРµСЃРјРѕСЂРѕРґРёРЅРѕ" X="104750" Y="76249" Type="1"/>
+        <MapText Code="Verkhovie" NameEng="Verkhovie" NameRus="Р’РµСЂС…РѕРІСЊРµ" X="166952" Y="136025" Type="1"/>
+        <MapText Code="Voronovoe" NameEng="Voronovo" NameRus="Р’РѕСЂРѕРЅРѕРІРѕ" X="139455" Y="100050" Type="1"/>
+        <MapText Code="Yatseno" NameEng="Yatseno" NameRus="РЇС†РµРЅРѕ" X="53950" Y="50656" Type="1"/>
+        <MapText Code="Yevlanovo" NameEng="Yevlanovo" NameRus="Р•РІР»Р°РЅРѕРІРѕ" X="174204" Y="76799" Type="1"/>
+        <MapText Code="Zmiyevka" NameEng="Zmievka" NameRus="Р—РјРёРµРІРєР°" X="115761" Y="120072" Type="1"/>
+        <MapText Code="Zolotukhino" NameEng="Zolotukhino" NameRus="Р—РѕР»РѕС‚СѓС…РёРЅРѕ" X="116455" Y="62664" Type="1"/>
+        <MapText Code="Dmitriev_Lgovskiy" NameEng="Dmitriev-Lgovskiy" NameRus="Р”РјРёС‚СЂРёРµРІ-Р›СЊРіРѕРІСЃРєРёР№" X="40676" Y="67302" Type="2"/>
+        <MapText Code="Dmitrovsk_Orlovskiy" NameEng="Dmitrovsk-Orlovskiy" NameRus="Р”РјРёС‚СЂРѕРІСЃРє-РћСЂР»РѕРІСЃРєРёР№" X="43344" Y="104845" Type="2"/>
+        <MapText Code="Fatezh" NameEng="Fatezh" NameRus="Р¤Р°С‚РµР¶" X="84901" Y="65188" Type="2"/>
+        <MapText Code="Maloarkhangelsk" NameEng="Maloarkhangelsk" NameRus="РњР°Р»РѕР°СЂС…Р°РЅРіРµР»СЊСЃРє" X="120489" Y="93863" Type="2"/>
+        <MapText Code="Ponyri" NameEng="Ponyri" NameRus="РџРѕРЅС‹СЂРё" X="110989" Y="84117" Type="2"/>
+        <MapText Code="Shchigry" NameEng="Shchigry" NameRus="Р©РёРіСЂС‹" X="145721" Y="43358" Type="2"/>
+        <MapText Code="Tagino" NameEng="Tagino" NameRus="РўР°РіРёРЅРѕ" X="94154" Y="98574" Type="2"/>
+        <MapText Code="Kursk" NameEng="Kursk" NameRus="РљСѓСЂСЃРє" X="103025" Y="30979" Type="3"/>
+        <MapText Code="Livny" NameEng="Livny" NameRus="Р›РёРІРЅС‹" X="185419" Y="97176" Type="3"/>
+        <MapText Code="Orel" NameEng="Orel" NameRus="РћСЂРµР»" X="98106" Y="149725" Type="3"/>
     </Towns>
     <Airfields>
         <Airfield ID="1" X="25289.00" Y="160510.00" A="90" T1="1" Res="B_17F_g"/>
