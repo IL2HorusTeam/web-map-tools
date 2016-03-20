@@ -15,7 +15,12 @@ for line in sys.stdin:
         line = line.decode('cp1251')
         is_eng = False
 
-    x, y, a1, a2, a3, size_type, code = line.strip().split(' ', 6)
+    line = line.strip()
+
+    if not line:
+        continue
+
+    x, y, a1, a2, a3, size_type, code = line.split(' ', 6)
     name = slugify(code, separator=' ')
 
     if is_eng:
@@ -25,7 +30,9 @@ for line in sys.stdin:
         name_en = translit(name, 'ru', reversed=True)
         name_ru = name
 
-    size_type = int(size_type) + 1
+    size_type = (int(size_type) + 1) * 2
+    if size_type > 10:
+        size_type = 10
 
     print(
         "<MapText Code=\"{code}\" NameEng=\"{name_en}\" NameRus=\"{name_ru}\" X=\"{x}\" Y=\"{y}\" Type=\"{size_type}\"/>"
