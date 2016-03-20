@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TBaseMapSettings>
+    <MisCode>Tobruk</MisCode>
+    <Width>307200</Width>
+    <Height>256000</Height>
+    <Towns>
+        <MapText Code="La Bomba" NameEng="La Bomba" NameRus="Ла Бомба" X="51867" Y="207738" Type="1"/>
+        <MapText Code="Tmimi" NameEng="Tmimi" NameRus="Тмими" X="46718" Y="194161" Type="1"/>
+        <MapText Code="Um irrizam" NameEng="Um irrizam" NameRus="Ум ирризам" X="40730" Y="216880" Type="1"/>
+        <MapText Code="Martuba" NameEng="Martuba" NameRus="Мартуба" X="18982" Y="222758" Type="1"/>
+        <MapText Code="Sidi Own" NameEng="Sidi Own" NameRus="Сиди Оwн" X="19767" Y="235091" Type="1"/>
+        <MapText Code="Sidi Aziz" NameEng="Sidi Aziz" NameRus="Сиди Азиз" X="8565" Y="227865" Type="1"/>
+        <MapText Code="Derna" NameEng="Derna" NameRus="Дерна" X="8362" Y="241927" Type="1"/>
+        <MapText Code="Izziyyat" NameEng="Izziyyat" NameRus="Иззиыыат" X="10517" Y="185722" Type="1"/>
+        <MapText Code="Ain-el-Gazala" NameEng="Ain el Gazala" NameRus="Аин ел Газала" X="71405" Y="173022" Type="1"/>
+        <MapText Code="Qurdabah" NameEng="Qurdabah" NameRus="Qурдабах" X="74268" Y="174122" Type="1"/>
+        <MapText Code="Qurdahah" NameEng="Qurdahah" NameRus="Qурдахах" X="84608" Y="172842" Type="1"/>
+        <MapText Code="Tobruk" NameEng="Tobruk" NameRus="Тобрук" X="131032" Y="167236" Type="1"/>
+        <MapText Code="Kwarah" NameEng="Kwarah" NameRus="Кwарах" X="151466" Y="153224" Type="1"/>
+        <MapText Code="Gambut" NameEng="Gambut" NameRus="Гамбут" X="177342" Y="147789" Type="1"/>
+        <MapText Code="Bi'r al Ashhab" NameEng="Bir al Ashhab" NameRus="Бир ал Ашхаб" X="192998" Y="145360" Type="1"/>
+        <MapText Code="Quasr'al Jadп" NameEng="Quasral Jadp" NameRus="Quasral Jadp" X="208361" Y="140038" Type="1"/>
+        <MapText Code="Burdha" NameEng="Burdha" NameRus="Бурдха" X="229002" Y="131260" Type="1"/>
+        <MapText Code="Capuzzo" NameEng="Capuzzo" NameRus="Cапуззо" X="228146" Y="111699" Type="1"/>
+        <MapText Code="Sylыm" NameEng="Sylym" NameRus="Sylym" X="242728" Y="109286" Type="1"/>
+        <MapText Code="Menastir" NameEng="Menastir" NameRus="Менастир" X="219122" Y="137940" Type="1"/>
+        <MapText Code="Bardia" NameEng="Bardia" NameRus="Бардиа" X="235803" Y="131697" Type="1"/>
+        <MapText Code="El Adem" NameEng="El Adem" NameRus="Ел Адем" X="127099" Y="141312" Type="1"/>
+        <MapText Code="Acroma" NameEng="Acroma" NameRus="Аcрома" X="105639" Y="162280" Type="1"/>
+        <MapText Code="El Duda" NameEng="El Duda" NameRus="Ел Дуда" X="144278" Y="143677" Type="1"/>
+        <MapText Code="Bir-el-Gobi" NameEng="Bir el Gobi" NameRus="Бир ел Гоби" X="150414" Y="112369" Type="1"/>
+        <MapText Code="Ras EL Tin" NameEng="Ras EL Tin" NameRus="Рас ЕЛ Тин" X="50853" Y="224904" Type="1"/>
+        <MapText Code="BuQ BuQ" NameEng="BuQ BuQ" NameRus="БуQ БуQ" X="273069" Y="104627" Type="1"/>
+        <MapText Code="Sofafi" NameEng="Sofafi" NameRus="Софафи" X="274329" Y="72924" Type="1"/>
+        <MapText Code="Sheferzen" NameEng="Sheferzen" NameRus="Шеферзен" X="194906" Y="88301" Type="1"/>
+        <MapText Code="Bir Hacheim" NameEng="Bir Hacheim" NameRus="Бир Хачеим" X="83036" Y="104157" Type="1"/>
+        <MapText Code="132" NameEng="132" NameRus="132" X="214912" Y="61621" Type="3"/>
+        <MapText Code="127" NameEng="127" NameRus="127" X="250009" Y="40137" Type="3"/>
+        <MapText Code="126" NameEng="126" NameRus="126" X="239811" Y="10308" Type="3"/>
+        <MapText Code="123" NameEng="123" NameRus="123" X="215124" Y="46724" Type="3"/>
+        <MapText Code="Todd el ahmar" NameEng="Todd el ahmar" NameRus="Тодд ел ахмар" X="26426" Y="146106" Type="1"/>
+        <MapText Code="Marsa Lucc" NameEng="Marsa Lucc" NameRus="Марса Луcc" X="191815" Y="157490" Type="1"/>
+        <MapText Code="Ras El Milh" NameEng="Ras El Milh" NameRus="Рас Ел Милх" X="223861" Y="152041" Type="1"/>
+        <MapText Code="Marsa Lucc" NameEng="Marsa Lucc" NameRus="Марса Луcc" X="193078" Y="158473" Type="3"/>
+        <MapText Code="Blhкd" NameEng="Blhkd" NameRus="Blhkd" X="50106" Y="33970" Type="1"/>
+        <MapText Code="Sea of Sand" NameEng="Sea of Sand" NameRus="Сеа оф Санд" X="25220" Y="10264" Type="16"/>
+        <MapText Code="Madauur" NameEng="Madauur" NameRus="Мадауур" X="115002" Y="161242" Type="1"/>
+        <MapText Code="Fort Pilastrino" NameEng="Fort Pilastrino" NameRus="Форт Пиластрино" X="121919" Y="161403" Type="5"/>
+        <MapText Code="Fort Marcuca" NameEng="Fort Marcuca" NameRus="Форт Марcуcа" X="131832" Y="161732" Type="5"/>
+        <MapText Code="Fort Solaro" NameEng="Fort Solaro" NameRus="Форт Соларо" X="125469" Y="163215" Type="5"/>
+        <MapText Code="Fort Perone" NameEng="Fort Perone" NameRus="Форт Пероне" X="127427" Y="169519" Type="5"/>
+        <MapText Code="Fort Airenti" NameEng="Fort Airenti" NameRus="Форт Аиренти" X="123772" Y="166304" Type="5"/>
+        <MapText Code="Sidi Rezegh" NameEng="Sidi Rezegh" NameRus="Сиди Резегх" X="149126" Y="138696" Type="3"/>
+        <MapText Code="Halfaya Pass" NameEng="Halfaya Pass" NameRus="Халфаыа Пасс" X="244399" Y="103701" Type="5"/>
+        <MapText Code="Gambut1" NameEng="Gambut1" NameRus="Гамбут1" X="179293" Y="147826" Type="3"/>
+        <MapText Code="El Adhem" NameEng="El Adhem" NameRus="Ел Адхем" X="125748" Y="140401" Type="3"/>
+    </Towns>
+    <Airfields>
+    </Airfields>
+    <AdvTexts>
+    </AdvTexts>
+</TBaseMapSettings>

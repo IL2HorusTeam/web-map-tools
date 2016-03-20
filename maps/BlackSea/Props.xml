@@ -193,7 +193,7 @@
         <MapText Code="Zheleznyi" NameEng="Zheleznyi" NameRus="Железныи" X="480917" Y="165253" Type="1"/>
         <MapText Code="Zhelyabovka" NameEng="Zhelyabovka" NameRus="Желыабовка" X="160468" Y="176012" Type="1"/>
         <MapText Code="Джигинское" NameEng="Dzhiginskoe" NameRus="Dzhiginskoe" X="328629" Y="153840" Type="1"/>
-<MapText Code="Novonekrasovskiy" NameEng="Novonekrasovskiy" NameRus="Новонекрасовскиы" X="401566" Y="209437" Type="1"/>
+        <MapText Code="Novonekrasovskiy" NameEng="Novonekrasovskiy" NameRus="Новонекрасовскиы" X="401566" Y="209437" Type="1"/>
     </Towns>
     <Airfields>
     </Airfields>
