@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TBaseMapSettings>
+    <MisCode>Solomons</MisCode>
+    <Width>825600</Width>
+    <Height>601600</Height>
+    <Towns>
+        <MapText Code="Bougainville" Color="1" NameEng="Bougainville" NameRus="Боугаинвилле" X="133547" Y="418934" Type="2"/>
+        <MapText Code="Choiseul" Color="1" NameEng="Choiseul" NameRus="Чоисеул" X="305354" Y="335115" Type="2"/>
+        <MapText Code="Santa Isabel" Color="1" NameEng="Santa Isabel" NameRus="Санта Исабел" X="537904" Y="231916" Type="2"/>
+        <MapText Code="Guadalcanal" Color="1" NameEng="Guadalcanal" NameRus="Гуадалcанал" X="651859" Y="54998" Type="2"/>
+        <MapText Code="New Georgia" Color="1" NameEng="New Georgia" NameRus="Неw Георгиа" X="387347" Y="193746" Type="2"/>
+        <MapText Code="Kolombongara" Color="1" NameEng="Kolombongara" NameRus="Коломбонгара" X="317761" Y="238069" Type="2"/>
+        <MapText Code="Vella Lavella" Color="1" NameEng="Vella Lavella" NameRus="Велла Лавелла" X="269640" Y="265087" Type="2"/>
+        <MapText Code="Shortland" Color="1" NameEng="Shortland" NameRus="Шортланд" X="176252" Y="334427" Type="1"/>
+        <MapText Code="Mono" Color="1" NameEng="Mono" NameRus="Моно" X="154551" Y="300792" Type="1"/>
+        <MapText Code="Fauro" Color="1" NameEng="Fauro" NameRus="Фауро" X="210334" Y="347577" Type="1"/>
+        <MapText Code="Gizo" Color="1" NameEng="Gizo" NameRus="Гизо" X="287097" Y="226166" Type="1"/>
+        <MapText Code="Simbo" Color="1" NameEng="Simbo" NameRus="Симбо" X="259330" Y="203417" Type="1"/>
+        <MapText Code="Ganongga" Color="1" NameEng="Ganongga" NameRus="Ганонгга" X="262444" Y="229108" Type="1"/>
+        <MapText Code="Baga" Color="1" NameEng="Baga" NameRus="Бага" X="259935" Y="252949" Type="1"/>
+        <MapText Code="Arundel" Color="1" NameEng="Arundel" NameRus="Арундел" X="326281" Y="211012" Type="1"/>
+        <MapText Code="Rendova" Color="1" NameEng="Rendova" NameRus="Рендова" X="343318" Y="175170" Type="2"/>
+        <MapText Code="Tetipari" Color="1" NameEng="Tetipari" NameRus="Тетипари" X="370973" Y="154595" Type="1"/>
+        <MapText Code="Vangunu" Color="1" NameEng="Vangunu" NameRus="Вангуну" X="416522" Y="163834" Type="2"/>
+        <MapText Code="Gatukai" Color="1" NameEng="Gatukai" NameRus="Гатукаи" X="437242" Y="149203" Type="1"/>
+        <MapText Code="Malaita" Color="1" NameEng="Malaita" NameRus="Малаита" X="739209" Y="125283" Type="2"/>
+        <MapText Code="Florida Is." Color="1" NameEng="Florida Is." NameRus="Флорида Ис." X="654713" Y="129041" Type="2"/>
+        <MapText Code="Savo" Color="1" NameEng="Savo" NameRus="Саво" X="614425" Y="111769" Type="1"/>
+        <MapText Code="Russell Is." Color="1" NameEng="Russell Is." NameRus="Русселл Ис." X="535501" Y="130879" Type="2"/>
+        <MapText Code="Kahili" Color="0" NameEng="Kahili" NameRus="Кахили" X="177044" Y="363172" Type="1"/>
+        <MapText Code="Kieta" Color="0" NameEng="Kieta" NameRus="Киета" X="173363" Y="413774" Type="1"/>
+        <MapText Code="Sohano" Color="17" NameEng="Sohano" NameRus="Сохано" X="57601" Y="505734" Type="1"/>
+        <MapText Code="Empress Augusta Bay" Color="16" NameEng="Empress Augusta Bay" NameRus="Емпресс Аугуста Баы" X="104574" Y="406276" Type="1"/>
+        <MapText Code="Java" Color="17" NameEng="Java" NameRus="Ява" X="275038" Y="268266" Type="1"/>
+        <MapText Code="Ugeli" Color="17" NameEng="Ugeli" NameRus="Угели" X="352528" Y="187532" Type="1"/>
+        <MapText Code="Buruka" Color="17" NameEng="Buruka" NameRus="Бурука" X="345618" Y="166833" Type="1"/>
+        <MapText Code="Solomon Sea" Color="4" NameEng="Solomon Sea" NameRus="Соломон Сеа" X="148435" Y="45231" Type="3"/>
+        <MapText Code="Tenekau" Color="17" NameEng="Tenekau" NameRus="Тенекау" X="128896" Y="451597" Type="1"/>
+        <MapText Code="Ontong Java" Color="1" NameEng="Ontong Java" NameRus="Онтонг Ява" X="586115" Y="507842" Type="1"/>
+        <MapText Code="New Georgia Sound" Color="16" NameEng="New Georgia Sound" NameRus="Неw Георгиа Соунд" X="450963" Y="222020" Type="1"/>
+        <MapText Code="Bougainville Strait" Color="16" NameEng="Bougainville Strait" NameRus="Боугаинвилле Страит" X="218912" Y="384834" Type="1"/>
+        <MapText Code="South Pacific Ocean" Color="4" NameEng="South Pacific Ocean" NameRus="Соутх Паcифиc Оcеан" X="622943" Y="455338" Type="3"/>
+        <MapText Code="Kunua" Color="17" NameEng="Kunua" NameRus="Кунуа" X="64659" Y="466493" Type="1"/>
+        <MapText Code="Gagan" Color="17" NameEng="Gagan" NameRus="Гаган" X="53419" Y="532868" Type="1"/>
+        <MapText Code="Lenamanu" Color="17" NameEng="Lenamanu" NameRus="Ленаману" X="48464" Y="549143" Type="1"/>
+        <MapText Code="Hanahan" Color="17" NameEng="Hanahan" NameRus="Ханахан" X="57803" Y="539484" Type="1"/>
+        <MapText Code="Cape Henpan" Color="2" NameEng="Cape Henpan" NameRus="Cапе Хенпан" X="53114" Y="553941" Type="1"/>
+        <MapText Code="Queen Carola Hbr." Color="16" NameEng="Queen Carola Hbr." NameRus="Qуеен Cарола Хбр." X="45474" Y="541088" Type="1"/>
+        <MapText Code="Nakorae" Color="17" NameEng="Nakorae" NameRus="Накорае" X="168150" Y="364783" Type="1"/>
+        <MapText Code="Patapatuai" Color="17" NameEng="Patapatuai" NameRus="Патапатуаи" X="175552" Y="359298" Type="1"/>
+        <MapText Code="Muguai" Color="17" NameEng="Muguai" NameRus="Мугуаи" X="179057" Y="367988" Type="1"/>
+        <MapText Code="Choiseul Bay" Color="16" NameEng="Choiseul Bay" NameRus="Чоисеул Баы" X="244554" Y="372642" Type="1"/>
+        <MapText Code="Mbambatana" Color="17" NameEng="Mbambatana" NameRus="Мбамбатана" X="290712" Y="327905" Type="1"/>
+        <MapText Code="Kumbakale" Color="17" NameEng="Kumbakale" NameRus="Кумбакале" X="261325" Y="377424" Type="1"/>
+        <MapText Code="Ringana" Color="17" NameEng="Ringana" NameRus="Рингана" X="319997" Y="343671" Type="1"/>
+        <MapText Code="Vurulata" Color="17" NameEng="Vurulata" NameRus="Вурулата" X="306376" Y="315640" Type="1"/>
+        <MapText Code="Puto" Color="17" NameEng="Puto" NameRus="Путо" X="614028" Y="200221" Type="1"/>
+        <MapText Code="Regi" Color="17" NameEng="Regi" NameRus="Реги" X="611311" Y="195519" Type="1"/>
+        <MapText Code="Mandizavanga" Color="17" NameEng="Mandizavanga" NameRus="Мандизаванга" X="262892" Y="260543" Type="1"/>
+        <MapText Code="Gatere" Color="17" NameEng="Gatere" NameRus="Гатере" X="308720" Y="224127" Type="1"/>
+        <MapText Code="Menakasapa" Color="17" NameEng="Menakasapa" NameRus="Менакасапа" X="351500" Y="231068" Type="1"/>
+        <MapText Code="Lunga" Color="17" NameEng="Lunga" NameRus="Лунга" X="263367" Y="216409" Type="1"/>
+        <MapText Code="Tulagi" Color="1" NameEng="Tulagi" NameRus="Тулаги" X="650990" Y="115049" Type="1"/>
+        <MapText Code="Cape Esperance" Color="2" NameEng="Cape Esperance" NameRus="Cапе Есперанcе" X="601957" Y="101076" Type="1"/>
+        <MapText Code="Lunga Pt." Color="2" NameEng="Lunga Pt." NameRus="Лунга Пт." X="638197" Y="83039" Type="1"/>
+        <MapText Code="Koli Pt." Color="2" NameEng="Koli Pt." NameRus="Коли Пт." X="652085" Y="83603" Type="1"/>
+        <MapText Code="Point Cruz" Color="2" NameEng="Point Cruz" NameRus="Поинт Cруз" X="630483" Y="80618" Type="1"/>
+        <MapText Code="Kokumbona" Color="17" NameEng="Kokumbona" NameRus="Кокумбона" X="625087" Y="80183" Type="1"/>
+        <MapText Code="Tassafaronga Pt." Color="2" NameEng="Tassafaronga Pt." NameRus="Тассафаронга Пт." X="620777" Y="86757" Type="1"/>
+        <MapText Code="Tenaro" Color="17" NameEng="Tenaro" NameRus="Тенаро" X="604022" Y="98946" Type="1"/>
+        <MapText Code="Taivu Pt." Color="2" NameEng="Taivu Pt." NameRus="Таиву Пт." X="672801" Y="82707" Type="1"/>
+        <MapText Code="Volinavua" Color="17" NameEng="Volinavua" NameRus="Волинавуа" X="656778" Y="81254" Type="1"/>
+        <MapText Code="Tetere" Color="17" NameEng="Tetere" NameRus="Тетере" X="658982" Y="80218" Type="1"/>
+        <MapText Code="Tasimboko" Color="17" NameEng="Tasimboko" NameRus="Тасимбоко" X="668839" Y="80373" Type="1"/>
+        <MapText Code="Doma Cove" Color="5" NameEng="Doma Cove" NameRus="Дома Cове" X="615466" Y="90790" Type="1"/>
+        <MapText Code="Visale" Color="17" NameEng="Visale" NameRus="Висале" X="600053" Y="98751" Type="1"/>
+        <MapText Code="Maravovo" Color="17" NameEng="Maravovo" NameRus="Маравово" X="599005" Y="97592" Type="1"/>
+        <MapText Code="Mantanikau" Color="17" NameEng="Mantanikau" NameRus="Мантаникау" X="631065" Y="79430" Type="1"/>
+        <MapText Code="Kukum" Color="17" NameEng="Kukum" NameRus="Кукум" X="636335" Y="80871" Type="1"/>
+        <MapText Code="Sealark Channel" Color="16" NameEng="Sealark Channel" NameRus="Сеаларк Чаннел" X="672477" Y="90416" Type="1"/>
+        <MapText Code="Indispensable Strait" Color="16" NameEng="Indispensable Strait" NameRus="Индиспенсабле Страит" X="730032" Y="77674" Type="1"/>
+        <MapText Code="Aola Bay" Color="16" NameEng="Aola Bay" NameRus="Аола Баы" X="688985" Y="70588" Type="1"/>
+        <MapText Code="Kula Gulf" Color="16" NameEng="Kula Gulf" NameRus="Кула Гулф" X="339650" Y="231128" Type="1"/>
+        <MapText Code="Blackett Strait" Color="16" NameEng="Blackett Strait" NameRus="Блаcкетт Страит" X="318351" Y="218987" Type="1"/>
+        <MapText Code="Vella Gulf" Color="16" NameEng="Vella Gulf" NameRus="Велла Гулф" X="292767" Y="247198" Type="1"/>
+        <MapText Code="Blanche Channel" Color="16" NameEng="Blanche Channel" NameRus="Бланче Чаннел" X="372442" Y="168789" Type="1"/>
+        <MapText Code="Wilson Strait" Color="16" NameEng="Wilson Strait" NameRus="Wилсон Страит" X="265740" Y="242185" Type="1"/>
+        <MapText Code="Gizo Strait" Color="16" NameEng="Gizo Strait" NameRus="Гизо Страит" X="281331" Y="234626" Type="1"/>
+        <MapText Code="Korigole Hbr." Color="16" NameEng="Korigole Hbr." NameRus="Кориголе Хбр." X="527553" Y="226521" Type="1"/>
+        <MapText Code="Cape Astrolabe" Color="2" NameEng="Cape Astrolabe" NameRus="Cапе Астролабе" X="694997" Y="197753" Type="1"/>
+        <MapText Code="Buka Passage" Color="16" NameEng="Buka Passage" NameRus="Бука Пассаге" X="60793" Y="510229" Type="1"/>
+        <MapText Code="Bairoko Hbr." Color="16" NameEng="Bairoko Hbr." NameRus="Баироко Хбр." X="338890" Y="212475" Type="1"/>
+        <MapText Code="Baruku" Color="1" NameEng="Baruku" NameRus="Баруку" X="498674" Y="123714" Type="1"/>
+        <MapText Code="Viru Hbr." Color="16" NameEng="Viru Hbr." NameRus="Виру Хбр." X="388407" Y="178255" Type="1"/>
+        <MapText Code="Buzuna Cove" Color="16" NameEng="Buzuna Cove" NameRus="Бузуна Cове" X="348132" Y="171574" Type="1"/>
+        <MapText Code="Balfour Channel" Color="16" NameEng="Balfour Channel" NameRus="Балфоур Чаннел" X="355082" Y="156570" Type="1"/>
+        <MapText Code="Rendova Hbr." Color="16" NameEng="Rendova Hbr." NameRus="Рендова Хбр." X="344614" Y="190044" Type="1"/>
+        <MapText Code="Regi" Color="17" NameEng="Regi" NameRus="Реги" X="398086" Y="172908" Type="1"/>
+        <MapText Code="Nono" Color="17" NameEng="Nono" NameRus="Ноно" X="398636" Y="172538" Type="1"/>
+        <MapText Code="Tetemara" Color="17" NameEng="Tetemara" NameRus="Тетемара" X="388419" Y="179154" Type="1"/>
+        <MapText Code="Viru" Color="17" NameEng="Viru" NameRus="Виру" X="388930" Y="180511" Type="1"/>
+        <MapText Code="Oleana Bay" Color="16" NameEng="Oleana Bay" NameRus="Олеана Баы" X="416939" Y="150987" Type="1"/>
+        <MapText Code="Vura Bay" Color="16" NameEng="Vura Bay" NameRus="Вура Баы" X="423359" Y="153780" Type="1"/>
+        <MapText Code="Wickham Anchorage" Color="16" NameEng="Wickham Anchorage" NameRus="Wиcкхам Анчораге" X="427438" Y="157796" Type="1"/>
+        <MapText Code="Rice  Anchorage" Color="16" NameEng="Rice Anchorage" NameRus="Риcе Анчораге" X="343588" Y="219446" Type="1"/>
+        <MapText Code="Morovo Lagoon" Color="16" NameEng="Morovo Lagoon" NameRus="Морово Лагоон" X="412835" Y="183483" Type="1"/>
+        <MapText Code="Numa Numa" Color="17" NameEng="Numa Numa" NameRus="Нума Нума" X="118609" Y="460722" Type="1"/>
+        <MapText Code="Afufu" Color="17" NameEng="Afufu" NameRus="Афуфу" X="695697" Y="195246" Type="1"/>
+        <MapText Code="Sombrio" Color="17" NameEng="Sombrio" NameRus="Сомбрио" X="440651" Y="154526" Type="1"/>
+        <MapText Code="Morgusaia" Color="1" NameEng="Morgusaia" NameRus="Моргусаиа" X="182670" Y="328064" Type="1"/>
+        <MapText Code="Shortland Hbr." Color="16" NameEng="Shortland Hbr." NameRus="Шортланд Хбр." X="188417" Y="333523" Type="1"/>
+        <MapText Code="SPB" Color="0" NameEng="SPB" NameRus="СПБ" X="187066" Y="332005" Type="1"/>
+        <MapText Code="Tonolai Bay" Color="16" NameEng="Tonolai Bay" NameRus="Тонолаи Баы" X="191900" Y="365281" Type="1"/>
+        <MapText Code="Tangarare" Color="17" NameEng="Tangarare" NameRus="Тангараре" X="596819" Y="63324" Type="1"/>
+        <MapText Code="Beaufort Bay" Color="16" NameEng="Beaufort Bay" NameRus="Беауфорт Баы" X="592344" Y="62186" Type="1"/>
+        <MapText Code="Vatilau" Color="1" NameEng="Vatilau" NameRus="Ватилау" X="636197" Y="137676" Type="1"/>
+        <MapText Code="Mandoliana" Color="1" NameEng="Mandoliana" NameRus="Мандолиана" X="666031" Y="103657" Type="1"/>
+        <MapText Code="Nugu" Color="1" NameEng="Nugu" NameRus="Нугу" X="672217" Y="95454" Type="1"/>
+        <MapText Code="Berande" Color="17" NameEng="Berande" NameRus="Беранде" X="664469" Y="81535" Type="1"/>
+        <MapText Code="Tenaru" Color="17" NameEng="Tenaru" NameRus="Тенару" X="640956" Y="81467" Type="1"/>
+        <MapText Code="Lavoro" Color="17" NameEng="Lavoro" NameRus="Лаворо" X="590453" Y="92408" Type="1"/>
+        <MapText Code="Cape Henslow" Color="16" NameEng="Cape Henslow" NameRus="Cапе Хенслоw" X="703331" Y="24092" Type="1"/>
+        <MapText Code="Savo Strait" Color="16" NameEng="Savo Strait" NameRus="Саво Страит" X="612104" Y="104344" Type="1"/>
+        <MapText Code="Maramasike Passage" Color="16" NameEng="Maramasike Passage" NameRus="Марамасике Пассаге" X="786072" Y="69119" Type="1"/>
+        <MapText Code="Iron Bottom Sound" Color="16" NameEng="Iron Bottom Sound" NameRus="Ирон Боттом Соунд" X="636980" Y="98957" Type="1"/>
+        <MapText Code="Maramasike" Color="1" NameEng="Maramasike" NameRus="Марамасике" X="795365" Y="65313" Type="1"/>
+        <MapText Code="Wernham Cove" Color="16" NameEng="Wernham Cove" NameRus="Wернхам Cове" X="545012" Y="110155" Type="1"/>
+        <MapText Code="Enogai Inlet" Color="16" NameEng="Enogai Inlet" NameRus="Еногаи Инлет" X="341555" Y="214758" Type="1"/>
+        <MapText Code="Roviana" Color="1" NameEng="Roviana" NameRus="Ровиана" X="345513" Y="195257" Type="1"/>
+        <MapText Code="Sasavele" Color="1" NameEng="Sasavele" NameRus="Сасавеле" X="346592" Y="197772" Type="1"/>
+        <MapText Code="Baraulu" Color="1" NameEng="Baraulu" NameRus="Бараулу" X="352259" Y="200695" Type="1"/>
+        <MapText Code="Wana Wana" Color="1" NameEng="Wana Wana" NameRus="Wана Wана" X="318025" Y="208970" Type="1"/>
+        <MapText Code="Simbo Hbr." Color="16" NameEng="Simbo Hbr." NameRus="Симбо Хбр." X="258672" Y="204262" Type="1"/>
+        <MapText Code="Blanche Hbr." Color="16" NameEng="Blanche Hbr." NameRus="Бланче Хбр." X="153918" Y="296641" Type="1"/>
+        <MapText Code="Roviana Lagoon" Color="16" NameEng="Roviana Lagoon" NameRus="Ровиана Лагоон" X="349887" Y="201860" Type="1"/>
+        <MapText Code="Wana Wana Lagoon" Color="16" NameEng="Wana Wana Lagoon" NameRus="Wана Wана Лагоон" X="327314" Y="201306" Type="1"/>
+        <MapText Code="Mt. Austen" Color="15" NameEng="Mt. Austen" NameRus="Мт. Аустен" X="633179" Y="74393" Type="1"/>
+        <MapText Code="Supato" Color="17" NameEng="Supato" NameRus="Супато" X="266099" Y="249742" Type="1"/>
+        <MapText Code="Malasovo" Color="17" NameEng="Malasovo" NameRus="Маласово" X="271132" Y="245897" Type="1"/>
+        <MapText Code="Varisi" Color="17" NameEng="Varisi" NameRus="Вариси" X="271536" Y="242844" Type="1"/>
+        <MapText Code="Barakoma" Color="17" NameEng="Barakoma" NameRus="Баракома" X="277578" Y="243979" Type="1"/>
+        <MapText Code="Mundi Mundi" Color="17" NameEng="Mundi Mundi" NameRus="Мунди Мунди" X="255746" Y="271492" Type="1"/>
+        <MapText Code="Tambama" Color="17" NameEng="Tambama" NameRus="Тамбама" X="265662" Y="279587" Type="1"/>
+        <MapText Code="Voloa" Color="17" NameEng="Voloa" NameRus="Волоа" X="650913" Y="117409" Type="1"/>
+        <MapText Code="Hagalu" Color="17" NameEng="Hagalu" NameRus="Хагалу" X="654359" Y="115932" Type="1"/>
+        <MapText Code="Halavo" Color="17" NameEng="Halavo" NameRus="Халаво" X="657650" Y="113718" Type="1"/>
+        <MapText Code="Gavuhoho" Color="17" NameEng="Gavuhoho" NameRus="Гавухохо" X="659035" Y="108832" Type="1"/>
+        <MapText Code="Taroaniara" Color="17" NameEng="Taroaniara" NameRus="Тароаниара" X="660192" Y="110415" Type="1"/>
+        <MapText Code="Vunuha" Color="17" NameEng="Vunuha" NameRus="Вунуха" X="660185" Y="105145" Type="1"/>
+        <MapText Code="Kirigi" Color="17" NameEng="Kirigi" NameRus="Кириги" X="663543" Y="111637" Type="1"/>
+        <MapText Code="Matchin Bay" Color="16" NameEng="Matchin Bay" NameRus="Матчин Баы" X="65878" Y="495239" Type="1"/>
+        <MapText Code="Tinputs Hbr." Color="16" NameEng="Tinputs Hbr." NameRus="Тинпуц Хбр." X="95496" Y="494539" Type="1"/>
+        <MapText Code="Tiop Hbr." Color="16" NameEng="Tiop Hbr." NameRus="Тиоп Хбр." X="100717" Y="492441" Type="1"/>
+        <MapText Code="Kieta Hbr." Color="16" NameEng="Kieta Hbr." NameRus="Киета Хбр." X="163663" Y="424410" Type="1"/>
+        <MapText Code="Arawa Bay" Color="16" NameEng="Arawa Bay" NameRus="Араwа Баы" X="157624" Y="426121" Type="1"/>
+        <MapText Code="Matupina Pt." Color="2" NameEng="Matupina Pt." NameRus="Матупина Пт." X="110599" Y="391964" Type="1"/>
+        <MapText Code="Koromira" Color="17" NameEng="Koromira" NameRus="Коромира" X="182070" Y="407835" Type="1"/>
+        <MapText Code="Ovau" Color="1" NameEng="Ovau" NameRus="Овау" X="203189" Y="361388" Type="1"/>
+        <MapText Code="Moila Pt." Color="2" NameEng="Moila Pt." NameRus="Моила Пт." X="170695" Y="352034" Type="1"/>
+        <MapText Code="Oema" Color="1" NameEng="Oema" NameRus="Оема" X="212819" Y="372846" Type="1"/>
+        <MapText Code="Alu" Color="1" NameEng="Alu" NameRus="Алу" X="189417" Y="327938" Type="1"/>
+        <MapText Code="Asie" Color="1" NameEng="Asie" NameRus="Асие" X="204627" Y="353035" Type="1"/>
+        <MapText Code="Masamasa" Color="1" NameEng="Masamasa" NameRus="Масамаса" X="216802" Y="359501" Type="1"/>
+        <MapText Code="Stirling" Color="1" NameEng="Stirling" NameRus="Стирлинг" X="155139" Y="295202" Type="1"/>
+        <MapText Code="Treasury Is." Color="1" NameEng="Treasury Is." NameRus="Треасуры Ис." X="149403" Y="290974" Type="2"/>
+        <MapText Code="Shortland Is." Color="1" NameEng="Shortland Is." NameRus="Шортланд Ис." X="182110" Y="336365" Type="2"/>
+        <MapText Code="Cape Alexander" Color="2" NameEng="Cape Alexander" NameRus="Cапе Алеxандер" X="252835" Y="384034" Type="1"/>
+        <MapText Code="Nanango Pt." Color="2" NameEng="Nanango Pt." NameRus="Нананго Пт." X="307220" Y="355699" Type="1"/>
+        <MapText Code="Vagina" Color="1" NameEng="Vagina" NameRus="Вагина" X="393826" Y="294097" Type="1"/>
+        <MapText Code="Dillimore" Color="1" NameEng="Dillimore" NameRus="Диллиморе" X="373855" Y="296875" Type="1"/>
+        <MapText Code="Sambi Head" Color="2" NameEng="Sambi Head" NameRus="Самби Хеад" X="321092" Y="301256" Type="1"/>
+        <MapText Code="Sumbi Head" Color="2" NameEng="Sumbi Head" NameRus="Сумби Хеад" X="311696" Y="308225" Type="1"/>
+        <MapText Code="Kundua" Color="17" NameEng="Kundua" NameRus="Кундуа" X="260287" Y="222715" Type="1"/>
+        <MapText Code="Ramada Bay" Color="16" NameEng="Ramada Bay" NameRus="Рамада Баы" X="383102" Y="217365" Type="1"/>
+        <MapText Code="Batuna" Color="17" NameEng="Batuna" NameRus="Батуна" X="431942" Y="173407" Type="1"/>
+        <MapText Code="Ringdove Bay" Color="16" NameEng="Ringdove Bay" NameRus="Рингдове Баы" X="420396" Y="177243" Type="1"/>
+        <MapText Code="Thousand Ships Bay" Color="16" NameEng="Thousand Ships Bay" NameRus="Тхоусанд Шипс Баы" X="602714" Y="182016" Type="1"/>
+        <MapText Code="San Jorge" Color="1" NameEng="San Jorge" NameRus="Сан Йорге" X="589375" Y="186504" Type="1"/>
+        <MapText Code="Kimaga" Color="17" NameEng="Kimaga" NameRus="Кимага" X="603918" Y="208482" Type="1"/>
+        <MapText Code="Susubona" Color="17" NameEng="Susubona" NameRus="Сусубона" X="575502" Y="201684" Type="1"/>
+        <MapText Code="Garofate" Color="17" NameEng="Garofate" NameRus="Гарофате" X="583931" Y="196187" Type="1"/>
+        <MapText Code="Sigana" Color="17" NameEng="Sigana" NameRus="Сигана" X="622304" Y="177629" Type="1"/>
+        <MapText Code="Sepi" Color="17" NameEng="Sepi" NameRus="Сепи" X="619367" Y="172981" Type="1"/>
+        <MapText Code="Kesuo Cove" Color="16" NameEng="Kesuo Cove" NameRus="Кесуо Cове" X="548157" Y="240338" Type="1"/>
+        <MapText Code="Ravu" Color="17" NameEng="Ravu" NameRus="Раву" X="645232" Y="130807" Type="1"/>
+        <MapText Code="Sandfly Passage" Color="16" NameEng="Sandfly Passage" NameRus="Сандфлы Пассаге" X="645802" Y="124349" Type="1"/>
+        <MapText Code="Olevuga" Color="1" NameEng="Olevuga" NameRus="Олевуга" X="643586" Y="127861" Type="1"/>
+        <MapText Code="Leitongo" Color="17" NameEng="Leitongo" NameRus="Леитонго" X="643333" Y="124030" Type="1"/>
+        <MapText Code="Toga" Color="17" NameEng="Toga" NameRus="Тога" X="643678" Y="121427" Type="1"/>
+        <MapText Code="Tanavula Pt." Color="2" NameEng="Tanavula Pt." NameRus="Танавула Пт." X="641306" Y="121156" Type="1"/>
+        <MapText Code="Haleta" Color="17" NameEng="Haleta" NameRus="Халета" X="647939" Y="115329" Type="1"/>
+        <MapText Code="Tanatau Cove" Color="16" NameEng="Tanatau Cove" NameRus="Танатау Cове" X="667581" Y="107238" Type="1"/>
+        <MapText Code="Matumba Bay" Color="16" NameEng="Matumba Bay" NameRus="Матумба Баы" X="674369" Y="106588" Type="1"/>
+        <MapText Code="Tanatou Pt." Color="2" NameEng="Tanatou Pt." NameRus="Танатоу Пт." X="680095" Y="111303" Type="1"/>
+        <MapText Code="Belaga" Color="17" NameEng="Belaga" NameRus="Белага" X="672663" Y="115291" Type="1"/>
+        <MapText Code="Siota" Color="17" NameEng="Siota" NameRus="Сиота" X="668624" Y="119466" Type="1"/>
+        <MapText Code="Vuru Anchorage" Color="16" NameEng="Vuru Anchorage" NameRus="Вуру Анчораге" X="658746" Y="124413" Type="1"/>
+        <MapText Code="Polomuhu" Color="17" NameEng="Polomuhu" NameRus="Поломуху" X="664323" Y="122057" Type="1"/>
+        <MapText Code="Boromoli" Color="17" NameEng="Boromoli" NameRus="Боромоли" X="667193" Y="119519" Type="1"/>
+        <MapText Code="Baranago Hbr." Color="16" NameEng="Baranago Hbr." NameRus="Баранаго Хбр." X="658419" Y="106877" Type="1"/>
+        <MapText Code="Bungana" Color="17" NameEng="Bungana" NameRus="Бунгана" X="656916" Y="106011" Type="1"/>
+        <MapText Code="Gavutu" Color="17" NameEng="Gavutu" NameRus="Гавуту" X="655307" Y="113483" Type="1"/>
+        <MapText Code="Suaba Bay" Color="16" NameEng="Suaba Bay" NameRus="Суаба Баы" X="706930" Y="196665" Type="1"/>
+        <MapText Code="Manaoba" Color="1" NameEng="Manaoba" NameRus="Манаоба" X="720356" Y="200113" Type="1"/>
+        <MapText Code="Coleridge Bay" Color="16" NameEng="Coleridge Bay" NameRus="Cолеридге Баы" X="707676" Y="174041" Type="1"/>
+        <MapText Code="Cape Zelea" Color="2" NameEng="Cape Zelea" NameRus="Cапе Зелеа" X="806167" Y="47085" Type="1"/>
+        <MapText Code="Deep Bay" Color="16" NameEng="Deep Bay" NameRus="Дееп Баы" X="775827" Y="92919" Type="1"/>
+        <MapText Code="Uru Hbr." Color="16" NameEng="Uru Hbr." NameRus="Уру Хбр." X="742963" Y="140847" Type="1"/>
+        <MapText Code="Sinarango Hbr." Color="16" NameEng="Sinarango Hbr." NameRus="Синаранго Хбр." X="749860" Y="136789" Type="1"/>
+        <MapText Code="Double Bay" Color="16" NameEng="Double Bay" NameRus="Доубле Баы" X="759429" Y="127229" Type="1"/>
+        <MapText Code="Aio Hbr." Color="16" NameEng="Aio Hbr." NameRus="Аио Хбр." X="763047" Y="121149" Type="1"/>
+        <MapText Code="Auki" Color="17" NameEng="Auki" NameRus="Ауки" X="709992" Y="150250" Type="1"/>
+        <MapText Code="Suupaena" Color="17" NameEng="Suupaena" NameRus="Суупаена" X="794938" Y="58002" Type="1"/>
+        <MapText Code="Royalist Hbr." Color="16" NameEng="Royalist Hbr." NameRus="Роыалист Хбр." X="752325" Y="92494" Type="1"/>
+        <MapText Code="Rohinan" Color="17" NameEng="Rohinan" NameRus="Рохинан" X="753634" Y="89820" Type="1"/>
+        <MapText Code="Rarata" Color="17" NameEng="Rarata" NameRus="Рарата" X="714104" Y="143874" Type="1"/>
+        <MapText Code="Langalanga Lagoon" Color="16" NameEng="Langalanga Lagoon" NameRus="Лангаланга Лагоон" X="715928" Y="134493" Type="1"/>
+        <MapText Code="Kwa Cove" Color="16" NameEng="Kwa Cove" NameRus="Кwа Cове" X="720744" Y="122321" Type="1"/>
+        <MapText Code="Su&apos;u Cove" Color="16" NameEng="Su&apos;u Cove" NameRus="СуЬу Cове" X="734913" Y="106538" Type="1"/>
+        <MapText Code="Leleona" Color="17" NameEng="Leleona" NameRus="Лелеона" X="592300" Y="72519" Type="1"/>
+        <MapText Code="Sugu" Color="17" NameEng="Sugu" NameRus="Сугу" X="599142" Y="60663" Type="1"/>
+        <MapText Code="Malapa" Color="1" NameEng="Malapa" NameRus="Малапа" X="729328" Y="38610" Type="1"/>
+        <MapText Code="Kaukau Bay" Color="16" NameEng="Kaukau Bay" NameRus="Каукау Баы" X="708845" Y="52808" Type="1"/>
+        <MapText Code="Rua Sura" Color="1" NameEng="Rua Sura" NameRus="Руа Сура" X="701474" Y="71658" Type="1"/>
+        <MapText Code="Korai Cove" Color="16" NameEng="Korai Cove" NameRus="Кораи Cове" X="719013" Y="45935" Type="1"/>
+        <MapText Code="Marau Sound" Color="16" NameEng="Marau Sound" NameRus="Марау Соунд" X="726230" Y="39108" Type="1"/>
+        <MapText Code="Tetekanji" Color="17" NameEng="Tetekanji" NameRus="Тетеканйи" X="702814" Y="41236" Type="1"/>
+        <MapText Code="Rere Pt." Color="2" NameEng="Rere Pt." NameRus="Рере Пт." X="701513" Y="63936" Type="1"/>
+        <MapText Code="Nangali" Color="17" NameEng="Nangali" NameRus="Нангали" X="703374" Y="61670" Type="1"/>
+        <MapText Code="Ruavatu" Color="17" NameEng="Ruavatu" NameRus="Руавату" X="678636" Y="77186" Type="1"/>
+        <MapText Code="Bukosugu" Color="17" NameEng="Bukosugu" NameRus="Букосугу" X="694795" Y="27251" Type="1"/>
+        <MapText Code="Naho" Color="17" NameEng="Naho" NameRus="Нахо" X="689070" Y="30162" Type="1"/>
+        <MapText Code="Cape Hunter" Color="2" NameEng="Cape Hunter" NameRus="Cапе Хунтер" X="616204" Y="39819" Type="1"/>
+        <MapText Code="Luangiua" Color="1" NameEng="Luangiua" NameRus="Луангиуа" X="602313" Y="502141" Type="1"/>
+        <MapText Code="Keila" Color="1" NameEng="Keila" NameRus="Кеила" X="568365" Y="503186" Type="1"/>
+        <MapText Code="Avaha" Color="1" NameEng="Avaha" NameRus="Аваха" X="600331" Y="510825" Type="1"/>
+        <MapText Code="Tanambogo" Color="1" NameEng="Tanambogo" NameRus="Танамбого" X="654936" Y="114036" Type="1"/>
+        <MapText Code="Uruha Passage" Color="16" NameEng="Uruha Passage" NameRus="Уруха Пассаге" X="665949" Y="114149" Type="1"/>
+        <MapText Code="Port Purvis" Color="16" NameEng="Port Purvis" NameRus="Порт Пурвис" X="661311" Y="109553" Type="1"/>
+        <MapText Code="Tulagi Hbr." Color="16" NameEng="Tulagi Hbr." NameRus="Тулаги Хбр." X="653374" Y="114896" Type="1"/>
+        <MapText Code="Paraso Bay" Color="16" NameEng="Paraso Bay" NameRus="Парасо Баы" X="273311" Y="273557" Type="1"/>
+        <MapText Code="Doveli Cove" Color="16" NameEng="Doveli Cove" NameRus="Довели Cове" X="271245" Y="275504" Type="1"/>
+        <MapText Code="Boro" Color="17" NameEng="Boro" NameRus="Боро" X="270757" Y="276063" Type="1"/>
+        <MapText Code="Lambu Lambu Cove" Color="16" NameEng="Lambu Lambu Cove" NameRus="Ламбу Ламбу Cове" X="287643" Y="261001" Type="1"/>
+        <MapText Code="Warambarl Bay" Color="16" NameEng="Warambarl Bay" NameRus="Wарамбарл Баы" X="261479" Y="278760" Type="1"/>
+        <MapText Code="Marquana Bay" Color="16" NameEng="Marquana Bay" NameRus="Марqуана Баы" X="259705" Y="278084" Type="1"/>
+        <MapText Code="Matu Soroto Bay" Color="16" NameEng="Matu Soroto Bay" NameRus="Мату Сорото Баы" X="255636" Y="272096" Type="1"/>
+        <MapText Code="Pakoi Bay" Color="16" NameEng="Pakoi Bay" NameRus="Пакои Баы" X="255787" Y="273228" Type="1"/>
+        <MapText Code="Timbala Bay" Color="16" NameEng="Timbala Bay" NameRus="Тимбала Баы" X="257296" Y="275643" Type="1"/>
+        <MapText Code="Biloa Anchorage" Color="16" NameEng="Biloa Anchorage" NameRus="Билоа Анчораге" X="279231" Y="239741" Type="1"/>
+        <MapText Code="Biloa" Color="17" NameEng="Biloa" NameRus="Билоа" X="279288" Y="240674" Type="1"/>
+        <MapText Code="Uzamba" Color="17" NameEng="Uzamba" NameRus="Узамба" X="278740" Y="246349" Type="1"/>
+        <MapText Code="Maravari" Color="17" NameEng="Maravari" NameRus="Маравари" X="279266" Y="249133" Type="1"/>
+        <MapText Code="Ruravai" Color="17" NameEng="Ruravai" NameRus="Рураваи" X="286104" Y="257871" Type="1"/>
+        <MapText Code="Narowai" Color="17" NameEng="Narowai" NameRus="Нароwаи" X="283690" Y="255089" Type="1"/>
+        <MapText Code="Joroveto" Color="17" NameEng="Joroveto" NameRus="Йоровето" X="280456" Y="252091" Type="1"/>
+        <MapText Code="Kimbolia" Color="17" NameEng="Kimbolia" NameRus="Кимболиа" X="281183" Y="265175" Type="1"/>
+        <MapText Code="Tombe" Color="17" NameEng="Tombe" NameRus="Томбе" X="389513" Y="179114" Type="1"/>
+        <MapText Code="Buka" Color="1" NameEng="Buka" NameRus="Бука" X="53744" Y="531445" Type="1"/>
+        <MapText Code="Chabai" Color="17" NameEng="Chabai" NameRus="Чабаи" X="66488" Y="500419" Type="1"/>
+        <MapText Code="Pango Pango" Color="17" NameEng="Pango Pango" NameRus="Панго Панго" X="346010" Y="189564" Type="1"/>
+        <MapText Code="Horoniu" Color="17" NameEng="Horoniu" NameRus="Хорониу" X="278517" Y="266003" Type="1"/>
+        <MapText Code="Hanesavu" Color="1" NameEng="Hanesavu" NameRus="Ханесаву" X="640134" Y="130991" Type="1"/>
+        <MapText Code="Lagale" Color="1" NameEng="Lagale" NameRus="Лагале" X="678317" Y="117480" Type="1"/>
+        <MapText Code="Cape le Gras" Color="2" NameEng="Cape le Gras" NameRus="Cапе ле Грас" X="137671" Y="447998" Type="1"/>
+        <MapText Code="Numanuna Hbr." Color="16" NameEng="Numanuna Hbr." NameRus="Нумануна Хбр." X="128827" Y="453935" Type="1"/>
+        <MapText Code="Cape Nehus" Color="2" NameEng="Cape Nehus" NameRus="Cапе Нехус" X="112428" Y="475941" Type="1"/>
+        <MapText Code="Narunana Channel" Color="16" NameEng="Narunana Channel" NameRus="Нарунана Чаннел" X="46892" Y="518228" Type="1"/>
+        <MapText Code="Iwi Plantation" Color="17" NameEng="Iwi Plantation" NameRus="Иwи Плантатион" X="181725" Y="408339" Type="1"/>
+        <MapText Code="Reboine Bay" Color="16" NameEng="Reboine Bay" NameRus="Ребоине Баы" X="177791" Y="412568" Type="1"/>
+        <MapText Code="Cape L&apos;Averdy" Color="2" NameEng="Cape L&apos;Averdy" NameRus="Cапе ЛЬАверды" X="101237" Y="495501" Type="1"/>
+        <MapText Code="Gold field" Color="15" NameEng="Gold field" NameRus="Голд фиелд" X="156182" Y="417879" Type="1"/>
+        <MapText Code="Pavuvu" Color="1" NameEng="Pavuvu" NameRus="Павуву" X="538396" Y="118305" Type="1"/>
+        <MapText Code="Alokun" Color="1" NameEng="Alokun" NameRus="Алокун" X="539918" Y="110376" Type="1"/>
+        <MapText Code="Banika" Color="1" NameEng="Banika" NameRus="Баника" X="547367" Y="114780" Type="1"/>
+        <MapText Code="Moe" Color="1" NameEng="Moe" NameRus="Мое" X="557872" Y="112818" Type="1"/>
+        <MapText Code="Lamon" Color="1" NameEng="Lamon" NameRus="Ламон" X="566116" Y="110836" Type="1"/>
+        <MapText Code="Laumua" Color="1" NameEng="Laumua" NameRus="Лаумуа" X="565685" Y="112876" Type="1"/>
+        <MapText Code="Baisura" Color="1" NameEng="Baisura" NameRus="Баисура" X="536672" Y="127641" Type="1"/>
+        <MapText Code="Leru" Color="1" NameEng="Leru" NameRus="Леру" X="532248" Y="126607" Type="1"/>
+        <MapText Code="Mane" Color="1" NameEng="Mane" NameRus="Мане" X="530467" Y="123188" Type="1"/>
+        <MapText Code="Hanesavo Hbr." Color="16" NameEng="Hanesavo Hbr." NameRus="Ханесаво Хбр." X="640785" Y="123103" Type="1"/>
+        <MapText Code="Nagotano" Color="1" NameEng="Nagotano" NameRus="Наготано" X="637416" Y="128346" Type="1"/>
+        <MapText Code="North" Color="1" NameEng="North" NameRus="Нортх" X="638749" Y="141963" Type="1"/>
+        <MapText Code="Point Tanuli" Color="2" NameEng="Point Tanuli" NameRus="Поинт Танули" X="650696" Y="127245" Type="1"/>
+        <MapText Code="Kobiloko" Color="1" NameEng="Kobiloko" NameRus="Кобилоко" X="540545" Y="128818" Type="1"/>
+        <MapText Code="Lanalau" Color="1" NameEng="Lanalau" NameRus="Ланалау" X="550461" Y="127367" Type="1"/>
+        <MapText Code="Kumshio" Color="1" NameEng="Kumshio" NameRus="Кумшио" X="549958" Y="129833" Type="1"/>
+        <MapText Code="Sagi Pt." Color="2" NameEng="Sagi Pt." NameRus="Саги Пт." X="529395" Y="119966" Type="1"/>
+        <MapText Code="Cape Bola" Color="2" NameEng="Cape Bola" NameRus="Cапе Бола" X="531370" Y="115344" Type="1"/>
+        <MapText Code="Edson&apos;s Ridge" Color="15" NameEng="Edson&apos;s Ridge" NameRus="ЕдсонЬс Ридге" X="639678" Y="77490" Type="1"/>
+        <MapText Code="Kindu" Color="17" NameEng="Kindu" NameRus="Кинду" X="336711" Y="199359" Type="1"/>
+        <MapText Code="Ilangana" Color="17" NameEng="Ilangana" NameRus="Илангана" X="341296" Y="197057" Type="1"/>
+        <MapText Code="Laiana" Color="17" NameEng="Laiana" NameRus="Лаиана" X="341634" Y="197346" Type="1"/>
+        <MapText Code="Zieta" Color="17" NameEng="Zieta" NameRus="Зиета" X="336492" Y="204288" Type="1"/>
+        <MapText Code="Hathorn Sound" Color="16" NameEng="Hathorn Sound" NameRus="Хатхорн Соунд" X="330828" Y="209455" Type="1"/>
+        <MapText Code="Austria Sound" Color="16" NameEng="Austria Sound" NameRus="Аустриа Соунд" X="464276" Y="279308" Type="1"/>
+        <MapText Code="Gijunabeana Is." Color="1" NameEng="Gijunabeana Is." NameRus="Гиюнабеана Ис." X="492766" Y="285804" Type="1"/>
+        <MapText Code="Papatura Fa" Color="1" NameEng="Papatura Fa" NameRus="Папатура Фа" X="497856" Y="280869" Type="1"/>
+        <MapText Code="Barora Fa" Color="1" NameEng="Barora Fa" NameRus="Барора Фа" X="459927" Y="284075" Type="1"/>
+        <MapText Code="Barora Ite" Color="1" NameEng="Barora Ite" NameRus="Барора Ите" X="459725" Y="278593" Type="1"/>
+        <MapText Code="Nidero" Color="1" NameEng="Nidero" NameRus="Нидеро" X="468940" Y="269226" Type="1"/>
+        <MapText Code="Arnavon Is." Color="1" NameEng="Arnavon Is." NameRus="Арнавон Ис." X="419628" Y="291916" Type="1"/>
+        <MapText Code="Bikolia" Color="1" NameEng="Bikolia" NameRus="Биколиа" X="433024" Y="299829" Type="1"/>
+        <MapText Code="Kologilio Passage" Color="16" NameEng="Kologilio Passage" NameRus="Кологилио Пассаге" X="437074" Y="300328" Type="1"/>
+        <MapText Code="Gage" Color="1" NameEng="Gage" NameRus="Гаге" X="444426" Y="295966" Type="1"/>
+        <MapText Code="Tanambuli" Color="17" NameEng="Tanambuli" NameRus="Танамбули" X="614381" Y="190749" Type="1"/>
+        <MapText Code="Buala" Color="17" NameEng="Buala" NameRus="Буала" X="587926" Y="219606" Type="1"/>
+        <MapText Code="Maringe Lagoon" Color="5" NameEng="Maringe Lagoon" NameRus="Маринге Лагоон" X="586218" Y="220715" Type="1"/>
+        <MapText Code="Kesuo Pt." Color="2" NameEng="Kesuo Pt." NameRus="Кесуо Пт." X="534806" Y="247340" Type="1"/>
+        <MapText Code="Luego" Color="17" NameEng="Luego" NameRus="Луего" X="649732" Y="81221" Type="1"/>
+        <MapText Code="Mt. Gallego" Color="15" NameEng="Mt. Gallego" NameRus="Мт. Галлего" X="604655" Y="88143" Type="1"/>
+        <MapText Code="Nugu Pt." Color="2" NameEng="Nugu Pt." NameRus="Нугу Пт." X="589715" Y="86618" Type="1"/>
+        <MapText Code="Yaro Bay" Color="16" NameEng="Yaro Bay" NameRus="Ыаро Баы" X="592254" Y="74184" Type="1"/>
+        <MapText Code="West Bay" Color="16" NameEng="West Bay" NameRus="Wест Баы" X="531223" Y="124956" Type="1"/>
+        <MapText Code="Anonyma Cove" Color="16" NameEng="Anonyma Cove" NameRus="Аноныма Cове" X="542621" Y="124179" Type="1"/>
+        <MapText Code="Vori Pt." Color="2" NameEng="Vori Pt." NameRus="Вори Пт." X="256586" Y="239661" Type="1"/>
+        <MapText Code="Kundua Pt." Color="2" NameEng="Kundua Pt." NameRus="Кундуа Пт." X="258690" Y="223965" Type="1"/>
+        <MapText Code="Fumaroles" Color="17" NameEng="Fumaroles" NameRus="Фумаролес" X="259848" Y="201368" Type="1"/>
+        <MapText Code="Musuru" Color="17" NameEng="Musuru" NameRus="Мусуру" X="258540" Y="205783" Type="1"/>
+        <MapText Code="Tapuri" Color="17" NameEng="Tapuri" NameRus="Тапури" X="260816" Y="206233" Type="1"/>
+        <MapText Code="Mbulu Mbulu" Color="1" NameEng="Mbulu Mbulu" NameRus="Мбулу Мбулу" X="367427" Y="191375" Type="1"/>
+        <MapText Code="Panga Bay" Color="16" NameEng="Panga Bay" NameRus="Панга Баы" X="403458" Y="156709" Type="1"/>
+        <MapText Code="Kolo Lagoon" Color="16" NameEng="Kolo Lagoon" NameRus="Коло Лагоон" X="434667" Y="161212" Type="1"/>
+        <MapText Code="Maulo" Color="1" NameEng="Maulo" NameRus="Мауло" X="449134" Y="151067" Type="1"/>
+        <MapText Code="Cape Pit" Color="2" NameEng="Cape Pit" NameRus="Cапе Пит" X="443310" Y="146427" Type="1"/>
+        <MapText Code="Maboli" Color="1" NameEng="Maboli" NameRus="Маболи" X="441635" Y="160393" Type="1"/>
+        <MapText Code="Rapichana Pt." Color="2" NameEng="Rapichana Pt." NameRus="Рапичана Пт." X="394860" Y="170175" Type="1"/>
+        <MapText Code="Hele Is." Color="1" NameEng="Hele Is." NameRus="Хеле Ис." X="397311" Y="161534" Type="1"/>
+        <MapText Code="Tambaka Pt." Color="2" NameEng="Tambaka Pt." NameRus="Тамбака Пт." X="384396" Y="177954" Type="1"/>
+        <MapText Code="Buki Hbr." Color="16" NameEng="Buki Hbr." NameRus="Буки Хбр." X="330570" Y="225193" Type="1"/>
+        <MapText Code="Bombari Hbr." Color="16" NameEng="Bombari Hbr." NameRus="Бомбари Хбр." X="330710" Y="227287" Type="1"/>
+        <MapText Code="Vau" Color="17" NameEng="Vau" NameRus="Вау" X="329661" Y="241304" Type="1"/>
+        <MapText Code="Sesepi" Color="17" NameEng="Sesepi" NameRus="Сесепи" X="330625" Y="237847" Type="1"/>
+        <MapText Code="Rei Cove" Color="16" NameEng="Rei Cove" NameRus="Реи Cове" X="311154" Y="249243" Type="1"/>
+        <MapText Code="Tuki Pt." Color="2" NameEng="Tuki Pt." NameRus="Туки Пт." X="318277" Y="251122" Type="1"/>
+        <MapText Code="Sandfly Bay" Color="16" NameEng="Sandfly Bay" NameRus="Сандфлы Баы" X="258564" Y="264818" Type="1"/>
+        <MapText Code="Tombulu" Color="17" NameEng="Tombulu" NameRus="Томбулу" X="305899" Y="244480" Type="1"/>
+        <MapText Code="Sunday Inlet" Color="16" NameEng="Sunday Inlet" NameRus="Сундаы Инлет" X="357191" Y="190306" Type="1"/>
+        <MapText Code="Lever Hbr." Color="16" NameEng="Lever Hbr." NameRus="Левер Хбр." X="374255" Y="230940" Type="1"/>
+        <MapText Code="Horanill" Color="17" NameEng="Horanill" NameRus="Хоранилл" X="284213" Y="263400" Type="1"/>
+        <MapText Code="Grassi Lagoon" Color="16" NameEng="Grassi Lagoon" NameRus="Грасси Лагоон" X="381224" Y="211353" Type="1"/>
+        <MapText Code="Papatuvia Pt." Color="2" NameEng="Papatuvia Pt." NameRus="Папатувиа Пт." X="405912" Y="173664" Type="1"/>
+        <MapText Code="Baniata Pt." Color="2" NameEng="Baniata Pt." NameRus="Баниата Пт." X="331268" Y="171941" Type="1"/>
+        <MapText Code="Lambeti" Color="17" NameEng="Lambeti" NameRus="Ламбети" X="339690" Y="197939" Type="1"/>
+        <MapText Code="Makambo" Color="1" NameEng="Makambo" NameRus="Макамбо" X="651943" Y="115579" Type="1"/>
+        <MapText Code="Takataka Bay" Color="16" NameEng="Takataka Bay" NameRus="Такатака Баы" X="768116" Y="95038" Type="1"/>
+        <MapText Code="Avuavu" Color="17" NameEng="Avuavu" NameRus="Авуаву" X="680274" Y="31643" Type="1"/>
+        <MapText Code="Aola" Color="17" NameEng="Aola" NameRus="Аола" X="688000" Y="68312" Type="1"/>
+        <MapText Code="Belaga" Color="17" NameEng="Belaga" NameRus="Белага" X="671495" Y="67700" Type="1"/>
+        <MapText Code="Kerembuto" Color="17" NameEng="Kerembuto" NameRus="Керембуто" X="668112" Y="64670" Type="1"/>
+        <MapText Code="Makina" Color="17" NameEng="Makina" NameRus="Макина" X="722344" Y="36265" Type="1"/>
+        <MapText Code="Tasili Anchorage" Color="16" NameEng="Tasili Anchorage" NameRus="Тасили Анчораге" X="663236" Y="38673" Type="1"/>
+        <MapText Code="Lion Head Mtn." Color="15" NameEng="Lion Head Mtn." NameRus="Лион Хеад Мтн." X="652106" Y="49539" Type="1"/>
+        <MapText Code="Nata" Color="17" NameEng="Nata" NameRus="Ната" X="654665" Y="51037" Type="1"/>
+        <MapText Code="Sula" Color="17" NameEng="Sula" NameRus="Сула" X="649124" Y="51283" Type="1"/>
+        <MapText Code="Mt. Vatuvisa" Color="15" NameEng="Mt. Vatuvisa" NameRus="Мт. Ватувиса" X="629941" Y="43577" Type="1"/>
+        <MapText Code="Mt. Popomanasiu" Color="15" NameEng="Mt. Popomanasiu" NameRus="Мт. Попоманасиу" X="633938" Y="46208" Type="1"/>
+        <MapText Code="Coughlan Hbr." Color="16" NameEng="Coughlan Hbr." NameRus="Cоугхлан Хбр." X="598625" Y="98422" Type="1"/>
+        <MapText Code="Mt. Balbi" Color="15" NameEng="Mt. Balbi" NameRus="Мт. Балби" X="93215" Y="454888" Type="1"/>
+        <MapText Code="Mt. Bagana" Color="15" NameEng="Mt. Bagana" NameRus="Мт. Багана" X="114967" Y="432071" Type="1"/>
+        <MapText Code="Mt. Gourdin" Color="15" NameEng="Mt. Gourdin" NameRus="Мт. Гоурдин" X="310510" Y="331205" Type="1"/>
+        <MapText Code="Taura Peak" Color="15" NameEng="Taura Peak" NameRus="Таура Пеак" X="366650" Y="307107" Type="1"/>
+        <MapText Code="Rob Roy" Color="1" NameEng="Rob Roy" NameRus="Роб Роы" X="374869" Y="307738" Type="1"/>
+        <MapText Code="Lunga" Color="17" NameEng="Lunga" NameRus="Лунга" X="639947" Y="81609" Type="1"/>
+        <MapText Code="Verahue" Color="17" NameEng="Verahue" NameRus="Верахуе" X="591014" Y="88625" Type="1"/>
+        <MapText Code="Galloping Horse" Color="15" NameEng="Galloping Horse" NameRus="Галлопинг Хорсе" X="627998" Y="75481" Type="1"/>
+        <MapText Code="Sea Horse" Color="15" NameEng="Sea Horse" NameRus="Сеа Хорсе" X="630882" Y="74116" Type="1"/>
+        <MapText Code="Gifu" Color="15" NameEng="Gifu" NameRus="Гифу" X="632096" Y="73795" Type="1"/>
+        <MapText Code="Edson&apos;s Ridge" Color="15" NameEng="Edson&apos;s Ridge" NameRus="ЕдсонЬс Ридге" X="639678" Y="77490" Type="1"/>
+        <MapText Code="Aruligo Pt." Color="2" NameEng="Aruligo Pt." NameRus="Арулиго Пт." X="609230" Y="96097" Type="1"/>
+        <MapText Code="Bunina Pt." Color="2" NameEng="Bunina Pt." NameRus="Бунина Пт." X="617521" Y="89369" Type="1"/>
+        <MapText Code="Titi" Color="17" NameEng="Titi" NameRus="Тити" X="597584" Y="97465" Type="1"/>
+        <MapText Code="Tapananja" Color="17" NameEng="Tapananja" NameRus="Тапананя" X="615869" Y="73684" Type="1"/>
+        <MapText Code="Mbangai" Color="1" NameEng="Mbangai" NameRus="Мбангаи" X="651489" Y="113434" Type="1"/>
+        <MapText Code="Kokomtabu" Color="1" NameEng="Kokomtabu" NameRus="Кокомтабу" X="651860" Y="112868" Type="1"/>
+        <MapText Code="Songonangona" Color="1" NameEng="Songonangona" NameRus="Сонгонангона" X="651980" Y="112403" Type="1"/>
+        <MapText Code="Gaomi" Color="1" NameEng="Gaomi" NameRus="Гаоми" X="655386" Y="114114" Type="1"/>
+        <MapText Code="Illina" Color="1" NameEng="Illina" NameRus="Иллина" X="194566" Y="349572" Type="1"/>
+        <MapText Code="Mt. Kolovrat" Color="15" NameEng="Mt. Kolovrat" NameRus="Мт. Коловрат" X="734550" Y="128289" Type="1"/>
+        <MapText Code="Mt. Alasa" Color="15" NameEng="Mt. Alasa" NameRus="Мт. Аласа" X="721391" Y="176358" Type="1"/>
+        <MapText Code="Mt. Tolosi" Color="15" NameEng="Mt. Tolosi" NameRus="Мт. Толоси" X="723384" Y="176405" Type="1"/>
+        <MapText Code="Mt. Barnett" Color="15" NameEng="Mt. Barnett" NameRus="Мт. Барнетт" X="647627" Y="119971" Type="1"/>
+        <MapText Code="Cape Megapode" Color="2" NameEng="Cape Megapode" NameRus="Cапе Мегаподе" X="526174" Y="256050" Type="1"/>
+        <MapText Code="Kia" Color="17" NameEng="Kia" NameRus="Киа" X="467957" Y="278197" Type="1"/>
+        <MapText Code="Tatamba Bay" Color="16" NameEng="Tatamba Bay" NameRus="Татамба Баы" X="620236" Y="188893" Type="1"/>
+        <MapText Code="Vikenara Pt." Color="2" NameEng="Vikenara Pt." NameRus="Викенара Пт." X="623974" Y="173379" Type="1"/>
+        <MapText Code="Floakora Pt." Color="2" NameEng="Floakora Pt." NameRus="Флоакора Пт." X="619208" Y="196744" Type="1"/>
+        <MapText Code="Pegu Pt." Color="2" NameEng="Pegu Pt." NameRus="Пегу Пт." X="606404" Y="207771" Type="1"/>
+        <MapText Code="Kokoibako Pt." Color="2" NameEng="Kokoibako Pt." NameRus="Кокоибако Пт." X="561826" Y="236649" Type="1"/>
+        <MapText Code="Sisiga Pt." Color="2" NameEng="Sisiga Pt." NameRus="Сисига Пт." X="544817" Y="244406" Type="1"/>
+        <MapText Code="Zuzuao Pt." Color="2" NameEng="Zuzuao Pt." NameRus="Зузуао Пт." X="504911" Y="270667" Type="1"/>
+        <MapText Code="Bates" Color="1" NameEng="Bates" NameRus="Батес" X="442482" Y="301788" Type="1"/>
+        <MapText Code="Hujuai Pt." Color="2" NameEng="Hujuai Pt." NameRus="Хуюаи Пт." X="523573" Y="227630" Type="1"/>
+        <MapText Code="Vori" Color="17" NameEng="Vori" NameRus="Вори" X="256737" Y="239160" Type="1"/>
+        <MapText Code="Mt.Kela" Color="15" NameEng="Mt.Kela" NameRus="Мт.Кела" X="262593" Y="227905" Type="1"/>
+        <MapText Code="Mt. Vina Roni" Color="15" NameEng="Mt. Vina Roni" NameRus="Мт. Вина Рони" X="363176" Y="219911" Type="1"/>
+        <MapText Code="Mt. Kusage" Color="15" NameEng="Mt. Kusage" NameRus="Мт. Кусаге" X="365865" Y="221355" Type="1"/>
+        <MapText Code="Visu Visu Pt." Color="2" NameEng="Visu Visu Pt." NameRus="Вису Вису Пт." X="362765" Y="239727" Type="1"/>
+        <MapText Code="Waugh Bay" Color="16" NameEng="Waugh Bay" NameRus="Wаугх Баы" X="364705" Y="158747" Type="1"/>
+        <MapText Code="Papatuvia" Color="17" NameEng="Papatuvia" NameRus="Папатувиа" X="405682" Y="173253" Type="1"/>
+        <MapText Code="Kolombagia" Color="1" NameEng="Kolombagia" NameRus="Коломбагиа" X="376455" Y="229792" Type="1"/>
+        <MapText Code="Kolohungomo" Color="1" NameEng="Kolohungomo" NameRus="Колохунгомо" X="378109" Y="225750" Type="1"/>
+        <MapText Code="Ramada" Color="1" NameEng="Ramada" NameRus="Рамада" X="380572" Y="214890" Type="1"/>
+        <MapText Code="Hamarai" Color="1" NameEng="Hamarai" NameRus="Хамараи" X="379228" Y="220121" Type="1"/>
+        <MapText Code="Mondo Mondo" Color="1" NameEng="Mondo Mondo" NameRus="Мондо Мондо" X="397013" Y="207045" Type="1"/>
+        <MapText Code="Hopasei" Color="1" NameEng="Hopasei" NameRus="Хопасеи" X="389964" Y="211086" Type="1"/>
+        <MapText Code="Kotukuriana" Color="1" NameEng="Kotukuriana" NameRus="Котукуриана" X="400327" Y="199041" Type="1"/>
+        <MapText Code="Tatama" Color="1" NameEng="Tatama" NameRus="Татама" X="404270" Y="192985" Type="1"/>
+        <MapText Code="Avavasa" Color="1" NameEng="Avavasa" NameRus="Ававаса" X="409346" Y="189374" Type="1"/>
+        <MapText Code="Vepi" Color="1" NameEng="Vepi" NameRus="Вепи" X="414192" Y="186807" Type="1"/>
+        <MapText Code="Matui" Color="1" NameEng="Matui" NameRus="Матуи" X="433205" Y="181711" Type="1"/>
+        <MapText Code="Pori Pori" Color="1" NameEng="Pori Pori" NameRus="Пори Пори" X="436750" Y="176123" Type="1"/>
+        <MapText Code="Njapuana" Color="1" NameEng="Njapuana" NameRus="Няпуана" X="438907" Y="169748" Type="1"/>
+        <MapText Code="Pirikali" Color="1" NameEng="Pirikali" NameRus="Пирикали" X="426341" Y="183614" Type="1"/>
+        <MapText Code="Lumaliha" Color="1" NameEng="Lumaliha" NameRus="Лумалиха" X="424069" Y="184163" Type="1"/>
+        <MapText Code="Karikana" Color="1" NameEng="Karikana" NameRus="Карикана" X="419765" Y="184098" Type="1"/>
+        <MapText Code="Wickham" Color="1" NameEng="Wickham" NameRus="Wиcкхам" X="424388" Y="151756" Type="1"/>
+        <MapText Code="Boromani" Color="1" NameEng="Boromani" NameRus="Боромани" X="351605" Y="170922" Type="1"/>
+        <MapText Code="Sikuleliki" Color="1" NameEng="Sikuleliki" NameRus="Сикулелики" X="352980" Y="168768" Type="1"/>
+        <MapText Code="Kenelo" Color="17" NameEng="Kenelo" NameRus="Кенело" X="339875" Y="182491" Type="1"/>
+        <MapText Code="Bluff Pt." Color="2" NameEng="Bluff Pt." NameRus="Блуфф Пт." X="342136" Y="160511" Type="1"/>
+        <MapText Code="Pature Pt." Color="2" NameEng="Pature Pt." NameRus="Патуре Пт." X="310310" Y="212670" Type="1"/>
+        <MapText Code="Sumbolai Pt." Color="2" NameEng="Sumbolai Pt." NameRus="Сумболаи Пт." X="271432" Y="240228" Type="1"/>
+        <MapText Code="Turovilu" Color="1" NameEng="Turovilu" NameRus="Туровилу" X="263081" Y="256582" Type="1"/>
+        <MapText Code="Beagle Channel" Color="16" NameEng="Beagle Channel" NameRus="Беагле Чаннел" X="262354" Y="255357" Type="1"/>
+        <MapText Code="Woi" Color="1" NameEng="Woi" NameRus="Wои" X="258890" Y="242425" Type="1"/>
+        <MapText Code="Kundurumbangara Pt." Color="2" NameEng="Kundurumbangara Pt." NameRus="Кундурумбангара Пт." X="287797" Y="262378" Type="1"/>
+        <MapText Code="Lamu" Color="17" NameEng="Lamu" NameRus="Ламу" X="156705" Y="402272" Type="1"/>
+        <MapText Code="Bakatang" Color="17" NameEng="Bakatang" NameRus="Бакатанг" X="163265" Y="417937" Type="1"/>
+        <MapText Code="Marora" Color="17" NameEng="Marora" NameRus="Марора" X="165164" Y="400242" Type="1"/>
+        <MapText Code="Oriai" Color="17" NameEng="Oriai" NameRus="Ориаи" X="172035" Y="386517" Type="1"/>
+        <MapText Code="Tarago" Color="17" NameEng="Tarago" NameRus="Тараго" X="173633" Y="369310" Type="1"/>
+        <MapText Code="Akg" Color="17" NameEng="Akg" NameRus="Акг" X="147913" Y="358467" Type="1"/>
+        <MapText Code="Aitara" Color="17" NameEng="Aitara" NameRus="Аитара" X="130186" Y="368989" Type="1"/>
+        <MapText Code="Mamagota" Color="17" NameEng="Mamagota" NameRus="Мамагота" X="137381" Y="365285" Type="1"/>
+        <MapText Code="Tokuaka" Color="17" NameEng="Tokuaka" NameRus="Токуака" X="157428" Y="355305" Type="1"/>
+        <MapText Code="Matupina" Color="17" NameEng="Matupina" NameRus="Матупина" X="111209" Y="391382" Type="1"/>
+        <MapText Code="Moisuru Bay" Color="16" NameEng="Moisuru Bay" NameRus="Моисуру Баы" X="184562" Y="363962" Type="1"/>
+        <MapText Code="Lahala Lake" Color="16" NameEng="Lahala Lake" NameRus="Лахала Лаке" X="195275" Y="373114" Type="1"/>
+        <MapText Code="Torau Bay" Color="16" NameEng="Torau Bay" NameRus="Торау Баы" X="196606" Y="381098" Type="1"/>
+        <MapText Code="Mawaraka" Color="17" NameEng="Mawaraka" NameRus="Маwарака" X="116403" Y="391290" Type="1"/>
+        <MapText Code="Aupakapani" Color="17" NameEng="Aupakapani" NameRus="Аупакапани" X="116957" Y="392637" Type="1"/>
+        <MapText Code="Modionu" Color="17" NameEng="Modionu" NameRus="Модиону" X="118340" Y="409283" Type="1"/>
+        <MapText Code="Jaba No. 2" Color="17" NameEng="Jaba No. 2" NameRus="Яба Но. 2" X="116279" Y="403658" Type="1"/>
+        <MapText Code="Laruma Pt." Color="2" NameEng="Laruma Pt." NameRus="Ларума Пт." X="89203" Y="426609" Type="1"/>
+        <MapText Code="Mapeka" Color="17" NameEng="Mapeka" NameRus="Мапека" X="118775" Y="398148" Type="1"/>
+        <MapText Code="Tavera" Color="17" NameEng="Tavera" NameRus="Тавера" X="117812" Y="396194" Type="1"/>
+        <MapText Code="Rorovana Bay" Color="16" NameEng="Rorovana Bay" NameRus="Рорована Баы" X="147875" Y="429856" Type="1"/>
+        <MapText Code="Tunuru" Color="17" NameEng="Tunuru" NameRus="Тунуру" X="152850" Y="425485" Type="1"/>
+        <MapText Code="Cape Puipui" Color="2" NameEng="Cape Puipui" NameRus="Cапе Пуипуи" X="152784" Y="428308" Type="1"/>
+        <MapText Code="Igua" Color="17" NameEng="Igua" NameRus="Игуа" X="186024" Y="399972" Type="1"/>
+        <MapText Code="Toboroi Bay" Color="16" NameEng="Toboroi Bay" NameRus="Тоборои Баы" X="167245" Y="420593" Type="1"/>
+        <MapText Code="Shishigatero" Color="17" NameEng="Shishigatero" NameRus="Шишигатеро" X="151452" Y="364098" Type="1"/>
+        <MapText Code="Ruse" Color="17" NameEng="Ruse" NameRus="Русе" X="146376" Y="366837" Type="1"/>
+        <MapText Code="Sikiomoni" Color="17" NameEng="Sikiomoni" NameRus="Сикиомони" X="151484" Y="386692" Type="1"/>
+        <MapText Code="Morokiamori" Color="17" NameEng="Morokiamori" NameRus="Морокиамори" X="152274" Y="377614" Type="1"/>
+        <MapText Code="Musakaka" Color="17" NameEng="Musakaka" NameRus="Мусакака" X="148258" Y="368613" Type="1"/>
+        <MapText Code="Matatasi" Color="17" NameEng="Matatasi" NameRus="Мататаси" X="150030" Y="371587" Type="1"/>
+        <MapText Code="Ilari" Color="17" NameEng="Ilari" NameRus="Илари" X="143368" Y="368082" Type="1"/>
+        <MapText Code="Manotti Mission" Color="17" NameEng="Manotti Mission" NameRus="Манотти Миссион" X="142274" Y="370664" Type="1"/>
+        <MapText Code="Tumu" Color="17" NameEng="Tumu" NameRus="Туму" X="139208" Y="370438" Type="1"/>
+        <MapText Code="Napana" Color="17" NameEng="Napana" NameRus="Напана" X="145547" Y="372762" Type="1"/>
+        <MapText Code="Imio" Color="17" NameEng="Imio" NameRus="Имио" X="143995" Y="371656" Type="1"/>
+        <MapText Code="Tono" Color="17" NameEng="Tono" NameRus="Тоно" X="144111" Y="374480" Type="1"/>
+        <MapText Code="Kongara" Color="17" NameEng="Kongara" NameRus="Конгара" X="125021" Y="383832" Type="1"/>
+        <MapText Code="Mosigetta" Color="17" NameEng="Mosigetta" NameRus="Мосигетта" X="129018" Y="387448" Type="1"/>
+        <MapText Code="Mievo" Color="17" NameEng="Mievo" NameRus="Миево" X="128959" Y="389130" Type="1"/>
+        <MapText Code="Birosi" Color="17" NameEng="Birosi" NameRus="Бироси" X="133103" Y="388978" Type="1"/>
+        <MapText Code="Sovele" Color="17" NameEng="Sovele" NameRus="Совеле" X="133397" Y="392760" Type="1"/>
+        <MapText Code="Mosiwana" Color="17" NameEng="Mosiwana" NameRus="Мосиwана" X="123094" Y="394514" Type="1"/>
+        <MapText Code="Brink Base" Color="17" NameEng="Brink Base" NameRus="Бринк Басе" X="122187" Y="404456" Type="1"/>
+        <MapText Code="Kupon" Color="17" NameEng="Kupon" NameRus="Купон" X="126516" Y="404675" Type="1"/>
+        <MapText Code="Perei" Color="17" NameEng="Perei" NameRus="Переи" X="130798" Y="405785" Type="1"/>
+        <MapText Code="Nioitan" Color="17" NameEng="Nioitan" NameRus="Ниоитан" X="125901" Y="403057" Type="1"/>
+        <MapText Code="Mosina" Color="17" NameEng="Mosina" NameRus="Мосина" X="126685" Y="400477" Type="1"/>
+        <MapText Code="Warapa" Color="17" NameEng="Warapa" NameRus="Wарапа" X="127377" Y="396917" Type="1"/>
+        <MapText Code="Sisiruai" Color="17" NameEng="Sisiruai" NameRus="Сисируаи" X="128254" Y="394669" Type="1"/>
+        <MapText Code="Pobokara" Color="17" NameEng="Pobokara" NameRus="Побокара" X="136355" Y="412856" Type="1"/>
+        <MapText Code="Angau" Color="17" NameEng="Angau" NameRus="Ангау" X="98487" Y="428530" Type="1"/>
+        <MapText Code="Piaterapaia" Color="17" NameEng="Piaterapaia" NameRus="Пиатерапаиа" X="107950" Y="440765" Type="1"/>
+        <MapText Code="Tokorerapaia" Color="17" NameEng="Tokorerapaia" NameRus="Токорерапаиа" X="111858" Y="446739" Type="1"/>
+        <MapText Code="Kuravo" Color="17" NameEng="Kuravo" NameRus="Кураво" X="104041" Y="446691" Type="1"/>
+        <MapText Code="Mantai" Color="17" NameEng="Mantai" NameRus="Мантаи" X="138717" Y="435798" Type="1"/>
+        <MapText Code="Borora Bay" Color="16" NameEng="Borora Bay" NameRus="Борора Баы" X="136562" Y="449333" Type="1"/>
+        <MapText Code="Teperoi" Color="17" NameEng="Teperoi" NameRus="Теперои" X="132857" Y="451186" Type="1"/>
+        <MapText Code="Tiaraka" Color="17" NameEng="Tiaraka" NameRus="Тиарака" X="114182" Y="462871" Type="1"/>
+        <MapText Code="Kombun Mission" Color="17" NameEng="Kombun Mission" NameRus="Комбун Миссион" X="112072" Y="471248" Type="1"/>
+        <MapText Code="Tianan" Color="17" NameEng="Tianan" NameRus="Тианан" X="107876" Y="478758" Type="1"/>
+        <MapText Code="Sumi" Color="17" NameEng="Sumi" NameRus="Суми" X="86657" Y="496108" Type="1"/>
+        <MapText Code="Amun" Color="17" NameEng="Amun" NameRus="Амун" X="67660" Y="451188" Type="1"/>
+        <MapText Code="Kiakara" Color="17" NameEng="Kiakara" NameRus="Киакара" X="64257" Y="476863" Type="1"/>
+        <MapText Code="Konua Plantation" Color="17" NameEng="Konua Plantation" NameRus="Конуа Плантатион" X="62848" Y="481694" Type="1"/>
+        <MapText Code="Rukussia" Color="17" NameEng="Rukussia" NameRus="Рукуссиа" X="64518" Y="485902" Type="1"/>
+        <MapText Code="Pupo" Color="17" NameEng="Pupo" NameRus="Пупо" X="65051" Y="487654" Type="1"/>
+        <MapText Code="Rupi Bay" Color="16" NameEng="Rupi Bay" NameRus="Рупи Баы" X="74078" Y="500290" Type="1"/>
+        <MapText Code="Baniu Bay" Color="16" NameEng="Baniu Bay" NameRus="Баниу Баы" X="80956" Y="495722" Type="1"/>
+        <MapText Code="Chinatown" Color="17" NameEng="Chinatown" NameRus="Чинатоwн" X="56954" Y="506419" Type="1"/>
+        <MapText Code="Karsorila" Color="17" NameEng="Karsorila" NameRus="Карсорила" X="50831" Y="509871" Type="1"/>
+        <MapText Code="Skotolan Mission" Color="17" NameEng="Skotolan Mission" NameRus="Скотолан Миссион" X="47245" Y="519998" Type="1"/>
+        <MapText Code="Hangan" Color="17" NameEng="Hangan" NameRus="Ханган" X="58954" Y="512400" Type="1"/>
+        <MapText Code="Henpan" Color="17" NameEng="Henpan" NameRus="Хенпан" X="52642" Y="552852" Type="1"/>
+        <MapText Code="Mt. Tarukan" Color="15" NameEng="Mt. Tarukan" NameRus="Мт. Тарукан" X="159072" Y="395464" Type="1"/>
+        <MapText Code="Mt. Veve" Color="15" NameEng="Mt. Veve" NameRus="Мт. Веве" X="317401" Y="237229" Type="1"/>
+        <MapText Code="Puruata" Color="1" NameEng="Puruata" NameRus="Пуруата" X="97131" Y="420210" Type="1"/>
+        <MapText Code="Puruata" Color="17" NameEng="Puruata" NameRus="Пуруата" X="98011" Y="420862" Type="1"/>
+        <MapText Code="Falamai" Color="17" NameEng="Falamai" NameRus="Фаламаи" X="156074" Y="297174" Type="1"/>
+        <MapText Code="Malsi" Color="17" NameEng="Malsi" NameRus="Малси" X="158826" Y="302343" Type="1"/>
+        <MapText Code="Soanotalo" Color="17" NameEng="Soanotalo" NameRus="Соанотало" X="153765" Y="304054" Type="1"/>
+        <MapText Code="Nukiki" Color="17" NameEng="Nukiki" NameRus="Нукики" X="249708" Y="365660" Type="1"/>
+        <MapText Code="Voza" Color="17" NameEng="Voza" NameRus="Воза" X="271866" Y="351536" Type="1"/>
+        <MapText Code="Vagara" Color="17" NameEng="Vagara" NameRus="Вагара" X="275510" Y="347494" Type="1"/>
+        <MapText Code="Sangigai" Color="17" NameEng="Sangigai" NameRus="Сангигаи" X="277098" Y="344278" Type="1"/>
+        <MapText Code="West Cape" Color="2" NameEng="West Cape" NameRus="Wест Cапе" X="241731" Y="375271" Type="1"/>
+        <MapText Code="Tsipotovo" Color="17" NameEng="Tsipotovo" NameRus="Ципотово" X="101104" Y="479280" Type="1"/>
+        <MapText Code="Kurahu" Color="17" NameEng="Kurahu" NameRus="Кураху" X="85820" Y="489613" Type="1"/>
+        <MapText Code="Atopapa" Color="17" NameEng="Atopapa" NameRus="Атопапа" X="81036" Y="450585" Type="1"/>
+        <MapText Code="Kerakopa" Color="17" NameEng="Kerakopa" NameRus="Керакопа" X="125062" Y="418210" Type="1"/>
+        <MapText Code="Kanovits" Color="17" NameEng="Kanovits" NameRus="Кановиц" X="135932" Y="425350" Type="1"/>
+        <MapText Code="Paiken" Color="17" NameEng="Paiken" NameRus="Паикен" X="121872" Y="425574" Type="1"/>
+        <MapText Code="Liapari" Color="1" NameEng="Liapari" NameRus="Лиапари" X="279501" Y="241653" Type="1"/>
+        <MapText Code="Mt. Tirokiambo" Color="15" NameEng="Mt. Tirokiambo" NameRus="Мт. Тирокиамбо" X="337535" Y="206641" Type="1"/>
+        <MapText Code="Mt. Boo" Color="15" NameEng="Mt. Boo" NameRus="Мт. Боо" X="339772" Y="205934" Type="1"/>
+        <MapText Code="Piru Plantation" Color="17" NameEng="Piru Plantation" NameRus="Пиру Плантатион" X="331502" Y="206124" Type="1"/>
+        <MapText Code="Ringi Cove" Color="16" NameEng="Ringi Cove" NameRus="Ринги Cове" X="321524" Y="220058" Type="1"/>
+        <MapText Code="Buretoni Mission" Color="17" NameEng="Buretoni Mission" NameRus="Буретони Миссион" X="98629" Y="420560" Type="1"/>
+        <MapText Code="Segi Pt." Color="2" NameEng="Segi Pt." NameRus="Сеги Пт." X="405615" Y="170976" Type="1"/>
+        <MapText Code="Maramasike Estuary" Color="16" NameEng="Maramasike Estuary" NameRus="Марамасике Естуары" X="782141" Y="80798" Type="1"/>
+        <MapText Code="Ballale (incomplete)" Color="0" NameEng="Ballale incomplete" NameRus="Баллале инcомплете" X="189886" Y="340754" Type="1"/>
+        <MapText Code="Rekata Bay SPB" Color="0" NameEng="Rekata Bay SPB" NameRus="Реката Баы СПБ" X="495821" Y="280609" Type="1"/>
+        <MapText Code="Buka" Color="0" NameEng="Buka" NameRus="Бука" X="57859" Y="508763" Type="1"/>
+        <MapText Code="Manob" Color="17" NameEng="Manob" NameRus="Маноб" X="61289" Y="508701" Type="1"/>
+        <MapText Code="Henderson" Color="0" NameEng="Henderson" NameRus="Хендерсон" X="639703" Y="80731" Type="1"/>
+        <MapText Code="Macampho" Color="17" NameEng="Macampho" NameRus="Маcампхо" X="168219" Y="366393" Type="1"/>
+        <MapText Code="Moro" Color="17" NameEng="Moro" NameRus="Моро" X="167156" Y="366957" Type="1"/>
+        <MapText Code="Tutupaia" Color="17" NameEng="Tutupaia" NameRus="Тутупаиа" X="108777" Y="457462" Type="1"/>
+        <MapText Code="Kukomaru" Color="17" NameEng="Kukomaru" NameRus="Кукомару" X="168479" Y="369317" Type="1"/>
+        <MapText Code="Baniu Plant." Color="17" NameEng="Baniu Plant." NameRus="Баниу Плант." X="79679" Y="496864" Type="1"/>
+        <MapText Code="Tinputs Plant." Color="17" NameEng="Tinputs Plant." NameRus="Тинпуц Плант." X="96382" Y="494082" Type="1"/>
+        <MapText Code="Tiop Plant." Color="17" NameEng="Tiop Plant." NameRus="Тиоп Плант." X="99609" Y="491376" Type="1"/>
+        <MapText Code="Nihus Plant." Color="17" NameEng="Nihus Plant." NameRus="Нихус Плант." X="111644" Y="475480" Type="1"/>
+        <MapText Code="Numanuna Plant." Color="17" NameEng="Numanuna Plant." NameRus="Нумануна Плант." X="130447" Y="452355" Type="1"/>
+        <MapText Code="LeGras Plant." Color="17" NameEng="LeGras Plant." NameRus="ЛеГрас Плант." X="136930" Y="447439" Type="1"/>
+        <MapText Code="Cape Lalahan" Color="2" NameEng="Cape Lalahan" NameRus="Cапе Лалахан" X="52042" Y="504555" Type="1"/>
+        <MapText Code="Taiof" Color="1" NameEng="Taiof" NameRus="Таиоф" X="56038" Y="497452" Type="1"/>
+        <MapText Code="Sesapi MTB Base" Color="17" NameEng="Sesapi MTB Base" NameRus="Сесапи МТБ Басе" X="650977" Y="115346" Type="1"/>
+        <MapText Code="Munda" Color="0" NameEng="Munda" NameRus="Мунда" X="337088" Y="198295" Type="1"/>
+        <MapText Code="&quot;Shantytown&quot;" Color="17" NameEng="&quot;Shantytown&quot;" NameRus="&quot;Шантытоwн&quot;" X="651427" Y="114837" Type="1"/>
+        <MapText Code="Halavo SPB" Color="0" NameEng="Halavo SPB" NameRus="Халаво СПБ" X="656264" Y="113538" Type="1"/>
+        <MapText Code="Cape Dunganon" Color="2" NameEng="Cape Dunganon" NameRus="Cапе Дунганон" X="41293" Y="540072" Type="1"/>
+        <MapText Code="Cape Kaputan" Color="2" NameEng="Cape Kaputan" NameRus="Cапе Капутан" X="58703" Y="544417" Type="1"/>
+        <MapText Code="Cape Putputan" Color="2" NameEng="Cape Putputan" NameRus="Cапе Путпутан" X="62540" Y="534364" Type="1"/>
+        <MapText Code="Yame" Color="1" NameEng="Yame" NameRus="Ыаме" X="44137" Y="520897" Type="1"/>
+        <MapText Code="Petat" Color="1" NameEng="Petat" NameRus="Петат" X="46145" Y="517018" Type="1"/>
+        <MapText Code="Tiop" Color="1" NameEng="Tiop" NameRus="Тиоп" X="102380" Y="492169" Type="1"/>
+        <MapText Code="Kieta" Color="17" NameEng="Kieta" NameRus="Киета" X="161808" Y="426073" Type="1"/>
+        <MapText Code="Toimonapu Bay" Color="16" NameEng="Toimonapu Bay" NameRus="Тоимонапу Баы" X="189364" Y="402989" Type="1"/>
+        <MapText Code="Puk Puk" Color="1" NameEng="Puk Puk" NameRus="Пук Пук" X="165507" Y="425164" Type="1"/>
+        <MapText Code="East Pt." Color="2" NameEng="East Pt." NameRus="Еаст Пт." X="192823" Y="360409" Type="1"/>
+        <MapText Code="Gazelle Hbr." Color="16" NameEng="Gazelle Hbr." NameRus="Газелле Хбр." X="114250" Y="392105" Type="1"/>
+        <MapText Code="Cape Friendship" Color="2" NameEng="Cape Friendship" NameRus="Cапе Фриендшип" X="198897" Y="370899" Type="1"/>
+        <MapText Code="Cape Moltke" Color="2" NameEng="Cape Moltke" NameRus="Cапе Молтке" X="73590" Y="444045" Type="1"/>
+        <MapText Code="Orlofe" Color="1" NameEng="Orlofe" NameRus="Орлофе" X="190171" Y="331314" Type="1"/>
+        <MapText Code="Onua" Color="1" NameEng="Onua" NameRus="Онуа" X="190955" Y="331471" Type="1"/>
+        <MapText Code="Vila (incomplete)" Color="0" NameEng="Vila incomplete" NameRus="Вила инcомплете" X="325367" Y="219777" Type="1"/>
+        <MapText Code="Poporang" Color="1" NameEng="Poporang" NameRus="Попоранг" X="188372" Y="329798" Type="1"/>
+        <MapText Code="Kulitunai Bay" Color="16" NameEng="Kulitunai Bay" NameRus="Кулитунаи Баы" X="185503" Y="328712" Type="1"/>
+        <MapText Code="Pirumeri Pt." Color="2" NameEng="Pirumeri Pt." NameRus="Пирумери Пт." X="190164" Y="329774" Type="1"/>
+        <MapText Code="Mrs. Scott Plant." Color="17" NameEng="Mrs. Scott Plant." NameRus="Мрс. Сcотт Плант." X="188590" Y="327706" Type="1"/>
+        <MapText Code="Bambagiai Plant." Color="17" NameEng="Bambagiai Plant." NameRus="Бамбагиаи Плант." X="184751" Y="330495" Type="1"/>
+        <MapText Code="Lofung Plant." Color="17" NameEng="Lofung Plant." NameRus="Лофунг Плант." X="185701" Y="332307" Type="1"/>
+        <MapText Code="Paralanga Wharf" Color="17" NameEng="Paralanga Wharf" NameRus="Параланга Wхарф" X="186875" Y="333480" Type="1"/>
+        <MapText Code="Nggela" Color="1" NameEng="Nggela" NameRus="Нггела" X="659031" Y="119803" Type="1"/>
+        <MapText Code="Nila SPB" Color="0" NameEng="Nila SPB" NameRus="Нила СПБ" X="187425" Y="330360" Type="1"/>
+        <MapText Code="Kokorana" Color="1" NameEng="Kokorana" NameRus="Кокорана" X="346671" Y="190974" Type="1"/>
+        <MapText Code="Bau" Color="1" NameEng="Bau" NameRus="Бау" X="344481" Y="190987" Type="1"/>
+        <MapText Code="Suicide Pt." Color="2" NameEng="Suicide Pt." NameRus="Суиcиде Пт." X="347188" Y="190346" Type="1"/>
+        <MapText Code="Pau" Color="1" NameEng="Pau" NameRus="Пау" X="342959" Y="190843" Type="1"/>
+        <MapText Code="Lumbari" Color="1" NameEng="Lumbari" NameRus="Лумбари" X="341702" Y="190384" Type="1"/>
+        <MapText Code="Gizo SPB" Color="0" NameEng="Gizo SPB" NameRus="Гизо СПБ" X="293193" Y="222306" Type="1"/>
+        <MapText Code="Tenamba River" Color="18" NameEng="Tenamba River" NameRus="Тенамба Ривер" X="606678" Y="95030" Type="1"/>
+        <MapText Code="Segilau River" Color="18" NameEng="Segilau River" NameRus="Сегилау Ривер" X="614646" Y="89154" Type="1"/>
+        <MapText Code="Tambalego River" Color="18" NameEng="Tambalego River" NameRus="Тамбалего Ривер" X="615871" Y="88039" Type="1"/>
+        <MapText Code="Urasamai River" Color="18" NameEng="Urasamai River" NameRus="Урасамаи Ривер" X="618086" Y="86514" Type="1"/>
+        <MapText Code="Bonegi River" Color="18" NameEng="Bonegi River" NameRus="Бонеги Ривер" X="619595" Y="84416" Type="1"/>
+        <MapText Code="Nueha River" Color="18" NameEng="Nueha River" NameRus="Нуеха Ривер" X="620709" Y="82861" Type="1"/>
+        <MapText Code="Poha River" Color="18" NameEng="Poha River" NameRus="Поха Ривер" X="622913" Y="79546" Type="1"/>
+        <MapText Code="Matanikau River" Color="18" NameEng="Matanikau River" NameRus="Матаникау Ривер" X="630655" Y="78041" Type="1"/>
+        <MapText Code="Lunga River" Color="18" NameEng="Lunga River" NameRus="Лунга Ривер" X="639215" Y="78044" Type="1"/>
+        <MapText Code="Tenaru River" Color="18" NameEng="Tenaru River" NameRus="Тенару Ривер" X="644653" Y="78793" Type="1"/>
+        <MapText Code="Nalimbiu River" Color="18" NameEng="Nalimbiu River" NameRus="Налимбиу Ривер" X="650634" Y="80142" Type="1"/>
+        <MapText Code="Gurabasa River" Color="18" NameEng="Gurabasa River" NameRus="Гурабаса Ривер" X="683052" Y="71283" Type="1"/>
+        <MapText Code="Berunde River" Color="18" NameEng="Berunde River" NameRus="Берунде Ривер" X="665936" Y="79265" Type="1"/>
+        <MapText Code="Bokokimbo River" Color="18" NameEng="Bokokimbo River" NameRus="Бококимбо Ривер" X="674736" Y="79039" Type="1"/>
+        <MapText Code="Barike River" Color="18" NameEng="Barike River" NameRus="Барике Ривер" X="343719" Y="200278" Type="1"/>
+        <MapText Code="Alligator Creek" Color="18" NameEng="Alligator Creek" NameRus="Аллигатор Cреек" X="642690" Y="79997" Type="1"/>
+        <MapText Code="Piva River" Color="18" NameEng="Piva River" NameRus="Пива Ривер" X="104131" Y="423013" Type="1"/>
+        <MapText Code="Torikina River" Color="18" NameEng="Torikina River" NameRus="Торикина Ривер" X="110365" Y="419992" Type="1"/>
+        <MapText Code="Kokengola" Color="15" NameEng="Kokengola" NameRus="Кокенгола" X="337526" Y="198423" Type="1"/>
+        <MapText Code="Nudha" Color="1" NameEng="Nudha" NameRus="Нудха" X="721322" Y="69102" Type="1"/>
+        <MapText Code="Ilangana Pt." Color="2" NameEng="Ilangana Pt." NameRus="Илангана Пт." X="341280" Y="196837" Type="1"/>
+        <MapText Code="Onaiavisi Entrance" Color="16" NameEng="Onaiavisi Entrance" NameRus="Онаиависи Ентранcе" X="348246" Y="199066" Type="1"/>
+        <MapText Code="Roviana Lagoon" Color="16" NameEng="Roviana Lagoon" NameRus="Ровиана Лагоон" X="344235" Y="198531" Type="1"/>
+        <MapText Code="Munda Pt." Color="2" NameEng="Munda Pt." NameRus="Мунда Пт." X="336552" Y="197770" Type="1"/>
+        <MapText Code="Tunguirili Pt." Color="2" NameEng="Tunguirili Pt." NameRus="Тунгуирили Пт." X="333123" Y="213587" Type="1"/>
+        <MapText Code="Boli Pt." Color="2" NameEng="Boli Pt." NameRus="Боли Пт." X="353456" Y="235242" Type="1"/>
+        <MapText Code="Baanga" Color="1" NameEng="Baanga" NameRus="Баанга" X="333589" Y="201632" Type="1"/>
+        <MapText Code="Munda Bar" Color="16" NameEng="Munda Bar" NameRus="Мунда Бар" X="335009" Y="194745" Type="1"/>
+        <MapText Code="Vanga Pt." Color="2" NameEng="Vanga Pt." NameRus="Ванга Пт." X="305031" Y="244747" Type="1"/>
+        <MapText Code="Boko Pt." Color="2" NameEng="Boko Pt." NameRus="Боко Пт." X="287670" Y="259413" Type="1"/>
+        <MapText Code="Gill&apos;s Plantation" Color="17" NameEng="Gill&apos;s Plantation" NameRus="ГиллЬс Плантатион" X="280704" Y="252379" Type="1"/>
+        <MapText Code="Sandfly Harbor" Color="16" NameEng="Sandfly Harbor" NameRus="Сандфлы Харбор" X="303091" Y="233875" Type="1"/>
+        <MapText Code="Wilson Cove" Color="16" NameEng="Wilson Cove" NameRus="Wилсон Cове" X="304167" Y="229705" Type="1"/>
+        <MapText Code="USN Fleet Anchorage" Color="16" NameEng="USN Fleet Anchorage" NameRus="УСН Флеет Анчораге" X="661319" Y="109319" Type="1"/>
+        <MapText Code="IJN Fleet HQ" Color="17" NameEng="IJN Fleet HQ" NameRus="ИЙН Флеет ХQ" X="187783" Y="331629" Type="1"/>
+        <MapText Code="IJN Fleet Anchorage" Color="16" NameEng="IJN Fleet Anchorage" NameRus="ИЙН Флеет Анчораге" X="186748" Y="331548" Type="1"/>
+        <MapText Code="IJN Fleet Anchorage" Color="16" NameEng="IJN Fleet Anchorage" NameRus="ИЙН Флеет Анчораге" X="184678" Y="362542" Type="1"/>
+        <MapText Code="Maranusa II" Color="17" NameEng="Maranusa II" NameRus="Марануса ИИ" X="341387" Y="213990" Type="1"/>
+        <MapText Code="Triri" Color="17" NameEng="Triri" NameRus="Трири" X="341855" Y="213237" Type="1"/>
+        <MapText Code="Maranusa I" Color="17" NameEng="Maranusa I" NameRus="Марануса И" X="343253" Y="212912" Type="1"/>
+        <MapText Code="Toko" Color="17" NameEng="Toko" NameRus="Токо" X="122386" Y="377544" Type="1"/>
+        <MapText Code="Kindai" Color="17" NameEng="Kindai" NameRus="Киндаи" X="136063" Y="374565" Type="1"/>
+        <MapText Code="Horinu 2" Color="17" NameEng="Horinu 2" NameRus="Хорину 2" X="131570" Y="382096" Type="1"/>
+        <MapText Code="Horinu 3" Color="17" NameEng="Horinu 3" NameRus="Хорину 3" X="130022" Y="381127" Type="1"/>
+        <MapText Code="Barara" Color="17" NameEng="Barara" NameRus="Барара" X="125341" Y="382200" Type="1"/>
+        <MapText Code="Tokinotu" Color="17" NameEng="Tokinotu" NameRus="Токиноту" X="127915" Y="380373" Type="1"/>
+        <MapText Code="Nihero" Color="17" NameEng="Nihero" NameRus="Нихеро" X="132884" Y="382618" Type="1"/>
+        <MapText Code="Hiru Hiru" Color="17" NameEng="Hiru Hiru" NameRus="Хиру Хиру" X="128995" Y="379924" Type="1"/>
+        <MapText Code="Hatai" Color="17" NameEng="Hatai" NameRus="Хатаи" X="130972" Y="381328" Type="1"/>
+        <MapText Code="Boku" Color="17" NameEng="Boku" NameRus="Боку" X="130557" Y="386577" Type="1"/>
+        <MapText Code="Makaku" Color="17" NameEng="Makaku" NameRus="Макаку" X="122328" Y="381791" Type="1"/>
+        <MapText Code="Makatowa" Color="17" NameEng="Makatowa" NameRus="Макатоwа" X="117793" Y="391594" Type="1"/>
+        <MapText Code="Oso" Color="17" NameEng="Oso" NameRus="Осо" X="136071" Y="375634" Type="1"/>
+        <MapText Code="Rumiki" Color="17" NameEng="Rumiki" NameRus="Румики" X="132200" Y="381332" Type="1"/>
+        <MapText Code="Sinanai" Color="17" NameEng="Sinanai" NameRus="Синанаи" X="132716" Y="381841" Type="1"/>
+        <MapText Code="Runai" Color="17" NameEng="Runai" NameRus="Рунаи" X="137232" Y="373025" Type="1"/>
+        <MapText Code="Unanai" Color="17" NameEng="Unanai" NameRus="Унанаи" X="138408" Y="372961" Type="1"/>
+        <MapText Code="Matsunkai" Color="17" NameEng="Matsunkai" NameRus="Мацункаи" X="117915" Y="382914" Type="1"/>
+        <MapText Code="Hongorai River" Color="18" NameEng="Hongorai River" NameRus="Хонгораи Ривер" X="132969" Y="370649" Type="1"/>
+        <MapText Code="Puriata River" Color="18" NameEng="Puriata River" NameRus="Пуриата Ривер" X="123962" Y="379248" Type="1"/>
+        <MapText Code="Stima Peninsula" Color="1" NameEng="Stima Peninsula" NameRus="Стима Пенинсула" X="326787" Y="217014" Type="1"/>
+        <MapText Code="Bustling Pt." Color="2" NameEng="Bustling Pt." NameRus="Бустлинг Пт." X="318525" Y="215195" Type="1"/>
+        <MapText Code="Bomboe Peninsula" Color="1" NameEng="Bomboe Peninsula" NameRus="Бомбое Пенинсула" X="317012" Y="217760" Type="1"/>
+        <MapText Code="Stima Lagoon" Color="16" NameEng="Stima Lagoon" NameRus="Стима Лагоон" X="329893" Y="213625" Type="1"/>
+        <MapText Code="Kara Mission" Color="17" NameEng="Kara Mission" NameRus="Кара Миссион" X="168559" Y="367901" Type="1"/>
+        <MapText Code="Fighter No. 1" Color="0" NameEng="Fighter No. 1" NameRus="Фигхтер Но. 1" X="642098" Y="79431" Type="1"/>
+        <MapText Code="Fighter No. 2" Color="0" NameEng="Fighter No. 2" NameRus="Фигхтер Но. 2" X="636279" Y="79535" Type="1"/>
+        <MapText Code="IJN Fleet Anchorage" Color="16" NameEng="IJN Fleet Anchorage" NameRus="ИЙН Флеет Анчораге" X="163629" Y="424038" Type="1"/>
+        <MapText Code="Faisi" Color="1" NameEng="Faisi" NameRus="Фаиси" X="187933" Y="331973" Type="1"/>
+        <MapText Code="Gurasi" Color="17" NameEng="Gurasi" NameRus="Гураси" X="336981" Y="198585" Type="1"/>
+        <MapText Code="Leland Lagoon" Color="16" NameEng="Leland Lagoon" NameRus="Леланд Лагоон" X="339778" Y="213473" Type="1"/>
+        <MapText Code="Loun" Color="1" NameEng="Loun" NameRus="Лоун" X="553186" Y="113464" Type="1"/>
+        <MapText Code="Phillips Peninsula" Color="16" NameEng="Phillips Peninsula" NameRus="Пхиллипс Пенинсула" X="662381" Y="107373" Type="1"/>
+        <MapText Code="Torikina" Color="1" NameEng="Torikina" NameRus="Торикина" X="97703" Y="419922" Type="1"/>
+        <MapText Code="Cape Torikina" Color="2" NameEng="Cape Torikina" NameRus="Cапе Торикина" X="97335" Y="419082" Type="1"/>
+        <MapText Code="Lanvie Pt." Color="2" NameEng="Lanvie Pt." NameRus="Ланвие Пт." X="681018" Y="29443" Type="1"/>
+        <MapText Code="Wanderer Bay" Color="16" NameEng="Wanderer Bay" NameRus="Wандерер Баы" X="603369" Y="51947" Type="1"/>
+        <MapText Code="Cape Beaufort" Color="2" NameEng="Cape Beaufort" NameRus="Cапе Беауфорт" X="597305" Y="57394" Type="1"/>
+        <MapText Code="West Cape" Color="2" NameEng="West Cape" NameRus="Wест Cапе" X="589509" Y="71024" Type="1"/>
+        <MapText Code="Susu Pt." Color="2" NameEng="Susu Pt." NameRus="Сусу Пт." X="697841" Y="67294" Type="1"/>
+        <MapText Code="Itina River" Color="18" NameEng="Itina River" NameRus="Итина Ривер" X="617768" Y="42173" Type="1"/>
+        <MapText Code="Cheke Pt." Color="2" NameEng="Cheke Pt." NameRus="Чеке Пт." X="423936" Y="154362" Type="1"/>
+        <MapText Code="Cape Austen" Color="2" NameEng="Cape Austen" NameRus="Cапе Аустен" X="603153" Y="49265" Type="1"/>
+        <MapText Code="Mbolanda  Bay" Color="16" NameEng="Mbolanda Bay" NameRus="Мболанда Баы" X="622273" Y="40388" Type="1"/>
+        <MapText Code="Lambi  Bay" Color="16" NameEng="Lambi Bay" NameRus="Ламби Баы" X="589453" Y="82635" Type="1"/>
+        <MapText Code="Tavanipupu" Color="1" NameEng="Tavanipupu" NameRus="Таванипупу" X="727372" Y="35786" Type="1"/>
+        <MapText Code="Togona Pt." Color="2" NameEng="Togona Pt." NameRus="Тогона Пт." X="656689" Y="82460" Type="1"/>
+        <MapText Code="Lengo Channel" Color="16" NameEng="Lengo Channel" NameRus="Ленго Чаннел" X="672227" Y="84460" Type="1"/>
+        <MapText Code="Nggela Channel" Color="16" NameEng="Nggela Channel" NameRus="Нггела Чаннел" X="669986" Y="99762" Type="1"/>
+        <MapText Code="Otua" Color="1" NameEng="Otua" NameRus="Отуа" X="199182" Y="397326" Type="1"/>
+        <MapText Code="Mavavia" Color="17" NameEng="Mavavia" NameRus="Мававиа" X="112237" Y="417497" Type="1"/>
+        <MapText Code="Tambugu" Color="17" NameEng="Tambugu" NameRus="Тамбугу" X="593137" Y="73472" Type="1"/>
+        <MapText Code="Lunga Roads" Color="16" NameEng="Lunga Roads" NameRus="Лунга Роадс" X="633942" Y="81721" Type="1"/>
+        <MapText Code="Tasimboko Bay" Color="16" NameEng="Tasimboko Bay" NameRus="Тасимбоко Баы" X="668739" Y="82397" Type="1"/>
+        <MapText Code="Esolorando Pt." Color="2" NameEng="Esolorando Pt." NameRus="Есолорандо Пт." X="278028" Y="237399" Type="1"/>
+        <MapText Code="Ramos" Color="1" NameEng="Ramos" NameRus="Рамос" X="655345" Y="205697" Type="1"/>
+        <MapText Code="Maluu Mission" Color="17" NameEng="Maluu Mission" NameRus="Малуу Миссион" X="701332" Y="195891" Type="1"/>
+        <MapText Code="Loina Mission" Color="17" NameEng="Loina Mission" NameRus="Лоина Миссион" X="711152" Y="192264" Type="1"/>
+        <MapText Code="Leila" Color="1" NameEng="Leila" NameRus="Леила" X="745902" Y="152663" Type="1"/>
+        <MapText Code="Ariel Hbr.;" Color="16" NameEng="Ariel Hbr." NameRus="Ариел Хбр." X="796188" Y="54079" Type="1"/>
+        <MapText Code="Bina Hbr." Color="16" NameEng="Bina Hbr." NameRus="Бина Хбр." X="716760" Y="130460" Type="1"/>
+        <MapText Code="Alita Hbr." Color="16" NameEng="Alita Hbr." NameRus="Алита Хбр." X="716335" Y="132116" Type="1"/>
+        <MapText Code="Ndai" Color="1" NameEng="Ndai" NameRus="Ндаи" X="702625" Y="243172" Type="1"/>
+        <MapText Code="Cape Arsacides" Color="2" NameEng="Cape Arsacides" NameRus="Cапе Арсаcидес" X="743951" Y="162192" Type="1"/>
+        <MapText Code="Ala&apos;a Cove" Color="16" NameEng="Ala&apos;a Cove" NameRus="АлаЬа Cове" X="734398" Y="174129" Type="1"/>
+        <MapText Code="Barilini" Color="1" NameEng="Barilini" NameRus="Барилини" X="334294" Y="199737" Type="1"/>
+        <MapText Code="Nusalanga" Color="1" NameEng="Nusalanga" NameRus="Нусаланга" X="335814" Y="197975" Type="1"/>
+        <MapText Code="Hobupika" Color="1" NameEng="Hobupika" NameRus="Хобупика" X="336919" Y="197669" Type="1"/>
+        <MapText Code="Kokakate" Color="1" NameEng="Kokakate" NameRus="Кокакате" X="339114" Y="197408" Type="1"/>
+        <MapText Code="Kilivira" Color="1" NameEng="Kilivira" NameRus="Киливира" X="340065" Y="197473" Type="1"/>
+        <MapText Code="Kangasopu Bay" Color="16" NameEng="Kangasopu Bay" NameRus="Кангасопу Баы" X="342292" Y="198435" Type="1"/>
+        <MapText Code="Western Entrance" Color="16" NameEng="Western Entrance" NameRus="Wестерн Ентранcе" X="338180" Y="196613" Type="1"/>
+        <MapText Code="Nusalavata" Color="1" NameEng="Nusalavata" NameRus="Нусалавата" X="334013" Y="195472" Type="1"/>
+        <MapText Code="Fatutihililuhe Pt." Color="2" NameEng="Fatutihililuhe Pt." NameRus="Фатутихилилухе Пт." X="331402" Y="202688" Type="1"/>
+        <MapText Code="Lola" Color="1" NameEng="Lola" NameRus="Лола" X="327916" Y="199977" Type="1"/>
+        <MapText Code="Kauuilinu" Color="1" NameEng="Kauuilinu" NameRus="Каууилину" X="325134" Y="200638" Type="1"/>
+        <MapText Code="Nasatunga" Color="1" NameEng="Nasatunga" NameRus="Насатунга" X="325750" Y="202952" Type="1"/>
+        <MapText Code="Wana Wana Lagoon" Color="16" NameEng="Wana Wana Lagoon" NameRus="Wана Wана Лагоон" X="327314" Y="201306" Type="1"/>
+        <MapText Code="Tatapuraka" Color="1" NameEng="Tatapuraka" NameRus="Татапурака" X="330187" Y="197970" Type="1"/>
+        <MapText Code="Paravoe Pt." Color="2" NameEng="Paravoe Pt." NameRus="Паравое Пт." X="321492" Y="206709" Type="1"/>
+        <MapText Code="Sabana" Color="17" NameEng="Sabana" NameRus="Сабана" X="311922" Y="211489" Type="1"/>
+        <MapText Code="Tirakeamea Hill" Color="15" NameEng="Tirakeamea Hill" NameRus="Тиракеамеа Хилл" X="338117" Y="206830" Type="1"/>
+        <MapText Code="Halingi" Color="17" NameEng="Halingi" NameRus="Халинги" X="320782" Y="214481" Type="1"/>
+        <MapText Code="Galugalu Pt." Color="2" NameEng="Galugalu Pt." NameRus="Галугалу Пт." X="329515" Y="215273" Type="1"/>
+        <MapText Code="Cutter Pt." Color="2" NameEng="Cutter Pt." NameRus="Cуттер Пт." X="330888" Y="207237" Type="1"/>
+        <MapText Code="Dokutu" Color="17" NameEng="Dokutu" NameRus="Докуту" X="330155" Y="207954" Type="1"/>
+        <MapText Code="Boe" Color="17" NameEng="Boe" NameRus="Бое" X="330483" Y="212305" Type="1"/>
+        <MapText Code="Lebu" Color="17" NameEng="Lebu" NameRus="Лебу" X="333405" Y="211574" Type="1"/>
+        <MapText Code="Sunday Inlet" Color="16" NameEng="Sunday Inlet" NameRus="Сундаы Инлет" X="333226" Y="211266" Type="1"/>
+        <MapText Code="Diamond Narrows" Color="16" NameEng="Diamond Narrows" NameRus="Диамонд Нарроwс" X="330764" Y="204904" Type="1"/>
+        <MapText Code="Teme Cove" Color="16" NameEng="Teme Cove" NameRus="Теме Cове" X="327460" Y="220455" Type="1"/>
+        <MapText Code="Naharhope Lagoon" Color="16" NameEng="Naharhope Lagoon" NameRus="Нахархопе Лагоон" X="331836" Y="212441" Type="1"/>
+        <MapText Code="Nusagana" Color="1" NameEng="Nusagana" NameRus="Нусагана" X="329999" Y="214021" Type="1"/>
+        <MapText Code="Kuikuli Pt." Color="2" NameEng="Kuikuli Pt." NameRus="Куикули Пт." X="325252" Y="218324" Type="1"/>
+        <MapText Code="Vila River" Color="18" NameEng="Vila River" NameRus="Вила Ривер" X="326377" Y="220865" Type="1"/>
+        <MapText Code="Parapatu Pt." Color="2" NameEng="Parapatu Pt." NameRus="Парапату Пт." X="330204" Y="222367" Type="1"/>
+        <MapText Code="Bimbui" Color="1" NameEng="Bimbui" NameRus="Бимбуи" X="330732" Y="225077" Type="1"/>
+        <MapText Code="Kape Hbr." Color="16" NameEng="Kape Hbr." NameRus="Капе Хбр." X="330726" Y="224047" Type="1"/>
+        <MapText Code="Lola Lagoon" Color="16" NameEng="Lola Lagoon" NameRus="Лола Лагоон" X="329643" Y="224361" Type="1"/>
+        <MapText Code="Bosua Pt." Color="2" NameEng="Bosua Pt." NameRus="Босуа Пт." X="331231" Y="234282" Type="1"/>
+        <MapText Code="Surumuni Cove" Color="16" NameEng="Surumuni Cove" NameRus="Сурумуни Cове" X="330761" Y="229276" Type="1"/>
+        <MapText Code="Bere Cove" Color="16" NameEng="Bere Cove" NameRus="Бере Cове" X="322878" Y="219131" Type="1"/>
+        <MapText Code="Vovoke Cove" Color="16" NameEng="Vovoke Cove" NameRus="Вовоке Cове" X="320363" Y="220695" Type="1"/>
+        <MapText Code="Sambira Pt." Color="2" NameEng="Sambira Pt." NameRus="Самбира Пт." X="317182" Y="220360" Type="1"/>
+        <MapText Code="Dolo Cove" Color="16" NameEng="Dolo Cove" NameRus="Доло Cове" X="315628" Y="221776" Type="1"/>
+        <MapText Code="Hunda Cove" Color="16" NameEng="Hunda Cove" NameRus="Хунда Cове" X="313108" Y="221441" Type="1"/>
+        <MapText Code="Alali" Color="17" NameEng="Alali" NameRus="Алали" X="314517" Y="221606" Type="1"/>
+        <MapText Code="Vari" Color="17" NameEng="Vari" NameRus="Вари" X="312988" Y="221981" Type="1"/>
+        <MapText Code="Kutsi" Color="17" NameEng="Kutsi" NameRus="Куци" X="315587" Y="222236" Type="1"/>
+        <MapText Code="Gugubo Lake" Color="16" NameEng="Gugubo Lake" NameRus="Гугубо Лаке" X="316216" Y="220996" Type="1"/>
+        <MapText Code="Naku" Color="17" NameEng="Naku" NameRus="Наку" X="331833" Y="203579" Type="1"/>
+        <MapText Code="Elelo" Color="17" NameEng="Elelo" NameRus="Елело" X="344852" Y="200153" Type="1"/>
+        <MapText Code="Enarano" Color="17" NameEng="Enarano" NameRus="Енарано" X="337799" Y="200202" Type="1"/>
+        <MapText Code="Tamba Tamba" Color="1" NameEng="Tamba Tamba" NameRus="Тамба Тамба" X="265094" Y="378121" Type="1"/>
+        <MapText Code="Kangapasa" Color="1" NameEng="Kangapasa" NameRus="Кангапаса" X="268770" Y="377434" Type="1"/>
+        <MapText Code="Sengra" Color="17" NameEng="Sengra" NameRus="Сенгра" X="324524" Y="330248" Type="1"/>
+        <MapText Code="Kirungela" Color="17" NameEng="Kirungela" NameRus="Кирунгела" X="343992" Y="312218" Type="1"/>
+        <MapText Code="Taura Bay" Color="16" NameEng="Taura Bay" NameRus="Таура Баы" X="375006" Y="303052" Type="1"/>
+        <MapText Code="Sand Cay" Color="1" NameEng="Sand Cay" NameRus="Санд Cаы" X="359164" Y="292701" Type="1"/>
+        <MapText Code="Clayton Pt." Color="2" NameEng="Clayton Pt." NameRus="Cлаытон Пт." X="450107" Y="279699" Type="1"/>
+        <MapText Code="Barrier" Color="1" NameEng="Barrier" NameRus="Барриер" X="473546" Y="264395" Type="1"/>
+        <MapText Code="Bero" Color="1" NameEng="Bero" NameRus="Беро" X="476660" Y="265053" Type="1"/>
+        <MapText Code="Nia Bay" Color="16" NameEng="Nia Bay" NameRus="Ниа Баы" X="480955" Y="280234" Type="1"/>
+        <MapText Code="Point Proslin" Color="2" NameEng="Point Proslin" NameRus="Поинт Прослин" X="449706" Y="297409" Type="1"/>
+        <MapText Code="Cape Comfort" Color="2" NameEng="Cape Comfort" NameRus="Cапе Cомфорт" X="439594" Y="302515" Type="1"/>
+        <MapText Code="Manning Strait" Color="16" NameEng="Manning Strait" NameRus="Маннинг Страит" X="425016" Y="296703" Type="1"/>
+        <MapText Code="Reviray" Color="1" NameEng="Reviray" NameRus="Ревираы" X="423755" Y="289124" Type="1"/>
+        <MapText Code="Popu Chan." Color="16" NameEng="Popu Chan." NameRus="Попу Чан." X="445321" Y="291710" Type="1"/>
+        <MapText Code="Nagana Is." Color="1" NameEng="Nagana Is." NameRus="Нагана Ис." X="533378" Y="250840" Type="1"/>
+        <MapText Code="Makalaka" Color="1" NameEng="Makalaka" NameRus="Макалака" X="552857" Y="244724" Type="1"/>
+        <MapText Code="Estrella Bay" Color="16" NameEng="Estrella Bay" NameRus="Естрелла Баы" X="535463" Y="245435" Type="1"/>
+        <MapText Code="Faro" Color="1" NameEng="Faro" NameRus="Фаро" X="590560" Y="221786" Type="1"/>
+        <MapText Code="Suki" Color="1" NameEng="Suki" NameRus="Суки" X="584621" Y="225113" Type="1"/>
+        <MapText Code="Kiebo" Color="1" NameEng="Kiebo" NameRus="Киебо" X="576133" Y="232974" Type="1"/>
+        <MapText Code="Mutu Pt." Color="2" NameEng="Mutu Pt." NameRus="Муту Пт." X="568906" Y="202013" Type="1"/>
+        <MapText Code="Nainuhana" Color="1" NameEng="Nainuhana" NameRus="Наинухана" X="560721" Y="200919" Type="1"/>
+        <MapText Code="Tinuhana" Color="1" NameEng="Tinuhana" NameRus="Тинухана" X="526349" Y="225494" Type="1"/>
+        <MapText Code="Furono" Color="1" NameEng="Furono" NameRus="Фуроно" X="536966" Y="219797" Type="1"/>
+        <MapText Code="Allardyce Hbr." Color="16" NameEng="Allardyce Hbr." NameRus="Аллардыcе Хбр." X="488423" Y="257004" Type="1"/>
+        <MapText Code="Palunuhukuna Hbr." Color="16" NameEng="Palunuhukuna Hbr." NameRus="Палунухукуна Хбр." X="493380" Y="252610" Type="1"/>
+        <MapText Code="Boko Pt." Color="2" NameEng="Boko Pt." NameRus="Боко Пт." X="619713" Y="183811" Type="1"/>
+        <MapText Code="Mahige" Color="1" NameEng="Mahige" NameRus="Махиге" X="625648" Y="178243" Type="1"/>
+        <MapText Code="Astrolabe Hbr." Color="16" NameEng="Astrolabe Hbr." NameRus="Астролабе Хбр." X="596598" Y="180765" Type="1"/>
+        <MapText Code="Albatross Bay" Color="16" NameEng="Albatross Bay" NameRus="Албатросс Баы" X="596376" Y="183080" Type="1"/>
+        <MapText Code="Eastern Entrance" Color="16" NameEng="Eastern Entrance" NameRus="Еастерн Ентранcе" X="198730" Y="362890" Type="1"/>
+        <MapText Code="Western Entrance" Color="16" NameEng="Western Entrance" NameRus="Wестерн Ентранcе" X="172299" Y="347850" Type="1"/>
+        <MapText Code="Southern Entrance" Color="16" NameEng="Southern Entrance" NameRus="Соутхерн Ентранcе" X="196950" Y="336459" Type="1"/>
+        <MapText Code="Taurato" Color="1" NameEng="Taurato" NameRus="Таурато" X="190828" Y="358106" Type="1"/>
+        <MapText Code="Ufo" Color="1" NameEng="Ufo" NameRus="Уфо" X="199260" Y="357326" Type="1"/>
+        <MapText Code="Aiaisina" Color="1" NameEng="Aiaisina" NameRus="Аиаисина" X="184810" Y="355288" Type="1"/>
+        <MapText Code="Pupukuna Pt." Color="2" NameEng="Pupukuna Pt." NameRus="Пупукуна Пт." X="187641" Y="362022" Type="1"/>
+        <MapText Code="Eluanta" Color="1" NameEng="Eluanta" NameRus="Елуанта" X="183263" Y="360790" Type="1"/>
+        <MapText Code="Popatala" Color="1" NameEng="Popatala" NameRus="Попатала" X="184046" Y="360226" Type="1"/>
+        <MapText Code="Kuvuvulu" Color="1" NameEng="Kuvuvulu" NameRus="Кувувулу" X="188759" Y="352851" Type="1"/>
+        <MapText Code="Elo" Color="1" NameEng="Elo" NameRus="Ело" X="189092" Y="350895" Type="1"/>
+        <MapText Code="Maifu" Color="1" NameEng="Maifu" NameRus="Маифу" X="184458" Y="350460" Type="1"/>
+        <MapText Code="Nusave" Color="1" NameEng="Nusave" NameRus="Нусаве" X="190284" Y="348058" Type="1"/>
+        <MapText Code="Nusakoa" Color="1" NameEng="Nusakoa" NameRus="Нусакоа" X="192214" Y="345198" Type="1"/>
+        <MapText Code="Niellei" Color="1" NameEng="Niellei" NameRus="Ниеллеи" X="194998" Y="347638" Type="1"/>
+        <MapText Code="Tomase" Color="1" NameEng="Tomase" NameRus="Томасе" X="195945" Y="345913" Type="1"/>
+        <MapText Code="Sanai" Color="1" NameEng="Sanai" NameRus="Санаи" X="181841" Y="339871" Type="1"/>
+        <MapText Code="Sopai" Color="1" NameEng="Sopai" NameRus="Сопаи" X="183551" Y="338293" Type="1"/>
+        <MapText Code="Piagrai" Color="1" NameEng="Piagrai" NameRus="Пиаграи" X="182392" Y="338281" Type="1"/>
+        <MapText Code="Kingeriai Pt." Color="2" NameEng="Kingeriai Pt." NameRus="Кингериаи Пт." X="177901" Y="340688" Type="1"/>
+        <MapText Code="Tupankoi Pt." Color="2" NameEng="Tupankoi Pt." NameRus="Тупанкои Пт." X="174490" Y="343455" Type="1"/>
+        <MapText Code="Komalial Pt." Color="2" NameEng="Komalial Pt." NameRus="Комалиал Пт." X="171543" Y="343735" Type="1"/>
+        <MapText Code="Komalial Bay" Color="16" NameEng="Komalial Bay" NameRus="Комалиал Баы" X="171147" Y="342178" Type="1"/>
+        <MapText Code="Leland Bay" Color="16" NameEng="Leland Bay" NameRus="Леланд Баы" X="174526" Y="341877" Type="1"/>
+        <MapText Code="Bakaulonai" Color="1" NameEng="Bakaulonai" NameRus="Бакаулонаи" X="168143" Y="340800" Type="1"/>
+        <MapText Code="Ahiriri" Color="1" NameEng="Ahiriri" NameRus="Ахирири" X="169196" Y="338909" Type="1"/>
+        <MapText Code="Malahuna Pt." Color="2" NameEng="Malahuna Pt." NameRus="Малахуна Пт." X="167270" Y="338141" Type="1"/>
+        <MapText Code="Farumo" Color="1" NameEng="Farumo" NameRus="Фарумо" X="166801" Y="336749" Type="1"/>
+        <MapText Code="Laumono" Color="1" NameEng="Laumono" NameRus="Лаумоно" X="164466" Y="336064" Type="1"/>
+        <MapText Code="Taukuna" Color="1" NameEng="Taukuna" NameRus="Таукуна" X="160314" Y="335374" Type="1"/>
+        <MapText Code="Gomai Pt." Color="2" NameEng="Gomai Pt." NameRus="Гомаи Пт." X="162205" Y="332644" Type="1"/>
+        <MapText Code="Aikiki" Color="1" NameEng="Aikiki" NameRus="Аикики" X="162492" Y="338147" Type="1"/>
+        <MapText Code="Airlaunu" Color="1" NameEng="Airlaunu" NameRus="Аирлауну" X="161119" Y="338417" Type="1"/>
+        <MapText Code="Mamalufu" Color="1" NameEng="Mamalufu" NameRus="Мамалуфу" X="160381" Y="338988" Type="1"/>
+        <MapText Code="Cape Stephens" Color="2" NameEng="Cape Stephens" NameRus="Cапе Степхенс" X="189014" Y="326174" Type="1"/>
+        <MapText Code="Sivilou" Color="1" NameEng="Sivilou" NameRus="Сивилоу" X="185306" Y="337400" Type="1"/>
+        <MapText Code="Rokuoi" Color="1" NameEng="Rokuoi" NameRus="Рокуои" X="184583" Y="337828" Type="1"/>
+        <MapText Code="Piagrai" Color="1" NameEng="Piagrai" NameRus="Пиаграи" X="184004" Y="337592" Type="1"/>
+        <MapText Code="Nuhu" Color="17" NameEng="Nuhu" NameRus="Нуху" X="180199" Y="328394" Type="1"/>
+        <MapText Code="Kokonai" Color="17" NameEng="Kokonai" NameRus="Коконаи" X="180975" Y="329769" Type="1"/>
+        <MapText Code="Koplai" Color="17" NameEng="Koplai" NameRus="Коплаи" X="183673" Y="329345" Type="1"/>
+        <MapText Code="Aliang" Color="17" NameEng="Aliang" NameRus="Алианг" X="173429" Y="328896" Type="1"/>
+        <MapText Code="Potal Bay" Color="16" NameEng="Potal Bay" NameRus="Потал Баы" X="166760" Y="334209" Type="1"/>
+        <MapText Code="Munia" Color="1" NameEng="Munia" NameRus="Муниа" X="201641" Y="337882" Type="1"/>
+        <MapText Code="Rofei" Color="1" NameEng="Rofei" NameRus="Рофеи" X="207108" Y="339028" Type="1"/>
+        <MapText Code="Takuri" Color="1" NameEng="Takuri" NameRus="Такури" X="206432" Y="335772" Type="1"/>
+        <MapText Code="Awa" Color="1" NameEng="Awa" NameRus="Аwа" X="203012" Y="340522" Type="1"/>
+        <MapText Code="Nufanaha" Color="1" NameEng="Nufanaha" NameRus="Нуфанаха" X="203295" Y="341506" Type="1"/>
+        <MapText Code="Karoaka" Color="1" NameEng="Karoaka" NameRus="Кароака" X="204276" Y="342845" Type="1"/>
+        <MapText Code="Benano" Color="1" NameEng="Benano" NameRus="Бенано" X="203941" Y="344257" Type="1"/>
+        <MapText Code="Uvuvuna" Color="1" NameEng="Uvuvuna" NameRus="Увувуна" X="205655" Y="345522" Type="1"/>
+        <MapText Code="Draumoa" Color="1" NameEng="Draumoa" NameRus="Драумоа" X="207474" Y="346672" Type="1"/>
+        <MapText Code="Dauvo" Color="1" NameEng="Dauvo" NameRus="Дауво" X="207509" Y="352192" Type="1"/>
+        <MapText Code="North Bay" Color="16" NameEng="North Bay" NameRus="Нортх Баы" X="209671" Y="357455" Type="1"/>
+        <MapText Code="Tauno" Color="1" NameEng="Tauno" NameRus="Тауно" X="212240" Y="354086" Type="1"/>
+        <MapText Code="Samanoa" Color="1" NameEng="Samanoa" NameRus="Саманоа" X="216535" Y="355751" Type="1"/>
+        <MapText Code="Piedu" Color="1" NameEng="Piedu" NameRus="Пиеду" X="217783" Y="354374" Type="1"/>
+        <MapText Code="Kanasata" Color="1" NameEng="Kanasata" NameRus="Канасата" X="211674" Y="363210" Type="1"/>
+        <MapText Code="Cyprian Bridge" Color="1" NameEng="Cyprian Bridge" NameRus="Cыприан Бридге" X="221923" Y="355571" Type="1"/>
+        <MapText Code="Kasiki" Color="1" NameEng="Kasiki" NameRus="Касики" X="219797" Y="356319" Type="1"/>
+        <MapText Code="Toma Hbr." Color="16" NameEng="Toma Hbr." NameRus="Тома Хбр." X="208650" Y="343662" Type="1"/>
+        <MapText Code="Entrance Bay" Color="16" NameEng="Entrance Bay" NameRus="Ентранcе Баы" X="211452" Y="343989" Type="1"/>
+        <MapText Code="Sikasora Bay" Color="16" NameEng="Sikasora Bay" NameRus="Сикасора Баы" X="213118" Y="347741" Type="1"/>
+        <MapText Code="Arsaro Pt." Color="2" NameEng="Arsaro Pt." NameRus="Арсаро Пт." X="212366" Y="360845" Type="1"/>
+        <MapText Code="East Cape" Color="2" NameEng="East Cape" NameRus="Еаст Cапе" X="217747" Y="347156" Type="1"/>
+        <MapText Code="Harapa" Color="17" NameEng="Harapa" NameRus="Харапа" X="171076" Y="338786" Type="1"/>
+        <MapText Code="Kupala Bay" Color="16" NameEng="Kupala Bay" NameRus="Купала Баы" X="177241" Y="340143" Type="1"/>
+        <MapText Code="Koliai" Color="17" NameEng="Koliai" NameRus="Колиаи" X="187071" Y="335181" Type="1"/>
+        <MapText Code="Bambagiai" Color="17" NameEng="Bambagiai" NameRus="Бамбагиаи" X="185642" Y="330984" Type="1"/>
+        <MapText Code="Korovo" Color="17" NameEng="Korovo" NameRus="Корово" X="187247" Y="331127" Type="1"/>
+        <MapText Code="Mt. Kanga" Color="15" NameEng="Mt. Kanga" NameRus="Мт. Канга" X="174588" Y="359126" Type="1"/>
+        <MapText Code="Moisuru" Color="17" NameEng="Moisuru" NameRus="Моисуру" X="180761" Y="363828" Type="1"/>
+        <MapText Code="Kariki" Color="17" NameEng="Kariki" NameRus="Карики" X="211917" Y="350108" Type="1"/>
+        <MapText Code="Kalia" Color="17" NameEng="Kalia" NameRus="Калиа" X="213085" Y="349579" Type="1"/>
+        <MapText Code="Toina" Color="17" NameEng="Toina" NameRus="Тоина" X="211857" Y="344879" Type="1"/>
+        <MapText Code="Maika" Color="17" NameEng="Maika" NameRus="Маика" X="178306" Y="367028" Type="1"/>
+        <MapText Code="Toburai" Color="17" NameEng="Toburai" NameRus="Тобураи" X="177678" Y="365569" Type="1"/>
+        <MapText Code="Luriau" Color="17" NameEng="Luriau" NameRus="Луриау" X="179719" Y="370575" Type="1"/>
+        <MapText Code="Kikibatsiagu" Color="17" NameEng="Kikibatsiagu" NameRus="Кикибациагу" X="179634" Y="368970" Type="1"/>
+        <MapText Code="Piano" Color="17" NameEng="Piano" NameRus="Пиано" X="166536" Y="369846" Type="1"/>
+        <MapText Code="Tugiogo" Color="17" NameEng="Tugiogo" NameRus="Тугиого" X="166178" Y="371514" Type="1"/>
+        <MapText Code="Piarina" Color="17" NameEng="Piarina" NameRus="Пиарина" X="168155" Y="370796" Type="1"/>
+        <MapText Code="Parero" Color="17" NameEng="Parero" NameRus="Пареро" X="167811" Y="371867" Type="1"/>
+        <MapText Code="Casuarinas" Color="17" NameEng="Casuarinas" NameRus="Cасуаринас" X="166405" Y="357824" Type="1"/>
+        <MapText Code="Aleu" Color="17" NameEng="Aleu" NameRus="Алеу" X="163434" Y="365147" Type="1"/>
+        <MapText Code="Turiboiru" Color="17" NameEng="Turiboiru" NameRus="Турибоиру" X="170257" Y="367338" Type="1"/>
+        <MapText Code="Pagai" Color="17" NameEng="Pagai" NameRus="Пагаи" X="170873" Y="366273" Type="1"/>
+        <MapText Code="Potaba" Color="17" NameEng="Potaba" NameRus="Потаба" X="172191" Y="366446" Type="1"/>
+        <MapText Code="Kokaura" Color="17" NameEng="Kokaura" NameRus="Кокаура" X="173098" Y="365690" Type="1"/>
+        <MapText Code="Malabeta" Color="17" NameEng="Malabeta" NameRus="Малабета" X="174157" Y="364593" Type="1"/>
+        <MapText Code="Signpost" Color="17" NameEng="Signpost" NameRus="Сигнпост" X="173598" Y="363136" Type="1"/>
+        <MapText Code="Nakarg" Color="17" NameEng="Nakarg" NameRus="Накарг" X="172417" Y="363459" Type="1"/>
+        <MapText Code="Laguai" Color="17" NameEng="Laguai" NameRus="Лагуаи" X="170413" Y="363912" Type="1"/>
+        <MapText Code="Mituai" Color="17" NameEng="Mituai" NameRus="Митуаи" X="174044" Y="366144" Type="1"/>
+        <MapText Code="Iula" Color="17" NameEng="Iula" NameRus="Иула" X="170439" Y="368534" Type="1"/>
+        <MapText Code="Madehas" Color="1" NameEng="Madehas" NameRus="Мадехас" X="53990" Y="503363" Type="1"/>
+        <MapText Code="Sale" Color="1" NameEng="Sale" NameRus="Сале" X="47468" Y="507496" Type="1"/>
+        <MapText Code="Matzungan" Color="1" NameEng="Matzungan" NameRus="Матзунган" X="47803" Y="512042" Type="1"/>
+        <MapText Code="Massungon" Color="1" NameEng="Massungon" NameRus="Массунгон" X="45688" Y="522907" Type="1"/>
+        <MapText Code="Sal" Color="1" NameEng="Sal" NameRus="Сал" X="51124" Y="496477" Type="1"/>
+        <MapText Code="Gog" Color="1" NameEng="Gog" NameRus="Гог" X="50296" Y="493908" Type="1"/>
+        <MapText Code="Manus" Color="1" NameEng="Manus" NameRus="Манус" X="51670" Y="494814" Type="1"/>
+        <MapText Code="Salsun" Color="1" NameEng="Salsun" NameRus="Салсун" X="60283" Y="502968" Type="1"/>
+        <MapText Code="Suhane" Color="1" NameEng="Suhane" NameRus="Сухане" X="62104" Y="501775" Type="1"/>
+        <MapText Code="Cape Hatsia" Color="2" NameEng="Cape Hatsia" NameRus="Cапе Хациа" X="60544" Y="513607" Type="1"/>
+        <MapText Code="Hahela Mission" Color="17" NameEng="Hahela Mission" NameRus="Хахела Миссион" X="58763" Y="511937" Type="1"/>
+        <MapText Code="Malasang" Color="17" NameEng="Malasang" NameRus="Маласанг" X="59542" Y="514639" Type="1"/>
+        <MapText Code="Palisal" Color="17" NameEng="Palisal" NameRus="Палисал" X="47900" Y="511840" Type="1"/>
+        <MapText Code="Kote Plant." Color="17" NameEng="Kote Plant." NameRus="Коте Плант." X="52591" Y="505307" Type="1"/>
+        <MapText Code="Lalahan Plant." Color="17" NameEng="Lalahan Plant." NameRus="Лалахан Плант." X="53111" Y="506705" Type="1"/>
+        <MapText Code="Kahune" Color="17" NameEng="Kahune" NameRus="Кахуне" X="49512" Y="513192" Type="1"/>
+        <MapText Code="Sauhotsi" Color="17" NameEng="Sauhotsi" NameRus="Саухоци" X="52728" Y="511850" Type="1"/>
+        <MapText Code="Nova" Color="17" NameEng="Nova" NameRus="Нова" X="54471" Y="510146" Type="1"/>
+        <MapText Code="Nova Plant." Color="17" NameEng="Nova Plant." NameRus="Нова Плант." X="55115" Y="511045" Type="1"/>
+        <MapText Code="Ieta" Color="17" NameEng="Ieta" NameRus="Иета" X="58810" Y="509417" Type="1"/>
+        <MapText Code="Tulaen Plant." Color="17" NameEng="Tulaen Plant." NameRus="Тулаен Плант." X="46725" Y="521225" Type="1"/>
+        <MapText Code="Tung" Color="17" NameEng="Tung" NameRus="Тунг" X="48076" Y="517660" Type="1"/>
+        <MapText Code="Lonahan" Color="17" NameEng="Lonahan" NameRus="Лонахан" X="60221" Y="520921" Type="1"/>
+        <MapText Code="Telatu" Color="17" NameEng="Telatu" NameRus="Телату" X="58803" Y="522189" Type="1"/>
+        <MapText Code="Sing" Color="17" NameEng="Sing" NameRus="Синг" X="60835" Y="524249" Type="1"/>
+        <MapText Code="Koheno" Color="17" NameEng="Koheno" NameRus="Кохено" X="57623" Y="523170" Type="1"/>
+        <MapText Code="Ramadata" Color="17" NameEng="Ramadata" NameRus="Рамадата" X="62342" Y="509629" Type="1"/>
+        <MapText Code="Sorum" Color="17" NameEng="Sorum" NameRus="Сорум" X="63425" Y="509093" Type="1"/>
+        <MapText Code="Wariki" Color="17" NameEng="Wariki" NameRus="Wарики" X="64520" Y="507806" Type="1"/>
+        <MapText Code="Gohi" Color="17" NameEng="Gohi" NameRus="Гохи" X="65757" Y="507308" Type="1"/>
+        <MapText Code="Katsinkoveri" Color="17" NameEng="Katsinkoveri" NameRus="Кацинковери" X="66438" Y="506508" Type="1"/>
+        <MapText Code="Anaki" Color="17" NameEng="Anaki" NameRus="Анаки" X="66932" Y="505792" Type="1"/>
+        <MapText Code="Tartai" Color="17" NameEng="Tartai" NameRus="Тартаи" X="67385" Y="505230" Type="1"/>
+        <MapText Code="Tapsadawat" Color="17" NameEng="Tapsadawat" NameRus="Тапсадаwат" X="68033" Y="504950" Type="1"/>
+        <MapText Code="Tsundawa" Color="17" NameEng="Tsundawa" NameRus="Цундаwа" X="69661" Y="502615" Type="1"/>
+        <MapText Code="Siari" Color="17" NameEng="Siari" NameRus="Сиари" X="73012" Y="500090" Type="1"/>
+        <MapText Code="Ruri" Color="17" NameEng="Ruri" NameRus="Рури" X="74668" Y="499318" Type="1"/>
+        <MapText Code="Bonis Plant." Color="17" NameEng="Bonis Plant." NameRus="Бонис Плант." X="58985" Y="506510" Type="1"/>
+        <MapText Code="Tsirogei" Color="17" NameEng="Tsirogei" NameRus="Цирогеи" X="61543" Y="504668" Type="1"/>
+        <MapText Code="Merok" Color="17" NameEng="Merok" NameRus="Мерок" X="62338" Y="503121" Type="1"/>
+        <MapText Code="Tarlena" Color="17" NameEng="Tarlena" NameRus="Тарлена" X="63244" Y="501975" Type="1"/>
+        <MapText Code="Porton Plant." Color="17" NameEng="Porton Plant." NameRus="Портон Плант." X="67166" Y="499271" Type="1"/>
+        <MapText Code="Japonu" Color="1" NameEng="Japonu" NameRus="Япону" X="55495" Y="494704" Type="1"/>
+        <MapText Code="Usat" Color="1" NameEng="Usat" NameRus="Усат" X="54793" Y="496318" Type="1"/>
+        <MapText Code="Taoif" Color="17" NameEng="Taoif" NameRus="Таоиф" X="54959" Y="496951" Type="1"/>
+        <MapText Code="Tabut" Color="17" NameEng="Tabut" NameRus="Табут" X="68861" Y="503134" Type="1"/>
+        <MapText Code="Banbanga" Color="1" NameEng="Banbanga" NameRus="Банбанга" X="297713" Y="220670" Type="1"/>
+        <MapText Code="&apos;Apa &apos;apa Pt." Color="2" NameEng="&apos;Apa &apos;apa Pt." NameRus="ЬАпа Ьапа Пт." X="803817" Y="60945" Type="1"/>
+        <MapText Code="Abalatoli Pt." Color="2" NameEng="Abalatoli Pt." NameRus="Абалатоли Пт." X="215871" Y="359075" Type="1"/>
+        <MapText Code="Abuabua" Color="1" NameEng="Abuabua" NameRus="Абуабуа" X="716239" Y="132823" Type="1"/>
+        <MapText Code="Adolphis Pt." Color="2" NameEng="Adolphis Pt." NameRus="Адолпхис Пт." X="602306" Y="52706" Type="1"/>
+        <MapText Code="Aghana" Color="1" NameEng="Aghana" NameRus="Агхана" X="340826" Y="184788" Type="1"/>
+        <MapText Code="Ai&apos;ura" Color="1" NameEng="Ai&apos;ura" NameRus="АиЬура" X="772218" Y="103472" Type="1"/>
+        <MapText Code="Ainitu Pt." Color="2" NameEng="Ainitu Pt." NameRus="Аиниту Пт." X="190214" Y="327237" Type="1"/>
+        <MapText Code="Aisuunia Pt." Color="2" NameEng="Aisuunia Pt." NameRus="Аисууниа Пт." X="765054" Y="121291" Type="1"/>
+        <MapText Code="Aiyo" Color="1" NameEng="Aiyo" NameRus="Аиыо" X="764716" Y="122411" Type="1"/>
+        <MapText Code="Albatross" Color="1" NameEng="Albatross" NameRus="Албатросс" X="477087" Y="269030" Type="1"/>
+        <MapText Code="Alite" Color="1" NameEng="Alite" NameRus="Алите" X="714300" Y="136576" Type="1"/>
+        <MapText Code="Aloataghala" Color="1" NameEng="Aloataghala" NameRus="Алоатагхала" X="163722" Y="332619" Type="1"/>
+        <MapText Code="Alua" Color="1" NameEng="Alua" NameRus="Алуа" X="152984" Y="295879" Type="1"/>
+        <MapText Code="Amboambua" Color="1" NameEng="Amboambua" NameRus="Амбоамбуа" X="716568" Y="134613" Type="1"/>
+        <MapText Code="Anuha" Color="1" NameEng="Anuha" NameRus="Ануха" X="659240" Y="126357" Type="1"/>
+        <MapText Code="Anuta Paina" Color="1" NameEng="Anuta Paina" NameRus="Анута Паина" X="771652" Y="107970" Type="1"/>
+        <MapText Code="Aowawa Pt." Color="2" NameEng="Aowawa Pt." NameRus="Аоwаwа Пт." X="608280" Y="46801" Type="1"/>
+        <MapText Code="Arao Pt." Color="2" NameEng="Arao Pt." NameRus="Арао Пт." X="708047" Y="179643" Type="1"/>
+        <MapText Code="Arara Pt." Color="2" NameEng="Arara Pt." NameRus="Арара Пт." X="333844" Y="199192" Type="1"/>
+        <MapText Code="Aria Pt." Color="2" NameEng="Aria Pt." NameRus="Ариа Пт." X="666094" Y="108277" Type="1"/>
+        <MapText Code="Aro Pt." Color="2" NameEng="Aro Pt." NameRus="Аро Пт." X="658514" Y="113151" Type="1"/>
+        <MapText Code="Aubohi" Color="1" NameEng="Aubohi" NameRus="Аубохи" X="574924" Y="197793" Type="1"/>
+        <MapText Code="Aumbaaumba" Color="1" NameEng="Aumbaaumba" NameRus="Аумбааумба" X="339478" Y="195586" Type="1"/>
+        <MapText Code="Ausi Pt." Color="2" NameEng="Ausi Pt." NameRus="Ауси Пт." X="716531" Y="200564" Type="1"/>
+        <MapText Code="Awarau Pt." Color="2" NameEng="Awarau Pt." NameRus="Аwарау Пт." X="770453" Y="107872" Type="1"/>
+        <MapText Code="Baobi" Color="1" NameEng="Baobi" NameRus="Баоби" X="206109" Y="354223" Type="1"/>
+        <MapText Code="Bara" Color="1" NameEng="Bara" NameRus="Бара" X="689211" Y="69115" Type="1"/>
+        <MapText Code="Barambata" Color="1" NameEng="Barambata" NameRus="Барамбата" X="278987" Y="238758" Type="1"/>
+        <MapText Code="Basakana" Color="1" NameEng="Basakana" NameRus="Басакана" X="697794" Y="199397" Type="1"/>
+        <MapText Code="Beagle" Color="1" NameEng="Beagle" NameRus="Беагле" X="723750" Y="40667" Type="1"/>
+        <MapText Code="Bembalama" Color="1" NameEng="Bembalama" NameRus="Бембалама" X="380973" Y="295613" Type="1"/>
+        <MapText Code="Beta" Color="1" NameEng="Beta" NameRus="Бета" X="636260" Y="136151" Type="1"/>
+        <MapText Code="Bethlahem" Color="1" NameEng="Bethlahem" NameRus="Бетхлахем" X="346007" Y="199181" Type="1"/>
+        <MapText Code="Bilaifafo" Color="1" NameEng="Bilaifafo" NameRus="Билаифафо" X="716875" Y="131325" Type="1"/>
+        <MapText Code="Jaba River" Color="18" NameEng="Jaba River" NameRus="Яба Ривер" X="135091" Y="408099" Type="1"/>
+        <MapText Code="Kobukobu Inlet" Color="16" NameEng="Kobukobu Inlet" NameRus="Кобукобу Инлет" X="344922" Y="220434" Type="1"/>
+        <MapText Code="Wharton Pt." Color="2" NameEng="Wharton Pt." NameRus="Wхартон Пт." X="343217" Y="218929" Type="1"/>
+        <MapText Code="Wharton River" Color="18" NameEng="Wharton River" NameRus="Wхартон Ривер" X="344823" Y="218771" Type="1"/>
+        <MapText Code="Matchin Bay Plant." Color="17" NameEng="Matchin Bay Plant." NameRus="Матчин Баы Плант." X="66320" Y="490890" Type="1"/>
+        <MapText Code="Kunua Plant." Color="17" NameEng="Kunua Plant." NameRus="Кунуа Плант." X="64265" Y="468099" Type="1"/>
+        <MapText Code="Lola Plant." Color="17" NameEng="Lola Plant." NameRus="Лола Плант." X="328871" Y="224510" Type="1"/>
+        <MapText Code="Bukibuki Is." Color="1" NameEng="Bukibuki Is." NameRus="Букибуки Ис." X="412956" Y="181577" Type="1"/>
+        <MapText Code="Buma" Color="1" NameEng="Buma" NameRus="Бума" X="723079" Y="198047" Type="1"/>
+        <MapText Code="Captain" Color="1" NameEng="Captain" NameRus="Cаптаин" X="474919" Y="267069" Type="1"/>
+        <MapText Code="Chalu" Color="1" NameEng="Chalu" NameRus="Чалу" X="429580" Y="154206" Type="1"/>
+        <MapText Code="Chame Is." Color="1" NameEng="Chame Is." NameRus="Чаме Ис." X="407243" Y="188384" Type="1"/>
+        <MapText Code="Chalokai" Color="1" NameEng="Chalokai" NameRus="Чалокаи" X="414881" Y="185018" Type="1"/>
+        <MapText Code="Chamborua" Color="1" NameEng="Chamborua" NameRus="Чамборуа" X="437324" Y="161159" Type="1"/>
+        <MapText Code="Baturu" Color="1" NameEng="Baturu" NameRus="Батуру" X="245948" Y="371478" Type="1"/>
+        <MapText Code="Siposai" Color="1" NameEng="Siposai" NameRus="Сипосаи" X="244821" Y="371580" Type="1"/>
+        <MapText Code="Taro" Color="1" NameEng="Taro" NameRus="Таро" X="244871" Y="370452" Type="1"/>
+        <MapText Code="Parama" Color="1" NameEng="Parama" NameRus="Парама" X="244924" Y="373111" Type="1"/>
+        <MapText Code="Porapora" Color="17" NameEng="Porapora" NameRus="Порапора" X="244206" Y="375672" Type="1"/>
+        <MapText Code="Kondakaninboka Plant." Color="17" NameEng="Kondakaninboka Plant." NameRus="Кондаканинбока Плант." X="242899" Y="375227" Type="1"/>
+        <MapText Code="The Solomon Islands, Dec. of 1942" Color="0" NameEng="The Solomon Islands Dec. of 1942" NameRus="Тхе Соломон Исландс Деc. оф 1942" X="400440" Y="567985" Type="1"/>
+        <MapText Code="SPB" Color="0" NameEng="SPB" NameRus="СПБ" X="57812" Y="504324" Type="1"/>
+        <MapText Code="Kieta SPB" Color="0" NameEng="Kieta SPB" NameRus="Киета СПБ" X="162895" Y="425341" Type="1"/>
+    </Towns>
+    <Airfields>
+    </Airfields>
+    <AdvTexts>
+    </AdvTexts>
+</TBaseMapSettings>

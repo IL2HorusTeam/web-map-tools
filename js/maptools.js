@@ -20,7 +20,29 @@ var map_path = null
     , ruler_left_ctx = null
     , current_pos_x = 0
     , current_pos_y = 0
-    , current_height = 0;
+    , current_height = 0
+    , text_styles = [
+        ["rgba(0, 0, 0, 0.7)",       "rgba(255, 255, 255, 0.7)"], // #000000, #ffffff
+        ["rgba(128, 0, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #800000, #ffffff
+        ["rgba(0, 128, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #008000, #ffffff
+        ["rgba(128, 128, 0, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #808000, #ffffff
+        ["rgba(0, 0, 128, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #000080, #ffffff
+        ["rgba(128, 0, 128, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #800080, #ffffff
+        ["rgba(0, 128, 128, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #008080, #ffffff
+        ["rgba(192, 192, 192, 0.7)", "rgba(255, 255, 255, 0.7)"], // #c0c0c0, #ffffff
+        ["rgba(192, 220, 192, 0.7)", "rgba(255, 255, 255, 0.7)"], // #c0dcc0, #ffffff
+        ["rgba(166, 202, 240, 0.7)", "rgba(255, 255, 255, 0.7)"], // #a6caf0, #ffffff
+        ["rgba(255, 251, 240, 0.7)", "rgba(255, 255, 255, 0.7)"], // #fffbf0, #ffffff
+        ["rgba(160, 160, 164, 0.7)", "rgba(255, 255, 255, 0.7)"], // #a0a0a4, #ffffff
+        ["rgba(128, 128, 128, 0.7)", "rgba(255, 255, 255, 0.7)"], // #808080, #ffffff
+        ["rgba(255, 0, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #ff0000, #ffffff
+        ["rgba(0, 255, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #00ff00, #ffffff
+        ["rgba(255, 255, 0, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #ffff00, #ffffff
+        ["rgba(0, 0, 255, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #0000ff, #ffffff
+        ["rgba(255, 0, 255, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #ff00ff, #ffffff
+        ["rgba(0, 255, 255, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #00ffff, #ffffff
+        ["rgba(255, 255, 255, 0.7)", "rgba(255, 255, 255, 0.7)"], // #ffffff, #ffffff
+    ];
 
 function squareName(x) {
     var k = Math.floor(x / CELL_SIDE);
@@ -83,7 +105,7 @@ function drawField(x, y, angle, type) {
     drawRotatedImage(airplane_img, x, y, angle);
 }
 
-function drawStroked(text, type, x, y) {
+function drawStroked(text, type, x, y, fill, stroke) {
     var font_size = 12+(type-1)*2.5;
 
     map_ctx.font = font_size + "px Sans-serif";
@@ -97,9 +119,9 @@ function drawStroked(text, type, x, y) {
     if (x<3) x=3;
     if(x+metrics.width > map_img.width) x = map_img.width-metrics.width-3;
 
-    map_ctx.strokeStyle = "rgba(255, 255, 255, 0.7)";
+    map_ctx.strokeStyle = stroke || "rgba(255, 255, 255, 0.7)";
     map_ctx.strokeText(text, x, y);
-    map_ctx.fillStyle = "rgba(0, 0, 0, 0.7)";
+    map_ctx.fillStyle = fill || "rgba(0, 0, 0, 0.7)";
     map_ctx.fillText(text, x, y);
 }
 
@@ -112,12 +134,26 @@ function drawMapData(){
                 , $(this).attr('A')
                 , $(this).attr('T1'));
         });
+
         $('MapText', xml).each(function(i){
+            var color = $(this).attr('Color');
+
+            if (color === undefined) {
+                var fill = undefined
+                , stroke = undefined;
+            } else {
+                var styles = text_styles[color]
+                , fill = styles[0]
+                , stroke = styles[1];
+            }
+
             drawStroked(
                 $(this).attr('NameEng')
                 , $(this).attr('Type')
                 , $(this).attr('X')/CELL_SIDE
-                , map_img.height-($(this).attr('Y')/CELL_SIDE));
+                , map_img.height-($(this).attr('Y')/CELL_SIDE)
+                , fill
+                , stroke);
         });
     });
 }

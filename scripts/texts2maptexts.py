@@ -3,8 +3,12 @@ from __future__ import unicode_literals
 
 import sys
 
-from slugify import slugify
+from slugify import Slugify
 from transliterate import translit
+
+
+slugify = Slugify()
+slugify.safe_chars = "-.'\""
 
 
 for line in sys.stdin:
@@ -20,7 +24,7 @@ for line in sys.stdin:
     if not line:
         continue
 
-    x, y, a1, a2, a3, size_type, code = line.split(' ', 6)
+    x, y, a1, a2, size_type, color, code = line.split(' ', 6)
     name = slugify(code, separator=' ')
 
     if is_eng:
@@ -30,13 +34,22 @@ for line in sys.stdin:
         name_en = translit(name, 'ru', reversed=True)
         name_ru = name
 
-    size_type = (int(size_type) + 1) * 2
-    if size_type > 10:
-        size_type = 10
+    color = int(color)
+    size_type = int(size_type) + 1
+
+    code = code.replace("\"", "&quot;")
+    code = code.replace("'", "&apos;")
+
+    name_en = name_en.replace("\"", "&quot;")
+    name_en = name_en.replace("'", "&apos;")
+
+    name_ru = name_ru.replace("\"", "&quot;")
+    name_ru = name_ru.replace("'", "&apos;")
 
     print(
-        "<MapText Code=\"{code}\" NameEng=\"{name_en}\" NameRus=\"{name_ru}\" X=\"{x}\" Y=\"{y}\" Type=\"{size_type}\"/>"
+        "<MapText Code=\"{code}\" Color=\"{color}\" NameEng=\"{name_en}\" NameRus=\"{name_ru}\" X=\"{x}\" Y=\"{y}\" Type=\"{size_type}\"/>"
         .format(code=code,
+                color=color,
                 name_en=name_en,
                 name_ru=name_ru,
                 x=x,
