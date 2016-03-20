@@ -37,14 +37,24 @@ for line in sys.stdin:
     color = int(color)
     size_type = int(size_type) + 1
 
-    code = code.replace("\"", "&quot;")
-    code = code.replace("'", "&apos;")
-
-    name_en = name_en.replace("\"", "&quot;")
-    name_en = name_en.replace("'", "&apos;")
-
-    name_ru = name_ru.replace("\"", "&quot;")
-    name_ru = name_ru.replace("'", "&apos;")
+    code = (
+        code
+        .replace("&", "&amp;")
+        .replace("\"", "&quot;")
+        .replace("'", "&apos;")
+    )
+    name_en = (
+        name_en
+        .replace("&", "&amp;")
+        .replace("\"", "&quot;")
+        .replace("'", "&apos;")
+    )
+    name_ru = (
+        name_ru
+        .replace("&", "&amp;")
+        .replace("\"", "&quot;")
+        .replace("'", "&apos;")
+    )
 
     print(
         "<MapText Code=\"{code}\" Color=\"{color}\" NameEng=\"{name_en}\" NameRus=\"{name_ru}\" X=\"{x}\" Y=\"{y}\" Type=\"{size_type}\"/>"
