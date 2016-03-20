@@ -4,42 +4,42 @@
     <Width>188000</Width>
     <Height>371200</Height>
     <Towns>
-        <MapText Code="Arctic_Ocean" NameEng="Arctic Ocean" NameRus="Арcтиc Оcеан" X="90000" Y="710000" Type="7"/>
-        <MapText Code="Austfjorden" NameEng="Austfjorden" NameRus="Аустфйорден" X="123016" Y="570179" Type="10"/>
-        <MapText Code="Barents_Sea" NameEng="Barents Sea" NameRus="Баренц Сеа" X="290000" Y="220000" Type="7"/>
-        <MapText Code="Barentsburg" NameEng="Barentsburg" NameRus="Баренцбург" X="88429" Y="449026" Type="6"/>
-        <MapText Code="Barentsoya" NameEng="Barentsoya" NameRus="Баренцоыа" X="241437" Y="487794" Type="5"/>
-        <MapText Code="Bellsund" NameEng="Bellsund" NameRus="Беллсунд" X="77956" Y="410830" Type="10"/>
-        <MapText Code="Billefjorden" NameEng="Billefjorden" NameRus="Биллефйорден" X="132361" Y="503340" Type="10"/>
-        <MapText Code="Bjornoya" NameEng="Bjornoya" NameRus="Бйорноыа" X="191219" Y="83261" Type="5"/>
-        <MapText Code="Edgeoya" NameEng="Edgeoya" NameRus="Едгеоыа" X="268156" Y="433068" Type="5"/>
-        <MapText Code="Forlandsundet" NameEng="Forlandsundet" NameRus="Форландсундет" X="47814" Y="478885" Type="10"/>
-        <MapText Code="Freemansundet" NameEng="Freemansundet" NameRus="Фреемансундет" X="247694" Y="470988" Type="10"/>
-        <MapText Code="Greenland_Sea" NameEng="Greenland Sea" NameRus="Греенланд Сеа" X="55000" Y="360000" Type="7"/>
-        <MapText Code="Hopen" NameEng="Hopen" NameRus="Хопен" X="326423" Y="302966" Type="5"/>
-        <MapText Code="Isbjornhamna" NameEng="Isbjornhamna" NameRus="Исбйорнхамна" X="116535" Y="342301" Type="10"/>
-        <MapText Code="Isfjorden" NameEng="Isfjorden" NameRus="Исфйорден" X="94062" Y="469866" Type="10"/>
-        <MapText Code="Kapp_Linne" NameEng="Kapp Linne" NameRus="Капп Линне" X="73548" Y="453547" Type="6"/>
-        <MapText Code="Lomfjorden" NameEng="Lomfjorden" NameRus="Ломфйорден" X="167481" Y="612506" Type="10"/>
-        <MapText Code="Longyearbyen" NameEng="Longyearbyen" NameRus="Лонгыеарбыен" X="116266" Y="470537" Type="6"/>
-        <MapText Code="Nordaustlandet" NameEng="Nordaustlandet" NameRus="Нордаустландет" X="271697" Y="633626" Type="5"/>
-        <MapText Code="Nordfjorden" NameEng="Nordfjorden" NameRus="Нордфйорден" X="100169" Y="498964" Type="10"/>
-        <MapText Code="Norwegian_Sea" NameEng="Norwegian Sea" NameRus="Норwегиан Сеа" X="90000" Y="120000" Type="7"/>
-        <MapText Code="Ny-Alesund" NameEng="Ny Alesund" NameRus="Ны Алесунд" X="36703" Y="541302" Type="6"/>
-        <MapText Code="Palanderbukta" NameEng="Palanderbukta" NameRus="Паландербукта" X="222025" Y="611172" Type="10"/>
-        <MapText Code="Prince_Charles_Foreland" NameEng="Prince Charles Foreland" NameRus="Принcе Чарлес Фореланд" X="32514" Y="492076" Type="5"/>
-        <MapText Code="Purchasneset" NameEng="Purchasneset" NameRus="Пурчаснесет" X="176233" Y="683566" Type="5"/>
-        <MapText Code="Pyramiden" NameEng="Pyramiden" NameRus="Пырамиден" X="134396" Y="518298" Type="6"/>
-        <MapText Code="Spitsbergen" NameEng="Spitsbergen" NameRus="Спицберген" X="113959" Y="537789" Type="5"/>
-        <MapText Code="Storfjorden" NameEng="Storfjorden" NameRus="Сторфйорден" X="206111" Y="423171" Type="10"/>
-        <MapText Code="Sveagruva" NameEng="Sveagruva" NameRus="Свеагрува" X="138343" Y="433207" Type="6"/>
-        <MapText Code="Svenskoya" NameEng="Svenskoya" NameRus="Свенскоыа" X="357546" Y="521674" Type="5"/>
-        <MapText Code="Tempelfjorden" NameEng="Tempelfjorden" NameRus="Темпелфйорден" X="134595" Y="485954" Type="10"/>
-        <MapText Code="Van_Keulenfjorden" NameEng="Van Keulenfjorden" NameRus="Ван Кеуленфйорден" X="100026" Y="404596" Type="10"/>
-        <MapText Code="Van_Mijenfjorden" NameEng="Van Mijenfjorden" NameRus="Ван Мийенфйорден" X="118794" Y="426406" Type="10"/>
-        <MapText Code="Wahlenbergfjorden" NameEng="Wahlenbergfjorden" NameRus="Wахленбергфйорден" X="227312" Y="624619" Type="10"/>
-        <MapText Code="Wilhelmoya" NameEng="Wilhelmoya" NameRus="Wилхелмоыа" X="225439" Y="556365" Type="5"/>
-        <MapText Code="Woodfjorden" NameEng="Woodfjorden" NameRus="Wоодфйорден" X="74257" Y="614977" Type="10"/>
+        <MapText Code="Longyearbyen" Color="5" NameEng="Longyearbyen" NameRus="Лонгыеарбыен" X="116266" Y="470537" Type="2"/>
+        <MapText Code="Ny-Alesund" Color="5" NameEng="Ny-Alesund" NameRus="Ны-Алесунд" X="36703" Y="541302" Type="2"/>
+        <MapText Code="Barentsburg" Color="5" NameEng="Barentsburg" NameRus="Баренцбург" X="88429" Y="449026" Type="2"/>
+        <MapText Code="Sveagruva" Color="5" NameEng="Sveagruva" NameRus="Свеагрува" X="138343" Y="433207" Type="2"/>
+        <MapText Code="Pyramiden" Color="5" NameEng="Pyramiden" NameRus="Пырамиден" X="134396" Y="518298" Type="2"/>
+        <MapText Code="Spitsbergen" Color="4" NameEng="Spitsbergen" NameRus="Спицберген" X="113959" Y="537789" Type="2"/>
+        <MapText Code="Nordaustlandet" Color="4" NameEng="Nordaustlandet" NameRus="Нордаустландет" X="271697" Y="633626" Type="2"/>
+        <MapText Code="Barentsoya" Color="4" NameEng="Barentsoya" NameRus="Баренцоыа" X="241437" Y="487794" Type="2"/>
+        <MapText Code="Edgeoya" Color="4" NameEng="Edgeoya" NameRus="Едгеоыа" X="268156" Y="433068" Type="2"/>
+        <MapText Code="Hopen" Color="4" NameEng="Hopen" NameRus="Хопен" X="326423" Y="302966" Type="2"/>
+        <MapText Code="Prince_Charles_Foreland" Color="4" NameEng="Prince Charles Foreland" NameRus="Принcе Чарлес Фореланд" X="32514" Y="492076" Type="2"/>
+        <MapText Code="Kapp_Linne" Color="5" NameEng="Kapp Linne" NameRus="Капп Линне" X="73548" Y="453547" Type="2"/>
+        <MapText Code="Bjornoya" Color="4" NameEng="Bjornoya" NameRus="Бйорноыа" X="191219" Y="83261" Type="2"/>
+        <MapText Code="Wilhelmoya" Color="4" NameEng="Wilhelmoya" NameRus="Wилхелмоыа" X="225439" Y="556365" Type="2"/>
+        <MapText Code="Svenskoya" Color="4" NameEng="Svenskoya" NameRus="Свенскоыа" X="357546" Y="521674" Type="2"/>
+        <MapText Code="Purchasneset" Color="4" NameEng="Purchasneset" NameRus="Пурчаснесет" X="176233" Y="683566" Type="2"/>
+        <MapText Code="Isbjornhamna" Color="16" NameEng="Isbjornhamna" NameRus="Исбйорнхамна" X="116535" Y="342301" Type="2"/>
+        <MapText Code="Van_Keulenfjorden" Color="16" NameEng="Van Keulenfjorden" NameRus="Ван Кеуленфйорден" X="100026" Y="404596" Type="2"/>
+        <MapText Code="Van_Mijenfjorden" Color="16" NameEng="Van Mijenfjorden" NameRus="Ван Мийенфйорден" X="118794" Y="426406" Type="2"/>
+        <MapText Code="Bellsund" Color="16" NameEng="Bellsund" NameRus="Беллсунд" X="77956" Y="410830" Type="2"/>
+        <MapText Code="Isfjorden" Color="16" NameEng="Isfjorden" NameRus="Исфйорден" X="94062" Y="469866" Type="2"/>
+        <MapText Code="Nordfjorden" Color="16" NameEng="Nordfjorden" NameRus="Нордфйорден" X="100169" Y="498964" Type="2"/>
+        <MapText Code="Tempelfjorden" Color="16" NameEng="Tempelfjorden" NameRus="Темпелфйорден" X="134595" Y="485954" Type="2"/>
+        <MapText Code="Billefjorden" Color="16" NameEng="Billefjorden" NameRus="Биллефйорден" X="132361" Y="503340" Type="2"/>
+        <MapText Code="Forlandsundet" Color="16" NameEng="Forlandsundet" NameRus="Форландсундет" X="47814" Y="478885" Type="2"/>
+        <MapText Code="Woodfjorden" Color="16" NameEng="Woodfjorden" NameRus="Wоодфйорден" X="74257" Y="614977" Type="2"/>
+        <MapText Code="Austfjorden" Color="16" NameEng="Austfjorden" NameRus="Аустфйорден" X="123016" Y="570179" Type="2"/>
+        <MapText Code="Lomfjorden" Color="16" NameEng="Lomfjorden" NameRus="Ломфйорден" X="167481" Y="612506" Type="2"/>
+        <MapText Code="Wahlenbergfjorden" Color="16" NameEng="Wahlenbergfjorden" NameRus="Wахленбергфйорден" X="227312" Y="624619" Type="2"/>
+        <MapText Code="Palanderbukta" Color="16" NameEng="Palanderbukta" NameRus="Паландербукта" X="222025" Y="611172" Type="2"/>
+        <MapText Code="Freemansundet" Color="16" NameEng="Freemansundet" NameRus="Фреемансундет" X="247694" Y="470988" Type="2"/>
+        <MapText Code="Storfjorden" Color="16" NameEng="Storfjorden" NameRus="Сторфйорден" X="206111" Y="423171" Type="2"/>
+        <MapText Code="Barents_Sea" Color="6" NameEng="Barents Sea" NameRus="Баренц Сеа" X="290000" Y="220000" Type="2"/>
+        <MapText Code="Greenland_Sea" Color="6" NameEng="Greenland Sea" NameRus="Греенланд Сеа" X="55000" Y="360000" Type="2"/>
+        <MapText Code="Norwegian_Sea" Color="6" NameEng="Norwegian Sea" NameRus="Норwегиан Сеа" X="90000" Y="120000" Type="2"/>
+        <MapText Code="Arctic_Ocean" Color="6" NameEng="Arctic Ocean" NameRus="Арcтиc Оcеан" X="90000" Y="710000" Type="2"/>
     </Towns>
     <Airfields>
     </Airfields>
