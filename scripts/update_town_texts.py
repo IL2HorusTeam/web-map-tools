@@ -55,10 +55,15 @@ def update_node_attrs(nodes, attr_name, source):
             regex = "^\\b%s\\b.*$" % code
             m = re.search(regex, s, re.MULTILINE)
             if not m:
-                print("Failed to find '%s'!" % code)
+                print("Failed to find '%s' in %s!" % (code, source))
                 continue
 
-            line = m.group().decode('unicode-escape')
+            line = m.group()
+
+            try:
+                line = line.decode('ascii').decode('unicode-escape')
+            except UnicodeDecodeError:
+                line = line.decode('cp1251')
 
             value = re.split("\s+", line, 1)[1]
             value = value.strip()
