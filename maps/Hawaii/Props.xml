@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Hawaii</MisCode>
-    <Width>320000</Width>
-    <Height>160000</Height>
-    <Towns>
-        <MapText Code="Fort_Kamehameha" NameEng="Fort Kamehameha" NameRus="Fort Kamehameha" X="267655" Y="30326" Type="2"/>
-        <MapText Code="Honolulu" NameEng="Honolulu" NameRus="Honolulu" X="272429" Y="28280" Type="2"/>
-        <MapText Code="Pearl_Harbor" NameEng="Pearl Harbor" NameRus="Pearl Harbor" X="262850" Y="35855" Type="3"/>
-        <MapText Code="Bellows_Field" NameEng="Bellows Field" NameRus="Bellows Field" X="288872" Y="33130" Type="3"/>
-        <MapText Code="Ford_Island" NameEng="Ford Island" NameRus="Ford Island" X="264119" Y="34056" Type="3"/>
-        <MapText Code="Haleiwa_Field" NameEng="Haleiwa Field" NameRus="Haleiwa Field" X="245226" Y="58817" Type="3"/>
-        <MapText Code="Hickam_Field" NameEng="Hickam Field" NameRus="Hickam Field" X="264648" Y="31833" Type="3"/>
-        <MapText Code="Kaneohe_NAS" NameEng="Kaneohe NAS" NameRus="Kaneohe NAS" X="285538" Y="44420" Type="3"/>
-        <MapText Code="Mast_Field" NameEng="Mast Field" NameRus="Mast Field" X="253713" Y="29871" Type="3"/>
-        <MapText Code="Wheeler_Field" NameEng="Wheeler Field" NameRus="Wheeler Field" X="252575" Y="52452" Type="3"/>
-        <MapText Code="Kauai_Island" NameEng="Kauai Island" NameRus="Kauai Island" X="97298" Y="112757" Type="3"/>
-        <MapText Code="Niihau_Island" NameEng="Niihau Island" NameRus="Niihau Island" X="26453" Y="96397" Type="3"/>
-        <MapText Code="Oahu_Island" NameEng="Oahu Island" NameRus="Oahu Island" X="262401" Y="58536" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="245418.43" Y="58883.82" A="75" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="2" X="253139.76" Y="52621.21" A="130" T1="2" Res="B_17D_b"/>
-        <Airfield ID="3" X="285987.91" Y="44554.92" A="120" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="4" X="288828.87" Y="33344.58" A="30" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="5" X="264779.63" Y="31935.35" A="40" T1="2" Res="PE_2SERIES1_b"/>
-        <Airfield ID="6" X="264130.67" Y="34202.58" A="215" T1="2" Res="IL_2T_b"/>
-        <Airfield ID="7" X="254116.99" Y="29901.34" A="240" T1="1" Res="TBM3AVENGER3_g"/>
-    </Airfields>
-    <AdvTexts>
-        <AdvText Code="Bellows_Field" DeltaX="-35" DeltaY="-10"/>
-        <AdvText Code="Ford_Island" DeltaX="-40" DeltaY="0"/>
-        <AdvText Code="Haleiwa_Field" DeltaX="35" DeltaY="10"/>
-        <AdvText Code="Hickam_Field" DeltaX="-40" DeltaY="0"/>
-        <AdvText Code="Kaneohe_NAS" DeltaX="-25" DeltaY="10"/>
-        <AdvText Code="Mast_Field" DeltaX="-25" DeltaY="-10"/>
-        <AdvText Code="Pearl_Harbor" DeltaX="0" DeltaY="-10"/>
-        <AdvText Code="Wheeler_Field" DeltaX="40" DeltaY="-10"/>
-    </AdvTexts>
+  <MisCode>Hawaii</MisCode>
+  <Width>320000</Width>
+  <Height>160000</Height>
+  <Towns>
+    <MapText Code="Fort_Kamehameha" NameEng="Fort Kamehameha" NameRus="Fort Kamehameha" X="267655" Y="30326" Type="0" bLevel="7" Align="1" Color="16"/>
+    <MapText Code="Honolulu" NameEng="Honolulu" NameRus="Honolulu" X="272429" Y="28280" Type="0" bLevel="7" Align="1" Color="16"/>
+    <MapText Code="Pearl_Harbor" NameEng="Pearl Harbor" NameRus="Pearl Harbor" X="262850" Y="35855" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Bellows_Field" NameEng="Bellows Field" NameRus="Bellows Field" X="288872" Y="33130" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Ford_Island" NameEng="Ford Island" NameRus="Ford Island" X="264119" Y="34056" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Haleiwa_Field" NameEng="Haleiwa Field" NameRus="Haleiwa Field" X="245226" Y="58817" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Hickam_Field" NameEng="Hickam Field" NameRus="Hickam Field" X="264648" Y="31833" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Kaneohe_NAS" NameEng="Kaneohe NAS" NameRus="Kaneohe NAS" X="285538" Y="44420" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Mast_Field" NameEng="Mast Field" NameRus="Mast Field" X="253713" Y="29871" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Wheeler_Field" NameEng="Wheeler Field" NameRus="Wheeler Field" X="252575" Y="52452" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Kauai_Island" NameEng="Kauai Island" NameRus="Kauai Island" X="97298" Y="112757" Type="2" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Niihau_Island" NameEng="Niihau Island" NameRus="Niihau Island" X="26453" Y="96397" Type="2" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Oahu_Island" NameEng="Oahu Island" NameRus="Oahu Island" X="262401" Y="58536" Type="2" bLevel="7" Align="1" Color="1"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="245418.43" Y="58883.82" A="75" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="2" X="253139.76" Y="52621.21" A="130" T1="2" Res="B_17D_b"/>
+    <Airfield ID="3" X="285987.91" Y="44554.92" A="120" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="4" X="288828.87" Y="33344.58" A="30" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="5" X="264779.63" Y="31935.35" A="40" T1="2" Res="PE_2SERIES1_b"/>
+    <Airfield ID="6" X="264130.67" Y="34202.58" A="215" T1="2" Res="IL_2T_b"/>
+    <Airfield ID="7" X="254116.99" Y="29901.34" A="240" T1="1" Res="TBM3AVENGER3_g"/>
+  </Airfields>
+  <AdvTexts>
+    <AdvText Code="Bellows_Field" DeltaX="-35" DeltaY="-10"/>
+    <AdvText Code="Ford_Island" DeltaX="-40" DeltaY="0"/>
+    <AdvText Code="Haleiwa_Field" DeltaX="35" DeltaY="10"/>
+    <AdvText Code="Hickam_Field" DeltaX="-40" DeltaY="0"/>
+    <AdvText Code="Kaneohe_NAS" DeltaX="-25" DeltaY="10"/>
+    <AdvText Code="Mast_Field" DeltaX="-25" DeltaY="-10"/>
+    <AdvText Code="Pearl_Harbor" DeltaX="0" DeltaY="-10"/>
+    <AdvText Code="Wheeler_Field" DeltaX="40" DeltaY="-10"/>
+  </AdvTexts>
 </TBaseMapSettings>

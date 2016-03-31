@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Net3Summer</MisCode>
-    <Width>51200</Width>
-    <Height>51200</Height>
-    <Towns>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="11404.95" Y="36400.11" A="5" T1="1" Res="B_17F_g"/>
-        <Airfield ID="2" X="22242.77" Y="40267.67" A="45" T1="1" Res="B_17F_g"/>
-        <Airfield ID="3" X="31302.89" Y="42773.93" A="210" T1="1" Res="B_17F_g"/>
-        <Airfield ID="4" X="42705.32" Y="36322.28" A="315" T1="1" Res="B_24J100_g"/>
-        <Airfield ID="5" X="35221.78" Y="28613.20" A="125" T1="2" Res="IL_4_DB3T_b"/>
-        <Airfield ID="6" X="42965.30" Y="20680.87" A="0" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="7" X="28219.88" Y="16908.56" A="10" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="8" X="27255.95" Y="25955.52" A="60" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="9" X="20562.55" Y="25083.95" A="345" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="10" X="12741.32" Y="29516.15" A="270" T1="1" Res="B_17F_g"/>
-        <Airfield ID="11" X="15443.44" Y="15483.46" A="300" T1="2" Res="B_17D_b"/>
-        <Airfield ID="12" X="5255.26" Y="21943.40" A="135" T1="1" Res="B_17F_g"/>
-    </Airfields>
-    <AdvTexts>
+  <MisCode>Net3Summer</MisCode>
+  <Width>51200</Width>
+  <Height>51200</Height>
+  <Towns/>
+  <Airfields>
+    <Airfield ID="1" X="11404.95" Y="36400.11" A="5" T1="1" Res="B_17F_g"/>
+    <Airfield ID="2" X="22242.77" Y="40267.67" A="45" T1="1" Res="B_17F_g"/>
+    <Airfield ID="3" X="31302.89" Y="42773.93" A="210" T1="1" Res="B_17F_g"/>
+    <Airfield ID="4" X="42705.32" Y="36322.28" A="315" T1="1" Res="B_24J100_g"/>
+    <Airfield ID="5" X="35221.78" Y="28613.20" A="125" T1="2" Res="IL_4_DB3T_b"/>
+    <Airfield ID="6" X="42965.30" Y="20680.87" A="0" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="7" X="28219.88" Y="16908.56" A="10" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="8" X="27255.95" Y="25955.52" A="60" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="9" X="20562.55" Y="25083.95" A="345" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="10" X="12741.32" Y="29516.15" A="270" T1="1" Res="B_17F_g"/>
+    <Airfield ID="11" X="15443.44" Y="15483.46" A="300" T1="2" Res="B_17D_b"/>
+    <Airfield ID="12" X="5255.26" Y="21943.40" A="135" T1="1" Res="B_17F_g"/>
+  </Airfields>
+  <AdvTexts>
     </AdvTexts>
 </TBaseMapSettings>

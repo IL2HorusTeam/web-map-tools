@@ -1,71 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Berlin</MisCode>
-    <Width>195200</Width>
-    <Height>83200</Height>
-    <Towns>
-        <MapText Code="Bernau" NameEng="Bernau" NameRus="Бернау" X="56749" Y="58307" Type="1"/>
-        <MapText Code="Boczow" NameEng="Boczow" NameRus="Божков" X="131773" Y="26407" Type="1"/>
-        <MapText Code="Debno(Neudamm)" NameEng="Debno (Neudamm)" NameRus="Дебно (Нейдамм)" X="126089" Y="65854" Type="1"/>
-        <MapText Code="Eberswalde-Finow" NameEng="Eberswalde-Finow" NameRus="Эберсвальде-Финов" X="71838" Y="74726" Type="1"/>
-        <MapText Code="Gatow" NameEng="Gatow" NameRus="Гатов" X="33105" Y="40536" Type="1"/>
-        <MapText Code="Gorzow_Wielkopolski(Landsherg)" NameEng="Gorzow Wielkopolski (Landsberg)" NameRus="Горцов Великопольский" X="155020" Y="65079" Type="1"/>
-        <MapText Code="Koenigs_Wusterhausen" NameEng="Koenigs Wusterhausen" NameRus="Кенигс-Вюстерхаузен" X="60362" Y="22766" Type="1"/>
-        <MapText Code="Kostrzyn(Kuestrin)" NameEng="Kostrzyn (Kustrin)" NameRus="Кюстрин" X="120353" Y="51510" Type="1"/>
-        <MapText Code="Luckenwalde" NameEng="Luckenwalde" NameRus="Люкенвальде" X="34443" Y="3054" Type="1"/>
-        <MapText Code="Ludwigsfelde" NameEng="Ludwigsfelde" NameRus="Людвигсфельде" X="39784" Y="23438" Type="1"/>
-        <MapText Code="Miedzyrzecz" NameEng="Miedzyrzecz" NameRus="Меджырзец" X="175079" Y="37111" Type="1"/>
-        <MapText Code="Nauen" NameEng="Nauen" NameRus="Науэн" X="18523" Y="53367" Type="1"/>
-        <MapText Code="Oranienburg" NameEng="Oranienburg" NameRus="Ораниенбург" X="38850" Y="68721" Type="1"/>
-        <MapText Code="Reeskow" NameEng="Reeskow" NameRus="Реесков" X="96904" Y="12387" Type="1"/>
-        <MapText Code="Schonefeld" NameEng="Schonefeld" NameRus="Шонефельд" X="57274" Y="31994" Type="1"/>
-        <MapText Code="Seelow" NameEng="Seelowe" NameRus="Зеелов" X="104445" Y="45514" Type="1"/>
-        <MapText Code="Sperenberg" NameEng="Sperenberg" NameRus="Шперенберг" X="46478" Y="6966" Type="1"/>
-        <MapText Code="Strzelce_Krajenskie" NameEng="Strzelce Krajenskie" NameRus="Стржельце Краенские" X="172017" Y="78178" Type="1"/>
-        <MapText Code="Sulechow" NameEng="Sulechow" NameRus="Сулешоу" X="177510" Y="3566" Type="1"/>
-        <MapText Code="Sulecin" NameEng="Sulecin" NameRus="Сулечин" X="148071" Y="36710" Type="1"/>
-        <MapText Code="Swiebodzin" NameEng="Swiebodzin" NameRus="Швиебодзин" X="171836" Y="17715" Type="1"/>
-        <MapText Code="Wriezen" NameEng="Wriezen" NameRus="Вриезен" X="90386" Y="63178" Type="1"/>
-        <MapText Code="Bad_Freienwalde" NameEng="Bad Freienwalde" NameRus="Бад Фрайенвальде" X="84710" Y="69886" Type="2"/>
-        <MapText Code="Eisenhuettenstadt" NameEng="Eisenhuettenstadt" NameRus="Айзенхюттенштадт" X="120373" Y="8868" Type="2"/>
-        <MapText Code="Falkensee" NameEng="Falkensee" NameRus="Фалькензее" X="28454" Y="47995" Type="2"/>
-        <MapText Code="Fuerstenwalde" NameEng="Fuerstenwalde" NameRus="Фюрстенвальде" X="88422" Y="29471" Type="2"/>
-        <MapText Code="Berlin" NameEng="Berlin" NameRus="Берлин" X="49259" Y="43095" Type="3"/>
-        <MapText Code="Frankfurt_an_der_Oder" NameEng="Frankfurt an der Oder" NameRus="Франкфурт-на-Одере" X="114402" Y="27830" Type="3"/>
-        <MapText Code="Potsdam" NameEng="Potsdam" NameRus="Потсдам" X="19528" Y="33204" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="112679.00" Y="23040.00" A="120" T1="2" Res="B_17F_b"/>
-        <Airfield ID="2" X="114218.00" Y="64731.00" A="120" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="3" X="50528.00" Y="11892.00" A="345" T1="1" Res="B_17G_g"/>
-        <Airfield ID="4" X="188107.00" Y="60247.00" A="60" T1="1" Res="B_24J100_g"/>
-        <Airfield ID="5" X="65882.00" Y="72900.00" A="75" T1="2" Res="A_20G_b"/>
-        <Airfield ID="6" X="23545.22" Y="62103.28" A="30" T1="2" Res="B_17D_b"/>
-        <Airfield ID="7" X="35488.77" Y="64900.49" A="150" T1="2" Res="A_20G_b"/>
-        <Airfield ID="8" X="43077.97" Y="48528.73" A="70" T1="2" Res="IL_4_DB3T_b"/>
-        <Airfield ID="9" X="32903.00" Y="40365.00" A="90" T1="2" Res="B_17E_b"/>
-        <Airfield ID="10" X="47290.98" Y="39998.00" A="270" T1="2" Res="IL_4_DB3F_b"/>
-        <Airfield ID="11" X="55894.56" Y="36695.37" A="270" T1="2" Res="IL_2_1940Early_b"/>
-        <Airfield ID="12" X="56588.95" Y="32432.87" A="240" T1="2" Res="IL_4_DB3T_b"/>
-        <Airfield ID="13" X="34001.00" Y="17289.00" A="60" T1="1" Res="B_24J100_g"/>
-        <Airfield ID="14" X="29366.00" Y="4053.00" A="90" T1="2" Res="TBM3AVENGER3_b"/>
-        <Airfield ID="15" X="43228.00" Y="4652.00" A="270" T1="1" Res="B_17D_g"/>
-        <Airfield ID="16" X="65261.00" Y="8100.00" A="90" T1="2" Res="A_20G_b"/>
-        <Airfield ID="17" X="72446.00" Y="22971.00" A="105" T1="2" Res="B_17D_b"/>
-        <Airfield ID="18" X="93715.00" Y="31838.00" A="45" T1="2" Res="B_17E_b"/>
-        <Airfield ID="19" X="81531.00" Y="36903.00" A="120" T1="1" Res="B_17F_g"/>
-        <Airfield ID="20" X="75621.00" Y="46683.00" A="105" T1="2" Res="B_17F_b"/>
-        <Airfield ID="21" X="69420.00" Y="56536.00" A="90" T1="2" Res="TBM3AVENGER3_b"/>
-        <Airfield ID="22" X="125929.11" Y="9791.03" A="150" T1="2" Res="IL_4_DB3T_b"/>
-        <Airfield ID="23" X="141167.00" Y="34161.00" A="90" T1="1" Res="B_17F_g"/>
-        <Airfield ID="24" X="158305.00" Y="72755.63" A="60" T1="2" Res="TBM3AVENGER3_b"/>
-        <Airfield ID="25" X="187553.00" Y="31531.00" A="135" T1="1" Res="A_20G_g"/>
-        <Airfield ID="26" X="187363.00" Y="9107.00" A="240" T1="1" Res="B_17D_g"/>
-        <Airfield ID="27" X="173611.00" Y="14032.00" A="165" T1="1" Res="A_20G_g"/>
-    </Airfields>
-    <AdvTexts>
-        <AdvText Code="Eisenhuettenstadt" DeltaX="0" DeltaY="10"/>
-        <AdvText Code="Gatow" DeltaX="32" DeltaY="0"/>
-        <AdvText Code="Schonefeld" DeltaX="40" DeltaY="0"/>
-    </AdvTexts>
+  <MisCode>Berlin</MisCode>
+  <Width>195200</Width>
+  <Height>83200</Height>
+  <Towns>
+    <MapText Code="Bernau" NameEng="Bernau" NameRus="Бернау" X="56749" Y="58307" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Boczow" NameEng="Boczow" NameRus="Божков" X="131773" Y="26407" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Debno(Neudamm)" NameEng="Debno (Neudamm)" NameRus="Дебно (Нейдамм)" X="126089" Y="65854" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Eberswalde-Finow" NameEng="Eberswalde-Finow" NameRus="Эберсвальде-Финов" X="71838" Y="74726" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Gatow" NameEng="Gatow" NameRus="Гатов" X="33105" Y="40536" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Gorzow_Wielkopolski(Landsherg)" NameEng="Gorzow Wielkopolski (Landsberg)" NameRus="Горцов Великопольский" X="155020" Y="65079" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Koenigs_Wusterhausen" NameEng="Koenigs Wusterhausen" NameRus="Кенигс-Вюстерхаузен" X="60362" Y="22766" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Kostrzyn(Kuestrin)" NameEng="Kostrzyn (Kustrin)" NameRus="Кюстрин" X="120353" Y="51510" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Luckenwalde" NameEng="Luckenwalde" NameRus="Люкенвальде" X="34443" Y="3054" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Ludwigsfelde" NameEng="Ludwigsfelde" NameRus="Людвигсфельде" X="39784" Y="23438" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Miedzyrzecz" NameEng="Miedzyrzecz" NameRus="Меджырзец" X="175079" Y="37111" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Nauen" NameEng="Nauen" NameRus="Науэн" X="18523" Y="53367" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Oranienburg" NameEng="Oranienburg" NameRus="Ораниенбург" X="38850" Y="68721" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Reeskow" NameEng="Reeskow" NameRus="Реесков" X="96904" Y="12387" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Schonefeld" NameEng="Schonefeld" NameRus="Шонефельд" X="57274" Y="31994" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Seelow" NameEng="Seelowe" NameRus="Зеелов" X="104445" Y="45514" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Sperenberg" NameEng="Sperenberg" NameRus="Шперенберг" X="46478" Y="6966" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Strzelce_Krajenskie" NameEng="Strzelce Krajenskie" NameRus="Стржельце Краенские" X="172017" Y="78178" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Sulechow" NameEng="Sulechow" NameRus="Сулешоу" X="177510" Y="3566" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Sulecin" NameEng="Sulecin" NameRus="Сулечин" X="148071" Y="36710" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Swiebodzin" NameEng="Swiebodzin" NameRus="Швиебодзин" X="171836" Y="17715" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Wriezen" NameEng="Wriezen" NameRus="Вриезен" X="90386" Y="63178" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Bad_Freienwalde" NameEng="Bad Freienwalde" NameRus="Бад Фрайенвальде" X="84710" Y="69886" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Eisenhuettenstadt" NameEng="Eisenhuettenstadt" NameRus="Айзенхюттенштадт" X="120373" Y="8868" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Falkensee" NameEng="Falkensee" NameRus="Фалькензее" X="28454" Y="47995" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Fuerstenwalde" NameEng="Fuerstenwalde" NameRus="Фюрстенвальде" X="88422" Y="29471" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Berlin" NameEng="Berlin" NameRus="Берлин" X="49259" Y="43095" Type="2" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Frankfurt_an_der_Oder" NameEng="Frankfurt an der Oder" NameRus="Франкфурт-на-Одере" X="114402" Y="27830" Type="2" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Potsdam" NameEng="Potsdam" NameRus="Потсдам" X="19528" Y="33204" Type="2" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Schwerin_an_der_Warthe" NameEng="Schwerin an der Warthe" NameRus="Сквежина-на-Варте" X="170062" Y="51268" bLevel="6" Align="1" Type="0" Color="0"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="112679.00" Y="23040.00" A="120" T1="2" Res="B_17F_b"/>
+    <Airfield ID="2" X="114218.00" Y="64731.00" A="120" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="3" X="50528.00" Y="11892.00" A="345" T1="1" Res="B_17G_g"/>
+    <Airfield ID="4" X="188107.00" Y="60247.00" A="60" T1="1" Res="B_24J100_g"/>
+    <Airfield ID="5" X="65882.00" Y="72900.00" A="75" T1="2" Res="A_20G_b"/>
+    <Airfield ID="6" X="23545.22" Y="62103.28" A="30" T1="2" Res="B_17D_b"/>
+    <Airfield ID="7" X="35488.77" Y="64900.49" A="150" T1="2" Res="A_20G_b"/>
+    <Airfield ID="8" X="43077.97" Y="48528.73" A="70" T1="2" Res="IL_4_DB3T_b"/>
+    <Airfield ID="9" X="32903.00" Y="40365.00" A="90" T1="2" Res="B_17E_b"/>
+    <Airfield ID="10" X="47290.98" Y="39998.00" A="270" T1="2" Res="IL_4_DB3F_b"/>
+    <Airfield ID="11" X="55894.56" Y="36695.37" A="270" T1="2" Res="IL_2_1940Early_b"/>
+    <Airfield ID="12" X="56588.95" Y="32432.87" A="240" T1="2" Res="IL_4_DB3T_b"/>
+    <Airfield ID="13" X="34001.00" Y="17289.00" A="60" T1="1" Res="B_24J100_g"/>
+    <Airfield ID="14" X="29366.00" Y="4053.00" A="90" T1="2" Res="TBM3AVENGER3_b"/>
+    <Airfield ID="15" X="43228.00" Y="4652.00" A="270" T1="1" Res="B_17D_g"/>
+    <Airfield ID="16" X="65261.00" Y="8100.00" A="90" T1="2" Res="A_20G_b"/>
+    <Airfield ID="17" X="72446.00" Y="22971.00" A="105" T1="2" Res="B_17D_b"/>
+    <Airfield ID="18" X="93715.00" Y="31838.00" A="45" T1="2" Res="B_17E_b"/>
+    <Airfield ID="19" X="81531.00" Y="36903.00" A="120" T1="1" Res="B_17F_g"/>
+    <Airfield ID="20" X="75621.00" Y="46683.00" A="105" T1="2" Res="B_17F_b"/>
+    <Airfield ID="21" X="69420.00" Y="56536.00" A="90" T1="2" Res="TBM3AVENGER3_b"/>
+    <Airfield ID="22" X="125929.11" Y="9791.03" A="150" T1="2" Res="IL_4_DB3T_b"/>
+    <Airfield ID="23" X="141167.00" Y="34161.00" A="90" T1="1" Res="B_17F_g"/>
+    <Airfield ID="24" X="158305.00" Y="72755.63" A="60" T1="2" Res="TBM3AVENGER3_b"/>
+    <Airfield ID="25" X="187553.00" Y="31531.00" A="135" T1="1" Res="A_20G_g"/>
+    <Airfield ID="26" X="187363.00" Y="9107.00" A="240" T1="1" Res="B_17D_g"/>
+    <Airfield ID="27" X="173611.00" Y="14032.00" A="165" T1="1" Res="A_20G_g"/>
+  </Airfields>
+  <AdvTexts>
+    <AdvText Code="Eisenhuettenstadt" DeltaX="0" DeltaY="10"/>
+    <AdvText Code="Gatow" DeltaX="32" DeltaY="0"/>
+    <AdvText Code="Schonefeld" DeltaX="40" DeltaY="0"/>
+  </AdvTexts>
 </TBaseMapSettings>

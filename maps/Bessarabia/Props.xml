@@ -1,520 +1,554 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Bessarabia</MisCode>
-    <Width>345600</Width>
-    <Height>291200</Height>
-    <Towns>
-        <MapText Code="Adjudeni" NameEng="Adjudeni" NameRus="Adjudeni" X="33100" Y="186300" Type="1"/>
-        <MapText Code="Adjudeni2" NameEng="Adjudeni" NameRus="Adjudeni" X="53400" Y="84600" Type="1"/>
-        <MapText Code="Agrokombinat" NameEng="Agrokombinat" NameRus="Agrokombinat" X="330415" Y="143985" Type="1"/>
-        <MapText Code="Alexandrovka" NameEng="Alexandrovka" NameRus="Alexandrovka" X="316700" Y="112500" Type="1"/>
-        <MapText Code="Alexandrovka2" NameEng="Alexandrovka" NameRus="Alexandrovka" X="335831" Y="144512" Type="1"/>
-        <MapText Code="Ancestovo" NameEng="Ancestovo" NameRus="Ancestovo" X="309900" Y="145700" Type="1"/>
-        <MapText Code="Arsura" NameEng="Arsura" NameRus="Arsura" X="117900" Y="165000" Type="1"/>
-        <MapText Code="Bacesti" NameEng="Bacesti" NameRus="Bacesti" X="58200" Y="166800" Type="1"/>
-        <MapText Code="Bahmutea" NameEng="Bahmutea" NameRus="Bahmutea" X="187044" Y="139038" Type="1"/>
-        <MapText Code="Baiceni" NameEng="Baiceni" NameRus="Baiceni" X="32600" Y="218000" Type="1"/>
-        <MapText Code="Bakalovo" NameEng="Bakalovo" NameRus="Bakalovo" X="275700" Y="174100" Type="1"/>
-        <MapText Code="Balauresti" NameEng="Balauresti" NameRus="Balauresti" X="126600" Y="178700" Type="1"/>
-        <MapText Code="Baltati" NameEng="Baltati" NameRus="Baltati" X="50000" Y="210100" Type="1"/>
-        <MapText Code="Bara-Targ" NameEng="Bara-Targ" NameRus="Bara-Targ" X="41200" Y="187600" Type="1"/>
-        <MapText Code="Bardar" NameEng="Bardar" NameRus="Bardar" X="165700" Y="176400" Type="1"/>
-        <MapText Code="Baurci" NameEng="Baurci" NameRus="Baurci" X="160800" Y="86300" Type="1"/>
-        <MapText Code="Belcesti" NameEng="Belcesti" NameRus="Belcesti" X="45900" Y="219100" Type="1"/>
-        <MapText Code="Belyayevska" NameEng="Belyayevska" NameRus="Belyayevska" X="285494" Y="133358" Type="1"/>
-        <MapText Code="Beresti" NameEng="Beresti" NameRus="Beresti" X="107600" Y="85200" Type="1"/>
-        <MapText Code="Berezan" NameEng="Berezan" NameRus="Berezan" X="300700" Y="139300" Type="1"/>
-        <MapText Code="Berezovka" NameEng="Berezovka" NameRus="Berezovka" X="338300" Y="211000" Type="1"/>
-        <MapText Code="Biliceni" NameEng="Biliceni" NameRus="Biliceni" X="118000" Y="258200" Type="1"/>
-        <MapText Code="Blagesti" NameEng="Blagesti" NameRus="Blagesti" X="13700" Y="151600" Type="1"/>
-        <MapText Code="Blagoyevo" NameEng="Blagoyevo" NameRus="Blagoyevo" X="316358" Y="180866" Type="1"/>
-        <MapText Code="Blishnij_Chutor" NameEng="Blishnij Chutor" NameRus="Blishnij Chutor" X="240500" Y="175400" Type="1"/>
-        <MapText Code="Blonskoye" NameEng="Blonskoye" NameRus="Blonskoye" X="301600" Y="171500" Type="1"/>
-        <MapText Code="Bogdanesti" NameEng="Bogdanesti" NameRus="Bogdanesti" X="125600" Y="102400" Type="1"/>
-        <MapText Code="Boghicea" NameEng="Boghicea" NameRus="Boghicea" X="42600" Y="191100" Type="1"/>
-        <MapText Code="Bogza" NameEng="Bogza" NameRus="Bogza" X="54200" Y="19800" Type="1"/>
-        <MapText Code="Bojila" NameEng="Bojila" NameRus="Bojila" X="59700" Y="188100" Type="1"/>
-        <MapText Code="Bolduresti" NameEng="Bolduresti" NameRus="Bolduresti" X="118800" Y="200100" Type="1"/>
-        <MapText Code="Boscana" NameEng="Boscana" NameRus="Boscana" X="191300" Y="202000" Type="1"/>
-        <MapText Code="Botesti" NameEng="Botesti" NameRus="Botesti" X="107600" Y="162900" Type="1"/>
-        <MapText Code="Bozieni" NameEng="Bozieni" NameRus="Bozieni" X="17800" Y="182000" Type="1"/>
-        <MapText Code="Bradesti" NameEng="Bradesti" NameRus="Bradesti" X="98800" Y="92400" Type="1"/>
-        <MapText Code="Bravicea" NameEng="Bravicea" NameRus="Bravicea" X="147580" Y="224897" Type="1"/>
-        <MapText Code="Braviceni" NameEng="Braviceni" NameRus="Braviceni" X="165700" Y="234700" Type="1"/>
-        <MapText Code="Bucesti-Liesti" NameEng="Bucesti-Liesti" NameRus="Bucesti-Liesti" X="77783" Y="42867" Type="1"/>
-        <MapText Code="Bucovat" NameEng="Bucovat" NameRus="Bucovat" X="150300" Y="206900" Type="1"/>
-        <MapText Code="Buda" NameEng="Buda" NameRus="Buda" X="51169" Y="198858" Type="1"/>
-        <MapText Code="Buhusi" NameEng="Buhusi" NameRus="Buhusi" X="16400" Y="155200" Type="1"/>
-        <MapText Code="Buldynka" NameEng="Buldynka" NameRus="Buldynka" X="343332" Y="149545" Type="1"/>
-        <MapText Code="Bulgarica" NameEng="Bulgarica" NameRus="Bulgarica" X="164500" Y="46700" Type="1"/>
-        <MapText Code="Butea" NameEng="Butea" NameRus="Butea" X="33000" Y="192600" Type="1"/>
-        <MapText Code="Butor" NameEng="Butor" NameRus="Butor" X="221400" Y="191600" Type="1"/>
-        <MapText Code="Buzestii_Ghica" NameEng="Buzestii Ghica" NameRus="Buzestii Ghica" X="17600" Y="179000" Type="1"/>
-        <MapText Code="Cabesti" NameEng="Cabesti" NameRus="Cabesti" X="73200" Y="97000" Type="1"/>
-        <MapText Code="Cahul" NameEng="Cahul" NameRus="Cahul" X="132500" Y="64600" Type="1"/>
-        <MapText Code="Cairaclia" NameEng="Cairaclia" NameRus="Cairaclia" X="164500" Y="50400" Type="1"/>
-        <MapText Code="Calarasi" NameEng="Calarasi" NameRus="Calarasi" X="137500" Y="214400" Type="1"/>
-        <MapText Code="Calugara" NameEng="Calugara" NameRus="Calugara" X="27400" Y="135200" Type="1"/>
-        <MapText Code="Caramahmet" NameEng="Caramahmet" NameRus="Caramahmet" X="219000" Y="25600" Type="1"/>
-        <MapText Code="Carbuna" NameEng="Carbuna" NameRus="Carbuna" X="186200" Y="154000" Type="1"/>
-        <MapText Code="Carlomanesti" NameEng="Carlomanesti" NameRus="Carlomanesti" X="85200" Y="74200" Type="1"/>
-        <MapText Code="Carpineni" NameEng="Carpineni" NameRus="Carpineni" X="140800" Y="158300" Type="1"/>
-        <MapText Code="Carpiti" NameEng="Carpiti" NameRus="Carpiti" X="83900" Y="218600" Type="1"/>
-        <MapText Code="Casin" NameEng="Casin" NameRus="Casin" X="19900" Y="96900" Type="1"/>
-        <MapText Code="Causani" NameEng="Causani" NameRus="Causani" X="222700" Y="147400" Type="1"/>
-        <MapText Code="Cazacii-Vechi" NameEng="Cazacii-Vechi" NameRus="Cazacii-Vechi" X="269100" Y="114500" Type="1"/>
-        <MapText Code="Cazangic" NameEng="Cazangic" NameRus="Cazangic" X="148700" Y="130800" Type="1"/>
-        <MapText Code="Ceadar-Lunga" NameEng="Ceadar-Lunga" NameRus="Ceadar-Lunga" X="179705" Y="80444" Type="1"/>
-        <MapText Code="Ceplenita" NameEng="Ceplenita" NameRus="Ceplenita" X="36600" Y="227400" Type="1"/>
-        <MapText Code="Chilia" NameEng="Chilia" NameRus="Chilia" X="214400" Y="13700" Type="1"/>
-        <MapText Code="Chilia-Veche" NameEng="Chilia-Veche" NameRus="Chilia-Veche" X="216500" Y="10800" Type="1"/>
-        <MapText Code="Chilieni" NameEng="Chilieni" NameRus="Chilieni" X="73465" Y="106898" Type="1"/>
-        <MapText Code="Chirca" NameEng="Chirca" NameRus="Chirca" X="199700" Y="177800" Type="1"/>
-        <MapText Code="Ciisia" NameEng="Ciisia" NameRus="Ciisia" X="182700" Y="63000" Type="1"/>
-        <MapText Code="Cimislia" NameEng="Cimislia" NameRus="Cimislia" X="176200" Y="134200" Type="1"/>
-        <MapText Code="Cioburciu" NameEng="Cioburciu" NameRus="Cioburciu" X="245600" Y="142200" Type="1"/>
-        <MapText Code="Cismeaua_Varuita" NameEng="Cismeaua Varuita" NameRus="Cismeaua Varuita" X="170000" Y="23000" Type="1"/>
-        <MapText Code="Cismele" NameEng="Cismele" NameRus="Cismele" X="227000" Y="44000" Type="1"/>
-        <MapText Code="Ciurbesti" NameEng="Ciurbesti" NameRus="Ciurbesti" X="80000" Y="195800" Type="1"/>
-        <MapText Code="Cociulia" NameEng="Cociulia" NameRus="Cociulia" X="144600" Y="115000" Type="1"/>
-        <MapText Code="Cogalnic" NameEng="Cogalnic" NameRus="Cogalnic" X="220100" Y="92100" Type="1"/>
-        <MapText Code="Colibasi" NameEng="Colibasi" NameRus="Colibasi" X="131400" Y="43600" Type="1"/>
-        <MapText Code="Colonia" NameEng="Colonia" NameRus="Colonia" X="187400" Y="190100" Type="1"/>
-        <MapText Code="Comrat" NameEng="Comrat" NameRus="Comrat" X="165200" Y="108800" Type="1"/>
-        <MapText Code="Cordun" NameEng="Cordun" NameRus="Cordun" X="31000" Y="180000" Type="1"/>
-        <MapText Code="Corhana" NameEng="Corhana" NameRus="Corhana" X="25200" Y="183800" Type="1"/>
-        <MapText Code="Cornesti_Targ" NameEng="Cornesti Targ" NameRus="Cornesti Targ" X="114300" Y="225200" Type="1"/>
-        <MapText Code="Cosernita" NameEng="Cosernita" NameRus="Cosernita" X="195400" Y="200500" Type="1"/>
-        <MapText Code="Costache_Negri" NameEng="Costache Negri" NameRus="Costache Negri" X="95600" Y="41800" Type="1"/>
-        <MapText Code="Costesti" NameEng="Costesti" NameRus="Costesti" X="172500" Y="172200" Type="1"/>
-        <MapText Code="Costuleni" NameEng="Costuleni" NameRus="Costuleni" X="107500" Y="194100" Type="1"/>
-        <MapText Code="Cotul_Chitaiului" NameEng="Cotul Chitaiului" NameRus="Cotul Chitaiului" X="205700" Y="48300" Type="1"/>
-        <MapText Code="Crinesti" NameEng="Crinesti" NameRus="Crinesti" X="34300" Y="207100" Type="1"/>
-        <MapText Code="Cristesti" NameEng="Cristesti" NameRus="Cristesti" X="5000" Y="213500" Type="1"/>
-        <MapText Code="Crucea" NameEng="Crucea" NameRus="Crucea" X="51458" Y="204177" Type="1"/>
-        <MapText Code="Cubani" NameEng="Cubani" NameRus="Cubani" X="62200" Y="270800" Type="1"/>
-        <MapText Code="Cucuteni" NameEng="Cucuteni" NameRus="Cucuteni" X="33900" Y="215600" Type="1"/>
-        <MapText Code="Cucuteni2" NameEng="Cucuteni" NameRus="Cucuteni" X="70800" Y="201900" Type="1"/>
-        <MapText Code="Cudalbi" NameEng="Cudalbi" NameRus="Cudalbi" X="92600" Y="49800" Type="1"/>
-        <MapText Code="Culevcea" NameEng="Culevcea" NameRus="Culevcea" X="264900" Y="79800" Type="1"/>
-        <MapText Code="Cuza-Voda" NameEng="Cuza-Voda" NameRus="Cuza-Voda" X="153700" Y="30200" Type="1"/>
-        <MapText Code="Dagata" NameEng="Dagata" NameRus="Dagata" X="55100" Y="177100" Type="1"/>
-        <MapText Code="Dalnik" NameEng="Dalnik" NameRus="Dalnik" X="312800" Y="129000" Type="1"/>
-        <MapText Code="Deleni" NameEng="Deleni" NameRus="Deleni" X="97600" Y="133400" Type="1"/>
-        <MapText Code="Demidova" NameEng="Demidova" NameRus="Demidova" X="321400" Y="218700" Type="1"/>
-        <MapText Code="Dezghinge" NameEng="Dezghinge" NameRus="Dezghinge" X="162800" Y="123000" Type="1"/>
-        <MapText Code="Divicia" NameEng="Divicia" NameRus="Divicia" X="269600" Y="70000" Type="1"/>
-        <MapText Code="Dochia" NameEng="Dochia" NameRus="Dochia" X="6400" Y="176200" Type="1"/>
-        <MapText Code="Dohichioi" NameEng="Dohichioi" NameRus="Dohichioi" X="188900" Y="9000" Type="1"/>
-        <MapText Code="Doljesti" NameEng="Doljesti" NameRus="Doljesti" X="35600" Y="190200" Type="1"/>
-        <MapText Code="Dorbrovat" NameEng="Dorbrovat" NameRus="Dorbrovat" X="95100" Y="181600" Type="1"/>
-        <MapText Code="Doroscani" NameEng="Doroscani" NameRus="Doroscani" X="59300" Y="201600" Type="1"/>
-        <MapText Code="Dragalisceni" NameEng="Dragalisceni" NameRus="Dragalisceni" X="174372" Y="202538" Type="1"/>
-        <MapText Code="Dranceni" NameEng="Dranceni" NameRus="Dranceni" X="122600" Y="169400" Type="1"/>
-        <MapText Code="Dubasari" NameEng="Dubasari" NameRus="Dubasari" X="205500" Y="200800" Type="1"/>
-        <MapText Code="Duda" NameEng="Duda" NameRus="Duda" X="119300" Y="158700" Type="1"/>
-        <MapText Code="Dulcesti" NameEng="Dulcesti" NameRus="Dulcesti" X="23500" Y="180600" Type="1"/>
-        <MapText Code="Dumbravita" NameEng="Dumbravita" NameRus="Dumbravita" X="27000" Y="213500" Type="1"/>
-        <MapText Code="Elisabeta" NameEng="Elisabeta" NameRus="Elisabeta" X="115000" Y="272300" Type="1"/>
-        <MapText Code="Elsas" NameEng="Elsas" NameRus="Elsas" X="281200" Y="153000" Type="1"/>
-        <MapText Code="Epureni" NameEng="Epureni" NameRus="Epureni" X="70600" Y="218400" Type="1"/>
-        <MapText Code="Epureni2" NameEng="Epureni" NameRus="Epureni" X="133900" Y="104000" Type="1"/>
-        <MapText Code="Erbiceni" NameEng="Erbiceni" NameRus="Erbiceni" X="57000" Y="212800" Type="1"/>
-        <MapText Code="Facuti" NameEng="Facuti" NameRus="Facuti" X="43500" Y="213500" Type="1"/>
-        <MapText Code="Falciu" NameEng="Falciu" NameRus="Falciu" X="127300" Y="107400" Type="1"/>
-        <MapText Code="Falesti" NameEng="Falesti" NameRus="Falesti" X="91200" Y="248600" Type="1"/>
-        <MapText Code="Fantanele" NameEng="Fantanele" NameRus="Fantanele" X="15187" Y="214183" Type="1"/>
-        <MapText Code="Faraoani" NameEng="Faraoani" NameRus="Faraoani" X="31200" Y="122200" Type="1"/>
-        <MapText Code="Faraoani2" NameEng="Faraoani" NameRus="Faraoani" X="241000" Y="112600" Type="1"/>
-        <MapText Code="Fauresti" NameEng="Fauresti" NameRus="Fauresti" X="182824" Y="204237" Type="1"/>
-        <MapText Code="Feroponteuca" NameEng="Feroponteuca" NameRus="Feroponteuca" X="176000" Y="100900" Type="1"/>
-        <MapText Code="Festilita" NameEng="Festilita" NameRus="Festilita" X="237900" Y="136500" Type="1"/>
-        <MapText Code="Filipeni" NameEng="Filipeni" NameRus="Filipeni" X="141400" Y="122900" Type="1"/>
-        <MapText Code="Flamanzeni" NameEng="Flamanzeni" NameRus="Flamanzeni" X="118100" Y="239600" Type="1"/>
-        <MapText Code="Floresti" NameEng="Floresti" NameRus="Floresti" X="85312" Y="128886" Type="1"/>
-        <MapText Code="Focuri" NameEng="Focuri" NameRus="Focuri" X="54800" Y="223600" Type="1"/>
-        <MapText Code="Fontanka" NameEng="Fontanka" NameRus="Fontanka" X="333274" Y="141175" Type="1"/>
-        <MapText Code="Franzfeld" NameEng="Franzfeld" NameRus="Franzfeld" X="295800" Y="119800" Type="1"/>
-        <MapText Code="Freudental" NameEng="Freudental" NameRus="Freudental" X="297800" Y="131400" Type="1"/>
-        <MapText Code="Frumoasa" NameEng="Frumoasa" NameRus="Frumoasa" X="3500" Y="148600" Type="1"/>
-        <MapText Code="Frumusica" NameEng="Frumusica" NameRus="Frumusica" X="60100" Y="190961" Type="1"/>
-        <MapText Code="Frumusica_Noua" NameEng="Frumusica Noua" NameRus="Frumusica Noua" X="222200" Y="105500" Type="1"/>
-        <MapText Code="Fundatura" NameEng="Fundatura" NameRus="Fundatura" X="66100" Y="104800" Type="1"/>
-        <MapText Code="Fundeni" NameEng="Fundeni" NameRus="Fundeni" X="81800" Y="23000" Type="1"/>
-        <MapText Code="Furmanca" NameEng="Furmanca" NameRus="Furmanca" X="212200" Y="34800" Type="1"/>
-        <MapText Code="Gadinti" NameEng="Gadinti" NameRus="Gadinti" X="40700" Y="178600" Type="1"/>
-        <MapText Code="Galbeni" NameEng="Galbeni" NameRus="Galbeni" X="34900" Y="125300" Type="1"/>
-        <MapText Code="Galbeni2" NameEng="Galbeni" NameRus="Galbeni" X="27400" Y="157100" Type="1"/>
-        <MapText Code="Galbenita" NameEng="Galbenita" NameRus="Galbenita" X="173800" Y="149100" Type="1"/>
-        <MapText Code="Galilesti" NameEng="Galilesti" NameRus="Galilesti" X="233822" Y="26673" Type="1"/>
-        <MapText Code="Garleni" NameEng="Garleni" NameRus="Garleni" X="24400" Y="148300" Type="1"/>
-        <MapText Code="Gen.Al.Averescu" NameEng="Gen.Al.Averescu" NameRus="Gen.Al.Averescu" X="170200" Y="9000" Type="1"/>
-        <MapText Code="Gheraesti" NameEng="Gheraesti" NameRus="Gheraesti" X="24000" Y="188000" Type="1"/>
-        <MapText Code="Ghidion" NameEng="Ghidion" NameRus="Ghidion" X="50100" Y="189600" Type="1"/>
-        <MapText Code="Gildendorf" NameEng="Gildendorf" NameRus="Gildendorf" X="327884" Y="148573" Type="1"/>
-        <MapText Code="Girov" NameEng="Girov" NameRus="Girov" X="3000" Y="180800" Type="1"/>
-        <MapText Code="Giurgesti" NameEng="Giurgesti" NameRus="Giurgesti" X="31300" Y="212900" Type="1"/>
-        <MapText Code="Glodeni" NameEng="Glodeni" NameRus="Glodeni" X="77300" Y="271200" Type="1"/>
-        <MapText Code="Gniliakovo" NameEng="Gniliakovo" NameRus="Gniliakovo" X="310000" Y="141400" Type="1"/>
-        <MapText Code="Goesti" NameEng="Goesti" NameRus="Goesti" X="48799" Y="201387" Type="1"/>
-        <MapText Code="Gradistea" NameEng="Gradistea" NameRus="Gradistea" X="173800" Y="142600" Type="1"/>
-        <MapText Code="Gross-Liebental" NameEng="Gross-Liebental" NameRus="Gross-Liebental" X="312300" Y="114700" Type="1"/>
-        <MapText Code="Gura_Galbena" NameEng="Gura Galbena" NameRus="Gura Galbena" X="168900" Y="152975" Type="1"/>
-        <MapText Code="Halaucesti" NameEng="Halaucesti" NameRus="Halaucesti" X="24300" Y="195600" Type="1"/>
-        <MapText Code="Hancesti" NameEng="Hancesti" NameRus="Hancesti" X="161100" Y="167800" Type="1"/>
-        <MapText Code="Handresti" NameEng="Handresti" NameRus="Handresti" X="39700" Y="196800" Type="1"/>
-        <MapText Code="Harlau" NameEng="Harlau" NameRus="Harlau" X="32500" Y="232500" Type="1"/>
-        <MapText Code="Harmanesti" NameEng="Harmanesti" NameRus="Harmanesti" X="24400" Y="215400" Type="1"/>
-        <MapText Code="Harparesti" NameEng="Harparesti" NameRus="Harparesti" X="60999" Y="201050" Type="1"/>
-        <MapText Code="Hartopul_Mare" NameEng="Hartopul Mare" NameRus="Hartopul Mare" X="185800" Y="210800" Type="1"/>
-        <MapText Code="Hartopul_Mic" NameEng="Hartopul Mic" NameRus="Hartopul Mic" X="185200" Y="213300" Type="1"/>
-        <MapText Code="Helegiu" NameEng="Helegiu" NameRus="Helegiu" X="19400" Y="113200" Type="1"/>
-        <MapText Code="Helestieni" NameEng="Helestieni" NameRus="Helestieni" X="29900" Y="207400" Type="1"/>
-        <MapText Code="Hoceni" NameEng="Hoceni" NameRus="Hoceni" X="117400" Y="134200" Type="1"/>
-        <MapText Code="Hociungi" NameEng="Hociungi" NameRus="Hociungi" X="22400" Y="165800" Type="1"/>
-        <MapText Code="Hodora" NameEng="Hodora" NameRus="Hodora" X="40200" Y="222600" Type="1"/>
-        <MapText Code="Hoefe" NameEng="Hoefe" NameRus="Hoefe" X="182100" Y="189300" Type="1"/>
-        <MapText Code="Hoisesti" NameEng="Hoisesti" NameRus="Hoisesti" X="15400" Y="171600" Type="1"/>
-        <MapText Code="Iabloeni" NameEng="Iabloeni" NameRus="Iabloeni" X="83237" Y="276272" Type="1"/>
-        <MapText Code="Ialoveni" NameEng="Ialoveni" NameRus="Ialoveni" X="174200" Y="179400" Type="1"/>
-        <MapText Code="Iaski" NameEng="Iaski" NameRus="Iaski" X="276900" Y="134600" Type="1"/>
-        <MapText Code="Insula_Serpilor" NameEng="Insula Serpilor" NameRus="Insula Serpilor" X="285955" Y="4097" Type="1"/>
-        <MapText Code="Ion_G_Duca" NameEng="Ion G. Duca" NameRus="Ion G. Duca" X="140400" Y="256600" Type="1"/>
-        <MapText Code="Isbrieni" NameEng="Isbrieni" NameRus="Isbrieni" X="240000" Y="21600" Type="1"/>
-        <MapText Code="Isnovat" NameEng="Isnovat" NameRus="Isnovat" X="180200" Y="211400" Type="1"/>
-        <MapText Code="Ivanestii_Vechi" NameEng="Ivanestii Vechi" NameRus="Ivanestii Vechi" X="251900" Y="118800" Type="1"/>
-        <MapText Code="Kagarlik" NameEng="Kagarlik" NameRus="Kagarlik" X="282700" Y="142100" Type="1"/>
-        <MapText Code="Karagash" NameEng="Karagash" NameRus="Karagash" X="245600" Y="163800" Type="1"/>
-        <MapText Code="Karpova" NameEng="Karpova" NameRus="Karpova" X="292200" Y="152300" Type="1"/>
-        <MapText Code="Katarshino" NameEng="Katarshino" NameRus="Katarshino" X="290600" Y="190600" Type="1"/>
-        <MapText Code="Klein-Liebental" NameEng="Klein-Liebental" NameRus="Klein-Liebental" X="316096" Y="118980" Type="1"/>
-        <MapText Code="Kolkotova_Balka" NameEng="Kolkotova Balka" NameRus="Kolkotova Balka" X="242800" Y="170300" Type="1"/>
-        <MapText Code="Korsunty" NameEng="Korsunty" NameRus="Korsunty" X="328900" Y="145500" Type="1"/>
-        <MapText Code="Kotovsk" NameEng="Kotovsk" NameRus="Kotovsk" X="230000" Y="269600" Type="1"/>
-        <MapText Code="Krasnoe_Yachimovka" NameEng="Krasnoe Yachimovka" NameRus="Krasnoe Yachimovka" X="296300" Y="117800" Type="1"/>
-        <MapText Code="Krasny_Perselenet" NameEng="Krasny Perselenet" NameRus="Krasny Perselenet" X="305600" Y="127600" Type="1"/>
-        <MapText Code="Kubanka" NameEng="Kubanka" NameRus="Kubanka" X="325800" Y="154400" Type="1"/>
-        <MapText Code="Lapusna" NameEng="Lapusna" NameRus="Lapusna" X="146800" Y="173400" Type="1"/>
-        <MapText Code="Larguta" NameEng="Larguta" NameRus="Larguta" X="141400" Y="108200" Type="1"/>
-        <MapText Code="Leipzig" NameEng="Leipzig" NameRus="Leipzig" X="194700" Y="108600" Type="1"/>
-        <MapText Code="Lespezi" NameEng="Lespezi" NameRus="Lespezi" X="15000" Y="225000" Type="1"/>
-        <MapText Code="Letcani" NameEng="Letcani" NameRus="Letcani" X="69800" Y="206500" Type="1"/>
-        <MapText Code="Leuseni" NameEng="Leuseni" NameRus="Leuseni" X="130600" Y="164600" Type="1"/>
-        <MapText Code="Limbeni-Vechii" NameEng="Limbeni-Vechii" NameRus="Limbeni-Vechii" X="85200" Y="261000" Type="1"/>
-        <MapText Code="Liteni" NameEng="Liteni" NameRus="Liteni" X="42100" Y="218300" Type="1"/>
-        <MapText Code="Lozova" NameEng="Lozova" NameRus="Lozova" X="141000" Y="201000" Type="1"/>
-        <MapText Code="Lugani" NameEng="Lugani" NameRus="Lugani" X="24300" Y="190100" Type="1"/>
-        <MapText Code="Lunca" NameEng="Lunca" NameRus="Lunca" X="55154" Y="131694" Type="1"/>
-        <MapText Code="Luncani" NameEng="Luncani" NameRus="Luncani" X="20000" Y="142600" Type="1"/>
-        <MapText Code="Macaresti" NameEng="Macaresti" NameRus="Macaresti" X="113000" Y="190400" Type="1"/>
-        <MapText Code="Madarjac" NameEng="Madarjac" NameRus="Madarjac" X="58000" Y="190585" Type="1"/>
-        <MapText Code="Mandresti" NameEng="Mandresti" NameRus="Mandresti" X="134800" Y="241900" Type="1"/>
-        <MapText Code="Mannheim" NameEng="Mannheim" NameRus="Mannheim" X="285500" Y="146600" Type="1"/>
-        <MapText Code="Manza" NameEng="Manza" NameRus="Manza" X="233300" Y="118500" Type="1"/>
-        <MapText Code="Manzalesti" NameEng="Manzalesti" NameRus="Manzalesti" X="117336" Y="229166" Type="1"/>
-        <MapText Code="Manzar" NameEng="Manzar" NameRus="Manzar" X="217300" Y="127200" Type="1"/>
-        <MapText Code="Marasesti" NameEng="Marasesti" NameRus="Marasesti" X="56800" Y="61000" Type="1"/>
-        <MapText Code="Marcauti" NameEng="Marcauti" NameRus="Marcauti" X="195400" Y="225800" Type="1"/>
-        <MapText Code="Mariental" NameEng="Mariental" NameRus="Mariental" X="305800" Y="123000" Type="1"/>
-        <MapText Code="Matca" NameEng="Matca" NameRus="Matca" X="81241" Y="57969" Type="1"/>
-        <MapText Code="Medeleni" NameEng="Medeleni" NameRus="Medeleni" X="90800" Y="217800" Type="1"/>
-        <MapText Code="Mereni" NameEng="Mereni" NameRus="Mereni" X="194200" Y="181900" Type="1"/>
-        <MapText Code="Miclauseni" NameEng="Miclauseni" NameRus="Miclauseni" X="33700" Y="195900" Type="1"/>
-        <MapText Code="Miclauseni2" NameEng="Miclauseni" NameRus="Miclauseni" X="137500" Y="199000" Type="1"/>
-        <MapText Code="Micsuneni" NameEng="Micsuneni" NameRus="Micsuneni" X="18200" Y="174700" Type="1"/>
-        <MapText Code="Mikhailovka" NameEng="Mikhailovka" NameRus="Mikhailovka" X="292100" Y="150000" Type="1"/>
-        <MapText Code="Mingir" NameEng="Mingir" NameRus="Mingir" X="140800" Y="148600" Type="1"/>
-        <MapText Code="Mircesti" NameEng="Mircesti" NameRus="Mircesti" X="25800" Y="192400" Type="1"/>
-        <MapText Code="Miron_Costin" NameEng="Miron Costin" NameRus="Miron Costin" X="25800" Y="177000" Type="1"/>
-        <MapText Code="Moldova" NameEng="Moldova" NameRus="Moldova" X="256400" Y="115400" Type="1"/>
-        <MapText Code="Molesti" NameEng="Molesti" NameRus="Molesti" X="173800" Y="162200" Type="1"/>
-        <MapText Code="Moruzeni" NameEng="Moruzeni" NameRus="Moruzeni" X="163200" Y="227600" Type="1"/>
-        <MapText Code="Motca" NameEng="Motca" NameRus="Motca" X="8600" Y="212200" Type="1"/>
-        <MapText Code="Munteni" NameEng="Munteni" NameRus="Munteni" X="49647" Y="221388" Type="1"/>
-        <MapText Code="Negresti" NameEng="Negresti" NameRus="Negresti" X="75000" Y="167200" Type="1"/>
-        <MapText Code="Nemteni" NameEng="Nemteni" NameRus="Nemteni" X="125100" Y="175400" Type="1"/>
-        <MapText Code="Nesavertailovka" NameEng="Nesavertailovka" NameRus="Nesavertailovka" X="270500" Y="144400" Type="1"/>
-        <MapText Code="Nicolaeni" NameEng="Nicolaeni" NameRus="Nicolaeni" X="222700" Y="118000" Type="1"/>
-        <MapText Code="Nikolajevka_II" NameEng="Nikolajevka II" NameRus="Nikolajevka II" X="326600" Y="248600" Type="1"/>
-        <MapText Code="Nisiporeni" NameEng="Nisiporeni" NameRus="Nisiporeni" X="128800" Y="194200" Type="1"/>
-        <MapText Code="Novo_Grigorjevka" NameEng="Novo Grigorjevka" NameRus="Novo Grigorjevka" X="264552" Y="273611" Type="1"/>
-        <MapText Code="Oancea" NameEng="Oancea" NameRus="Oancea" X="125600" Y="66200" Type="1"/>
-        <MapText Code="Obileni" NameEng="Obileni" NameRus="Obileni" X="125100" Y="171400" Type="1"/>
-        <MapText Code="Obrijeni" NameEng="Obrijeni" NameRus="Obrijeni" X="54900" Y="201700" Type="1"/>
-        <MapText Code="Odaia-Bursucani" NameEng="Odaia-Bursucani" NameRus="Odaia-Bursucani" X="93900" Y="91400" Type="1"/>
-        <MapText Code="Oituz" NameEng="Oituz" NameRus="Oituz" X="11500" Y="96800" Type="1"/>
-        <MapText Code="Olanesti" NameEng="Olanesti" NameRus="Olanesti" X="264100" Y="131435" Type="1"/>
-        <MapText Code="Onesti" NameEng="Onesti" NameRus="Onesti" X="20400" Y="101100" Type="1"/>
-        <MapText Code="Orac" NameEng="Orac" NameRus="Orac" X="152200" Y="148400" Type="1"/>
-        <MapText Code="Orhei" NameEng="Orhei" NameRus="Orhei" X="177043" Y="226452" Type="1"/>
-        <MapText Code="Ostradovka" NameEng="Ostradovka" NameRus="Ostradovka" X="301600" Y="152000" Type="1"/>
-        <MapText Code="Ostrovka" NameEng="Ostrovka" NameRus="Ostrovka" X="302600" Y="242600" Type="1"/>
-        <MapText Code="Oteleni" NameEng="Oteleni" NameRus="Oteleni" X="39900" Y="192100" Type="1"/>
-        <MapText Code="Ovidiopol" NameEng="Ovidiopol" NameRus="Ovidiopol" X="304600" Y="106000" Type="1"/>
-        <MapText Code="Paleyevka" NameEng="Paleyevka" NameRus="Paleyevka" X="304000" Y="147200" Type="1"/>
-        <MapText Code="Pardina" NameEng="Pardina" NameRus="Pardina" X="223100" Y="21600" Type="1"/>
-        <MapText Code="Parkany" NameEng="Parkany" NameRus="Parkany" X="232200" Y="171600" Type="1"/>
-        <MapText Code="Pascani" NameEng="Pascani" NameRus="Pascani" X="16226" Y="212969" Type="1"/>
-        <MapText Code="Paunesti" NameEng="Paunesti" NameRus="Paunesti" X="47000" Y="78000" Type="1"/>
-        <MapText Code="Pavlovka" NameEng="Pavlovka" NameRus="Pavlovka" X="233200" Y="213000" Type="1"/>
-        <MapText Code="Pechea" NameEng="Pechea" NameRus="Pechea" X="101600" Y="32400" Type="1"/>
-        <MapText Code="Perescina" NameEng="Perescina" NameRus="Perescina" X="173700" Y="214200" Type="1"/>
-        <MapText Code="Peterstal" NameEng="Peterstal" NameRus="Peterstal" X="301200" Y="127800" Type="1"/>
-        <MapText Code="Petra_Evdokievka" NameEng="Petra Evdokievka" NameRus="Petra Evdokievka" X="281000" Y="167600" Type="1"/>
-        <MapText Code="Plahtaevca" NameEng="Plahtaevca" NameRus="Plahtaevca" X="250000" Y="88100" Type="1"/>
-        <MapText Code="Podoleni" NameEng="Podoleni" NameRus="Podoleni" X="10800" Y="163600" Type="1"/>
-        <MapText Code="Podul_Iloaiei" NameEng="Podul Iloaiei" NameRus="Podul Iloaiei" X="60108" Y="209300" Type="1"/>
-        <MapText Code="Poenari" NameEng="Poenari" NameRus="Poenari" X="50200" Y="172800" Type="1"/>
-        <MapText Code="Polieni" NameEng="Polieni" NameRus="Polieni" X="44800" Y="216800" Type="1"/>
-        <MapText Code="Ponyatovka" NameEng="Ponyatovka" NameRus="Ponyatovka" X="279600" Y="177000" Type="1"/>
-        <MapText Code="Popesti" NameEng="Popesti" NameRus="Popesti" X="58349" Y="202799" Type="1"/>
-        <MapText Code="Porumbesti" NameEng="Porumbesti" NameRus="Porumbesti" X="138200" Y="109300" Type="1"/>
-        <MapText Code="Principele_Carol" NameEng="Principele Carol" NameRus="Principele Carol" X="137600" Y="167200" Type="1"/>
-        <MapText Code="Puesti" NameEng="Puesti" NameRus="Puesti" X="78264" Y="120121" Type="1"/>
-        <MapText Code="Puhoi" NameEng="Puhoi" NameRus="Puhoi" X="192800" Y="166400" Type="1"/>
-        <MapText Code="Racova" NameEng="Racova" NameRus="Racova" X="20000" Y="153200" Type="1"/>
-        <MapText Code="Radiu" NameEng="Radiu" NameRus="Radiu" X="28700" Y="211900" Type="1"/>
-        <MapText Code="Ramnicul_Sarat" NameEng="Ramnicul Sarat" NameRus="Ramnicul Sarat" X="42400" Y="5800" Type="1"/>
-        <MapText Code="Rascaeti" NameEng="Rascaeti" NameRus="Rascaeti" X="250200" Y="139400" Type="1"/>
-        <MapText Code="Rascanovca" NameEng="Rascanovca" NameRus="Rascanovca" X="181200" Y="190000" Type="1"/>
-        <MapText Code="Rasdelnaia" NameEng="Rasdelnaia" NameRus="Rasdelnaia" X="272300" Y="170800" Type="1"/>
-        <MapText Code="Razesti" NameEng="Razesti" NameRus="Razesti" X="143400" Y="112000" Type="1"/>
-        <MapText Code="Redeni" NameEng="Redeni" NameRus="Redeni" X="130008" Y="230690" Type="1"/>
-        <MapText Code="Regele_Carol_II" NameEng="Regele Carol II" NameRus="Regele Carol II" X="192600" Y="28700" Type="1"/>
-        <MapText Code="Reni" NameEng="Reni" NameRus="Reni" X="139800" Y="14800" Type="1"/>
-        <MapText Code="Romanesti" NameEng="Romanesti" NameRus="Romanesti" X="188600" Y="112700" Type="1"/>
-        <MapText Code="Romani" NameEng="Romani" NameRus="Romani" X="135000" Y="78200" Type="1"/>
-        <MapText Code="Rosnov" NameEng="Rosnov" NameRus="Rosnov" X="3600" Y="169600" Type="1"/>
-        <MapText Code="Rotunda" NameEng="Rotunda" NameRus="Rotunda" X="34800" Y="187600" Type="1"/>
-        <MapText Code="Ruginoasa" NameEng="Ruginoasa" NameRus="Ruginoasa" X="26023" Y="212182" Type="1"/>
-        <MapText Code="Runca" NameEng="Runca" NameRus="Runca" X="61900" Y="185700" Type="1"/>
-        <MapText Code="Ruseni" NameEng="Ruseni" NameRus="Ruseni" X="2800" Y="160500" Type="1"/>
-        <MapText Code="Rusestii-Noi" NameEng="Rusestii-Noi" NameRus="Rusestii-Noi" X="164300" Y="178500" Type="1"/>
-        <MapText Code="Sabaoani" NameEng="Sabaoani" NameRus="Sabaoani" X="26900" Y="186400" Type="1"/>
-        <MapText Code="Sagani" NameEng="Sagani" NameRus="Sagani" X="254700" Y="41200" Type="1"/>
-        <MapText Code="Sagna" NameEng="Sagna" NameRus="Sagna" X="40400" Y="182300" Type="1"/>
-        <MapText Code="Sahaidac" NameEng="Sahaidac" NameRus="Sahaidac" X="179300" Y="148400" Type="1"/>
-        <MapText Code="Sanduleni" NameEng="Sanduleni" NameRus="Sanduleni" X="19800" Y="123900" Type="1"/>
-        <MapText Code="Sarata" NameEng="Sarata" NameRus="Sarata" X="245300" Y="79700" Type="1"/>
-        <MapText Code="Sarata-Galbena" NameEng="Sarata-Galbena" NameRus="Sarata-Galbena" X="152600" Y="157100" Type="1"/>
-        <MapText Code="Sarateni" NameEng="Sarateni" NameRus="Sarateni" X="153700" Y="142100" Type="1"/>
-        <MapText Code="Saratica-Noua" NameEng="Saratica-Noua" NameRus="Saratica-Noua" X="156000" Y="138600" Type="1"/>
-        <MapText Code="Sarca" NameEng="Sarca" NameRus="Sarca" X="52800" Y="210700" Type="1"/>
-        <MapText Code="Satul-Nou" NameEng="Satul-Nou" NameRus="Satul-Nou" X="128000" Y="115200" Type="1"/>
-        <MapText Code="Scanteia" NameEng="Scanteia" NameRus="Scanteia" X="83900" Y="176600" Type="1"/>
-        <MapText Code="Scobalteni" NameEng="Scobalteni" NameRus="Scobalteni" X="59800" Y="207300" Type="1"/>
-        <MapText Code="Scoposeni" NameEng="Scoposeni" NameRus="Scoposeni" X="122100" Y="174000" Type="1"/>
-        <MapText Code="Scorteni" NameEng="Scorteni" NameRus="Scorteni" X="13100" Y="136500" Type="1"/>
-        <MapText Code="Sculeni" NameEng="Sculeni" NameRus="Sculeni" X="85800" Y="221800" Type="1"/>
-        <MapText Code="Secueni" NameEng="Secueni" NameRus="Secueni" X="27800" Y="168900" Type="1"/>
-        <MapText Code="Secueni2" NameEng="Secueni" NameRus="Secueni" X="44072" Y="145340" Type="1"/>
-        <MapText Code="Serpeni" NameEng="Serpeni" NameRus="Serpeni" X="218600" Y="189500" Type="1"/>
-        <MapText Code="Severinovka" NameEng="Severinovka" NameRus="Severinovka" X="311700" Y="167800" Type="1"/>
-        <MapText Code="Shibka" NameEng="Shibka" NameRus="Shibka" X="228800" Y="204600" Type="1"/>
-        <MapText Code="Shitul-Duca" NameEng="Shitul-Duca" NameRus="Shitul-Duca" X="96400" Y="189200" Type="1"/>
-        <MapText Code="Simionesti" NameEng="Simionesti" NameRus="Simionesti" X="28900" Y="181700" Type="1"/>
-        <MapText Code="Sinesti" NameEng="Sinesti" NameRus="Sinesti" X="52800" Y="198000" Type="1"/>
-        <MapText Code="Sipopteni" NameEng="Sipopteni" NameRus="Sipopteni" X="128800" Y="216400" Type="1"/>
-        <MapText Code="Slanic" NameEng="Slanic" NameRus="Slanic" X="3200" Y="102500" Type="1"/>
-        <MapText Code="Slobocia" NameEng="Slobocia" NameRus="Slobocia" X="69231" Y="121501" Type="1"/>
-        <MapText Code="Slobozia" NameEng="Slobozia" NameRus="Slobozia" X="46900" Y="191500" Type="1"/>
-        <MapText Code="Slobozia-Ganeasca" NameEng="Slobozia-Ganeasca" NameRus="Slobozia-Ganeasca" X="249852" Y="133664" Type="1"/>
-        <MapText Code="Slobozia-Mare" NameEng="Slobozia-Mare" NameRus="Slobozia-Mare" X="131000" Y="27600" Type="1"/>
-        <MapText Code="Slobozia-Moldoveneasca" NameEng="Slobozia-Moldoveneasca" NameRus="Slobozia-Moldoveneasca" X="247400" Y="158800" Type="1"/>
-        <MapText Code="Slobozia-Ruseasca" NameEng="Slobozia-Ruseasca" NameRus="Slobozia-Ruseasca" X="247800" Y="155800" Type="1"/>
-        <MapText Code="Smulti" NameEng="Smulti" NameRus="Smulti" X="97800" Y="67600" Type="1"/>
-        <MapText Code="Sofian" NameEng="Sofian" NameRus="Sofian" X="185279" Y="9134" Type="1"/>
-        <MapText Code="Sofievka" NameEng="Sofievka" NameRus="Sofievka" X="290800" Y="81500" Type="1"/>
-        <MapText Code="Speja" NameEng="Speja" NameRus="Speja" X="217400" Y="186800" Type="1"/>
-        <MapText Code="Ssukleja" NameEng="Ssukleja" NameRus="Ssukleja" X="243800" Y="168800" Type="1"/>
-        <MapText Code="Stanca" NameEng="Stanca" NameRus="Stanca" X="82700" Y="217600" Type="1"/>
-        <MapText Code="Stanilesti" NameEng="Stanilesti" NameRus="Stanilesti" X="129900" Y="143000" Type="1"/>
-        <MapText Code="Staraya-Dofinovka" NameEng="Staraya-Dofinovka" NameRus="Staraya-Dofinovka" X="338980" Y="146659" Type="1"/>
-        <MapText Code="Station_5" NameEng="Station 5" NameRus="Station 5" X="96914" Y="256051" Type="1"/>
-        <MapText Code="Stefanesti" NameEng="Stefanesti" NameRus="Stefanesti" X="52800" Y="273200" Type="1"/>
-        <MapText Code="Stoenesti" NameEng="Stoenesti" NameRus="Stoenesti" X="129300" Y="103500" Type="1"/>
-        <MapText Code="Stornesti" NameEng="Stornesti" NameRus="Stornesti" X="51200" Y="198100" Type="1"/>
-        <MapText Code="Straseni" NameEng="Straseni" NameRus="Straseni" X="161200" Y="201800" Type="1"/>
-        <MapText Code="Strassburg" NameEng="Strassburg" NameRus="Strassburg" X="268100" Y="157200" Type="1"/>
-        <MapText Code="Strunga" NameEng="Strunga" NameRus="Strunga" X="34500" Y="204200" Type="1"/>
-        <MapText Code="Sturzeni" NameEng="Sturzeni" NameRus="Sturzeni" X="214100" Y="123300" Type="1"/>
-        <MapText Code="Sturzesti" NameEng="Sturzesti" NameRus="Sturzesti" X="92732" Y="274558" Type="1"/>
-        <MapText Code="Tabacul" NameEng="Tabacul" NameRus="Tabacul" X="164300" Y="44400" Type="1"/>
-        <MapText Code="Tanacul" NameEng="Tanacul" NameRus="Tanacul" X="102300" Y="150200" Type="1"/>
-        <MapText Code="Taraclia" NameEng="Taraclia" NameRus="Taraclia" X="170000" Y="64500" Type="1"/>
-        <MapText Code="Taraclia2" NameEng="Taraclia" NameRus="Taraclia" X="201600" Y="139000" Type="1"/>
-        <MapText Code="Targul_Frumos" NameEng="Targul Frumos" NameRus="Targul Frumos" X="40600" Y="208000" Type="1"/>
-        <MapText Code="Targul_Ocna" NameEng="Targul Ocna" NameRus="Targul Ocna" X="8500" Y="105800" Type="1"/>
-        <MapText Code="Tarutino" NameEng="Tarutino" NameRus="Tarutino" X="203600" Y="97400" Type="1"/>
-        <MapText Code="Tatar_Bunar" NameEng="Tatar Bunar" NameRus="Tatar Bunar" X="242000" Y="57600" Type="1"/>
-        <MapText Code="Tatarca" NameEng="Tatarca" NameRus="Tatarca" X="316800" Y="123600" Type="1"/>
-        <MapText Code="Ternovka" NameEng="Ternovka" NameRus="Ternovka" X="232800" Y="169400" Type="1"/>
-        <MapText Code="Tetcani" NameEng="Tetcani" NameRus="Tetcani" X="25700" Y="188800" Type="1"/>
-        <MapText Code="Tibani" NameEng="Tibani" NameRus="Tibani" X="66800" Y="184300" Type="1"/>
-        <MapText Code="Tibirca" NameEng="Tibirca" NameRus="Tibirca" X="142200" Y="227100" Type="1"/>
-        <MapText Code="Tiganca" NameEng="Tiganca" NameRus="Tiganca" X="128700" Y="100000" Type="1"/>
-        <MapText Code="Tigheci" NameEng="Tigheci" NameRus="Tigheci" X="145300" Y="117600" Type="1"/>
-        <MapText Code="Tipala" NameEng="Tipala" NameRus="Tipala" X="188000" Y="167300" Type="1"/>
-        <MapText Code="Tiskolung" NameEng="Tiskolung" NameRus="Tiskolung" X="213478" Y="229919" Type="1"/>
-        <MapText Code="Tocuz" NameEng="Tocuz" NameRus="Tocuz" X="212800" Y="133000" Type="1"/>
-        <MapText Code="Todiresti" NameEng="Todiresti" NameRus="Todiresti" X="26100" Y="221100" Type="1"/>
-        <MapText Code="Tomal" NameEng="Tomal" NameRus="Tomal" X="176100" Y="96100" Type="1"/>
-        <MapText Code="Topaly" NameEng="Topaly" NameRus="Topaly" X="214400" Y="253200" Type="1"/>
-        <MapText Code="Troiskoje" NameEng="Troiskoje" NameRus="Troiskoje" X="272200" Y="137800" Type="1"/>
-        <MapText Code="Truseni" NameEng="Truseni" NameRus="Truseni" X="166488" Y="193597" Type="1"/>
-        <MapText Code="Tupilati" NameEng="Tupilati" NameRus="Tupilati" X="11600" Y="194600" Type="1"/>
-        <MapText Code="Ungheni" NameEng="Ungheni" NameRus="Ungheni" X="99900" Y="205400" Type="1"/>
-        <MapText Code="Urlati" NameEng="Urlati" NameRus="Urlati" X="120500" Y="137400" Type="1"/>
-        <MapText Code="Vadul_lui_Isac" NameEng="Vadul lui Isac" NameRus="Vadul lui Isac" X="130700" Y="49000" Type="1"/>
-        <MapText Code="Vajni" NameEng="Vajni" NameRus="Vajni" X="302600" Y="140500" Type="1"/>
-        <MapText Code="Vakarzhany" NameEng="Vakarzhany" NameRus="Vakarzhany" X="302400" Y="133500" Type="1"/>
-        <MapText Code="Valcinei" NameEng="Valcinei" NameRus="Valcinei" X="123400" Y="215100" Type="1"/>
-        <MapText Code="Valcov" NameEng="Valcov" NameRus="Valcov" X="238200" Y="8200" Type="1"/>
-        <MapText Code="Valea_lui_Ion" NameEng="Valea lui Ion" NameRus="Valea lui Ion" X="9200" Y="151600" Type="1"/>
-        <MapText Code="Valea_Mare" NameEng="Valea Mare" NameRus="Valea Mare" X="104500" Y="200200" Type="1"/>
-        <MapText Code="Valea_Oilor" NameEng="Valea Oilor" NameRus="Valea Oilor" X="46700" Y="212000" Type="1"/>
-        <MapText Code="Valea_Seaca" NameEng="Valea Seaca" NameRus="Valea Seaca" X="12500" Y="217500" Type="1"/>
-        <MapText Code="Valegozulovo" NameEng="Valegozulovo" NameRus="Valegozulovo" X="260600" Y="245700" Type="1"/>
-        <MapText Code="Vapnyarka" NameEng="Vapnyarka" NameRus="Vapnyarka" X="333800" Y="141918" Type="1"/>
-        <MapText Code="Varlezi" NameEng="Varlezi" NameRus="Varlezi" X="105100" Y="63900" Type="1"/>
-        <MapText Code="Varzaresti" NameEng="Varzaresti" NameRus="Varzaresti" X="129000" Y="197200" Type="1"/>
-        <MapText Code="Vascani" NameEng="Vascani" NameRus="Vascani" X="28900" Y="215000" Type="1"/>
-        <MapText Code="Vascauti" NameEng="Vascauti" NameRus="Vascauti" X="195600" Y="235000" Type="1"/>
-        <MapText Code="Vasilyevka" NameEng="Vasilyevka" NameRus="Vasilyevka" X="290900" Y="143400" Type="1"/>
-        <MapText Code="Vaslui" NameEng="Vaslui" NameRus="Vaslui" X="95200" Y="144800" Type="1"/>
-        <MapText Code="Vedenic" NameEng="Vedenic" NameRus="Vedenic" X="235200" Y="94100" Type="1"/>
-        <MapText Code="Viisoara" NameEng="Viisoara" NameRus="Viisoara" X="12700" Y="106400" Type="1"/>
-        <MapText Code="Voinesti" NameEng="Voinesti" NameRus="Voinesti" X="70600" Y="193400" Type="1"/>
-        <MapText Code="Volintiri" NameEng="Volintiri" NameRus="Volintiri" X="239800" Y="123355" Type="1"/>
-        <MapText Code="Vorniceni" NameEng="Vorniceni" NameRus="Vorniceni" X="146800" Y="202200" Type="1"/>
-        <MapText Code="Voronkovo" NameEng="Voronkovo" NameRus="Voronkovo" X="198200" Y="265200" Type="1"/>
-        <MapText Code="Vradiyeka" NameEng="Vradiyeka" NameRus="Vradiyeka" X="313900" Y="282200" Type="1"/>
-        <MapText Code="Vulcanesti" NameEng="Vulcanesti" NameRus="Vulcanesti" X="147400" Y="40600" Type="1"/>
-        <MapText Code="Vulturul" NameEng="Vulturul" NameRus="Vulturul" X="71736" Y="31956" Type="1"/>
-        <MapText Code="Vutcani" NameEng="Vutcani" NameRus="Vutcani" X="112300" Y="126000" Type="1"/>
-        <MapText Code="Vygoda" NameEng="Vygoda" NameRus="Vygoda" X="299300" Y="144400" Type="1"/>
-        <MapText Code="Zahaicani" NameEng="Zahaicani" NameRus="Zahaicani" X="153400" Y="244300" Type="1"/>
-        <MapText Code="Zahorna" NameEng="Zahorna" NameRus="Zahorna" X="72700" Y="214000" Type="1"/>
-        <MapText Code="Zanesti" NameEng="Zanesti" NameRus="Zanesti" X="133000" Y="77200" Type="1"/>
-        <MapText Code="Zatyshte" NameEng="Zatyshte" NameRus="Zatyshte" X="256620" Y="223264" Type="1"/>
-        <MapText Code="Zberoaia" NameEng="Zberoaia" NameRus="Zberoaia" X="124300" Y="182000" Type="1"/>
-        <MapText Code="Zebrikovo" NameEng="Zebrikovo" NameRus="Zebrikovo" X="274300" Y="203300" Type="1"/>
-        <MapText Code="Zembreni" NameEng="Zembreni" NameRus="Zembreni" X="178600" Y="168000" Type="1"/>
-        <MapText Code="Zgardesti" NameEng="Zgardesti" NameRus="Zgardesti" X="129100" Y="244700" Type="1"/>
-        <MapText Code="Zmeu" NameEng="Zmeu" NameRus="Zmeu" X="52800" Y="206000" Type="1"/>
-        <MapText Code="Akerman" NameEng="Akerman" NameRus="Akerman" X="296341" Y="99411" Type="2"/>
-        <MapText Code="Ananyev" NameEng="Ananyev" NameRus="Ananyev" X="261200" Y="269000" Type="2"/>
-        <MapText Code="Bacau" NameEng="Bacau" NameRus="Bacau" X="33000" Y="137800" Type="2"/>
-        <MapText Code="Balti" NameEng="Balti" NameRus="Balti" X="107647" Y="269800" Type="2"/>
-        <MapText Code="Barlad" NameEng="Barlad" NameRus="Barlad" X="91000" Y="99500" Type="2"/>
-        <MapText Code="Bolgrad" NameEng="Bolgrad" NameRus="Bolgrad" X="164600" Y="39000" Type="2"/>
-        <MapText Code="Botosani" NameEng="Botosani" NameRus="Botosani" X="12500" Y="269000" Type="2"/>
-        <MapText Code="Dubossary" NameEng="Dubossary" NameRus="Dubossary" X="204794" Y="215302" Type="2"/>
-        <MapText Code="Focsani" NameEng="Focsani" NameRus="Focsani" X="53300" Y="41000" Type="2"/>
-        <MapText Code="Galati" NameEng="Galati" NameRus="Galati" X="121500" Y="13200" Type="2"/>
-        <MapText Code="Grigoriopol" NameEng="Grigoriopol" NameRus="Grigoriopol" X="213800" Y="202000" Type="2"/>
-        <MapText Code="Husi" NameEng="Husi" NameRus="Husi" X="120400" Y="150200" Type="2"/>
-        <MapText Code="Iasi" NameEng="Iasi" NameRus="Iasi" X="82600" Y="203400" Type="2"/>
-        <MapText Code="Ismail" NameEng="Ismail" NameRus="Ismail" X="182400" Y="2700" Type="2"/>
-        <MapText Code="Kishinev" NameEng="Kishinev" NameRus="Kishinev" X="179600" Y="188600" Type="2"/>
-        <MapText Code="Leova" NameEng="Leova" NameRus="Leova" X="135800" Y="127200" Type="2"/>
-        <MapText Code="Roman" NameEng="Roman" NameRus="Roman" X="33800" Y="176000" Type="2"/>
-        <MapText Code="Rybnitsa" NameEng="Rybnitsa" NameRus="Rybnitsa" X="188800" Y="269600" Type="2"/>
-        <MapText Code="Tecuci" NameEng="Tecuci" NameRus="Tecuci" X="71979" Y="60999" Type="2"/>
-        <MapText Code="Tighina-Benderi" NameEng="Tighina-Benderi" NameRus="Tighina-Benderi" X="230000" Y="168400" Type="2"/>
-        <MapText Code="Tiraspol" NameEng="Tiraspol" NameRus="Tiraspol" X="240000" Y="170900" Type="2"/>
-        <MapText Code="Odessa" NameEng="Odessa" NameRus="Odessa" X="329608" Y="130197" Type="3"/>
-        <MapText Code="Bahlui" NameEng="Bahlui" NameRus="Bahlui" X="75020" Y="204129" Type="3"/>
-        <MapText Code="Bistrita" NameEng="Bistrita" NameRus="Bistrita" X="11572" Y="155607" Type="3"/>
-        <MapText Code="Bolsoi_Kuyalnik" NameEng="Bol'soi Kuyal'nik" NameRus="Bol'soi Kuyal'nik" X="296144" Y="209432" Type="3"/>
-        <MapText Code="Byk" NameEng="Byk" NameRus="Byk" X="186113" Y="183028" Type="3"/>
-        <MapText Code="Chadshibenski_Liman" NameEng="Chadshibenski Liman" NameRus="Chadshibenski Liman" X="308334" Y="152548" Type="3"/>
-        <MapText Code="Danube_Delta" NameEng="Danube Delta" NameRus="Danube Delta" X="249874" Y="5267" Type="3"/>
-        <MapText Code="Dnestr" NameEng="Dnestr" NameRus="Dnestr" X="226300" Y="181818" Type="3"/>
-        <MapText Code="Dnestr2" NameEng="Dnestr" NameRus="Dnestr" X="191268" Y="251479" Type="3"/>
-        <MapText Code="Jalpug" NameEng="Jalpug" NameRus="Jalpug" X="161427" Y="76553" Type="3"/>
-        <MapText Code="Jijia" NameEng="Jijia" NameRus="Jijia" X="64526" Y="226600" Type="3"/>
-        <MapText Code="Kogil'nik" NameEng="Kogil'nik" NameRus="Kogil'nik" X="219675" Y="76276" Type="3"/>
-        <MapText Code="Kucurgan" NameEng="Kucurgan" NameRus="Kucurgan" X="253181" Y="208046" Type="3"/>
-        <MapText Code="Kuyajnitski_Liman" NameEng="Kuyajnitski Liman" NameRus="Kuyajnitski Liman" X="316727" Y="158844" Type="3"/>
-        <MapText Code="Lacul_Alibei" NameEng="Lacul Alibei" NameRus="Lacul Alibei" X="271818" Y="55461" Type="3"/>
-        <MapText Code="Lacul_Conduc" NameEng="Lacul Conduc" NameRus="Lacul Conduc" X="246497" Y="36904" Type="3"/>
-        <MapText Code="Lacul_Sagani" NameEng="Lacul Sagani" NameRus="Lacul Sagani" X="261556" Y="46319" Type="3"/>
-        <MapText Code="Limanul_Nistrului" NameEng="Limanul Nistrului" NameRus="Limanul Nistrului" X="285216" Y="111494" Type="3"/>
-        <MapText Code="Prut" NameEng="Prut" NameRus="Prut" X="127050" Y="85989" Type="3"/>
-        <MapText Code="Prut2" NameEng="Prut" NameRus="Prut" X="101794" Y="197205" Type="3"/>
-        <MapText Code="Reut" NameEng="Reut" NameRus="Reut" X="163579" Y="240198" Type="3"/>
-        <MapText Code="Seret" NameEng="Seret" NameRus="Seret" X="44700" Y="106785" Type="3"/>
-        <MapText Code="Seret2" NameEng="Seret" NameRus="Seret" X="22194" Y="202528" Type="3"/>
-        <MapText Code="Tiligul" NameEng="Tiligul" NameRus="Tiligul" X="312775" Y="228003" Type="3"/>
-        <MapText Code="Black_Sea" NameEng="Black Sea" NameRus="Black Sea" X="319513" Y="47642" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="310587.06" Y="281145.66" A="165" T1="1" Res="B_29_g"/>
-        <Airfield ID="2" X="52813.81" Y="270793.32" A="155" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="3" X="17243.94" Y="270578.96" A="120" T1="1" Res="IL_2_1941Early_g"/>
-        <Airfield ID="4" X="109059.73" Y="266380.06" A="15" T1="1" Res="IL_2_1941Early_g"/>
-        <Airfield ID="5" X="191518.42" Y="265635.90" A="250" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="6" X="230458.10" Y="262761.58" A="0" T1="1" Res="BLENHEIM4_g"/>
-        <Airfield ID="7" X="97118.20" Y="257223.42" A="225" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="8" X="52248.87" Y="249798.27" A="175" T1="1" Res="BLENHEIM4_g"/>
-        <Airfield ID="9" X="75964.45" Y="244925.01" A="345" T1="1" Res="A_20G_g"/>
-        <Airfield ID="10" X="131657.95" Y="243441.20" A="305" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="11" X="253491.08" Y="225268.90" A="180" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="12" X="36645.22" Y="224851.40" A="165" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="13" X="136830.06" Y="217698.40" A="205" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="14" X="205822.39" Y="211218.99" A="60" T1="1" Res="BLENHEIM4_g"/>
-        <Airfield ID="15" X="326500.31" Y="209239.16" A="15" T1="1" Res="BLENHEIM4_g"/>
-        <Airfield ID="16" X="86574.45" Y="204987.22" A="160" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="17" X="217653.01" Y="204900.96" A="180" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="18" X="101792.05" Y="203602.52" A="180" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="19" X="265939.56" Y="198857.12" A="315" T1="1" Res="BLENHEIM4_g"/>
-        <Airfield ID="20" X="177803.89" Y="185492.62" A="135" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="21" X="33726.69" Y="181697.90" A="180" T1="1" Res="B_29_g"/>
-        <Airfield ID="22" X="247305.01" Y="174068.97" A="120" T1="1" Res="IL_2_1941Early_g"/>
-        <Airfield ID="23" X="225676.22" Y="173282.79" A="190" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="24" X="121190.67" Y="153225.89" A="155" T1="1" Res="IL_2_1941Early_g"/>
-        <Airfield ID="25" X="271735.34" Y="149541.83" A="225" T1="1" Res="IL_2_1941Early_g"/>
-        <Airfield ID="26" X="94693.11" Y="148340.68" A="185" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="27" X="27691.24" Y="141193.51" A="170" T1="1" Res="IL_2_1941Early_g"/>
-        <Airfield ID="28" X="30614.42" Y="134230.72" A="185" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="29" X="304967.44" Y="134084.64" A="90" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="30" X="328848.11" Y="133518.40" A="60" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="31" X="325100.36" Y="133416.48" A="180" T1="1" Res="TU_2S_g"/>
-        <Airfield ID="32" X="319161.49" Y="132975.24" A="270" T1="1" Res="MOSQUITO4_g"/>
-        <Airfield ID="33" X="136880.83" Y="130209.26" A="180" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="34" X="220850.50" Y="126663.38" A="225" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="35" X="315310.80" Y="121035.64" A="120" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="36" X="326302.08" Y="120856.42" A="210" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="37" X="199039.25" Y="110155.63" A="215" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="38" X="163995.84" Y="104276.33" A="180" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="39" X="131077.20" Y="101172.90" A="225" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="40" X="283356.63" Y="98281.92" A="270" T1="1" Res="BLENHEIM1_g"/>
-        <Airfield ID="41" X="94432.16" Y="98074.13" A="60" T1="1" Res="A_20G_g"/>
-        <Airfield ID="42" X="261608.85" Y="80619.75" A="270" T1="1" Res="BLENHEIM4_g"/>
-        <Airfield ID="43" X="67852.61" Y="63324.16" A="75" T1="1" Res="IL_2_1941Early_g"/>
-        <Airfield ID="44" X="135912.69" Y="61331.48" A="0" T1="1" Res="A_20G_g"/>
-        <Airfield ID="45" X="237704.61" Y="58783.95" A="90" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="46" X="85301.97" Y="57599.81" A="90" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="47" X="167077.39" Y="49174.68" A="225" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="48" X="53073.11" Y="47806.39" A="170" T1="1" Res="B_25C25_g"/>
-        <Airfield ID="49" X="71240.16" Y="40729.47" A="120" T1="1" Res="PE_3BIS_g"/>
-        <Airfield ID="50" X="169801.22" Y="39914.74" A="15" T1="1" Res="A_20G_g"/>
-        <Airfield ID="51" X="242280.35" Y="27434.79" A="350" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="52" X="240666.90" Y="25663.42" A="285" T1="1" Res="B_24J100_g"/>
-        <Airfield ID="53" X="217964.84" Y="18829.65" A="90" T1="1" Res="A_20G_g"/>
-        <Airfield ID="54" X="116689.77" Y="17308.96" A="170" T1="1" Res="BEAU21_g"/>
-        <Airfield ID="55" X="45833.12" Y="6578.88" A="205" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="56" X="287119.88" Y="4099.37" A="90" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="57" X="17055.28" Y="3972.04" A="95" T1="1" Res="B_25C25_g"/>
-        <Airfield ID="58" X="187034.35" Y="3300.36" A="220" T1="1" Res="B_24J100_g"/>
-    </Airfields>
-    <AdvTexts>
-        <AdvText Code="Insula_Serpilor" DeltaX="0" DeltaY="12"/>
-        <AdvText Code="Ramnicul_Sarat" DeltaX="-10" DeltaY="-8"/>
-        <AdvText Code="Station_5" DeltaX="0" DeltaY="5"/>
-        <AdvText Code="Tiganca" DeltaX="0" DeltaY="3"/>
-        <AdvText Code="Vakarzhany" DeltaX="0" DeltaY="3"/>
-        <AdvText Code="Zgardesti" DeltaX="0" DeltaY="-5"/>
-    </AdvTexts>
+  <MisCode>Bessarabia</MisCode>
+  <Width>345600</Width>
+  <Height>291200</Height>
+  <Towns>
+    <MapText Code="Adjudeni" NameEng="Adjudeni" NameRus="Adjudeni" X="33100" Y="186300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Adjudeni" NameEng="Adjudeni" NameRus="Adjudeni" X="53400" Y="84600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Agrokombinat" NameEng="Agrokombinat" NameRus="Agrokombinat" X="330415" Y="143985" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Alexandrovka" NameEng="Alexandrovka" NameRus="Alexandrovka" X="316700" Y="112500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Alexandrovka" NameEng="Alexandrovka" NameRus="Alexandrovka" X="335831" Y="144512" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Ancestovo" NameEng="Ancestovo" NameRus="Ancestovo" X="309900" Y="145700" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Arsura" NameEng="Arsura" NameRus="Arsura" X="117900" Y="165000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Bacesti" NameEng="Bacesti" NameRus="Bacesti" X="58200" Y="166800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bahmutea" NameEng="Bahmutea" NameRus="Bahmutea" X="187044" Y="139038" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Baiceni" NameEng="Baiceni" NameRus="Baiceni" X="32600" Y="218000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bakalovo" NameEng="Bakalovo" NameRus="Bakalovo" X="275700" Y="174100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Balauresti" NameEng="Balauresti" NameRus="Balauresti" X="126600" Y="178700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Baltati" NameEng="Baltati" NameRus="Baltati" X="50000" Y="210100" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Bara_Targ" NameEng="Bara-Targ" NameRus="Bara-Targ" X="41200" Y="187600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bardar" NameEng="Bardar" NameRus="Bardar" X="165700" Y="176400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Baurci" NameEng="Baurci" NameRus="Baurci" X="160800" Y="86300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Belcesti" NameEng="Belcesti" NameRus="Belcesti" X="45900" Y="219100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Belyayevska" NameEng="Belyayevska" NameRus="Belyayevska" X="285494" Y="133358" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Beresti" NameEng="Beresti" NameRus="Beresti" X="107600" Y="85200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Berezan" NameEng="Berezan" NameRus="Berezan" X="300700" Y="139300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Berezovka" NameEng="Berezovka" NameRus="Berezovka" X="338300" Y="211000" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Biliceni" NameEng="Biliceni" NameRus="Biliceni" X="118000" Y="258200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Blagesti" NameEng="Blagesti" NameRus="Blagesti" X="13700" Y="151600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Blagoyevo" NameEng="Blagoyevo" NameRus="Blagoyevo" X="316358" Y="180866" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Blishnyi_Chutor" NameEng="Blishnij Chutor" NameRus="Blishnij Chutor" X="240500" Y="175400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Blonskoye" NameEng="Blonskoye" NameRus="Blonskoye" X="301600" Y="171500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bogdanesti" NameEng="Bogdanesti" NameRus="Bogdanesti" X="125600" Y="102400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Boghicea" NameEng="Boghicea" NameRus="Boghicea" X="42600" Y="191100" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Bogza" NameEng="Bogza" NameRus="Bogza" X="54200" Y="19800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bojila" NameEng="Bojila" NameRus="Bojila" X="59700" Y="188100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bolduresti" NameEng="Bolduresti" NameRus="Bolduresti" X="118800" Y="200100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Boscana" NameEng="Boscana" NameRus="Boscana" X="191300" Y="202000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Botesti" NameEng="Botesti" NameRus="Botesti" X="107600" Y="162900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bozieni" NameEng="Bozieni" NameRus="Bozieni" X="17800" Y="182000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bradesti" NameEng="Bradesti" NameRus="Bradesti" X="98800" Y="92400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Bravicea" NameEng="Bravicea" NameRus="Bravicea" X="147580" Y="224897" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Braviceni" NameEng="Braviceni" NameRus="Braviceni" X="165700" Y="234700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bucesti_Liesti" NameEng="Bucesti-Liesti" NameRus="Bucesti-Liesti" X="77783" Y="42867" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bucovat" NameEng="Bucovat" NameRus="Bucovat" X="150300" Y="206900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Stornesti" NameEng="Buda" NameRus="Buda" X="51169" Y="198858" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Buhusi" NameEng="Buhusi" NameRus="Buhusi" X="16400" Y="155200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Buldynka" NameEng="Buldynka" NameRus="Buldynka" X="343332" Y="149545" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Bulgarica" NameEng="Bulgarica" NameRus="Bulgarica" X="164500" Y="46700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Butea" NameEng="Butea" NameRus="Butea" X="33000" Y="192600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Butor" NameEng="Butor" NameRus="Butor" X="221400" Y="191600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Buzestii_Ghica" NameEng="Buzestii Ghica" NameRus="Buzestii Ghica" X="17600" Y="179000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Cabesti" NameEng="Cabesti" NameRus="Cabesti" X="73200" Y="97000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cahul" NameEng="Cahul" NameRus="Cahul" X="132500" Y="64600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cairaclia" NameEng="Cairaclia" NameRus="Cairaclia" X="164500" Y="50400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Calarasi" NameEng="Calarasi" NameRus="Calarasi" X="137500" Y="214400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Calugara" NameEng="Calugara" NameRus="Calugara" X="27400" Y="135200" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Caramahmet" NameEng="Caramahmet" NameRus="Caramahmet" X="219000" Y="25600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Carbuna" NameEng="Carbuna" NameRus="Carbuna" X="186200" Y="154000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Carlomanesti" NameEng="Carlomanesti" NameRus="Carlomanesti" X="85200" Y="74200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Carpineni" NameEng="Carpineni" NameRus="Carpineni" X="140800" Y="158300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Carpiti" NameEng="Carpiti" NameRus="Carpiti" X="83900" Y="218600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Casin" NameEng="Casin" NameRus="Casin" X="19900" Y="96900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Causani" NameEng="Causani" NameRus="Causani" X="222700" Y="147400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cazacii-Vechi" NameEng="Cazacii-Vechi" NameRus="Cazacii-Vechi" X="269100" Y="114500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cazangic" NameEng="Cazangic" NameRus="Cazangic" X="148700" Y="130800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ceadar-Lunga" NameEng="Ceadar-Lunga" NameRus="Ceadar-Lunga" X="179705" Y="80444" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Ceplenita" NameEng="Ceplenita" NameRus="Ceplenita" X="36600" Y="227400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Chilia" NameEng="Chilia" NameRus="Chilia" X="214400" Y="13700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Chilia-Veche" NameEng="Chilia-Veche" NameRus="Chilia-Veche" X="216500" Y="10800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Chilieni" NameEng="Chilieni" NameRus="Chilieni" X="73465" Y="106898" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Chirca" NameEng="Chirca" NameRus="Chirca" X="199700" Y="177800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ciisia" NameEng="Ciisia" NameRus="Ciisia" X="182700" Y="63000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cimislia" NameEng="Cimislia" NameRus="Cimislia" X="176200" Y="134200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cioburciu" NameEng="Cioburciu" NameRus="Cioburciu" X="245600" Y="142200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cismeaua_Varuita" NameEng="Cismeaua Varuita" NameRus="Cismeaua Varuita" X="170000" Y="23000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cismele" NameEng="Cismele" NameRus="Cismele" X="227000" Y="44000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ciurbesti" NameEng="Ciurbesti" NameRus="Ciurbesti" X="80000" Y="195800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cociulia" NameEng="Cociulia" NameRus="Cociulia" X="144600" Y="115000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Cogalnic" NameEng="Cogalnic" NameRus="Cogalnic" X="220100" Y="92100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Colibasi" NameEng="Colibasi" NameRus="Colibasi" X="131400" Y="43600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Colonia" NameEng="Colonia" NameRus="Colonia" X="187400" Y="190100" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Comrat" NameEng="Comrat" NameRus="Comrat" X="165200" Y="108800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cordun" NameEng="Cordun" NameRus="Cordun" X="31000" Y="180000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Corhana" NameEng="Corhana" NameRus="Corhana" X="25200" Y="183800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cornesti_Targ" NameEng="Cornesti Targ" NameRus="Cornesti Targ" X="114300" Y="225200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cosernita" NameEng="Cosernita" NameRus="Cosernita" X="195400" Y="200500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Costache_Negri" NameEng="Costache Negri" NameRus="Costache Negri" X="95600" Y="41800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Costesti" NameEng="Costesti" NameRus="Costesti" X="172500" Y="172200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Costuleni" NameEng="Costuleni" NameRus="Costuleni" X="107500" Y="194100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cotul_Chitaiului" NameEng="Cotul Chitaiului" NameRus="Cotul Chitaiului" X="205700" Y="48300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Crinesti" NameEng="Crinesti" NameRus="Crinesti" X="34300" Y="207100" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Cristesti" NameEng="Cristesti" NameRus="Cristesti" X="5000" Y="213500" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Crucea" NameEng="Crucea" NameRus="Crucea" X="51458" Y="204177" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cubani" NameEng="Cubani" NameRus="Cubani" X="62200" Y="270800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cucuteni" NameEng="Cucuteni" NameRus="Cucuteni" X="33900" Y="215600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Cucuteni" NameEng="Cucuteni" NameRus="Cucuteni" X="70800" Y="201900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cudalbi" NameEng="Cudalbi" NameRus="Cudalbi" X="92600" Y="49800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Culevcea" NameEng="Culevcea" NameRus="Culevcea" X="264900" Y="79800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cuza-Voda" NameEng="Cuza-Voda" NameRus="Cuza-Voda" X="153700" Y="30200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dagata" NameEng="Dagata" NameRus="Dagata" X="55100" Y="177100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dalnik" NameEng="Dalnik" NameRus="Dalnik" X="312800" Y="129000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Deleni" NameEng="Deleni" NameRus="Deleni" X="97600" Y="133400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Demidova" NameEng="Demidova" NameRus="Demidova" X="321400" Y="218700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dezghinge" NameEng="Dezghinge" NameRus="Dezghinge" X="162800" Y="123000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Divicia" NameEng="Divicia" NameRus="Divicia" X="269600" Y="70000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dochia" NameEng="Dochia" NameRus="Dochia" X="6400" Y="176200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dohichioi" NameEng="Dohichioi" NameRus="Dohichioi" X="188900" Y="9000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Doljesti" NameEng="Doljesti" NameRus="Doljesti" X="35600" Y="190200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dorbrovat" NameEng="Dorbrovat" NameRus="Dorbrovat" X="95100" Y="181600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Doroscani" NameEng="Doroscani" NameRus="Doroscani" X="59300" Y="201600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dragalisceni" NameEng="Dragalisceni" NameRus="Dragalisceni" X="174372" Y="202538" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dranceni" NameEng="Dranceni" NameRus="Dranceni" X="122600" Y="169400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Dubasari" NameEng="Dubasari" NameRus="Dubasari" X="205500" Y="200800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Duda" NameEng="Duda" NameRus="Duda" X="119300" Y="158700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dulcesti" NameEng="Dulcesti" NameRus="Dulcesti" X="23500" Y="180600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Dumbravita" NameEng="Dumbravita" NameRus="Dumbravita" X="27000" Y="213500" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Elisabeta" NameEng="Elisabeta" NameRus="Elisabeta" X="115000" Y="272300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Elsas" NameEng="Elsas" NameRus="Elsas" X="281200" Y="153000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Epureni" NameEng="Epureni" NameRus="Epureni" X="70600" Y="218400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Epureni" NameEng="Epureni" NameRus="Epureni" X="133900" Y="104000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Erbiceni" NameEng="Erbiceni" NameRus="Erbiceni" X="57000" Y="212800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Facuti" NameEng="Facuti" NameRus="Facuti" X="43500" Y="213500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Falciu" NameEng="Falciu" NameRus="Falciu" X="127300" Y="107400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Falesti" NameEng="Falesti" NameRus="Falesti" X="91200" Y="248600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Fantanele" NameEng="Fantanele" NameRus="Fantanele" X="15187" Y="214183" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Faraoani" NameEng="Faraoani" NameRus="Faraoani" X="31200" Y="122200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Faraoani" NameEng="Faraoani" NameRus="Faraoani" X="241000" Y="112600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Fauresti" NameEng="Fauresti" NameRus="Fauresti" X="182824" Y="204237" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Feroponteuca" NameEng="Feroponteuca" NameRus="Feroponteuca" X="176000" Y="100900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Festilita" NameEng="Festilita" NameRus="Festilita" X="237900" Y="136500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Filipeni" NameEng="Filipeni" NameRus="Filipeni" X="141400" Y="122900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Flamanzeni" NameEng="Flamanzeni" NameRus="Flamanzeni" X="118100" Y="239600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Floresti" NameEng="Floresti" NameRus="Floresti" X="85312" Y="128886" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Focuri" NameEng="Focuri" NameRus="Focuri" X="54800" Y="223600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Fontanka" NameEng="Fontanka" NameRus="Fontanka" X="333274" Y="141175" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Franzfeld" NameEng="Franzfeld" NameRus="Franzfeld" X="295800" Y="119800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Freudental" NameEng="Freudental" NameRus="Freudental" X="297800" Y="131400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Frumoasa" NameEng="Frumoasa" NameRus="Frumoasa" X="3500" Y="148600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Frumusica" NameEng="Frumusica" NameRus="Frumusica" X="60100" Y="190961" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Frumusica_Noua" NameEng="Frumusica Noua" NameRus="Frumusica Noua" X="222200" Y="105500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Fundatura" NameEng="Fundatura" NameRus="Fundatura" X="66100" Y="104800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Fundeni" NameEng="Fundeni" NameRus="Fundeni" X="81800" Y="23000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Furmanca" NameEng="Furmanca" NameRus="Furmanca" X="212200" Y="34800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gadinti" NameEng="Gadinti" NameRus="Gadinti" X="40700" Y="178600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Galbeni" NameEng="Galbeni" NameRus="Galbeni" X="34900" Y="125300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Galbeni" NameEng="Galbeni" NameRus="Galbeni" X="27400" Y="157100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Galilesti" NameEng="Galilesti" NameRus="Galilesti" X="233822" Y="26673" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Garleni" NameEng="Garleni" NameRus="Garleni" X="24400" Y="148300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gen.Al.Averescu" NameEng="Gen.Al.Averescu" NameRus="Gen.Al.Averescu" X="170200" Y="9000" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Gheraesti" NameEng="Gheraesti" NameRus="Gheraesti" X="24000" Y="188000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Ghidion" NameEng="Ghidion" NameRus="Ghidion" X="50100" Y="189600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gildendorf" NameEng="Gildendorf" NameRus="Gildendorf" X="327884" Y="148573" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Girov" NameEng="Girov" NameRus="Girov" X="3000" Y="180800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Giurgesti" NameEng="Giurgesti" NameRus="Giurgesti" X="31300" Y="212900" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Glodeni" NameEng="Glodeni" NameRus="Glodeni" X="77300" Y="271200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gniliakovo" NameEng="Gniliakovo" NameRus="Gniliakovo" X="310000" Y="141400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Goesti" NameEng="Goesti" NameRus="Goesti" X="48799" Y="201387" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Gradistea" NameEng="Gradistea" NameRus="Gradistea" X="173800" Y="142600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gross-Liebental" NameEng="Gross-Liebental" NameRus="Gross-Liebental" X="312300" Y="114700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gura_Galbena" NameEng="Gura Galbena" NameRus="Gura Galbena" X="168900" Y="152975" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Halaucesti" NameEng="Halaucesti" NameRus="Halaucesti" X="24300" Y="195600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Hancesti" NameEng="Hancesti" NameRus="Hancesti" X="161100" Y="167800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Handresti" NameEng="Handresti" NameRus="Handresti" X="39700" Y="196800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Harlau" NameEng="Harlau" NameRus="Harlau" X="32500" Y="232500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Harmanesti" NameEng="Harmanesti" NameRus="Harmanesti" X="24400" Y="215400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Harparesti" NameEng="Harparesti" NameRus="Harparesti" X="60999" Y="201050" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Hartopul_Mare" NameEng="Hartopul Mare" NameRus="Hartopul Mare" X="185800" Y="210800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Hartopul_Mic" NameEng="Hartopul Mic" NameRus="Hartopul Mic" X="185200" Y="213300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Helegiu" NameEng="Helegiu" NameRus="Helegiu" X="19400" Y="113200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Helestieni" NameEng="Helestieni" NameRus="Helestieni" X="29900" Y="207400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Hoceni" NameEng="Hoceni" NameRus="Hoceni" X="117400" Y="134200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Hociungi" NameEng="Hociungi" NameRus="Hociungi" X="22400" Y="165800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Hodora" NameEng="Hodora" NameRus="Hodora" X="40200" Y="222600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Hoefe" NameEng="Hoefe" NameRus="Hoefe" X="182100" Y="189300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Hoisesti" NameEng="Hoisesti" NameRus="Hoisesti" X="15400" Y="171600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Iabloeni" NameEng="Iabloeni" NameRus="Iabloeni" X="83237" Y="276272" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ialoveni" NameEng="Ialoveni" NameRus="Ialoveni" X="174200" Y="179400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Iaski" NameEng="Iaski" NameRus="Iaski" X="276900" Y="134600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Insula_Serpilor" NameEng="Insula Serpilor" NameRus="Insula Serpilor" X="285955" Y="4097" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Ion_G.Duca" NameEng="Ion G. Duca" NameRus="Ion G. Duca" X="140400" Y="256600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Isbrieni" NameEng="Isbrieni" NameRus="Isbrieni" X="240000" Y="21600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Isnovat" NameEng="Isnovat" NameRus="Isnovat" X="180200" Y="211400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Ivanestii_Vechi" NameEng="Ivanestii Vechi" NameRus="Ivanestii Vechi" X="251900" Y="118800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Kagarlik" NameEng="Kagarlik" NameRus="Kagarlik" X="282700" Y="142100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Karagash" NameEng="Karagash" NameRus="Karagash" X="245600" Y="163800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Karpova" NameEng="Karpova" NameRus="Karpova" X="292200" Y="152300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Katarshino" NameEng="Katarshino" NameRus="Katarshino" X="290600" Y="190600" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Klein-Liebental" NameEng="Klein-Liebental" NameRus="Klein-Liebental" X="316096" Y="118980" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Kolkotova_Balka" NameEng="Kolkotova Balka" NameRus="Kolkotova Balka" X="242800" Y="170300" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Korsunty" NameEng="Korsunty" NameRus="Korsunty" X="328900" Y="145500" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Kotovsk" NameEng="Kotovsk" NameRus="Kotovsk" X="230000" Y="269600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Krasnoe_Yachimovka" NameEng="Krasnoe Yachimovka" NameRus="Krasnoe Yachimovka" X="296300" Y="117800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Krasny_Perselenet" NameEng="Krasny Perselenet" NameRus="Krasny Perselenet" X="305600" Y="127600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Kubanka" NameEng="Kubanka" NameRus="Kubanka" X="325800" Y="154400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Lapusna" NameEng="Lapusna" NameRus="Lapusna" X="146800" Y="173400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Larguta" NameEng="Larguta" NameRus="Larguta" X="141400" Y="108200" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Leipzig" NameEng="Leipzig" NameRus="Leipzig" X="194700" Y="108600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Lespezi" NameEng="Lespezi" NameRus="Lespezi" X="15000" Y="225000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Letcani" NameEng="Letcani" NameRus="Letcani" X="69800" Y="206500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Leuseni" NameEng="Leuseni" NameRus="Leuseni" X="130600" Y="164600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Limbeni-Vechii" NameEng="Limbeni-Vechii" NameRus="Limbeni-Vechii" X="85200" Y="261000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Liteni" NameEng="Liteni" NameRus="Liteni" X="42100" Y="218300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Lozova" NameEng="Lozova" NameRus="Lozova" X="141000" Y="201000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Lugani" NameEng="Lugani" NameRus="Lugani" X="24300" Y="190100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Lunca" NameEng="Lunca" NameRus="Lunca" X="55154" Y="131694" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Luncani" NameEng="Luncani" NameRus="Luncani" X="20000" Y="142600" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Macaresti" NameEng="Macaresti" NameRus="Macaresti" X="113000" Y="190400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Madarjac" NameEng="Madarjac" NameRus="Madarjac" X="58000" Y="190585" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Mandresti" NameEng="Mandresti" NameRus="Mandresti" X="134800" Y="241900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Mannheim" NameEng="Mannheim" NameRus="Mannheim" X="285500" Y="146600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Manza" NameEng="Manza" NameRus="Manza" X="233300" Y="118500" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Manzalesti" NameEng="Manzalesti" NameRus="Manzalesti" X="117336" Y="229166" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Manzar" NameEng="Manzar" NameRus="Manzar" X="217300" Y="127200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Marasesti" NameEng="Marasesti" NameRus="Marasesti" X="56800" Y="61000" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Marcauti" NameEng="Marcauti" NameRus="Marcauti" X="195400" Y="225800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Mariental" NameEng="Mariental" NameRus="Mariental" X="305800" Y="123000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Matca" NameEng="Matca" NameRus="Matca" X="81241" Y="57969" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Medeleni" NameEng="Medeleni" NameRus="Medeleni" X="90800" Y="217800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Mereni" NameEng="Mereni" NameRus="Mereni" X="194200" Y="181900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Miclauseni" NameEng="Miclauseni" NameRus="Miclauseni" X="33700" Y="195900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Miclauseni" NameEng="Miclauseni" NameRus="Miclauseni" X="137500" Y="199000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Micsuneni" NameEng="Micsuneni" NameRus="Micsuneni" X="18200" Y="174700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Mikhailovka" NameEng="Mikhailovka" NameRus="Mikhailovka" X="292100" Y="150000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Mingir" NameEng="Mingir" NameRus="Mingir" X="140800" Y="148600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Mircesti" NameEng="Mircesti" NameRus="Mircesti" X="25800" Y="192400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Miron_Costin" NameEng="Miron Costin" NameRus="Miron Costin" X="25800" Y="177000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Moldova" NameEng="Moldova" NameRus="Moldova" X="256400" Y="115400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Molesti" NameEng="Molesti" NameRus="Molesti" X="173800" Y="162200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Moruzeni" NameEng="Moruzeni" NameRus="Moruzeni" X="163200" Y="227600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Motca" NameEng="Motca" NameRus="Motca" X="8600" Y="212200" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Munteni" NameEng="Munteni" NameRus="Munteni" X="49647" Y="221388" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Negresti" NameEng="Negresti" NameRus="Negresti" X="75000" Y="167200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Nemteni" NameEng="Nemteni" NameRus="Nemteni" X="125100" Y="175400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Nesavertailovka" NameEng="Nesavertailovka" NameRus="Nesavertailovka" X="270500" Y="144400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Nicolaeni" NameEng="Nicolaeni" NameRus="Nicolaeni" X="222700" Y="118000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Nikolayevka_II" NameEng="Nikolajevka II" NameRus="Nikolajevka II" X="326600" Y="248600" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Nisiporeni" NameEng="Nisiporeni" NameRus="Nisiporeni" X="128800" Y="194200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Novo_Grigorjevka" NameEng="Novo Grigorjevka" NameRus="Novo Grigorjevka" X="264552" Y="273611" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Oancea" NameEng="Oancea" NameRus="Oancea" X="125600" Y="66200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Obileni" NameEng="Obileni" NameRus="Obileni" X="125100" Y="171400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Obrijeni" NameEng="Obrijeni" NameRus="Obrijeni" X="54900" Y="201700" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Odaia-Bursucani" NameEng="Odaia-Bursucani" NameRus="Odaia-Bursucani" X="93900" Y="91400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Oituz" NameEng="Oituz" NameRus="Oituz" X="11500" Y="96800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Olanesti" NameEng="Olanesti" NameRus="Olanesti" X="264100" Y="131435" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Onesti" NameEng="Onesti" NameRus="Onesti" X="20400" Y="101100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Orac" NameEng="Orac" NameRus="Orac" X="152200" Y="148400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Orhei" NameEng="Orhei" NameRus="Orhei" X="177043" Y="226452" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ostradovka" NameEng="Ostradovka" NameRus="Ostradovka" X="301600" Y="152000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ostrovka" NameEng="Ostrovka" NameRus="Ostrovka" X="302600" Y="242600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Oteleni" NameEng="Oteleni" NameRus="Oteleni" X="39900" Y="192100" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Ovidiopol" NameEng="Ovidiopol" NameRus="Ovidiopol" X="304600" Y="106000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Paleyevka" NameEng="Paleyevka" NameRus="Paleyevka" X="304000" Y="147200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Pardina" NameEng="Pardina" NameRus="Pardina" X="223100" Y="21600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Parkany" NameEng="Parkany" NameRus="Parkany" X="232200" Y="171600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Pascani" NameEng="Pascani" NameRus="Pascani" X="16226" Y="212969" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Paunesti" NameEng="Paunesti" NameRus="Paunesti" X="47000" Y="78000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Pavlovka" NameEng="Pavlovka" NameRus="Pavlovka" X="233200" Y="213000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Pechea" NameEng="Pechea" NameRus="Pechea" X="101600" Y="32400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Peresecina" NameEng="Perescina" NameRus="Perescina" X="173700" Y="214200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Peterstal" NameEng="Peterstal" NameRus="Peterstal" X="301200" Y="127800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Petra_Evdokievka" NameEng="Petra Evdokievka" NameRus="Petra Evdokievka" X="281000" Y="167600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Plahtaevca" NameEng="Plahtaevca" NameRus="Plahtaevca" X="250000" Y="88100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Podoleni" NameEng="Podoleni" NameRus="Podoleni" X="10800" Y="163600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Podul_Iloaei" NameEng="Podul Iloaiei" NameRus="Podul Iloaiei" X="60108" Y="209300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Poenari" NameEng="Poenari" NameRus="Poenari" X="50200" Y="172800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Polieni" NameEng="Polieni" NameRus="Polieni" X="44800" Y="216800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Ponyatovka" NameEng="Ponyatovka" NameRus="Ponyatovka" X="279600" Y="177000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Popesti" NameEng="Popesti" NameRus="Popesti" X="58349" Y="202799" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Porumbesti" NameEng="Porumbesti" NameRus="Porumbesti" X="138200" Y="109300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Principele_Carol" NameEng="Principele Carol" NameRus="Principele Carol" X="137600" Y="167200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Puesti" NameEng="Puesti" NameRus="Puesti" X="78264" Y="120121" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Puhoi" NameEng="Puhoi" NameRus="Puhoi" X="192800" Y="166400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Racova" NameEng="Racova" NameRus="Racova" X="20000" Y="153200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Radiu" NameEng="Radiu" NameRus="Radiu" X="28700" Y="211900" Type="0" bLevel="4" Align="0" Color="0"/>
+    <MapText Code="Ramnicul_Sarat" NameEng="Ramnicul Sarat" NameRus="Ramnicul Sarat" X="42400" Y="5800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Rascaeti" NameEng="Rascaeti" NameRus="Rascaeti" X="250200" Y="139400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Rascanovca" NameEng="Rascanovca" NameRus="Rascanovca" X="181200" Y="190000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Rasdelnaia" NameEng="Rasdelnaia" NameRus="Rasdelnaia" X="272300" Y="170800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Razesti" NameEng="Razesti" NameRus="Razesti" X="143400" Y="112000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Redeni" NameEng="Redeni" NameRus="Redeni" X="130008" Y="230690" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Regele_Carol_II" NameEng="Regele Carol II" NameRus="Regele Carol II" X="192600" Y="28700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Reni" NameEng="Reni" NameRus="Reni" X="139800" Y="14800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Romanesti" NameEng="Romanesti" NameRus="Romanesti" X="188600" Y="112700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Romani" NameEng="Romani" NameRus="Romani" X="135000" Y="78200" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Rosnov" NameEng="Rosnov" NameRus="Rosnov" X="3600" Y="169600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Rotunda" NameEng="Rotunda" NameRus="Rotunda" X="34800" Y="187600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Palatul_Ruginoasa" NameEng="Ruginoasa" NameRus="Ruginoasa" X="26023" Y="212182" Type="0" bLevel="7" Align="0" Color="5"/>
+    <MapText Code="Runca" NameEng="Runca" NameRus="Runca" X="61900" Y="185700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ruseni" NameEng="Ruseni" NameRus="Ruseni" X="2800" Y="160500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Rusestii-Noi" NameEng="Rusestii-Noi" NameRus="Rusestii-Noi" X="164300" Y="178500" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Sabaoani" NameEng="Sabaoani" NameRus="Sabaoani" X="26900" Y="186400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sagani" NameEng="Sagani" NameRus="Sagani" X="254700" Y="41200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sagna" NameEng="Sagna" NameRus="Sagna" X="40400" Y="182300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sahaidac" NameEng="Sahaidac" NameRus="Sahaidac" X="179300" Y="148400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sanduleni" NameEng="Sanduleni" NameRus="Sanduleni" X="19800" Y="123900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sarata" NameEng="Sarata" NameRus="Sarata" X="245300" Y="79700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sarata-Galbena" NameEng="Sarata-Galbena" NameRus="Sarata-Galbena" X="152600" Y="157100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sarateni" NameEng="Sarateni" NameRus="Sarateni" X="153700" Y="142100" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Saratica-Noua" NameEng="Saratica-Noua" NameRus="Saratica-Noua" X="156000" Y="138600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sarca" NameEng="Sarca" NameRus="Sarca" X="52800" Y="210700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Satul-Nou" NameEng="Satul-Nou" NameRus="Satul-Nou" X="128000" Y="115200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Scanteia" NameEng="Scanteia" NameRus="Scanteia" X="83900" Y="176600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Scobalteni" NameEng="Scobalteni" NameRus="Scobalteni" X="59800" Y="207300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Scoposeni" NameEng="Scoposeni" NameRus="Scoposeni" X="122100" Y="174000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Scorteni" NameEng="Scorteni" NameRus="Scorteni" X="13100" Y="136500" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Sculeni" NameEng="Sculeni" NameRus="Sculeni" X="85800" Y="221800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Secueni" NameEng="Secueni" NameRus="Secueni" X="27800" Y="168900" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Secueni" NameEng="Secueni" NameRus="Secueni" X="44072" Y="145340" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Serpeni" NameEng="Serpeni" NameRus="Serpeni" X="218600" Y="189500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Severinovka" NameEng="Severinovka" NameRus="Severinovka" X="311700" Y="167800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Shibka" NameEng="Shibka" NameRus="Shibka" X="228800" Y="204600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Shitul-Duca" NameEng="Shitul-Duca" NameRus="Shitul-Duca" X="96400" Y="189200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Simionesti" NameEng="Simionesti" NameRus="Simionesti" X="28900" Y="181700" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Sinesti" NameEng="Sinesti" NameRus="Sinesti" X="52800" Y="198000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sipopteni" NameEng="Sipopteni" NameRus="Sipopteni" X="128800" Y="216400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Slanic" NameEng="Slanic" NameRus="Slanic" X="3200" Y="102500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Slobocia" NameEng="Slobocia" NameRus="Slobocia" X="69231" Y="121501" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Slobozia" NameEng="Slobozia" NameRus="Slobozia" X="46900" Y="191500" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Slobozia-Ganeasca" NameEng="Slobozia-Ganeasca" NameRus="Slobozia-Ganeasca" X="249852" Y="133664" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Slobozia-Mare" NameEng="Slobozia-Mare" NameRus="Slobozia-Mare" X="131000" Y="27600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Slobozia-Moldoveneasca" NameEng="Slobozia-Moldoveneasca" NameRus="Slobozia-Moldoveneasca" X="247400" Y="158800" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Slobozia-Ruseasca" NameEng="Slobozia-Ruseasca" NameRus="Slobozia-Ruseasca" X="247800" Y="155800" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Smulti" NameEng="Smulti" NameRus="Smulti" X="97800" Y="67600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sofian" NameEng="Sofian" NameRus="Sofian" X="185279" Y="9134" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Sofievka" NameEng="Sofievka" NameRus="Sofievka" X="290800" Y="81500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Speja" NameEng="Speja" NameRus="Speja" X="217400" Y="186800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ssukleya" NameEng="Ssukleja" NameRus="Ssukleja" X="243800" Y="168800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Stanca" NameEng="Stanca" NameRus="Stanca" X="82700" Y="217600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Stanilesti" NameEng="Stanilesti" NameRus="Stanilesti" X="129900" Y="143000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Staraya-Dofinovka" NameEng="Staraya-Dofinovka" NameRus="Staraya-Dofinovka" X="338980" Y="146659" Type="0" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Station_5" NameEng="Station 5" NameRus="Station 5" X="96914" Y="256051" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Stefanesti" NameEng="Stefanesti" NameRus="Stefanesti" X="52800" Y="273200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Stoenesti" NameEng="Stoenesti" NameRus="Stoenesti" X="129300" Y="103500" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Straseni" NameEng="Straseni" NameRus="Straseni" X="161200" Y="201800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Strassburg" NameEng="Strassburg" NameRus="Strassburg" X="268100" Y="157200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Strunga" NameEng="Strunga" NameRus="Strunga" X="34500" Y="204200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sturzeni" NameEng="Sturzeni" NameRus="Sturzeni" X="214100" Y="123300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Tabacul" NameEng="Tabacul" NameRus="Tabacul" X="164300" Y="44400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Tanacul" NameEng="Tanacul" NameRus="Tanacul" X="102300" Y="150200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Taraklia" NameEng="Taraclia" NameRus="Taraclia" X="170000" Y="64500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Taraclia" NameEng="Taraclia" NameRus="Taraclia" X="201600" Y="139000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Targul_Frumos" NameEng="Targul Frumos" NameRus="Targul Frumos" X="40600" Y="208000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Targul_Ocna" NameEng="Targul Ocna" NameRus="Targul Ocna" X="8500" Y="105800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Tarutino" NameEng="Tarutino" NameRus="Tarutino" X="203600" Y="97400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Tatar_Bunar" NameEng="Tatar Bunar" NameRus="Tatar Bunar" X="242000" Y="57600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Tatarca" NameEng="Tatarca" NameRus="Tatarca" X="316800" Y="123600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ternovka" NameEng="Ternovka" NameRus="Ternovka" X="232800" Y="169400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Tetcani" NameEng="Tetcani" NameRus="Tetcani" X="25700" Y="188800" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Tibani" NameEng="Tibani" NameRus="Tibani" X="66800" Y="184300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Tibirca" NameEng="Tibirca" NameRus="Tibirca" X="142200" Y="227100" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Tiganca" NameEng="Tiganca" NameRus="Tiganca" X="128700" Y="100000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Tigheci" NameEng="Tigheci" NameRus="Tigheci" X="145300" Y="117600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Tipala" NameEng="Tipala" NameRus="Tipala" X="188000" Y="167300" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Tiskolung" NameEng="Tiskolung" NameRus="Tiskolung" X="213478" Y="229919" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Tocuz" NameEng="Tocuz" NameRus="Tocuz" X="212800" Y="133000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Todiresti" NameEng="Todiresti" NameRus="Todiresti" X="26100" Y="221100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Tomal" NameEng="Tomal" NameRus="Tomal" X="176100" Y="96100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Topaly" NameEng="Topaly" NameRus="Topaly" X="214400" Y="253200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Troiskoye" NameEng="Troiskoje" NameRus="Troiskoje" X="272200" Y="137800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Truseni" NameEng="Truseni" NameRus="Truseni" X="166488" Y="193597" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Tupilati" NameEng="Tupilati" NameRus="Tupilati" X="11600" Y="194600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ungheni" NameEng="Ungheni" NameRus="Ungheni" X="99900" Y="205400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Urlati" NameEng="Urlati" NameRus="Urlati" X="120500" Y="137400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vadul_lui_Isac" NameEng="Vadul lui Isac" NameRus="Vadul lui Isac" X="130700" Y="49000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vajni" NameEng="Vajni" NameRus="Vajni" X="302600" Y="140500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vakarzhany" NameEng="Vakarzhany" NameRus="Vakarzhany" X="302400" Y="133500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Valcinei" NameEng="Valcinei" NameRus="Valcinei" X="123400" Y="215100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Valcov" NameEng="Valcov" NameRus="Valcov" X="238200" Y="8200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Valea_lui_Ion" NameEng="Valea lui Ion" NameRus="Valea lui Ion" X="9200" Y="151600" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Valea_Mare" NameEng="Valea Mare" NameRus="Valea Mare" X="104500" Y="200200" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Valea_Oilor" NameEng="Valea Oilor" NameRus="Valea Oilor" X="46700" Y="212000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Valea_Seaca" NameEng="Valea Seaca" NameRus="Valea Seaca" X="12500" Y="217500" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Valegozulovo" NameEng="Valegozulovo" NameRus="Valegozulovo" X="260600" Y="245700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vapnyarka" NameEng="Vapnyarka" NameRus="Vapnyarka" X="333800" Y="141918" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Varlezi" NameEng="Varlezi" NameRus="Varlezi" X="105100" Y="63900" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Varzaresti" NameEng="Varzaresti" NameRus="Varzaresti" X="129000" Y="197200" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Vascani" NameEng="Vascani" NameRus="Vascani" X="28900" Y="215000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Vascauti" NameEng="Vascauti" NameRus="Vascauti" X="195600" Y="235000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vasilyevka" NameEng="Vasilyevka" NameRus="Vasilyevka" X="290900" Y="143400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Vaslui" NameEng="Vaslui" NameRus="Vaslui" X="95200" Y="144800" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vedenic" NameEng="Vedenic" NameRus="Vedenic" X="235200" Y="94100" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Viisoara" NameEng="Viisoara" NameRus="Viisoara" X="12700" Y="106400" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Voinesti" NameEng="Voinesti" NameRus="Voinesti" X="70600" Y="193400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Volintiri" NameEng="Volintiri" NameRus="Volintiri" X="239800" Y="123355" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vorniceni" NameEng="Vorniceni" NameRus="Vorniceni" X="146800" Y="202200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Voronkovo" NameEng="Voronkovo" NameRus="Voronkovo" X="198200" Y="265200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vradiyeka" NameEng="Vradiyeka" NameRus="Vradiyeka" X="313900" Y="282200" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Vulcanesti" NameEng="Vulcanesti" NameRus="Vulcanesti" X="147400" Y="40600" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vulturul" NameEng="Vulturul" NameRus="Vulturul" X="71736" Y="31956" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Vutcani" NameEng="Vutcani" NameRus="Vutcani" X="112300" Y="126000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vygoda" NameEng="Vygoda" NameRus="Vygoda" X="299300" Y="144400" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Zahaicani" NameEng="Zahaicani" NameRus="Zahaicani" X="153400" Y="244300" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Zahorna" NameEng="Zahorna" NameRus="Zahorna" X="72700" Y="214000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Zanesti" NameEng="Zanesti" NameRus="Zanesti" X="133000" Y="77200" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Zatyshte" NameEng="Zatyshte" NameRus="Zatyshte" X="256620" Y="223264" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Zberoaia" NameEng="Zberoaia" NameRus="Zberoaia" X="124300" Y="182000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Zebrikovo" NameEng="Zebrikovo" NameRus="Zebrikovo" X="274300" Y="203300" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Zembreni" NameEng="Zembreni" NameRus="Zembreni" X="178600" Y="168000" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Zgardesti" NameEng="Zgardesti" NameRus="Zgardesti" X="129100" Y="244700" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Zmeu" NameEng="Zmeu" NameRus="Zmeu" X="52800" Y="206000" Type="0" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Akerman" NameEng="Akerman" NameRus="Akerman" X="296341" Y="99411" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Ananyev" NameEng="Ananyev" NameRus="Ananyev" X="261200" Y="269000" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bacau" NameEng="Bacau" NameRus="Bacau" X="33000" Y="137800" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Balti" NameEng="Balti" NameRus="Balti" X="107647" Y="269800" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Barlad" NameEng="Barlad" NameRus="Barlad" X="91000" Y="99500" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bolgrad" NameEng="Bolgrad" NameRus="Bolgrad" X="164600" Y="39000" Type="1" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Botosani" NameEng="Botosani" NameRus="Botosani" X="12500" Y="269000" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Dubossary" NameEng="Dubossary" NameRus="Dubossary" X="204794" Y="215302" Type="1" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Focsani" NameEng="Focsani" NameRus="Focsani" X="53300" Y="41000" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Galati" NameEng="Galati" NameRus="Galati" X="121500" Y="13200" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Grigoriopol" NameEng="Grigoriopol" NameRus="Grigoriopol" X="213800" Y="202000" Type="1" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Husi" NameEng="Husi" NameRus="Husi" X="120400" Y="150200" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Iasi" NameEng="Iasi" NameRus="Iasi" X="82600" Y="203400" Type="1" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ismail" NameEng="Ismail" NameRus="Ismail" X="182400" Y="2700" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Kishinev" NameEng="Kishinev" NameRus="Kishinev" X="179600" Y="188600" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Leova" NameEng="Leova" NameRus="Leova" X="135800" Y="127200" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Roman" NameEng="Roman" NameRus="Roman" X="33800" Y="176000" Type="1" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Rybnitsa" NameEng="Rybnitsa" NameRus="Rybnitsa" X="188800" Y="269600" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Tecuci" NameEng="Tecuci" NameRus="Tecuci" X="71979" Y="60999" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Tighina-Benderi" NameEng="Tighina-Benderi" NameRus="Tighina-Benderi" X="230000" Y="168400" Type="1" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Tiraspol" NameEng="Tiraspol" NameRus="Tiraspol" X="240000" Y="170900" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bahlui" NameEng="Bahlui" NameRus="Bahlui" X="75020" Y="204129" Type="0" bLevel="6" Align="1" Color="6"/>
+    <MapText Code="Bistrita" NameEng="Bistrita" NameRus="Bistrita" X="11572" Y="155607" Type="0" bLevel="7" Align="2" Color="6"/>
+    <MapText Code="Bolsoi_Kuyalnik" NameEng="Bol'soi Kuyal'nik" NameRus="Bol'soi Kuyal'nik" X="296144" Y="209432" Type="0" bLevel="7" Align="0" Color="6"/>
+    <MapText Code="Byk" NameEng="Byk" NameRus="Byk" X="186113" Y="183028" Type="0" bLevel="7" Align="0" Color="6"/>
+    <MapText Code="Chadshibenski_Liman" NameEng="Chadshibenski Liman" NameRus="Chadshibenski Liman" X="308334" Y="152548" Type="0" bLevel="6" Align="0" Color="6"/>
+    <MapText Code="Danube_Delta" NameEng="Danube Delta" NameRus="Danube Delta" X="249874" Y="5267" Type="1" bLevel="7" Align="0" Color="6"/>
+    <MapText Code="Dnestr" NameEng="Dnestr" NameRus="Dnestr" X="191268" Y="251479" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Jalpug" NameEng="Jalpug" NameRus="Jalpug" X="161427" Y="76553" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Kogil'nik" NameEng="Kogil'nik" NameRus="Kogil'nik" X="219675" Y="76276" Type="0" bLevel="7" Align="0" Color="6"/>
+    <MapText Code="Kucurgan" NameEng="Kucurgan" NameRus="Kucurgan" X="253181" Y="208046" Type="0" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Kuyajnitski_Liman" NameEng="Kuyajnitski Liman" NameRus="Kuyajnitski Liman" X="316727" Y="158844" Type="0" bLevel="6" Align="0" Color="6"/>
+    <MapText Code="Lacul_Alibei" NameEng="Lacul Alibei" NameRus="Lacul Alibei" X="271818" Y="55461" Type="0" bLevel="6" Align="1" Color="6"/>
+    <MapText Code="Lacul_Conduc" NameEng="Lacul Conduc" NameRus="Lacul Conduc" X="246497" Y="36904" Type="0" bLevel="6" Align="1" Color="6"/>
+    <MapText Code="Lacul_Sagani" NameEng="Lacul Sagani" NameRus="Lacul Sagani" X="261556" Y="46319" Type="0" bLevel="6" Align="1" Color="6"/>
+    <MapText Code="Limanul_Nistrului" NameEng="Limanul Nistrului" NameRus="Limanul Nistrului" X="285216" Y="111494" Type="0" bLevel="7" Align="0" Color="6"/>
+    <MapText Code="Prut" NameEng="Prut" NameRus="Prut" X="127050" Y="85989" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Prut" NameEng="Prut" NameRus="Prut" X="101794" Y="197205" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Seret" NameEng="Seret" NameRus="Seret" X="44700" Y="106785" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Seret" NameEng="Seret" NameRus="Seret" X="22194" Y="202528" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Black_Sea" NameEng="Black Sea" NameRus="Black Sea" X="319513" Y="47642" Type="1" bLevel="7" Align="2" Color="6"/>
+    <MapText Code="Andrisieni" X="62482" Y="243238" bLevel="7" Align="1" Type="0" Color="0" NameEng="Andrisieni" NameRus="Andrisieni"/>
+    <MapText Code="Barladul" X="99429" Y="114373" bLevel="7" Align="0" Type="0" Color="6" NameEng="Barladul" NameRus="Barladul"/>
+    <MapText Code="Blandesti" X="29673" Y="264776" bLevel="7" Align="1" Type="0" Color="0" NameEng="Blandesti" NameRus="Blandesti"/>
+    <MapText Code="Bolotina" X="66353" Y="262187" bLevel="7" Align="1" Type="0" Color="0" NameEng="Bolotina" NameRus="Bolotina"/>
+    <MapText Code="Botna" X="202015" Y="149963" bLevel="7" Align="0" Type="0" Color="6" NameEng="Botna" NameRus="Botna"/>
+    <MapText Code="Buna_Vestire" X="101735" Y="135494" bLevel="6" Align="1" Type="0" Color="5" NameEng="Buna_Vestire" NameRus="Buna_Vestire"/>
+    <MapText Code="Calarasi" X="61692" Y="248796" bLevel="7" Align="1" Type="0" Color="0" NameEng="Calarasi" NameRus="Calarasi"/>
+    <MapText Code="Calinesti" X="77451" Y="245076" bLevel="7" Align="1" Type="0" Color="0" NameEng="Calinesti" NameRus="Calinesti"/>
+    <MapText Code="Capriana" X="151114" Y="199157" bLevel="3" Align="0" Type="0" Color="5" NameEng="Capriana" NameRus="Capriana"/>
+    <MapText Code="Chiscareni" X="54675" Y="237160" bLevel="7" Align="1" Type="0" Color="0" NameEng="Chiscareni" NameRus="Chiscareni"/>
+    <MapText Code="Cimiseni" X="203426" Y="189085" bLevel="7" Align="0" Type="0" Color="0" NameEng="Cimiseni" NameRus="Cimiseni"/>
+    <MapText Code="Ciutacul-Vechiu" X="103270" Y="233855" bLevel="6" Align="0" Type="0" Color="5" NameEng="Ciutacul-Vechiu" NameRus="Ciutacul-Vechiu"/>
+    <MapText Code="Copalau" X="28671" Y="249660" bLevel="7" Align="1" Type="0" Color="0" NameEng="Copalau" NameRus="Copalau"/>
+    <MapText Code="Dascova" X="162378" Y="230198" bLevel="4" Align="1" Type="0" Color="0" NameEng="Dascova" NameRus="Dascova"/>
+    <MapText Code="Dnestr" X="223827" Y="182021" bLevel="7" Align="2" Type="1" Color="6" NameEng="Dnestr" NameRus="Dnestr"/>
+    <MapText Code="Dnestr" X="253335" Y="147386" bLevel="7" Align="2" Type="1" Color="6" NameEng="Dnestr" NameRus="Dnestr"/>
+    <MapText Code="Flamanzi" X="29806" Y="242738" bLevel="7" Align="1" Type="0" Color="0" NameEng="Flamanzi" NameRus="Flamanzi"/>
+    <MapText Code="Ghermanesti" X="156290" Y="235786" bLevel="7" Align="1" Type="0" Color="0" NameEng="Ghermanesti" NameRus="Ghermanesti"/>
+    <MapText Code="Ghermanesti" X="122346" Y="167376" bLevel="7" Align="2" Type="0" Color="0" NameEng="Ghermanesti" NameRus="Ghermanesti"/>
+    <MapText Code="Krasnaya_Gorka" X="227406" Y="183836" bLevel="7" Align="0" Type="0" Color="0" NameEng="Krasnaya_Gorka" NameRus="Krasnaya_Gorka"/>
+    <MapText Code="Monasterio_Orhei" X="188263" Y="220320" bLevel="6" Align="0" Type="0" Color="5" NameEng="Monasterio_Orhei" NameRus="Monasterio_Orhei"/>
+    <MapText Code="Odessa" X="339608" Y="130197" bLevel="7" Align="2" Type="2" Color="0" NameEng="Odessa" NameRus="Odessa"/>
+    <MapText Code="Ohrincia" X="196013" Y="211020" bLevel="7" Align="1" Type="0" Color="0" NameEng="Ohrincia" NameRus="Ohrincia"/>
+    <MapText Code="Parliti" X="105649" Y="221231" bLevel="7" Align="1" Type="0" Color="0" NameEng="Parliti" NameRus="Parliti"/>
+    <MapText Code="Perieni" X="75847" Y="228355" bLevel="7" Align="1" Type="0" Color="0" NameEng="Perieni" NameRus="Perieni"/>
+    <MapText Code="Pugoceni" X="215455" Y="197412" bLevel="7" Align="0" Type="0" Color="0" NameEng="Pugoceni" NameRus="Pugoceni"/>
+    <MapText Code="Putuntei" X="159657" Y="229962" bLevel="4" Align="1" Type="0" Color="0" NameEng="Putuntei" NameRus="Putuntei"/>
+    <MapText Code="Rauchowka" X="330749" Y="206325" bLevel="7" Align="2" Type="0" Color="0" NameEng="Rauchowka" NameRus="Rauchowka"/>
+    <MapText Code="Rediu-Metripoliei" X="77855" Y="218957" bLevel="6" Align="1" Type="0" Color="0" NameEng="Rediu-Metripoliei" NameRus="Rediu-Metripoliei"/>
+    <MapText Code="Reut" X="160890" Y="239851" bLevel="7" Align="0" Type="0" Color="6" NameEng="Reut" NameRus="Reut"/>
+    <MapText Code="Scumpia" X="94050" Y="235805" bLevel="7" Align="1" Type="0" Color="0" NameEng="Scumpia" NameRus="Scumpia"/>
+    <MapText Code="Sendreni" X="80639" Y="226026" bLevel="6" Align="1" Type="0" Color="0" NameEng="Sendreni" NameRus="Sendreni"/>
+    <MapText Code="Stolniceni" X="92867" Y="227810" bLevel="7" Align="1" Type="0" Color="0" NameEng="Stolniceni" NameRus="Stolniceni"/>
+    <MapText Code="Sturzesti" X="91630" Y="273143" bLevel="7" Align="0" Type="0" Color="0" NameEng="Sturzesti" NameRus="Sturzesti"/>
+    <MapText Code="Tiligul" X="297287" Y="250349" bLevel="7" Align="0" Type="0" Color="6" NameEng="Tiligul" NameRus="Tiligul"/>
+    <MapText Code="Todireni" X="47951" Y="251812" bLevel="7" Align="1" Type="0" Color="0" NameEng="Todireni" NameRus="Todireni"/>
+    <MapText Code="Traisteni" X="40030" Y="241050" bLevel="7" Align="1" Type="0" Color="0" NameEng="Traisteni" NameRus="Traisteni"/>
+    <MapText Code="Trifesti" X="75191" Y="235179" bLevel="7" Align="1" Type="0" Color="0" NameEng="Trifesti" NameRus="Trifesti"/>
+    <MapText Code="Vaprova" X="153682" Y="228433" bLevel="4" Align="1" Type="0" Color="0" NameEng="Vaprova" NameRus="Vaprova"/>
+    <MapText Code="Viprova" X="157741" Y="229186" bLevel="4" Align="1" Type="0" Color="0" NameEng="Viprova" NameRus="Viprova"/>
+    <MapText Code="Vladeni" X="62228" Y="231229" bLevel="7" Align="1" Type="0" Color="0" NameEng="Vladeni" NameRus="Vladeni"/>
+    <MapText Code="Vultur" X="79603" Y="210922" bLevel="7" Align="1" Type="0" Color="0" NameEng="Vultur" NameRus="Vultur"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="310587.06" Y="281145.66" A="165" T1="1" Res="B_29_g"/>
+    <Airfield ID="2" X="52813.81" Y="270793.32" A="155" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="3" X="17243.94" Y="270578.96" A="120" T1="1" Res="IL_2_1941Early_g"/>
+    <Airfield ID="4" X="109059.73" Y="266380.06" A="15" T1="1" Res="IL_2_1941Early_g"/>
+    <Airfield ID="5" X="191518.42" Y="265635.90" A="250" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="6" X="230458.10" Y="262761.58" A="0" T1="1" Res="BLENHEIM4_g"/>
+    <Airfield ID="7" X="97118.20" Y="257223.42" A="225" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="8" X="52248.87" Y="249798.27" A="175" T1="1" Res="BLENHEIM4_g"/>
+    <Airfield ID="9" X="75964.45" Y="244925.01" A="345" T1="1" Res="A_20G_g"/>
+    <Airfield ID="10" X="131657.95" Y="243441.20" A="305" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="11" X="253491.08" Y="225268.90" A="180" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="12" X="36645.22" Y="224851.40" A="165" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="13" X="136830.06" Y="217698.40" A="205" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="14" X="205822.39" Y="211218.99" A="60" T1="1" Res="BLENHEIM4_g"/>
+    <Airfield ID="15" X="326500.31" Y="209239.16" A="15" T1="1" Res="BLENHEIM4_g"/>
+    <Airfield ID="16" X="86574.45" Y="204987.22" A="160" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="17" X="217653.01" Y="204900.96" A="180" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="18" X="101792.05" Y="203602.52" A="180" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="19" X="265939.56" Y="198857.12" A="315" T1="1" Res="BLENHEIM4_g"/>
+    <Airfield ID="20" X="177803.89" Y="185492.62" A="135" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="21" X="33726.69" Y="181697.90" A="180" T1="1" Res="B_29_g"/>
+    <Airfield ID="22" X="247305.01" Y="174068.97" A="120" T1="1" Res="IL_2_1941Early_g"/>
+    <Airfield ID="23" X="225676.22" Y="173282.79" A="190" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="24" X="121190.67" Y="153225.89" A="155" T1="1" Res="IL_2_1941Early_g"/>
+    <Airfield ID="25" X="271735.34" Y="149541.83" A="225" T1="1" Res="IL_2_1941Early_g"/>
+    <Airfield ID="26" X="94693.11" Y="148340.68" A="185" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="27" X="27691.24" Y="141193.51" A="170" T1="1" Res="IL_2_1941Early_g"/>
+    <Airfield ID="28" X="30614.42" Y="134230.72" A="185" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="29" X="304967.44" Y="134084.64" A="90" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="30" X="328848.11" Y="133518.40" A="60" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="31" X="325100.36" Y="133416.48" A="180" T1="1" Res="TU_2S_g"/>
+    <Airfield ID="32" X="319161.49" Y="132975.24" A="270" T1="1" Res="MOSQUITO4_g"/>
+    <Airfield ID="33" X="136880.83" Y="130209.26" A="180" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="34" X="220850.50" Y="126663.38" A="225" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="35" X="315310.80" Y="121035.64" A="120" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="36" X="326302.08" Y="120856.42" A="210" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="37" X="199039.25" Y="110155.63" A="215" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="38" X="163995.84" Y="104276.33" A="180" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="39" X="131077.20" Y="101172.90" A="225" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="40" X="283356.63" Y="98281.92" A="270" T1="1" Res="BLENHEIM1_g"/>
+    <Airfield ID="41" X="94432.16" Y="98074.13" A="60" T1="1" Res="A_20G_g"/>
+    <Airfield ID="42" X="261608.85" Y="80619.75" A="270" T1="1" Res="BLENHEIM4_g"/>
+    <Airfield ID="43" X="67852.61" Y="63324.16" A="75" T1="1" Res="IL_2_1941Early_g"/>
+    <Airfield ID="44" X="135912.69" Y="61331.48" A="0" T1="1" Res="A_20G_g"/>
+    <Airfield ID="45" X="237704.61" Y="58783.95" A="90" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="46" X="85301.97" Y="57599.81" A="90" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="47" X="167077.39" Y="49174.68" A="225" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="48" X="53073.11" Y="47806.39" A="170" T1="1" Res="B_25C25_g"/>
+    <Airfield ID="49" X="71240.16" Y="40729.47" A="120" T1="1" Res="PE_3BIS_g"/>
+    <Airfield ID="50" X="169801.22" Y="39914.74" A="15" T1="1" Res="A_20G_g"/>
+    <Airfield ID="51" X="242280.35" Y="27434.79" A="350" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="52" X="240666.90" Y="25663.42" A="285" T1="1" Res="B_24J100_g"/>
+    <Airfield ID="53" X="217964.84" Y="18829.65" A="90" T1="1" Res="A_20G_g"/>
+    <Airfield ID="54" X="116689.77" Y="17308.96" A="170" T1="1" Res="BEAU21_g"/>
+    <Airfield ID="55" X="45833.12" Y="6578.88" A="205" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="56" X="287119.88" Y="4099.37" A="90" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="57" X="17055.28" Y="3972.04" A="95" T1="1" Res="B_25C25_g"/>
+    <Airfield ID="58" X="187034.35" Y="3300.36" A="220" T1="1" Res="B_24J100_g"/>
+  </Airfields>
+  <AdvTexts>
+    <AdvText Code="Insula_Serpilor" DeltaX="0" DeltaY="12"/>
+    <AdvText Code="Ramnicul_Sarat" DeltaX="-10" DeltaY="-8"/>
+    <AdvText Code="Station_5" DeltaX="0" DeltaY="5"/>
+    <AdvText Code="Tiganca" DeltaX="0" DeltaY="3"/>
+    <AdvText Code="Vakarzhany" DeltaX="0" DeltaY="3"/>
+    <AdvText Code="Zgardesti" DeltaX="0" DeltaY="-5"/>
+  </AdvTexts>
 </TBaseMapSettings>

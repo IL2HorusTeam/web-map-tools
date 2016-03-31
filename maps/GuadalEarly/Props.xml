@@ -1,34 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Guadal</MisCode>
-    <Width>163200</Width>
-    <Height>128000</Height>
-    <Towns>
-        <MapText Code="Kokumbono" NameEng="Kokumbono" NameRus="Kokumbono" X="50237" Y="62971" Type="1"/>
-        <MapText Code="Tasimboko" NameEng="Tasimboko" NameRus="Tasimboko" X="94583" Y="65471" Type="1"/>
-        <MapText Code="Tenaro" NameEng="Tenaro" NameRus="Tenaro" X="29938" Y="80337" Type="1"/>
-        <MapText Code="Lunga Field" NameEng="Lunga Field" NameRus="Lunga Field" X="63243" Y="63412" Type="3"/>
-        <MapText Code="Gavutu Is" NameEng="Gavutu Is" NameRus="Gavutu Is" X="78193" Y="94811" Type="3"/>
-        <MapText Code="Tanambogo Is" NameEng="Tanambogo Is" NameRus="Tanambogo Is" X="77841" Y="95570" Type="3"/>
-        <MapText Code="Tulagi Is" NameEng="Tulagi Is" NameRus="Tulagi Is" X="73763" Y="96313" Type="3"/>
-        <MapText Code="FloridaIs" NameEng="FloridaIs" NameRus="FloridaIs" X="77583" Y="103531" Type="3"/>
-        <MapText Code="Guadalcanal" NameEng="Guadalcanal" NameRus="Guadalcanal" X="74201" Y="40957" Type="3"/>
-        <MapText Code="Malaita" NameEng="Malaita" NameRus="Malaita" X="149459" Y="111722" Type="3"/>
-        <MapText Code="Savo Is" NameEng="Savo Is" NameRus="Savo Is" X="38897" Y="91850" Type="3"/>
-        <MapText Code="Cape Esperance" NameEng="Cape Esperance" NameRus="Cape Esperance" X="28116" Y="81069" Type="3"/>
-        <MapText Code="Koli Pt" NameEng="Koli Pt" NameRus="Koli Pt" X="74726" Y="65187" Type="3"/>
-        <MapText Code="Lunga Pt" NameEng="Lunga Pt" NameRus="Lunga Pt" X="61517" Y="65848" Type="3"/>
-        <MapText Code="Point Cruz" NameEng="Point Cruz" NameRus="Point Cruz" X="54473" Y="63304" Type="3"/>
-        <MapText Code="Taivu Point" NameEng="Taivu Point" NameRus="Taivu Point" X="97590" Y="64358" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="74798.67" Y="95954.75" A="315" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="2" X="63190.49" Y="63432.09" A="245" T1="1" Res="B_25J1_g"/>
-    </Airfields>
-    <AdvTexts>
-        <AdvText Code="Gavutu Is" DeltaX="0" DeltaY="3"/>
-        <AdvText Code="Lunga Field" DeltaX="-28" DeltaY="-8"/>
-        <AdvText Code="Tanambogo Is" DeltaX="15" DeltaY="-5"/>
-        <AdvText Code="Tulagi Is" DeltaX="-20" DeltaY="0"/>
-    </AdvTexts>
+  <MisCode>Guadal</MisCode>
+  <Width>163200</Width>
+  <Height>128000</Height>
+  <Towns>
+    <MapText Code="Kokumbono" NameEng="Kokumbono" NameRus="Kokumbono" X="50237" Y="62971" Type="1" bLevel="6" Align="1" Color="4"/>
+    <MapText Code="Tasimboko" NameEng="Tasimboko" NameRus="Tasimboko" X="94583" Y="65471" Type="1" bLevel="6" Align="1" Color="4"/>
+    <MapText Code="Tenaro" NameEng="Tenaro" NameRus="Tenaro" X="29938" Y="80337" Type="1" bLevel="6" Align="1" Color="4"/>
+    <MapText Code="Lunga_Field" NameEng="Lunga Field" NameRus="Lunga Field" X="63243" Y="63412" Type="0" bLevel="6" Align="1" Color="6"/>
+    <MapText Code="Gavutu_Is" NameEng="Gavutu Is" NameRus="Gavutu Is" X="78193" Y="94811" Type="1" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Tanambogo_Is" NameEng="Tanambogo Is" NameRus="Tanambogo Is" X="77841" Y="95570" Type="1" bLevel="6" Align="1" Color="1"/>
+    <MapText Code="Tulagi_Is" NameEng="Tulagi Is" NameRus="Tulagi Is" X="73763" Y="96313" Type="1" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Florida_Is" NameEng="FloridaIs" NameRus="FloridaIs" X="77583" Y="103531" Type="2" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Guadalcanal" NameEng="Guadalcanal" NameRus="Guadalcanal" X="74201" Y="40957" Type="2" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Malaita" NameEng="Malaita" NameRus="Malaita" X="149459" Y="111722" Type="2" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Savo_Is" NameEng="Savo Is" NameRus="Savo Is" X="38897" Y="91850" Type="2" bLevel="7" Align="1" Color="1"/>
+    <MapText Code="Cape_Esperance" NameEng="Cape Esperance" NameRus="Cape Esperance" X="28116" Y="81069" Type="1" bLevel="7" Align="1" Color="2"/>
+    <MapText Code="Koli_Pt" NameEng="Koli Pt" NameRus="Koli Pt" X="74726" Y="65187" Type="1" bLevel="7" Align="1" Color="2"/>
+    <MapText Code="Lunga_Pt" NameEng="Lunga Pt" NameRus="Lunga Pt" X="61517" Y="65848" Type="1" bLevel="7" Align="1" Color="2"/>
+    <MapText Code="Point_Cruz" NameEng="Point Cruz" NameRus="Point Cruz" X="54473" Y="63304" Type="1" bLevel="7" Align="1" Color="2"/>
+    <MapText Code="Taivu_Point" NameEng="Taivu Point" NameRus="Taivu Point" X="97590" Y="64358" Type="1" bLevel="7" Align="1" Color="2"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="74798.67" Y="95954.75" A="315" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="2" X="63190.49" Y="63432.09" A="245" T1="1" Res="B_25J1_g"/>
+  </Airfields>
+  <AdvTexts>
+    <AdvText Code="Gavutu Is" DeltaX="0" DeltaY="3"/>
+    <AdvText Code="Lunga Field" DeltaX="-28" DeltaY="-8"/>
+    <AdvText Code="Tanambogo Is" DeltaX="15" DeltaY="-5"/>
+    <AdvText Code="Tulagi Is" DeltaX="-20" DeltaY="0"/>
+  </AdvTexts>
 </TBaseMapSettings>

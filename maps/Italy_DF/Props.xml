@@ -1,184 +1,184 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Italy_DF</MisCode>
-    <Width>160000</Width>
-    <Height>160000</Height>
-    <Towns>
-        <MapText Code="Acri" NameEng="Acri" NameRus="Acri" X="139560" Y="43106" Type="1"/>
-        <MapText Code="Agrigento" NameEng="Agrigento" NameRus="Agrigento" X="99567" Y="4274" Type="1"/>
-        <MapText Code="Airola" NameEng="Airola" NameRus="Airola" X="112276" Y="97639" Type="1"/>
-        <MapText Code="Alba" NameEng="Alba" NameRus="Alba" X="8462" Y="143675" Type="1"/>
-        <MapText Code="Alghero" NameEng="Alghero" NameRus="Alghero" X="12151" Y="40802" Type="1"/>
-        <MapText Code="Anzio" NameEng="Anzio" NameRus="Anzio" X="77513" Y="102634" Type="1"/>
-        <MapText Code="Aosta" NameEng="Aosta" NameRus="Aosta" X="14356" Y="153373" Type="1"/>
-        <MapText Code="Arco" NameEng="Arco" NameRus="Arco" X="77275" Y="140604" Type="1"/>
-        <MapText Code="Arezzo" NameEng="Arezzo" NameRus="Arezzo" X="71566" Y="126139" Type="1"/>
-        <MapText Code="Ascoli_Piceno" NameEng="Ascoli Piceno" NameRus="Ascoli Piceno" X="136286" Y="109414" Type="1"/>
-        <MapText Code="Assisi" NameEng="Assisi" NameRus="Assisi" X="135121" Y="115584" Type="1"/>
-        <MapText Code="Asti" NameEng="Asti" NameRus="Asti" X="107976" Y="136186" Type="1"/>
-        <MapText Code="Barbagia" NameEng="Barbagia" NameRus="Barbagia" X="21406" Y="40398" Type="1"/>
-        <MapText Code="Battipaglia" NameEng="Battipaglia" NameRus="Battipaglia" X="129009" Y="63353" Type="1"/>
-        <MapText Code="Benevento" NameEng="Benevento" NameRus="Benevento" X="117356" Y="81070" Type="1"/>
-        <MapText Code="Bologna" NameEng="Bologna" NameRus="Bologna" X="128274" Y="129431" Type="1"/>
-        <MapText Code="Bolzano" NameEng="Bolzano" NameRus="Bolzano" X="118653" Y="146696" Type="1"/>
-        <MapText Code="Bordighera" NameEng="Bordighera" NameRus="Bordighera" X="7402" Y="123369" Type="1"/>
-        <MapText Code="Brennero_Alto" NameEng="Brennero Alto" NameRus="Brennero Alto" X="28169" Y="154261" Type="1"/>
-        <MapText Code="Brescia" NameEng="Brescia" NameRus="Brescia" X="95641" Y="133907" Type="1"/>
-        <MapText Code="Butino" NameEng="Butino" NameRus="Butino" X="148519" Y="18539" Type="1"/>
-        <MapText Code="Cagliari" NameEng="Cagliari" NameRus="Cagliari" X="24770" Y="12512" Type="1"/>
-        <MapText Code="Cala_Gonone" NameEng="Cala Gonone" NameRus="Cala Gonone" X="32557" Y="34251" Type="1"/>
-        <MapText Code="Calatafimi" NameEng="Calatafimi" NameRus="Calatafimi" X="83214" Y="20104" Type="1"/>
-        <MapText Code="Caltagirone" NameEng="Caltagirone" NameRus="Caltagirone" X="124460" Y="9725" Type="1"/>
-        <MapText Code="Campobasso" NameEng="Campobasso" NameRus="Campobasso" X="143841" Y="87941" Type="1"/>
-        <MapText Code="Capua" NameEng="Capua" NameRus="Capua" X="99500" Y="86342" Type="1"/>
-        <MapText Code="Carini" NameEng="Carini" NameRus="Carini" X="94771" Y="20542" Type="1"/>
-        <MapText Code="Carrara" NameEng="Carrara" NameRus="Carrara" X="50833" Y="116277" Type="1"/>
-        <MapText Code="Caserta" NameEng="Caserta" NameRus="Caserta" X="93285" Y="107387" Type="1"/>
-        <MapText Code="Caserta" NameEng="Caserta" NameRus="Caserta" X="102498" Y="101971" Type="1"/>
-        <MapText Code="Castrovillari" NameEng="Castrovillari" NameRus="Castrovillari" X="144673" Y="44087" Type="1"/>
-        <MapText Code="Cefalu" NameEng="Cefalu" NameRus="Cefalu" X="106162" Y="29383" Type="1"/>
-        <MapText Code="Chiusi" NameEng="Chiusi" NameRus="Chiusi" X="60643" Y="126633" Type="1"/>
-        <MapText Code="Colli_Euganei" NameEng="Colli Euganei" NameRus="Colli Euganei" X="133766" Y="135042" Type="1"/>
-        <MapText Code="Comiso" NameEng="Comiso" NameRus="Comiso" X="79942" Y="9301" Type="1"/>
-        <MapText Code="Cortina" NameEng="Cortina" NameRus="Cortina" X="114728" Y="151270" Type="1"/>
-        <MapText Code="Cremona" NameEng="Cremona" NameRus="Cremona" X="87608" Y="106344" Type="1"/>
-        <MapText Code="Crotone" NameEng="Crotone" NameRus="Crotone" X="81362" Y="4825" Type="1"/>
-        <MapText Code="Cuneo" NameEng="Cuneo" NameRus="Cuneo" X="7803" Y="131145" Type="1"/>
-        <MapText Code="Dorgali" NameEng="Dorgali" NameRus="Dorgali" X="28390" Y="35635" Type="1"/>
-        <MapText Code="Erice" NameEng="Erice" NameRus="Erice" X="94833" Y="115998" Type="1"/>
-        <MapText Code="Erice" NameEng="Erice" NameRus="Erice" X="76426" Y="18017" Type="1"/>
-        <MapText Code="Ferrara" NameEng="Ferrara" NameRus="Ferrara" X="47314" Y="128492" Type="1"/>
-        <MapText Code="Finale" NameEng="Finale" NameRus="Finale" X="13303" Y="128131" Type="1"/>
-        <MapText Code="Fiorgole" NameEng="Fiorgole" NameRus="Fiorgole" X="84179" Y="108337" Type="1"/>
-        <MapText Code="Firenze" NameEng="Firenze" NameRus="Firenze" X="41424" Y="130091" Type="1"/>
-        <MapText Code="Fiuggi" NameEng="Fiuggi" NameRus="Fiuggi" X="65389" Y="110130" Type="1"/>
-        <MapText Code="Foggia" NameEng="Foggia" NameRus="Foggia" X="125710" Y="80780" Type="1"/>
-        <MapText Code="Follonica" NameEng="Follonica" NameRus="Follonica" X="43689" Y="123213" Type="1"/>
-        <MapText Code="Fondi" NameEng="Fondi" NameRus="Fondi" X="95402" Y="96904" Type="1"/>
-        <MapText Code="Forli" NameEng="Forli" NameRus="Forli" X="137150" Y="127749" Type="1"/>
-        <MapText Code="Formia" NameEng="Formia" NameRus="Formia" X="83132" Y="83307" Type="1"/>
-        <MapText Code="Gaeta" NameEng="Gaeta" NameRus="Gaeta" X="86969" Y="90574" Type="1"/>
-        <MapText Code="Gianni" NameEng="Gianni" NameRus="Gianni" X="136296" Y="76865" Type="1"/>
-        <MapText Code="Gioia_del_Colle" NameEng="Gioia del Colle" NameRus="Gioia del Colle" X="134838" Y="61129" Type="1"/>
-        <MapText Code="Grosseto" NameEng="Grosseto" NameRus="Grosseto" X="49588" Y="123477" Type="1"/>
-        <MapText Code="Grottaminarda" NameEng="Grottaminarda" NameRus="Grottaminarda" X="126809" Y="76405" Type="1"/>
-        <MapText Code="Gubbio" NameEng="Gubbio" NameRus="Gubbio" X="133298" Y="119312" Type="1"/>
-        <MapText Code="Imperia" NameEng="Imperia" NameRus="Imperia" X="7696" Y="120017" Type="1"/>
-        <MapText Code="Isernia" NameEng="Isernia" NameRus="Isernia" X="122149" Y="84058" Type="1"/>
-        <MapText Code="Isili" NameEng="Isili" NameRus="Isili" X="15138" Y="14891" Type="1"/>
-        <MapText Code="Isola_Asinara" NameEng="Isola Asinara" NameRus="Isola Asinara" X="11953" Y="51546" Type="1"/>
-        <MapText Code="Isola_dei_Pescatori" NameEng="Isola die Pescatori" NameRus="Isola die Pescatori" X="41476" Y="90979" Type="1"/>
-        <MapText Code="Isola_di_Capri" NameEng="Isola di Capri" NameRus="Isola di Capri" X="51609" Y="97590" Type="1"/>
-        <MapText Code="Isola_Margherita" NameEng="Isola Margherita" NameRus="Isola Margherita" X="66764" Y="77871" Type="1"/>
-        <MapText Code="L_Aquila" NameEng="L'Aquila" NameRus="L'Aquila" X="112046" Y="111924" Type="1"/>
-        <MapText Code="La_Spezia" NameEng="La Spezia" NameRus="La Spezia" X="23598" Y="129766" Type="1"/>
-        <MapText Code="Latina" NameEng="Latina" NameRus="Latina" X="88898" Y="100632" Type="1"/>
-        <MapText Code="Lentini" NameEng="Lentini" NameRus="Lentini" X="148371" Y="14959" Type="1"/>
-        <MapText Code="Limone" NameEng="Limone" NameRus="Limone" X="110570" Y="87731" Type="1"/>
-        <MapText Code="Lonate_Pozzolo" NameEng="Lonate Pozzolo" NameRus="Lonate Pozzolo" X="54707" Y="150498" Type="1"/>
-        <MapText Code="Lucca" NameEng="Lucca" NameRus="Lucca" X="97005" Y="122515" Type="1"/>
-        <MapText Code="Macomer" NameEng="Macomer" NameRus="Macomer" X="24608" Y="29433" Type="1"/>
-        <MapText Code="Magenta" NameEng="Magenta" NameRus="Magenta" X="65662" Y="136659" Type="1"/>
-        <MapText Code="Matera" NameEng="Matera" NameRus="Matera" X="138467" Y="70632" Type="1"/>
-        <MapText Code="Melfi" NameEng="Melfi" NameRus="Melfi" X="134675" Y="68318" Type="1"/>
-        <MapText Code="Merano" NameEng="Merano" NameRus="Merano" X="89667" Y="147164" Type="1"/>
-        <MapText Code="Messina" NameEng="Messina" NameRus="Messina" X="125544" Y="26914" Type="1"/>
-        <MapText Code="Mondovi" NameEng="Mondovi" NameRus="Mondovi" X="71949" Y="106954" Type="1"/>
-        <MapText Code="Mondragone" NameEng="Mondragone" NameRus="Mondragone" X="95574" Y="83807" Type="1"/>
-        <MapText Code="Monte_Cassino" NameEng="Monte_Cassino" NameRus="Monte_Cassino" X="137887" Y="38447" Type="1"/>
-        <MapText Code="Mussomeli" NameEng="Mussomeli" NameRus="Mussomeli" X="102924" Y="17493" Type="1"/>
-        <MapText Code="Nola" NameEng="Nola" NameRus="Nola" X="104687" Y="90232" Type="1"/>
-        <MapText Code="Novara" NameEng="Novara" NameRus="Novara" X="26410" Y="138181" Type="1"/>
-        <MapText Code="Olbia" NameEng="Olbia" NameRus="Olbia" X="30314" Y="48221" Type="1"/>
-        <MapText Code="Orbetello" NameEng="Orbetello" NameRus="Orbetello" X="47017" Y="119471" Type="1"/>
-        <MapText Code="Oristano" NameEng="Oristano" NameRus="Oristano" X="16301" Y="26781" Type="1"/>
-        <MapText Code="Orosei" NameEng="Orosei" NameRus="Orosei" X="34113" Y="43101" Type="1"/>
-        <MapText Code="Orsucci" NameEng="Orsucci" NameRus="Orsucci" X="134243" Y="11813" Type="1"/>
-        <MapText Code="Osoppo" NameEng="Osoppo" NameRus="Osoppo" X="130278" Y="149198" Type="1"/>
-        <MapText Code="Pachino" NameEng="Pachino" NameRus="Pachino" X="144157" Y="11219" Type="1"/>
-        <MapText Code="Palmi" NameEng="Palmi" NameRus="Palmi" X="128004" Y="34719" Type="1"/>
-        <MapText Code="Paola" NameEng="Paola" NameRus="Paola" X="129930" Y="38385" Type="1"/>
-        <MapText Code="Patti" NameEng="Patti" NameRus="Patti" X="116440" Y="26035" Type="1"/>
-        <MapText Code="Pavia" NameEng="Pavia" NameRus="Pavia" X="69592" Y="129091" Type="1"/>
-        <MapText Code="Pescina" NameEng="Pescina" NameRus="Pescina" X="116372" Y="102881" Type="1"/>
-        <MapText Code="Piacenza" NameEng="Piacenza" NameRus="Piacenza" X="41922" Y="143365" Type="1"/>
-        <MapText Code="Pisa" NameEng="Pisa" NameRus="Pisa" X="137941" Y="131407" Type="1"/>
-        <MapText Code="Porto_Torres" NameEng="Porto Torres" NameRus="Porto Torres" X="11895" Y="45662" Type="1"/>
-        <MapText Code="Portogruaro" NameEng="Portogruaro" NameRus="Portogruaro" X="136126" Y="142536" Type="1"/>
-        <MapText Code="Potenza" NameEng="Potenza" NameRus="Potenza" X="129368" Y="94570" Type="1"/>
-        <MapText Code="Ragusa" NameEng="Ragusa" NameRus="Ragusa" X="141725" Y="62251" Type="1"/>
-        <MapText Code="Randazzo" NameEng="Randazzo" NameRus="Randazzo" X="116765" Y="18078" Type="1"/>
-        <MapText Code="Rapallo" NameEng="Rapallo" NameRus="Rapallo" X="32922" Y="126268" Type="1"/>
-        <MapText Code="Ravenna" NameEng="Ravenna" NameRus="Ravenna" X="143695" Y="116884" Type="1"/>
-        <MapText Code="Reggio_Calabria" NameEng="Reggio Calabria" NameRus="Reggio Calabria" X="134099" Y="28329" Type="1"/>
-        <MapText Code="Reggio_Emilia" NameEng="Reggio Emilia" NameRus="Reggio Emilia" X="78342" Y="128959" Type="1"/>
-        <MapText Code="Salemi" NameEng="Salemi" NameRus="Salemi" X="93690" Y="10151" Type="1"/>
-        <MapText Code="Salerno" NameEng="Salerno" NameRus="Salerno" X="120984" Y="74053" Type="1"/>
-        <MapText Code="San_Ermanno" NameEng="San Ermanno" NameRus="San Ermanno" X="131238" Y="101625" Type="1"/>
-        <MapText Code="Sant_Antioco" NameEng="Sant Antioco" NameRus="Sant Antioco" X="13140" Y="8531" Type="1"/>
-        <MapText Code="Sapri" NameEng="Sapri" NameRus="Sapri" X="126828" Y="43776" Type="1"/>
-        <MapText Code="Scalea" NameEng="Scalea" NameRus="Scalea" X="123337" Y="48612" Type="1"/>
-        <MapText Code="Siena" NameEng="Siena" NameRus="Siena" X="54208" Y="129916" Type="1"/>
-        <MapText Code="Siracusa" NameEng="Siracusa" NameRus="Siracusa" X="150820" Y="10681" Type="1"/>
-        <MapText Code="Sperlonga" NameEng="Sperlonga" NameRus="Sperlonga" X="82434" Y="88496" Type="1"/>
-        <MapText Code="Strapapiombi" NameEng="Strapapiombi" NameRus="Strapapiombi" X="144468" Y="38944" Type="1"/>
-        <MapText Code="Stresa" NameEng="Stresa" NameRus="Stresa" X="61303" Y="145412" Type="1"/>
-        <MapText Code="Stromboli" NameEng="Stromboli" NameRus="Stromboli" X="16174" Y="65560" Type="1"/>
-        <MapText Code="Subiaco" NameEng="Subiaco" NameRus="Subiaco" X="66372" Y="113943" Type="1"/>
-        <MapText Code="Sulmona" NameEng="Sulmona" NameRus="Sulmona" X="121426" Y="105492" Type="1"/>
-        <MapText Code="Sutera" NameEng="Sutera" NameRus="Sutera" X="107741" Y="7444" Type="1"/>
-        <MapText Code="Taormina" NameEng="Taormina" NameRus="Taormina" X="129563" Y="25037" Type="1"/>
-        <MapText Code="Teramo" NameEng="Teramo" NameRus="Teramo" X="145860" Y="102959" Type="1"/>
-        <MapText Code="Tolmezzo" NameEng="Tolmezzo" NameRus="Tolmezzo" X="130081" Y="154305" Type="1"/>
-        <MapText Code="Torino" NameEng="Torino" NameRus="Torino" X="17833" Y="142726" Type="1"/>
-        <MapText Code="Trento" NameEng="Trento" NameRus="Trento" X="120195" Y="142529" Type="1"/>
-        <MapText Code="Treviso" NameEng="Treviso" NameRus="Treviso" X="143957" Y="139358" Type="1"/>
-        <MapText Code="Trieste" NameEng="Trieste" NameRus="Trieste" X="134471" Y="147019" Type="1"/>
-        <MapText Code="Udine" NameEng="Udine" NameRus="Udine" X="125362" Y="147307" Type="1"/>
-        <MapText Code="Varese" NameEng="Varese" NameRus="Varese" X="40203" Y="151290" Type="1"/>
-        <MapText Code="Venafro" NameEng="Venafro" NameRus="Venafro" X="98142" Y="106045" Type="1"/>
-        <MapText Code="Venosa" NameEng="Venosa" NameRus="Venosa" X="141584" Y="52997" Type="1"/>
-        <MapText Code="Ventimiglia" NameEng="Ventimiglia" NameRus="Ventimiglia" X="4348" Y="121350" Type="1"/>
-        <MapText Code="Verona" NameEng="Verona" NameRus="Verona" X="23367" Y="146955" Type="1"/>
-        <MapText Code="Vigevano" NameEng="Vigevano" NameRus="Vigevano" X="43454" Y="138225" Type="1"/>
-        <MapText Code="Villa_Raimondo" NameEng="Villa Raimondo" NameRus="Villa Raimondo" X="122779" Y="68536" Type="1"/>
-        <MapText Code="Villafranca" NameEng="Villafranca" NameRus="Villafranca" X="91820" Y="142106" Type="1"/>
-        <MapText Code="Vinci" NameEng="Vinci" NameRus="Vinci" X="56685" Y="121983" Type="1"/>
-        <MapText Code="Viterbo" NameEng="Viterbo" NameRus="Viterbo" X="58648" Y="116434" Type="1"/>
-        <MapText Code="Catania" NameEng="Catania" NameRus="Catania" X="142810" Y="24408" Type="2"/>
-        <MapText Code="Genova" NameEng="Genova" NameRus="Genova" X="19646" Y="131942" Type="2"/>
-        <MapText Code="Napoli" NameEng="Napoli" NameRus="Napoli" X="59582" Y="102600" Type="2"/>
-        <MapText Code="Palermo" NameEng="Palermo" NameRus="Palermo" X="97817" Y="28188" Type="2"/>
-        <MapText Code="Trapani" NameEng="Trapani" NameRus="Trapani" X="84840" Y="15169" Type="2"/>
-        <MapText Code="Milano" NameEng="Milano" NameRus="Milano" X="92078" Y="132149" Type="3"/>
-        <MapText Code="Lago_di_Giorgio" NameEng="Lago di Giorgio" NameRus="Lago di Giorgio" X="72629" Y="143363" Type="3"/>
-        <MapText Code="Paludi_Pontine" NameEng="Paludi Pontine" NameRus="Paludi Pontine" X="81960" Y="99474" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="31616.20" Y="125889.11" A="210" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="2" X="16858.73" Y="67502.95" A="300" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="3" X="23694.05" Y="12926.06" A="160" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="4" X="78922.00" Y="7746.12" A="240" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="5" X="53190.69" Y="100746.10" A="150" T1="3" Res="MBR_2AM34_w"/>
-        <Airfield ID="6" X="22156.64" Y="134086.03" A="270" T1="2" Res="IL_4_DB3B_b"/>
-        <Airfield ID="7" X="53899.86" Y="153365.62" A="0" T1="1" Res="TU_2S_g"/>
-        <Airfield ID="8" X="88031.23" Y="142226.02" A="270" T1="1" Res="B_29_g"/>
-        <Airfield ID="9" X="120330.70" Y="145820.22" A="335" T1="1" Res="A_20G_g"/>
-        <Airfield ID="10" X="110780.08" Y="113650.14" A="255" T1="1" Res="B_25C25_g"/>
-        <Airfield ID="11" X="111388.12" Y="91627.27" A="200" T1="1" Res="A_20G_g"/>
-        <Airfield ID="12" X="127511.63" Y="78104.21" A="180" T1="1" Res="A_20G_g"/>
-        <Airfield ID="13" X="151047.93" Y="17399.11" A="270" T1="1" Res="B_29_g"/>
-        <Airfield ID="14" X="127279.94" Y="29074.68" A="195" T1="1" Res="A_20G_g"/>
-        <Airfield ID="15" X="84670.27" Y="16164.19" A="255" T1="2" Res="IL_4_DB3T_b"/>
-        <Airfield ID="16" X="22518.20" Y="16342.69" A="180" T1="1" Res="B_29_g"/>
-        <Airfield ID="17" X="11066.92" Y="45005.08" A="180" T1="1" Res="A_20G_g"/>
-        <Airfield ID="18" X="54377.37" Y="102572.04" A="0" T1="1" Res="A_20C_g"/>
-    </Airfields>
-    <AdvTexts>
-        <AdvText Code="Bolzano" DeltaX="-8" DeltaY="0"/>
-        <AdvText Code="Cagliari" DeltaX="12" DeltaY="-7"/>
-        <AdvText Code="Rapallo" DeltaX="12" DeltaY="0"/>
-        <AdvText Code="Trapani" DeltaX="0" DeltaY="10"/>
-        <AdvText Code="Villafranca" DeltaX="5" DeltaY="0"/>
-    </AdvTexts>
+  <MisCode>Italy_DF</MisCode>
+  <Width>160000</Width>
+  <Height>160000</Height>
+  <Towns>
+    <MapText Code="Acri" NameEng="Acri" NameRus="Acri" X="139560" Y="43106" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Agrigento" NameEng="Agrigento" NameRus="Agrigento" X="99567" Y="4274" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Airola" NameEng="Airola" NameRus="Airola" X="112276" Y="97639" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Alba" NameEng="Alba" NameRus="Alba" X="8462" Y="143675" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Alghero" NameEng="Alghero" NameRus="Alghero" X="12151" Y="40802" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Anzio" NameEng="Anzio" NameRus="Anzio" X="77513" Y="102634" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Aosta" NameEng="Aosta" NameRus="Aosta" X="14356" Y="153373" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Arco" NameEng="Arco" NameRus="Arco" X="77275" Y="140604" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Arezzo" NameEng="Arezzo" NameRus="Arezzo" X="71566" Y="126139" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ascoli_Piceno" NameEng="Ascoli Piceno" NameRus="Ascoli Piceno" X="136286" Y="109414" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Assisi" NameEng="Assisi" NameRus="Assisi" X="135121" Y="115584" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Asti" NameEng="Asti" NameRus="Asti" X="107976" Y="136186" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Barbagia" NameEng="Barbagia" NameRus="Barbagia" X="21406" Y="40398" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Battipaglia" NameEng="Battipaglia" NameRus="Battipaglia" X="129009" Y="63353" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Benevento" NameEng="Benevento" NameRus="Benevento" X="117356" Y="81070" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Bologna" NameEng="Bologna" NameRus="Bologna" X="128274" Y="129431" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bolzano" NameEng="Bolzano" NameRus="Bolzano" X="118653" Y="146696" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bordighera" NameEng="Bordighera" NameRus="Bordighera" X="7402" Y="123369" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Brennero_Alto" NameEng="Brennero Alto" NameRus="Brennero Alto" X="28169" Y="154261" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Brescia" NameEng="Brescia" NameRus="Brescia" X="95641" Y="133907" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Butino" NameEng="Butino" NameRus="Butino" X="148519" Y="18539" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Cagliari" NameEng="Cagliari" NameRus="Cagliari" X="24770" Y="12512" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cala_Gonone" NameEng="Cala Gonone" NameRus="Cala Gonone" X="32557" Y="34251" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Calatafimi" NameEng="Calatafimi" NameRus="Calatafimi" X="83214" Y="20104" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Caltagirone" NameEng="Caltagirone" NameRus="Caltagirone" X="124460" Y="9725" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Campobasso" NameEng="Campobasso" NameRus="Campobasso" X="143841" Y="87941" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Capua" NameEng="Capua" NameRus="Capua" X="99500" Y="86342" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Carini" NameEng="Carini" NameRus="Carini" X="94771" Y="20542" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Carrara" NameEng="Carrara" NameRus="Carrara" X="50833" Y="116277" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Caserta" NameEng="Caserta" NameRus="Caserta" X="93285" Y="107387" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Caserta" NameEng="Caserta" NameRus="Caserta" X="102498" Y="101971" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Castrovillari" NameEng="Castrovillari" NameRus="Castrovillari" X="144673" Y="44087" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Cefalu" NameEng="Cefalu" NameRus="Cefalu" X="106162" Y="29383" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Chiusi" NameEng="Chiusi" NameRus="Chiusi" X="60643" Y="126633" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Colli_Euganei" NameEng="Colli Euganei" NameRus="Colli Euganei" X="133766" Y="135042" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Comiso" NameEng="Comiso" NameRus="Comiso" X="79942" Y="9301" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Cortina" NameEng="Cortina" NameRus="Cortina" X="114728" Y="151270" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Cremona" NameEng="Cremona" NameRus="Cremona" X="87608" Y="106344" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Crotone" NameEng="Crotone" NameRus="Crotone" X="81362" Y="4825" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Cuneo" NameEng="Cuneo" NameRus="Cuneo" X="7803" Y="131145" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Dorgali" NameEng="Dorgali" NameRus="Dorgali" X="28390" Y="35635" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Erice" NameEng="Erice" NameRus="Erice" X="94833" Y="115998" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Erice" NameEng="Erice" NameRus="Erice" X="76426" Y="18017" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Ferrara" NameEng="Ferrara" NameRus="Ferrara" X="47314" Y="128492" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Finale" NameEng="Finale" NameRus="Finale" X="13303" Y="128131" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Fiorgole" NameEng="Fiorgole" NameRus="Fiorgole" X="84179" Y="108337" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Firenze" NameEng="Firenze" NameRus="Firenze" X="41424" Y="130091" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Fiuggi" NameEng="Fiuggi" NameRus="Fiuggi" X="65389" Y="110130" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Foggia" NameEng="Foggia" NameRus="Foggia" X="125710" Y="80780" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Follonica" NameEng="Follonica" NameRus="Follonica" X="43689" Y="123213" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Fondi" NameEng="Fondi" NameRus="Fondi" X="95402" Y="96904" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Forli" NameEng="Forli" NameRus="Forli" X="137150" Y="127749" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Formia" NameEng="Formia" NameRus="Formia" X="83132" Y="83307" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gaeta" NameEng="Gaeta" NameRus="Gaeta" X="86969" Y="90574" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Gianni" NameEng="Gianni" NameRus="Gianni" X="136296" Y="76865" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Gioia_del_Colle" NameEng="Gioia del Colle" NameRus="Gioia del Colle" X="134838" Y="61129" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Grosseto" NameEng="Grosseto" NameRus="Grosseto" X="49588" Y="123477" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Grottaminarda" NameEng="Grottaminarda" NameRus="Grottaminarda" X="126809" Y="76405" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Gubbio" NameEng="Gubbio" NameRus="Gubbio" X="133298" Y="119312" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Imperia" NameEng="Imperia" NameRus="Imperia" X="7696" Y="120017" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Isernia" NameEng="Isernia" NameRus="Isernia" X="122149" Y="84058" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Isili" NameEng="Isili" NameRus="Isili" X="15138" Y="14891" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Isola_Asinara" NameEng="Isola Asinara" NameRus="Isola Asinara" X="11953" Y="51546" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Isola_dei_Pescatori" NameEng="Isola die Pescatori" NameRus="Isola die Pescatori" X="41476" Y="90979" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Isola_di_Capri" NameEng="Isola di Capri" NameRus="Isola di Capri" X="51609" Y="97590" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Isola_Margherita" NameEng="Isola Margherita" NameRus="Isola Margherita" X="66764" Y="77871" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="L_Aquila" NameEng="L'Aquila" NameRus="L'Aquila" X="112046" Y="111924" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="La_Spezia" NameEng="La Spezia" NameRus="La Spezia" X="23598" Y="129766" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Latina" NameEng="Latina" NameRus="Latina" X="88898" Y="100632" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Lentini" NameEng="Lentini" NameRus="Lentini" X="148371" Y="14959" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Limone" NameEng="Limone" NameRus="Limone" X="110570" Y="87731" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Lonate_Pozzolo" NameEng="Lonate Pozzolo" NameRus="Lonate Pozzolo" X="54707" Y="150498" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Lucca" NameEng="Lucca" NameRus="Lucca" X="97005" Y="122515" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Macomer" NameEng="Macomer" NameRus="Macomer" X="24608" Y="29433" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Magenta" NameEng="Magenta" NameRus="Magenta" X="65662" Y="136659" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Matera" NameEng="Matera" NameRus="Matera" X="138467" Y="70632" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Melfi" NameEng="Melfi" NameRus="Melfi" X="134675" Y="68318" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Merano" NameEng="Merano" NameRus="Merano" X="89667" Y="147164" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Messina" NameEng="Messina" NameRus="Messina" X="125544" Y="26914" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Mondovi" NameEng="Mondovi" NameRus="Mondovi" X="71949" Y="106954" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Mondragone" NameEng="Mondragone" NameRus="Mondragone" X="95574" Y="83807" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Monte_Cassino" NameEng="Monte_Cassino" NameRus="Monte_Cassino" X="137887" Y="38447" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Mussomeli" NameEng="Mussomeli" NameRus="Mussomeli" X="102924" Y="17493" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Nola" NameEng="Nola" NameRus="Nola" X="104687" Y="90232" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Novara" NameEng="Novara" NameRus="Novara" X="26410" Y="138181" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Olbia" NameEng="Olbia" NameRus="Olbia" X="30314" Y="48221" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Orbetello" NameEng="Orbetello" NameRus="Orbetello" X="47017" Y="119471" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Oristano" NameEng="Oristano" NameRus="Oristano" X="16301" Y="26781" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Orosei" NameEng="Orosei" NameRus="Orosei" X="34113" Y="43101" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Orsucci" NameEng="Orsucci" NameRus="Orsucci" X="134243" Y="11813" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Osoppo" NameEng="Osoppo" NameRus="Osoppo" X="130278" Y="149198" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Pachino" NameEng="Pachino" NameRus="Pachino" X="144157" Y="11219" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Palmi" NameEng="Palmi" NameRus="Palmi" X="128004" Y="34719" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Paola" NameEng="Paola" NameRus="Paola" X="129930" Y="38385" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Patti" NameEng="Patti" NameRus="Patti" X="116440" Y="26035" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Pavia" NameEng="Pavia" NameRus="Pavia" X="69592" Y="129091" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Pescina" NameEng="Pescina" NameRus="Pescina" X="116372" Y="102881" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Piacenza" NameEng="Piacenza" NameRus="Piacenza" X="41922" Y="143365" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Pisa" NameEng="Pisa" NameRus="Pisa" X="137941" Y="131407" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Porto_Torres" NameEng="Porto Torres" NameRus="Porto Torres" X="11895" Y="45662" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Portogruaro" NameEng="Portogruaro" NameRus="Portogruaro" X="136126" Y="142536" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Potenza" NameEng="Potenza" NameRus="Potenza" X="129368" Y="94570" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Ragusa" NameEng="Ragusa" NameRus="Ragusa" X="141725" Y="62251" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Randazzo" NameEng="Randazzo" NameRus="Randazzo" X="116765" Y="18078" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Rapallo" NameEng="Rapallo" NameRus="Rapallo" X="32922" Y="126268" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Ravenna" NameEng="Ravenna" NameRus="Ravenna" X="143695" Y="116884" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Reggio_Calabria" NameEng="Reggio Calabria" NameRus="Reggio Calabria" X="134099" Y="28329" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Reggio_Emilia" NameEng="Reggio Emilia" NameRus="Reggio Emilia" X="78342" Y="128959" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Salemi" NameEng="Salemi" NameRus="Salemi" X="93690" Y="10151" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Salerno" NameEng="Salerno" NameRus="Salerno" X="120984" Y="74053" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="San_Ermanno" NameEng="San Ermanno" NameRus="San Ermanno" X="131238" Y="101625" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Sant_Antioco" NameEng="Sant Antioco" NameRus="Sant Antioco" X="13140" Y="8531" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sapri" NameEng="Sapri" NameRus="Sapri" X="126828" Y="43776" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Scalea" NameEng="Scalea" NameRus="Scalea" X="123337" Y="48612" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Siena" NameEng="Siena" NameRus="Siena" X="54208" Y="129916" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Siracusa" NameEng="Siracusa" NameRus="Siracusa" X="150820" Y="10681" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Sperlonga" NameEng="Sperlonga" NameRus="Sperlonga" X="82434" Y="88496" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Strapapiombi" NameEng="Strapapiombi" NameRus="Strapapiombi" X="144468" Y="38944" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Stresa" NameEng="Stresa" NameRus="Stresa" X="61303" Y="145412" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Stromboli" NameEng="Stromboli" NameRus="Stromboli" X="16174" Y="65560" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Subiaco" NameEng="Subiaco" NameRus="Subiaco" X="66372" Y="113943" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Sulmona" NameEng="Sulmona" NameRus="Sulmona" X="121426" Y="105492" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Sutera" NameEng="Sutera" NameRus="Sutera" X="107741" Y="7444" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Taormina" NameEng="Taormina" NameRus="Taormina" X="129563" Y="25037" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Teramo" NameEng="Teramo" NameRus="Teramo" X="145860" Y="102959" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Tolmezzo" NameEng="Tolmezzo" NameRus="Tolmezzo" X="130081" Y="154305" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Torino" NameEng="Torino" NameRus="Torino" X="17833" Y="142726" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Trento" NameEng="Trento" NameRus="Trento" X="120195" Y="142529" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Treviso" NameEng="Treviso" NameRus="Treviso" X="143957" Y="139358" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Trieste" NameEng="Trieste" NameRus="Trieste" X="134471" Y="147019" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Udine" NameEng="Udine" NameRus="Udine" X="125362" Y="147307" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Varese" NameEng="Varese" NameRus="Varese" X="40203" Y="151290" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Venafro" NameEng="Venafro" NameRus="Venafro" X="98142" Y="106045" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Venosa" NameEng="Venosa" NameRus="Venosa" X="141584" Y="52997" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Ventimiglia" NameEng="Ventimiglia" NameRus="Ventimiglia" X="4348" Y="121350" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Verona" NameEng="Verona" NameRus="Verona" X="23367" Y="146955" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Vigevano" NameEng="Vigevano" NameRus="Vigevano" X="43454" Y="138225" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Villa_Raimondo" NameEng="Villa Raimondo" NameRus="Villa Raimondo" X="122779" Y="68536" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Villafranca" NameEng="Villafranca" NameRus="Villafranca" X="91820" Y="142106" Type="0" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Vinci" NameEng="Vinci" NameRus="Vinci" X="56685" Y="121983" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Viterbo" NameEng="Viterbo" NameRus="Viterbo" X="58648" Y="116434" Type="0" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Catania" NameEng="Catania" NameRus="Catania" X="142810" Y="24408" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Genova" NameEng="Genova" NameRus="Genova" X="19646" Y="131942" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Napoli" NameEng="Napoli" NameRus="Napoli" X="59582" Y="102600" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Palermo" NameEng="Palermo" NameRus="Palermo" X="97817" Y="28188" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Trapani" NameEng="Trapani" NameRus="Trapani" X="84840" Y="15169" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Milano" NameEng="Milano" NameRus="Milano" X="92078" Y="132149" Type="1" bLevel="7" Align="2" Color="0"/>
+    <MapText Code="Lago_di_Giorgio" NameEng="Lago di Giorgio" NameRus="Lago di Giorgio" X="72629" Y="143363" Type="0" bLevel="7" Align="0" Color="13"/>
+    <MapText Code="Paludi_Pontine" NameEng="Paludi Pontine" NameRus="Paludi Pontine" X="81960" Y="99474" Type="0" bLevel="7" Align="2" Color="13"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="31616.20" Y="125889.11" A="210" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="2" X="16858.73" Y="67502.95" A="300" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="3" X="23694.05" Y="12926.06" A="160" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="4" X="78922.00" Y="7746.12" A="240" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="5" X="53190.69" Y="100746.10" A="150" T1="3" Res="MBR_2AM34_w"/>
+    <Airfield ID="6" X="22156.64" Y="134086.03" A="270" T1="2" Res="IL_4_DB3B_b"/>
+    <Airfield ID="7" X="53899.86" Y="153365.62" A="0" T1="1" Res="TU_2S_g"/>
+    <Airfield ID="8" X="88031.23" Y="142226.02" A="270" T1="1" Res="B_29_g"/>
+    <Airfield ID="9" X="120330.70" Y="145820.22" A="335" T1="1" Res="A_20G_g"/>
+    <Airfield ID="10" X="110780.08" Y="113650.14" A="255" T1="1" Res="B_25C25_g"/>
+    <Airfield ID="11" X="111388.12" Y="91627.27" A="200" T1="1" Res="A_20G_g"/>
+    <Airfield ID="12" X="127511.63" Y="78104.21" A="180" T1="1" Res="A_20G_g"/>
+    <Airfield ID="13" X="151047.93" Y="17399.11" A="270" T1="1" Res="B_29_g"/>
+    <Airfield ID="14" X="127279.94" Y="29074.68" A="195" T1="1" Res="A_20G_g"/>
+    <Airfield ID="15" X="84670.27" Y="16164.19" A="255" T1="2" Res="IL_4_DB3T_b"/>
+    <Airfield ID="16" X="22518.20" Y="16342.69" A="180" T1="1" Res="B_29_g"/>
+    <Airfield ID="17" X="11066.92" Y="45005.08" A="180" T1="1" Res="A_20G_g"/>
+    <Airfield ID="18" X="54377.37" Y="102572.04" A="0" T1="1" Res="A_20C_g"/>
+  </Airfields>
+  <AdvTexts>
+    <AdvText Code="Bolzano" DeltaX="-8" DeltaY="0"/>
+    <AdvText Code="Cagliari" DeltaX="12" DeltaY="-7"/>
+    <AdvText Code="Rapallo" DeltaX="12" DeltaY="0"/>
+    <AdvText Code="Trapani" DeltaX="0" DeltaY="10"/>
+    <AdvText Code="Villafranca" DeltaX="5" DeltaY="0"/>
+  </AdvTexts>
 </TBaseMapSettings>

@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Net7Islands</MisCode>
-    <Width>32000</Width>
-    <Height>32000</Height>
-    <Towns>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="24704.31" Y="27734.09" A="270" T1="2" Res="IL_4_IL4_b"/>
-        <Airfield ID="2" X="5950.87" Y="25140.65" A="225" T1="2" Res="IL_4_IL4_b"/>
-        <Airfield ID="3" X="21898.15" Y="4946.86" A="90" T1="2" Res="IL_4_IL4_b"/>
-        <Airfield ID="4" X="4192.44" Y="3872.28" A="210" T1="2" Res="IL_4_IL4_b"/>
-    </Airfields>
-    <AdvTexts>
+  <MisCode>Net7Islands</MisCode>
+  <Width>32000</Width>
+  <Height>32000</Height>
+  <Towns/>
+  <Airfields>
+    <Airfield ID="1" X="24704.31" Y="27734.09" A="270" T1="2" Res="IL_4_IL4_b"/>
+    <Airfield ID="2" X="5950.87" Y="25140.65" A="225" T1="2" Res="IL_4_IL4_b"/>
+    <Airfield ID="3" X="21898.15" Y="4946.86" A="90" T1="2" Res="IL_4_IL4_b"/>
+    <Airfield ID="4" X="4192.44" Y="3872.28" A="210" T1="2" Res="IL_4_IL4_b"/>
+  </Airfields>
+  <AdvTexts>
     </AdvTexts>
 </TBaseMapSettings>

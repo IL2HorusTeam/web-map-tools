@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>CoralSea</MisCode>
-    <Width>51200</Width>
-    <Height>51200</Height>
-    <Towns>
-        <MapText Code="Goon_Base" NameEng="Goon Base" NameRus="Goon Base" X="38878" Y="14386" Type="3"/>
-        <MapText Code="Luthier_Field" NameEng="Luthier Field" NameRus="Luthier Field" X="41117" Y="39395" Type="3"/>
-        <MapText Code="Maddox_Intl_Airport" NameEng="Maddox Intl. Airport" NameRus="Maddox Intl. Airport" X="8357" Y="39727" Type="3"/>
-        <MapText Code="Starshoy_Airstrip" NameEng="Starshoy Airstrip" NameRus="Starshoy Airstrip" X="10214" Y="14925" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="8904.02" Y="39965.57" A="150" T1="3" Res="PBN1_w"/>
-        <Airfield ID="2" X="10146.74" Y="14899.93" A="405" T1="3" Res="PBN1_w"/>
-        <Airfield ID="3" X="41564.24" Y="39901.48" A="225" T1="3" Res="PBN1_w"/>
-        <Airfield ID="4" X="38996.05" Y="14436.03" A="315" T1="3" Res="PBN1_w"/>
-    </Airfields>
-    <AdvTexts>
+  <MisCode>CoralSea</MisCode>
+  <Width>51200</Width>
+  <Height>51200</Height>
+  <Towns>
+    <MapText Code="Goon Base" NameEng="Goon Base" NameRus="Goon Base" X="38878" Y="14386" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Luthier Field" NameEng="Luthier Field" NameRus="Luthier Field" X="41117" Y="39395" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Maddox Intl. Airport" NameEng="Maddox Intl. Airport" NameRus="Maddox Intl. Airport" X="8357" Y="39727" Type="1" bLevel="7" Align="1" Color="6"/>
+    <MapText Code="Starshoy Airstrip" NameEng="Starshoy Airstrip" NameRus="Starshoy Airstrip" X="10214" Y="14925" Type="1" bLevel="7" Align="1" Color="6"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="8904.02" Y="39965.57" A="150" T1="3" Res="PBN1_w"/>
+    <Airfield ID="2" X="10146.74" Y="14899.93" A="405" T1="3" Res="PBN1_w"/>
+    <Airfield ID="3" X="41564.24" Y="39901.48" A="225" T1="3" Res="PBN1_w"/>
+    <Airfield ID="4" X="38996.05" Y="14436.03" A="315" T1="3" Res="PBN1_w"/>
+  </Airfields>
+  <AdvTexts>
     </AdvTexts>
 </TBaseMapSettings>

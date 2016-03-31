@@ -1,65 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Ardennes</MisCode>
-    <Width>59200</Width>
-    <Height>40000</Height>
-    <Towns>
-        <MapText Code="Assenois" NameEng="Assenois" NameRus="Ассенуа" X="21803" Y="2090" Type="1"/>
-        <MapText Code="Bertogne" NameEng="Bertogne" NameRus="Бертонь" X="21690" Y="14576" Type="1"/>
-        <MapText Code="Bourcy" NameEng="Bourcy" NameRus="Бурси" X="31442" Y="12265" Type="1"/>
-        <MapText Code="Chegnogne" NameEng="Chegnogne" NameRus="Шеньонь" X="17566" Y="5593" Type="1"/>
-        <MapText Code="Clervaux" NameEng="Clervaux" NameRus="Клерво" X="45548" Y="13823" Type="1"/>
-        <MapText Code="Consthum" NameEng="Consthum" NameRus="Констум" X="48650" Y="3556" Type="1"/>
-        <MapText Code="Dochamps" NameEng="Dochamps" NameRus="Дошам" X="16553" Y="32880" Type="1"/>
-        <MapText Code="Foy" NameEng="Foy" NameRus="Фуа" X="26289" Y="9958" Type="1"/>
-        <MapText Code="Gouvy" NameEng="Gouvy" NameRus="Гуви" X="39766" Y="28191" Type="1"/>
-        <MapText Code="Hosingen" NameEng="Hosingen" NameRus="Хозинген" X="54856" Y="12244" Type="1"/>
-        <MapText Code="Hotton" NameEng="Hotton" NameRus="Оттон" X="4741" Y="35930" Type="1"/>
-        <MapText Code="Laroche" NameEng="Laroche" NameRus="Ларош" X="14627" Y="27457" Type="1"/>
-        <MapText Code="Longvilly" NameEng="Longvilly" NameRus="Лонвийи" X="33276" Y="8124" Type="1"/>
-        <MapText Code="Mande_St_Etienne" NameEng="Mande St. Etienne" NameRus="Манд-сен-Этьен" X="19204" Y="7401" Type="1"/>
-        <MapText Code="Manhay" NameEng="Manhay" NameRus="Манхей" X="27168" Y="34462" Type="1"/>
-        <MapText Code="Margerotte" NameEng="Margerotte" NameRus="Маржерот" X="14119" Y="3502" Type="1"/>
-        <MapText Code="MOrhet" NameEng="Morhet" NameRus="Морэ" X="14854" Y="1412" Type="1"/>
-        <MapText Code="Noville" NameEng="Noville" NameRus="Новиль" X="27869" Y="12920" Type="1"/>
-        <MapText Code="Ortheuville" NameEng="Ortheuville" NameRus="Ортевиль" X="9816" Y="9756" Type="1"/>
-        <MapText Code="Ouren" NameEng="Ouren" NameRus="Урэн" X="56153" Y="24034" Type="1"/>
-        <MapText Code="Recogne" NameEng="Recogne" NameRus="Реконь" X="27079" Y="11412" Type="1"/>
-        <MapText Code="Remoifosse" NameEng="Remoifosse" NameRus="Ремуафосс" X="24108" Y="1074" Type="1"/>
-        <MapText Code="Renuamont" NameEng="Renuamont" NameRus="Ренюамон" X="16097" Y="8587" Type="1"/>
-        <MapText Code="Vielsalm" NameEng="Vielsalm" NameRus="Вьельсальм" X="39088" Y="37625" Type="1"/>
-        <MapText Code="Wardin" NameEng="Wardin" NameRus="Вардэн" X="31379" Y="5405" Type="1"/>
-        <MapText Code="Wilz" NameEng="Wilz" NameRus="Вильц" X="39737" Y="1751" Type="1"/>
-        <MapText Code="Bastogne" NameEng="Bastogne" NameRus="Бастонь" X="24909" Y="6046" Type="2"/>
-        <MapText Code="Houffalize" NameEng="Houffalize" NameRus="Уффализ" X="30162" Y="21186" Type="2"/>
-        <MapText Code="St_Vith" NameEng="St Vith" NameRus="Сен-Вит" X="52929" Y="37512" Type="2"/>
-        <MapText Code="Asth" NameEng="Asth" NameRus="Аст" X="26047" Y="37564" Type="3"/>
-        <MapText Code="Bonn-Hangelan" NameEng="Bonn-Hangelar" NameRus="Бонн-Ангелан" X="57562" Y="36658" Type="3"/>
-        <MapText Code="Eindhoven" NameEng="Eindhoven" NameRus="Эйндховен" X="8293" Y="37284" Type="3"/>
-        <MapText Code="Frankfurt" NameEng="Frankfurt" NameRus="Франкфурт" X="57449" Y="14127" Type="3"/>
-        <MapText Code="Meinz" NameEng="Meinz" NameRus="Мейнц" X="52875" Y="1421" Type="3"/>
-        <MapText Code="Merzhausen" NameEng="Merzhausen" NameRus="Мерцхаузен" X="57844" Y="23501" Type="3"/>
-        <MapText Code="Metzbroek" NameEng="Metzbroek" NameRus="Мецброк" X="1694" Y="31691" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="1779.42" Y="30932.93" A="290" T1="1" Res="B_17F_g"/>
-        <Airfield ID="2" X="8439.60" Y="37412.16" A="165" T1="2" Res="IL_4_DB3T_b"/>
-        <Airfield ID="3" X="7956.10" Y="2895.40" A="80" T1="1" Res="IL_4_DB3B_g"/>
-        <Airfield ID="4" X="26089.78" Y="36960.22" A="315" T1="2" Res="IL_2Type3M_b"/>
-        <Airfield ID="5" X="53607.32" Y="1092.68" A="275" T1="1" Res="B_24J100_g"/>
-        <Airfield ID="6" X="56772.54" Y="13855.28" A="295" T1="1" Res="B_17D_g"/>
-        <Airfield ID="7" X="55324.10" Y="22885.46" A="145" T1="1" Res="B_17F_g"/>
-        <Airfield ID="8" X="56172.88" Y="36481.88" A="110" T1="1" Res="TBM3AVENGER3_g"/>
-    </Airfields>
-    <AdvTexts>
-        <AdvText Code="Asth" DeltaX="-12" DeltaY="10"/>
-        <AdvText Code="Bonn-Hangelan" DeltaX="0" DeltaY="15"/>
-        <AdvText Code="Eindhoven" DeltaX="-37" DeltaY="-15"/>
-        <AdvText Code="Frankfurt" DeltaX="0" DeltaY="-20"/>
-        <AdvText Code="Meinz" DeltaX="30" DeltaY="-7"/>
-        <AdvText Code="Merzhausen" DeltaX="-45" DeltaY="10"/>
-        <AdvText Code="Metzbroek" DeltaX="3" DeltaY="-7"/>
-        <AdvText Code="Ouren" DeltaX="4" DeltaY="-4"/>
-        <AdvText Code="St_Vith" DeltaX="0" DeltaY="-5"/>
-    </AdvTexts>
+  <MisCode>Ardennes</MisCode>
+  <Width>59200</Width>
+  <Height>40000</Height>
+  <Towns>
+    <MapText Code="Assenois" NameEng="Assenois" NameRus="Ассенуа" X="21803" Y="2090" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bertogne" NameEng="Bertogne" NameRus="Бертонь" X="21690" Y="14576" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bourcy" NameEng="Bourcy" NameRus="Бурси" X="31442" Y="12265" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Chegnogne" NameEng="Chegnogne" NameRus="Шеньонь" X="17566" Y="5593" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Clervaux" NameEng="Clervaux" NameRus="Клерво" X="45548" Y="13823" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Consthum" NameEng="Consthum" NameRus="Констум" X="48650" Y="3556" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Dochamps" NameEng="Dochamps" NameRus="Дошам" X="16553" Y="32880" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Foy" NameEng="Foy" NameRus="Фуа" X="26289" Y="9958" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Gouvy" NameEng="Gouvy" NameRus="Гуви" X="39766" Y="28191" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Hosingen" NameEng="Hosingen" NameRus="Хозинген" X="54856" Y="12244" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Hotton" NameEng="Hotton" NameRus="Оттон" X="4741" Y="35930" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Laroche" NameEng="Laroche" NameRus="Ларош" X="14627" Y="27457" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Longvilly" NameEng="Longvilly" NameRus="Лонвийи" X="33276" Y="8124" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Mande_St_Etienne" NameEng="Mande St. Etienne" NameRus="Манд-сен-Этьен" X="19204" Y="7401" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Manhay" NameEng="Manhay" NameRus="Манхей" X="27168" Y="34462" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Margerotte" NameEng="Margerotte" NameRus="Маржерот" X="14119" Y="3502" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="MOrhet" NameEng="Morhet" NameRus="Морэ" X="14854" Y="1412" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Noville" NameEng="Noville" NameRus="Новиль" X="27869" Y="12920" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Ortheuville" NameEng="Ortheuville" NameRus="Ортевиль" X="9816" Y="9756" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Ouren" NameEng="Ouren" NameRus="Урэн" X="56153" Y="24034" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Recogne" NameEng="Recogne" NameRus="Реконь" X="27079" Y="11412" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Remoifosse" NameEng="Remoifosse" NameRus="Ремуафосс" X="24108" Y="1074" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Renuamont" NameEng="Renuamont" NameRus="Ренюамон" X="16097" Y="8587" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Vielsalm" NameEng="Vielsalm" NameRus="Вьельсальм" X="39088" Y="37625" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Wardin" NameEng="Wardin" NameRus="Вардэн" X="31379" Y="5405" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Wilz" NameEng="Wilz" NameRus="Вильц" X="39737" Y="1751" Type="0" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Bastogne" NameEng="Bastogne" NameRus="Бастонь" X="24909" Y="6046" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Houffalize" NameEng="Houffalize" NameRus="Уффализ" X="30162" Y="21186" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="St_Vith" NameEng="St Vith" NameRus="Сен-Вит" X="52929" Y="37512" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Asth" NameEng="Asth" NameRus="Аст" X="26047" Y="37564" Type="0" bLevel="7" Align="1" Color="4"/>
+    <MapText Code="Bonn-Hangelan" NameEng="Bonn-Hangelar" NameRus="Бонн-Ангелан" X="57562" Y="36658" Type="0" bLevel="7" Align="1" Color="4"/>
+    <MapText Code="Eindhoven" NameEng="Eindhoven" NameRus="Эйндховен" X="8293" Y="37284" Type="0" bLevel="7" Align="1" Color="4"/>
+    <MapText Code="Frankfurt" NameEng="Frankfurt" NameRus="Франкфурт" X="57449" Y="14127" Type="0" bLevel="7" Align="1" Color="4"/>
+    <MapText Code="Meinz" NameEng="Meinz" NameRus="Мейнц" X="52875" Y="1421" Type="0" bLevel="7" Align="1" Color="4"/>
+    <MapText Code="Merzhausen" NameEng="Merzhausen" NameRus="Мерцхаузен" X="57844" Y="23501" Type="0" bLevel="7" Align="1" Color="4"/>
+    <MapText Code="Metzbroek" NameEng="Metzbroek" NameRus="Мецброк" X="1694" Y="31691" Type="0" bLevel="7" Align="1" Color="4"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="1779.42" Y="30932.93" A="290" T1="1" Res="B_17F_g"/>
+    <Airfield ID="2" X="8439.60" Y="37412.16" A="165" T1="2" Res="IL_4_DB3T_b"/>
+    <Airfield ID="3" X="7956.10" Y="2895.40" A="80" T1="1" Res="IL_4_DB3B_g"/>
+    <Airfield ID="4" X="26089.78" Y="36960.22" A="315" T1="2" Res="IL_2Type3M_b"/>
+    <Airfield ID="5" X="53607.32" Y="1092.68" A="275" T1="1" Res="B_24J100_g"/>
+    <Airfield ID="6" X="56772.54" Y="13855.28" A="295" T1="1" Res="B_17D_g"/>
+    <Airfield ID="7" X="55324.10" Y="22885.46" A="145" T1="1" Res="B_17F_g"/>
+    <Airfield ID="8" X="56172.88" Y="36481.88" A="110" T1="1" Res="TBM3AVENGER3_g"/>
+  </Airfields>
+  <AdvTexts>
+    <AdvText Code="Asth" DeltaX="-12" DeltaY="10"/>
+    <AdvText Code="Bonn-Hangelan" DeltaX="0" DeltaY="15"/>
+    <AdvText Code="Eindhoven" DeltaX="-37" DeltaY="-15"/>
+    <AdvText Code="Frankfurt" DeltaX="0" DeltaY="-20"/>
+    <AdvText Code="Meinz" DeltaX="30" DeltaY="-7"/>
+    <AdvText Code="Merzhausen" DeltaX="-45" DeltaY="10"/>
+    <AdvText Code="Metzbroek" DeltaX="3" DeltaY="-7"/>
+    <AdvText Code="Ouren" DeltaX="4" DeltaY="-4"/>
+    <AdvText Code="St_Vith" DeltaX="0" DeltaY="-5"/>
+  </AdvTexts>
 </TBaseMapSettings>

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Iwo</MisCode>
-    <Width>12800</Width>
-    <Height>12800</Height>
-    <Towns>
-        <MapText Code="Minami_Village" NameEng="Minami Village" NameRus="Minami Village" X="7606" Y="5792" Type="1"/>
-        <MapText Code="Airfield_1" NameEng="Airfield 1" NameRus="Airfield 1" X="5325" Y="4688" Type="1"/>
-        <MapText Code="Airfield_2" NameEng="Airfield 2" NameRus="Airfield 2" X="6605" Y="6340" Type="1"/>
-        <MapText Code="Airfield_3" NameEng="Airfield 3" NameRus="Airfield 3" X="7512" Y="7866" Type="1"/>
-        <MapText Code="Iwo_Jima" NameEng="Iwo Jima" NameRus="Iwo Jima" X="7639" Y="9143" Type="1"/>
-        <MapText Code="Hill_382" NameEng="Hill 382" NameRus="Hill 382" X="7595" Y="6403" Type="1"/>
-        <MapText Code="Mt_Suribachi" NameEng="Mt Suribachi" NameRus="Mt Suribachi" X="3731" Y="3194" Type="1"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="7390.96" Y="7611.80" A="270" T1="1" Res="TBM3_g"/>
-        <Airfield ID="2" X="5585.17" Y="4674.31" A="49" T1="1" Res="TBF1_g"/>
-        <Airfield ID="3" X="6511.79" Y="6367.60" A="59" T1="1" Res="TBF1C_g"/>
-    </Airfields>
-    <AdvTexts>
+  <MisCode>Iwo</MisCode>
+  <Width>12800</Width>
+  <Height>12800</Height>
+  <Towns>
+    <MapText Code="Minami_Village" NameEng="Minami Village" NameRus="Minami Village" X="7606" Y="5792" Type="0" bLevel="6" Align="1" Color="1"/>
+    <MapText Code="Airfield_1" NameEng="Airfield 1" NameRus="Airfield 1" X="5325" Y="4688" Type="0" bLevel="6" Align="1" Color="4"/>
+    <MapText Code="Airfield_2" NameEng="Airfield 2" NameRus="Airfield 2" X="6605" Y="6340" Type="0" bLevel="6" Align="1" Color="4"/>
+    <MapText Code="Airfield_3" NameEng="Airfield 3" NameRus="Airfield 3" X="7512" Y="7866" Type="0" bLevel="6" Align="1" Color="4"/>
+    <MapText Code="Iwo_Jima" NameEng="Iwo Jima" NameRus="Iwo Jima" X="7639" Y="9143" Type="1" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Hill_382" NameEng="Hill 382" NameRus="Hill 382" X="7595" Y="6403" Type="0" bLevel="6" Align="1" Color="1"/>
+    <MapText Code="Mt_Suribachi" NameEng="Mt Suribachi" NameRus="Mt Suribachi" X="3731" Y="3194" Type="0" bLevel="6" Align="1" Color="1"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="7390.96" Y="7611.80" A="270" T1="1" Res="TBM3_g"/>
+    <Airfield ID="2" X="5585.17" Y="4674.31" A="49" T1="1" Res="TBF1_g"/>
+    <Airfield ID="3" X="6511.79" Y="6367.60" A="59" T1="1" Res="TBF1C_g"/>
+  </Airfields>
+  <AdvTexts>
     </AdvTexts>
 </TBaseMapSettings>

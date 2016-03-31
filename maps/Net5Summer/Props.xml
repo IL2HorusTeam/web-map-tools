@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Net5Summer</MisCode>
-    <Width>99200</Width>
-    <Height>94400</Height>
-    <Towns>
-        <MapText Code="Karhula" NameEng="Karhula" NameRus="Кархула" X="14330" Y="82378" Type="1"/>
-        <MapText Code="Kiiskinkyla" NameEng="Kiiskinkyla" NameRus="Kiiskinkyla" X="16438" Y="30206" Type="1"/>
-        <MapText Code="Klamila" NameEng="Klamila" NameRus="Кламила" X="44106" Y="81502" Type="1"/>
-        <MapText Code="Kondratievo" NameEng="Kondratiyevo" NameRus="Кондратьево" X="84391" Y="91374" Type="1"/>
-        <MapText Code="Kymi" NameEng="Kymi" NameRus="Kymi" X="11948" Y="89645" Type="1"/>
-        <MapText Code="Sakkijarvi" NameEng="Sakkijarvi" NameRus="Sakkijarvi" X="84312" Y="92807" Type="1"/>
-        <MapText Code="Siltakyla" NameEng="Siltakyla" NameRus="Силтакюля" X="3980" Y="81582" Type="1"/>
-        <MapText Code="Suurkyla" NameEng="Suurkyla" NameRus="Suurkyla" X="14636" Y="34376" Type="1"/>
-        <MapText Code="Virolahti" NameEng="Virolahti" NameRus="Виролахти" X="56924" Y="80626" Type="1"/>
-        <MapText Code="Hamina" NameEng="Hamina" NameRus="Хамина" X="28502" Y="89304" Type="2"/>
-        <MapText Code="Kotka" NameEng="Kotka" NameRus="КОТКА" X="16559" Y="76486" Type="2"/>
-        <MapText Code="Virojoki" NameEng="Virojoki" NameRus="Виройоки" X="58118" Y="88349" Type="2"/>
-        <MapText Code="GULF_OF_FINLAND" NameEng="GULF OF FINLAND" NameRus="ФИНСКИЙ ЗАЛИВ" X="52864" Y="48940" Type="3"/>
-        <MapText Code="Lavansaari" NameEng="Lavansaari" NameRus="Lavansaari" X="61303" Y="25612" Type="3"/>
-        <MapText Code="o_Bolshoi_Tiuters" NameEng="Bolshoi Tiuters" NameRus="о. Большой Тютерс" X="26414" Y="6982" Type="3"/>
-        <MapText Code="o_Gogland" NameEng="Gogland" NameRus="о. Гогланд" X="15365" Y="31743" Type="3"/>
-        <MapText Code="o_Malyi" NameEng="Malyi" NameRus="о. Малый" X="73643" Y="24657" Type="3"/>
-        <MapText Code="o_Moschnyi" NameEng="Moschnyi" NameRus="о. Мощный" X="61382" Y="23861" Type="3"/>
-        <MapText Code="o_Seiskar" NameEng="Seskar" NameRus="о. Сескар" X="92750" Y="23622" Type="3"/>
-        <MapText Code="Peninsaari" NameEng="Peninsaari" NameRus="Peninsaari" X="72210" Y="26250" Type="3"/>
-        <MapText Code="Seiskari" NameEng="Seiskari" NameRus="Seiskari" X="92352" Y="25532" Type="3"/>
-        <MapText Code="Suursaari" NameEng="Suursaari" NameRus="Suursaari" X="14967" Y="33335" Type="3"/>
-        <MapText Code="Tutarsaari" NameEng="Tutarsaari" NameRus="Tutarsaari" X="26812" Y="8654" Type="3"/>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="12255.11" Y="90817.15" A="0" T1="1" Res="B_24J100_g"/>
-        <Airfield ID="2" X="62999.76" Y="23373.99" A="330" T1="1" Res="TBM3AVENGER3_g"/>
-        <Airfield ID="3" X="93067.36" Y="24506.32" A="180" T1="1" Res="B_17F_g"/>
-    </Airfields>
-    <AdvTexts>
-        <AdvText Code="Kymi" DeltaX="0" DeltaY="7"/>
-        <AdvText Code="o_Moschnyi" DeltaX="-16" DeltaY="10"/>
-    </AdvTexts>
+  <MisCode>Net5Summer</MisCode>
+  <Width>99200</Width>
+  <Height>94400</Height>
+  <Towns>
+    <MapText Code="Karhula" NameEng="Karhula" NameRus="Кархула" X="14330" Y="82378" Type="1" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Kiiskinkyla" NameEng="Kiiskinkyla" NameRus="Kiiskinkyla" X="16438" Y="30206" Type="1" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Klamila" NameEng="Klamila" NameRus="Кламила" X="44106" Y="81502" Type="1" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Kondratievo" NameEng="Kondratiyevo" NameRus="Кондратьево" X="84391" Y="91374" Type="1" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Kymi" NameEng="Kymi" NameRus="Kymi" X="11948" Y="89645" Type="1" bLevel="6" Align="2" Color="0"/>
+    <MapText Code="Sakkijarvi" NameEng="Sakkijarvi" NameRus="Sakkijarvi" X="84312" Y="92807" Type="1" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Siltakyla" NameEng="Siltakyla" NameRus="Силтакюля" X="3980" Y="81582" Type="1" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Suurkyla" NameEng="Suurkyla" NameRus="Suurkyla" X="14636" Y="34376" Type="1" bLevel="6" Align="0" Color="0"/>
+    <MapText Code="Virolahti" NameEng="Virolahti" NameRus="Виролахти" X="56924" Y="80626" Type="1" bLevel="6" Align="1" Color="0"/>
+    <MapText Code="Hamina" NameEng="Hamina" NameRus="Хамина" X="28502" Y="89304" Type="2" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="Kotka" NameEng="Kotka" NameRus="КОТКА" X="16559" Y="76486" Type="2" bLevel="7" Align="0" Color="0"/>
+    <MapText Code="Virojoki" NameEng="Virojoki" NameRus="Виройоки" X="58118" Y="88349" Type="2" bLevel="7" Align="1" Color="0"/>
+    <MapText Code="GULF_OF_FINLAND" NameEng="GULF OF FINLAND" NameRus="ФИНСКИЙ ЗАЛИВ" X="52864" Y="48940" Type="2" bLevel="7" Align="1" Color="4"/>
+    <MapText Code="Lavansaari" NameEng="Lavansaari" NameRus="Lavansaari" X="61303" Y="25612" Type="1" bLevel="6" Align="2" Color="4"/>
+    <MapText Code="o_Bolshoi_Tiuters" NameEng="Bolshoi Tiuters" NameRus="о. Большой Тютерс" X="26414" Y="6982" Type="1" bLevel="6" Align="0" Color="4"/>
+    <MapText Code="o_Gogland" NameEng="Gogland" NameRus="о. Гогланд" X="15365" Y="31743" Type="1" bLevel="6" Align="0" Color="4"/>
+    <MapText Code="o_Malyi" NameEng="Malyi" NameRus="о. Малый" X="73643" Y="24657" Type="1" bLevel="6" Align="0" Color="4"/>
+    <MapText Code="o_Moschnyi" NameEng="Moschnyi" NameRus="о. Мощный" X="61382" Y="23861" Type="1" bLevel="6" Align="2" Color="4"/>
+    <MapText Code="o_Seiskar" NameEng="Seskar" NameRus="о. Сескар" X="92750" Y="23622" Type="1" bLevel="6" Align="2" Color="4"/>
+    <MapText Code="Peninsaari" NameEng="Peninsaari" NameRus="Peninsaari" X="72210" Y="26250" Type="1" bLevel="6" Align="0" Color="4"/>
+    <MapText Code="Seiskari" NameEng="Seiskari" NameRus="Seiskari" X="92352" Y="25532" Type="1" bLevel="6" Align="2" Color="4"/>
+    <MapText Code="Suursaari" NameEng="Suursaari" NameRus="Suursaari" X="14967" Y="33335" Type="1" bLevel="6" Align="0" Color="4"/>
+    <MapText Code="Tutarsaari" NameEng="Tutarsaari" NameRus="Tutarsaari" X="26812" Y="8654" Type="1" bLevel="6" Align="0" Color="4"/>
+  </Towns>
+  <Airfields>
+    <Airfield ID="1" X="12255.11" Y="90817.15" A="0" T1="1" Res="B_24J100_g"/>
+    <Airfield ID="2" X="62999.76" Y="23373.99" A="330" T1="1" Res="TBM3AVENGER3_g"/>
+    <Airfield ID="3" X="93067.36" Y="24506.32" A="180" T1="1" Res="B_17F_g"/>
+  </Airfields>
+  <AdvTexts>
+    <AdvText Code="Kymi" DeltaX="0" DeltaY="7"/>
+    <AdvText Code="o_Moschnyi" DeltaX="-16" DeltaY="10"/>
+  </AdvTexts>
 </TBaseMapSettings>

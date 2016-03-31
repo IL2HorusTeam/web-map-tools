@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>NWEurope</MisCode>
-    <Width>104000</Width>
-    <Height>80000</Height>
-    <Towns>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="7158.68" Y="58804.40" A="225" T1="1" Res="SB_2M103_g"/>
-        <Airfield ID="2" X="4534.60" Y="12405.15" A="170" T1="2" Res="IL_2_1941Late_b"/>
-        <Airfield ID="3" X="48342.51" Y="22697.30" A="90" T1="2" Res="IL_2_1941Early_b"/>
-        <Airfield ID="4" X="84998.54" Y="19042.79" A="120" T1="1" Res="B_29_g"/>
-        <Airfield ID="5" X="85023.99" Y="40124.64" A="145" T1="1" Res="PE_2SERIES84_g"/>
-        <Airfield ID="6" X="68940.95" Y="66180.58" A="285" T1="1" Res="A_20G_g"/>
-    </Airfields>
-    <AdvTexts>
+  <MisCode>NWEurope</MisCode>
+  <Width>104000</Width>
+  <Height>80000</Height>
+  <Towns/>
+  <Airfields>
+    <Airfield ID="1" X="7158.68" Y="58804.40" A="225" T1="1" Res="SB_2M103_g"/>
+    <Airfield ID="2" X="4534.60" Y="12405.15" A="170" T1="2" Res="IL_2_1941Late_b"/>
+    <Airfield ID="3" X="48342.51" Y="22697.30" A="90" T1="2" Res="IL_2_1941Early_b"/>
+    <Airfield ID="4" X="84998.54" Y="19042.79" A="120" T1="1" Res="B_29_g"/>
+    <Airfield ID="5" X="85023.99" Y="40124.64" A="145" T1="1" Res="PE_2SERIES84_g"/>
+    <Airfield ID="6" X="68940.95" Y="66180.58" A="285" T1="1" Res="A_20G_g"/>
+  </Airfields>
+  <AdvTexts>
     </AdvTexts>
 </TBaseMapSettings>

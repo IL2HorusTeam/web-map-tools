@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
-    <MisCode>Net8Islands</MisCode>
-    <Width>51200</Width>
-    <Height>51200</Height>
-    <Towns>
-    </Towns>
-    <Airfields>
-        <Airfield ID="1" X="36368.25" Y="43907.02" A="270" T1="1" Res="PE_8_g"/>
-        <Airfield ID="2" X="10794.85" Y="11017.63" A="165" T1="1" Res="PE_8_g"/>
-    </Airfields>
-    <AdvTexts>
+  <MisCode>Net8Islands</MisCode>
+  <Width>51200</Width>
+  <Height>51200</Height>
+  <Towns/>
+  <Airfields>
+    <Airfield ID="1" X="36368.25" Y="43907.02" A="270" T1="1" Res="PE_8_g"/>
+    <Airfield ID="2" X="10794.85" Y="11017.63" A="165" T1="1" Res="PE_8_g"/>
+  </Airfields>
+  <AdvTexts>
     </AdvTexts>
 </TBaseMapSettings>
