@@ -22,26 +22,26 @@ var map_path = null
     , current_pos_y = 0
     , current_height = 0
     , text_styles = [
-        ["rgba(0, 0, 0, 0.7)",       "rgba(255, 255, 255, 0.7)"], // #000000, #ffffff
-        ["rgba(128, 0, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #800000, #ffffff
-        ["rgba(0, 128, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #008000, #ffffff
-        ["rgba(128, 128, 0, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #808000, #ffffff
-        ["rgba(0, 0, 128, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #000080, #ffffff
-        ["rgba(128, 0, 128, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #800080, #ffffff
-        ["rgba(0, 128, 128, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #008080, #ffffff
-        ["rgba(192, 192, 192, 0.7)", "rgba(255, 255, 255, 0.7)"], // #c0c0c0, #ffffff
-        ["rgba(192, 220, 192, 0.7)", "rgba(255, 255, 255, 0.7)"], // #c0dcc0, #ffffff
-        ["rgba(166, 202, 240, 0.7)", "rgba(255, 255, 255, 0.7)"], // #a6caf0, #ffffff
-        ["rgba(255, 251, 240, 0.7)", "rgba(255, 255, 255, 0.7)"], // #fffbf0, #ffffff
-        ["rgba(160, 160, 164, 0.7)", "rgba(255, 255, 255, 0.7)"], // #a0a0a4, #ffffff
-        ["rgba(128, 128, 128, 0.7)", "rgba(255, 255, 255, 0.7)"], // #808080, #ffffff
-        ["rgba(255, 0, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #ff0000, #ffffff
-        ["rgba(0, 255, 0, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #00ff00, #ffffff
-        ["rgba(255, 255, 0, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #ffff00, #ffffff
-        ["rgba(0, 0, 255, 0.7)",     "rgba(255, 255, 255, 0.7)"], // #0000ff, #ffffff
-        ["rgba(255, 0, 255, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #ff00ff, #ffffff
-        ["rgba(0, 255, 255, 0.7)",   "rgba(255, 255, 255, 0.7)"], // #00ffff, #ffffff
-        ["rgba(255, 255, 255, 0.7)", "rgba(255, 255, 255, 0.7)"], // #ffffff, #ffffff
+        ["rgba(0, 0, 0, 1.0)",       "rgba(255, 255, 255, 0.8)"], // #000000, #ffffff
+        ["rgba(128, 0, 0, 0.8)",     "rgba(248, 244, 227, 0.9)"], // #800000, #ffffff
+        ["rgba(0, 128, 0, 0.9)",     "rgba(248, 244, 227, 1.0)"], // #008000, #ffffff
+        ["rgba(128, 128, 0, 1.0)",   "rgba(255, 255, 255, 1.0)"], // #808000, #ffffff
+        ["rgba(0, 0, 128, 0.8)",     "rgba(255, 255, 255, 0.9)"], // #000080, #ffffff
+        ["rgba(128, 0, 128, 0.9)",   "rgba(255, 255, 255, 0.7)"], // #800080, #ffffff
+        ["rgba(0, 128, 128, 1.0)",   "rgba(255, 255, 255, 1.0)"], // #008080, #ffffff
+        ["rgba(192, 192, 192, 1.0)", "rgba(255, 255, 255, 1.0)"], // #c0c0c0, #ffffff
+        ["rgba(192, 220, 192, 1.0)", "rgba(255, 255, 255, 1.0)"], // #c0dcc0, #ffffff
+        ["rgba(166, 202, 240, 1.0)", "rgba(255, 255, 255, 1.0)"], // #a6caf0, #ffffff
+        ["rgba(255, 251, 240, 1.0)", "rgba(  0,   0,   0, 0.7)"], // #fffbf0, #ffffff
+        ["rgba(160, 160, 164, 1.0)", "rgba(255, 255, 255, 1.0)"], // #a0a0a4, #ffffff
+        ["rgba(128, 128, 128, 1.0)", "rgba(255, 255, 255, 1.0)"], // #808080, #ffffff
+        ["rgba(255, 0, 0, 1.0)",     "rgba(255, 255, 255, 0.9)"], // #ff0000, #ffffff
+        ["rgba(0, 255, 0, 1.0)",     "rgba(100, 100, 100, 1.0)"], // #00ff00, #ffffff
+        ["rgba(255, 255, 0, 1.0)",   "rgba( 80,  80,  80, 0.9)"], // #ffff00, #ffffff
+        ["rgba(0, 0, 255, 0.9)",     "rgba(255, 255, 255, 0.9)"], // #0000ff, #ffffff
+        ["rgba(255, 0, 255, 0.8)",   "rgba(255, 255, 255, 0.9)"], // #ff00ff, #ffffff
+        ["rgba(0, 255, 255, 1.0)",   "rgba( 60,  60,  60, 0.7)"], // #00ffff, #ffffff
+        ["rgba(255, 255, 255, 1.0)", "rgba(  0,   0,   0, 0.6)"], // #ffffff, #ffffff
     ];
 
 function squareName(x) {
@@ -119,7 +119,7 @@ function drawStroked(text, type, x, y, fill, stroke) {
     if (x<3) x=3;
     if(x+metrics.width > map_img.width) x = map_img.width-metrics.width-3;
 
-    map_ctx.strokeStyle = stroke || "rgba(255, 255, 255, 0.7)";
+    map_ctx.strokeStyle = stroke || "rgba(255, 255, 255, 0.8)";
     map_ctx.strokeText(text, x, y);
     map_ctx.fillStyle = fill || "rgba(0, 0, 0, 0.7)";
     map_ctx.fillText(text, x, y);
