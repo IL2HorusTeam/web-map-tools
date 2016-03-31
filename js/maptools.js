@@ -105,15 +105,36 @@ function drawField(x, y, angle, type) {
     drawRotatedImage(airplane_img, x, y, angle);
 }
 
-function drawStroked(text, type, x, y, fill, stroke) {
-    var font_size = 12+(type-1)*2.5;
+function drawStroked(text, type, x, y, align, fill, stroke) {
+    switch (type) {
+        case 2:
+            var font_size = 12 * 1.33; // 12pt
+            map_ctx.font = font_size + "px \"Arial Black\"";
+            break;
+        case 1:
+            var font_size = 10 * 1.33; // 10pt
+            map_ctx.font = font_size + "px Arial";
+            break;
+        case 0:
+        default:
+            var font_size = 8 * 1.33; // 8pt
+            map_ctx.font = font_size + "px Arial";
+            break;
+    }
 
-    map_ctx.font = font_size + "px Sans-serif";
     map_ctx.lineWidth = 2;
 
     var metrics = map_ctx.measureText(text);
 
-    x -= metrics.width/2;
+    switch (align) {
+        case 1:
+            x -= metrics.width/2;
+            break;
+        case 2:
+            x -= metrics.width;
+            break;
+    };
+
     y += font_size/2;
 
     if (x<3) x=3;
@@ -136,7 +157,7 @@ function drawMapData(){
         });
 
         $('MapText', xml).each(function(i){
-            var color = $(this).attr('Color');
+            var color = parseInt($(this).attr('Color'));
 
             if (color === undefined) {
                 var fill = undefined
@@ -149,9 +170,10 @@ function drawMapData(){
 
             drawStroked(
                 $(this).attr('NameEng')
-                , $(this).attr('Type')
+                , parseInt($(this).attr('Type'))
                 , $(this).attr('X')/CELL_SIDE
                 , map_img.height-($(this).attr('Y')/CELL_SIDE)
+                , parseInt($(this).attr('Align'))
                 , fill
                 , stroke);
         });
