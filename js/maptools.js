@@ -1,56 +1,58 @@
 var CELL_SIDE = 100
-    , MAX_LETTERS = 26
-    , RULER_SIZE = 20
-    , RULER_PADDING = 3
-    , RULER_STROKE = "#EEE"
-    , FEET_COEF = 3.28084;
+  , MAX_LETTERS = 26
+  , RULER_SIZE = 20
+  , RULER_PADDING = 3
+  , RULER_STROKE = "#EEE"
+  , FEET_COEF = 3.28084;
 
 var map_path = null
-    , map_img = null
-    , height_img = null
-    , airplane_img = null
-    , is_wide_map = false
-    , map_canvas = null
-    , map_ctx = null
-    , height_canvas = null
-    , height_ctx = null
-    , ruler_top_canvas = null
-    , ruler_top_ctx = null
-    , ruler_left_canvas = null
-    , ruler_left_ctx = null
-    , current_pos_x = 0
-    , current_pos_y = 0
-    , current_height = 0
-    , text_styles = [
-        ["rgba(0, 0, 0, 1.0)",       "rgba(255, 255, 255, 0.8)"], // #000000, #ffffff
-        ["rgba(128, 0, 0, 0.8)",     "rgba(248, 244, 227, 0.9)"], // #800000, #ffffff
-        ["rgba(0, 128, 0, 0.9)",     "rgba(248, 244, 227, 1.0)"], // #008000, #ffffff
-        ["rgba(128, 128, 0, 1.0)",   "rgba(255, 255, 255, 1.0)"], // #808000, #ffffff
-        ["rgba(0, 0, 128, 0.8)",     "rgba(255, 255, 255, 0.9)"], // #000080, #ffffff
-        ["rgba(128, 0, 128, 0.9)",   "rgba(255, 255, 255, 0.7)"], // #800080, #ffffff
-        ["rgba(0, 128, 128, 1.0)",   "rgba(255, 255, 255, 1.0)"], // #008080, #ffffff
-        ["rgba(192, 192, 192, 1.0)", "rgba(255, 255, 255, 1.0)"], // #c0c0c0, #ffffff
-        ["rgba(192, 220, 192, 1.0)", "rgba(255, 255, 255, 1.0)"], // #c0dcc0, #ffffff
-        ["rgba(166, 202, 240, 1.0)", "rgba(255, 255, 255, 1.0)"], // #a6caf0, #ffffff
-        ["rgba(255, 251, 240, 1.0)", "rgba(  0,   0,   0, 0.7)"], // #fffbf0, #ffffff
-        ["rgba(160, 160, 164, 1.0)", "rgba(255, 255, 255, 1.0)"], // #a0a0a4, #ffffff
-        ["rgba(128, 128, 128, 1.0)", "rgba(255, 255, 255, 1.0)"], // #808080, #ffffff
-        ["rgba(255, 0, 0, 1.0)",     "rgba(255, 255, 255, 0.9)"], // #ff0000, #ffffff
-        ["rgba(0, 255, 0, 1.0)",     "rgba(100, 100, 100, 1.0)"], // #00ff00, #ffffff
-        ["rgba(255, 255, 0, 1.0)",   "rgba( 80,  80,  80, 0.9)"], // #ffff00, #ffffff
-        ["rgba(0, 0, 255, 0.9)",     "rgba(255, 255, 255, 0.9)"], // #0000ff, #ffffff
-        ["rgba(255, 0, 255, 0.8)",   "rgba(255, 255, 255, 0.9)"], // #ff00ff, #ffffff
-        ["rgba(0, 255, 255, 1.0)",   "rgba( 60,  60,  60, 0.7)"], // #00ffff, #ffffff
-        ["rgba(255, 255, 255, 1.0)", "rgba(  0,   0,   0, 0.6)"], // #ffffff, #ffffff
-    ];
+  , map_img = null
+  , height_img = null
+  , airplane_img = null
+  , is_wide_map = false
+  , map_canvas = null
+  , map_ctx = null
+  , height_canvas = null
+  , height_ctx = null
+  , ruler_top_canvas = null
+  , ruler_top_ctx = null
+  , ruler_left_canvas = null
+  , ruler_left_ctx = null
+  , current_pos_x = 0
+  , current_pos_y = 0
+  , current_height = 0
+  , text_styles = [
+    ["rgba(0, 0, 0, 1.0)",       "rgba(255, 255, 255, 0.8)"], // #000000
+    ["rgba(128, 0, 0, 0.8)",     "rgba(248, 244, 227, 0.9)"], // #800000
+    ["rgba(0, 128, 0, 0.9)",     "rgba(248, 244, 227, 1.0)"], // #008000
+    ["rgba(128, 128, 0, 1.0)",   "rgba(255, 255, 255, 1.0)"], // #808000
+    ["rgba(0, 0, 128, 0.8)",     "rgba(255, 255, 255, 0.9)"], // #000080
+    ["rgba(128, 0, 128, 0.9)",   "rgba(255, 255, 255, 0.7)"], // #800080
+    ["rgba(0, 128, 128, 1.0)",   "rgba(255, 255, 255, 1.0)"], // #008080
+    ["rgba(192, 192, 192, 1.0)", "rgba(255, 255, 255, 1.0)"], // #c0c0c0
+    ["rgba(192, 220, 192, 1.0)", "rgba(255, 255, 255, 1.0)"], // #c0dcc0
+    ["rgba(166, 202, 240, 1.0)", "rgba(255, 255, 255, 1.0)"], // #a6caf0
+    ["rgba(255, 251, 240, 1.0)", "rgba(  0,   0,   0, 0.7)"], // #fffbf0
+    ["rgba(160, 160, 164, 1.0)", "rgba(255, 255, 255, 1.0)"], // #a0a0a4
+    ["rgba(128, 128, 128, 1.0)", "rgba(255, 255, 255, 1.0)"], // #808080
+    ["rgba(255, 0, 0, 1.0)",     "rgba(255, 255, 255, 0.9)"], // #ff0000
+    ["rgba(0, 255, 0, 1.0)",     "rgba(100, 100, 100, 1.0)"], // #00ff00
+    ["rgba(255, 255, 0, 1.0)",   "rgba( 80,  80,  80, 0.9)"], // #ffff00
+    ["rgba(0, 0, 255, 0.9)",     "rgba(255, 255, 255, 0.9)"], // #0000ff
+    ["rgba(255, 0, 255, 0.8)",   "rgba(255, 255, 255, 0.9)"], // #ff00ff
+    ["rgba(0, 255, 255, 1.0)",   "rgba( 60,  60,  60, 0.7)"], // #00ffff
+    ["rgba(255, 255, 255, 1.0)", "rgba(  0,   0,   0, 0.6)"], // #ffffff
+  ];
 
 function squareName(x) {
-    var k = Math.floor(x / CELL_SIDE);
-    var name = '';
+    var k = Math.floor(x / CELL_SIDE)
+      , name = '';
+
     if (is_wide_map) {
-        var periods = Math.floor(k / MAX_LETTERS)
+        var periods = Math.floor(k / MAX_LETTERS);
         name += String.fromCharCode(65 + periods);
     }
+
     name += String.fromCharCode(65 + (k % MAX_LETTERS));
     return name;
 }
@@ -80,9 +82,9 @@ function drawBoard(bw, bh, p){
         map_ctx.lineTo(bw + p, 0.5 + y + p);
     }
 
-    map_ctx.moveTo(0, bh-0.5);
-    map_ctx.lineTo(bw-0.5, bh-0.5);
-    map_ctx.lineTo(bw-0.5, 0);
+    map_ctx.moveTo(0, bh - 0.5);
+    map_ctx.lineTo(bw - 0.5, bh - 0.5);
+    map_ctx.lineTo(bw - 0.5, 0);
 
     map_ctx.strokeStyle = "gray";
     map_ctx.stroke();
@@ -91,8 +93,8 @@ function drawBoard(bw, bh, p){
 function drawRotatedImage(image, x, y, angle) {
     map_ctx.save();
     map_ctx.translate(x, y);
-    map_ctx.rotate(angle * Math.PI/180);
-    map_ctx.drawImage(image, -(image.width/2), -(image.height/2));
+    map_ctx.rotate(angle * Math.PI / 180);
+    map_ctx.drawImage(image, -(image.width / 2), -(image.height / 2));
     map_ctx.restore();
 }
 
@@ -105,7 +107,9 @@ function drawField(x, y, angle, type) {
     drawRotatedImage(airplane_img, x, y, angle);
 }
 
-function drawStroked(text, type, x, y, align, fill, stroke) {
+function drawText(text, type, x, y, align, fill, stroke) {
+    var metrics = map_ctx.measureText(text);
+
     switch (type) {
         case 2:
             var font_size = 12 * 1.33; // 12pt
@@ -122,24 +126,24 @@ function drawStroked(text, type, x, y, align, fill, stroke) {
             break;
     }
 
-    map_ctx.lineWidth = 2;
-
-    var metrics = map_ctx.measureText(text);
-
     switch (align) {
         case 1:
-            x -= metrics.width/2;
+            x -= metrics.width / 2;
             break;
         case 2:
             x -= metrics.width;
             break;
-    };
+    }
+    if (x < 3) {
+        x = 3;
+    }
+    if (x + metrics.width > map_img.width) {
+        x = map_img.width - metrics.width - 3;
+    }
 
-    y += font_size/2;
+    y += font_size / 2;
 
-    if (x<3) x=3;
-    if(x+metrics.width > map_img.width) x = map_img.width-metrics.width-3;
-
+    map_ctx.lineWidth = 2;
     map_ctx.strokeStyle = stroke || "rgba(255, 255, 255, 0.8)";
     map_ctx.strokeText(text, x, y);
     map_ctx.fillStyle = fill || "rgba(0, 0, 0, 0.7)";
@@ -147,11 +151,14 @@ function drawStroked(text, type, x, y, align, fill, stroke) {
 }
 
 function drawMapData(){
-    $.get(map_path + "Props.xml", {}, function (xml){
-        $('Airfield', xml).each(function(i){
+    $.get(map_path + "Props.xml", {}, function (xml) {
+        $('Airfield', xml).each(function(i) {
+            var x = parseInt($(this).attr('X'))
+              , y = parseInt($(this).attr('Y'));
+
             drawField(
-                $(this).attr('X')/CELL_SIDE
-                , map_img.height-($(this).attr('Y')/CELL_SIDE)
+                x / CELL_SIDE
+                , map_img.height - (y / CELL_SIDE)
                 , $(this).attr('A')
                 , $(this).attr('T1'));
         });
@@ -161,18 +168,18 @@ function drawMapData(){
 
             if (color === undefined) {
                 var fill = undefined
-                , stroke = undefined;
+                  , stroke = undefined;
             } else {
                 var styles = text_styles[color]
-                , fill = styles[0]
-                , stroke = styles[1];
+                  , fill = styles[0]
+                  , stroke = styles[1];
             }
 
-            drawStroked(
+            drawText(
                 $(this).attr('NameEng')
                 , parseInt($(this).attr('Type'))
-                , $(this).attr('X')/CELL_SIDE
-                , map_img.height-($(this).attr('Y')/CELL_SIDE)
+                , $(this).attr('X') / CELL_SIDE
+                , map_img.height - ($(this).attr('Y') / CELL_SIDE)
                 , parseInt($(this).attr('Align'))
                 , fill
                 , stroke);
@@ -181,13 +188,13 @@ function drawMapData(){
 }
 
 function displayMapSize(){
-    $("#map_width").text((map_canvas.width*CELL_SIDE/1000).toFixed(1));
-    $("#map_height").text((map_canvas.height*CELL_SIDE/1000).toFixed(1));
+    $("#map_width").text((map_canvas.width*CELL_SIDE / 1000).toFixed(1));
+    $("#map_height").text((map_canvas.height*CELL_SIDE / 1000).toFixed(1));
 }
 
 function displayCurrentHeight(){
     $("#current_height_m").text(Math.floor(current_height));
-    $("#current_height_ft").text(Math.floor(current_height*FEET_COEF));
+    $("#current_height_ft").text(Math.floor(current_height * FEET_COEF));
 }
 
 function displayCurrentSquare(){
@@ -196,8 +203,8 @@ function displayCurrentSquare(){
 }
 
 function displayCurrentPos(){
-    $("#current_pos_x").text((current_pos_x/1000).toFixed(1));
-    $("#current_pos_y").text((current_pos_y/1000).toFixed(1));
+    $("#current_pos_x").text((current_pos_x / 1000).toFixed(1));
+    $("#current_pos_y").text((current_pos_y / 1000).toFixed(1));
 }
 
 function drawTopRuler() {
@@ -215,8 +222,8 @@ function drawTopRuler() {
     ruler_top_ctx.fillStyle = RULER_STROKE;
     ruler_top_ctx.font = "14px Sans-serif";
 
-    var metrics = null;
-    var text = null;
+    var metrics = null
+      , text = null;
 
     for (var x = 0; x < ruler_top_canvas.width; x += CELL_SIDE) {
         ruler_top_ctx.moveTo(0.5 + x, RULER_PADDING);
@@ -224,7 +231,7 @@ function drawTopRuler() {
 
         text = squareName(x);
         metrics = ruler_top_ctx.measureText(text);
-        ruler_top_ctx.fillText(text, x+(CELL_SIDE/2)-(metrics.width/2), 15);
+        ruler_top_ctx.fillText(text, x + (CELL_SIDE / 2) - (metrics.width / 2), 15);
     }
 
     ruler_top_ctx.strokeStyle = RULER_STROKE;
@@ -247,8 +254,8 @@ function drawLeftRuler() {
     ruler_left_ctx.strokeStyle = RULER_STROKE;
     ruler_left_ctx.font = "14px Sans-serif";
 
-    var metrics = null;
-    var text = null;
+    var metrics = null
+      , text = null;
 
     for (var y = ruler_left_canvas.height; y > 0; y -= CELL_SIDE) {
         ruler_left_ctx.moveTo(RULER_PADDING, 0.5 + y);
@@ -317,13 +324,13 @@ function onWindowScroll() {
 
 function onMouseMove(e) {
     current_pos_x = e.clientX + (window.pageXOffset || document.documentElement.scrollLeft) - 264
-    , current_pos_y = e.clientY - RULER_SIZE + (window.pageYOffset || document.documentElement.scrollTop);
+    current_pos_y = e.clientY - RULER_SIZE + (window.pageYOffset || document.documentElement.scrollTop);
 
-    var pixel = height_ctx.getImageData(current_pos_x/2, current_pos_y/2, 1, 1).data;
+    var pixel = height_ctx.getImageData(current_pos_x / 2, current_pos_y / 2, 1, 1).data
     current_height = intensityToHeight(pixel[0]);
     displayCurrentHeight();
 
-    current_pos_y = map_img.height-current_pos_y;
+    current_pos_y = map_img.height - current_pos_y;
     displayCurrentSquare();
 
     current_pos_x *= CELL_SIDE;
