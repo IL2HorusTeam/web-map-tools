@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TBaseMapSettings>
   <MisCode>Svalbard</MisCode>
-  <Width>188000</Width>
-  <Height>371200</Height>
+  <Width>376000</Width>
+  <Height>742400</Height>
   <Towns>
     <MapText Code="Longyearbyen" Color="0" NameEng="Longyearbyen" NameRus="Лонгйир" X="116266" Y="470537" Type="1" bLevel="7" Align="1"/>
     <MapText Code="Ny-Alesund" Color="0" NameEng="Ny-Alesund" NameRus="Ню-Олесунн" X="36703" Y="541302" Type="1" bLevel="7" Align="1"/>
