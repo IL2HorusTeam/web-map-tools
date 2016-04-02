@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TBaseMapSettings>
   <MisCode>NGNB_DT</MisCode>
-  <Width>488000</Width>
-  <Height>243200</Height>
+  <Width>896000</Width>
+  <Height>486400</Height>
   <Towns>
     <MapText Code="Huon Gulf" Color="16" NameEng="Huon Gulf" NameRus="Хуон Гулф" X="361475" Y="159595" Type="0" bLevel="7" Align="1"/>
     <MapText Code="Bismark Sea" Color="16" NameEng="Bismark Sea" NameRus="Бисмарк Сеа" X="454063" Y="402806" Type="1" bLevel="1" Align="1"/>
