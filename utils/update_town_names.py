@@ -53,7 +53,10 @@ def update_town_names(props, eng, rus):
     if rus:
         update_all_nodes_attr(nodes, 'NameRus', rus)
 
-    tree.write(props, pretty_print=True, xml_declaration=True, encoding="utf-8")
+    tree.write(props,
+               pretty_print=True,
+               xml_declaration=True,
+               encoding="utf-8")
 
 
 def update_all_nodes_attr(nodes, attr_name, source):

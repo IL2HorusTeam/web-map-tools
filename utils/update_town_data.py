@@ -39,7 +39,10 @@ def update_town_data(props, texts):
     parser = etree.XMLParser(remove_blank_text=True)
     tree = etree.parse(props, parser)
     process_data(tree, texts)
-    tree.write(props, pretty_print=True, xml_declaration=True, encoding="utf-8")
+    tree.write(props,
+               pretty_print=True,
+               xml_declaration=True,
+               encoding="utf-8")
 
 
 def file_is_empty(filename):
