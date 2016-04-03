@@ -1,0 +1,878 @@
+{
+  "texts":[
+    {
+      "name_ru":"Agana",
+      "align":1,
+      "code":"Agana",
+      "y":32194,
+      "x":19967,
+      "name_en":"Agana",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Agat",
+      "align":1,
+      "code":"Agat",
+      "y":23962,
+      "x":10773,
+      "name_en":"Agat",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Chacha",
+      "align":1,
+      "code":"Chacha",
+      "y":223760,
+      "x":134606,
+      "name_en":"Chacha",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Charan Kanoa",
+      "align":1,
+      "code":"Charan_Kanoa",
+      "y":220660,
+      "x":127549,
+      "name_en":"Charan Kanoa",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Garapan",
+      "align":1,
+      "code":"Garapan",
+      "y":227022,
+      "x":129219,
+      "name_en":"Garapan",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Hashigoru",
+      "align":1,
+      "code":"Hashigoru",
+      "y":226331,
+      "x":134952,
+      "name_en":"Hashigoru",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Inarajan",
+      "align":1,
+      "code":"Inarajan",
+      "y":10973,
+      "x":21206,
+      "name_en":"Inarajan",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Laulau",
+      "align":1,
+      "code":"Laulau",
+      "y":222515,
+      "x":134422,
+      "name_en":"Laulau",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Makunsha",
+      "align":1,
+      "code":"Makunsha",
+      "y":231920,
+      "x":134953,
+      "name_en":"Makunsha",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Mangilao",
+      "align":1,
+      "code":"Mangilao",
+      "y":27818,
+      "x":26181,
+      "name_en":"Mangilao",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Merizo",
+      "align":1,
+      "code":"Merizo",
+      "y":8375,
+      "x":11538,
+      "name_en":"Merizo",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Santa Rita",
+      "align":1,
+      "code":"Santa_Rita",
+      "y":24958,
+      "x":12179,
+      "name_en":"Santa Rita",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Sinajana",
+      "align":1,
+      "code":"Sinajana",
+      "y":29596,
+      "x":21204,
+      "name_en":"Sinajana",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Talofofo",
+      "align":1,
+      "code":"Talofofo",
+      "y":14394,
+      "x":19860,
+      "name_en":"Talofofo",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Tanapag",
+      "align":1,
+      "code":"Tanapag",
+      "y":231043,
+      "x":133239,
+      "name_en":"Tanapag",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Tinian Town",
+      "align":1,
+      "code":"Tinian_Town",
+      "y":199455,
+      "x":119544,
+      "name_en":"Tinian Town",
+      "type":0,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Tsutsuran",
+      "align":1,
+      "code":"Tsutsuran",
+      "y":219839,
+      "x":131018,
+      "name_en":"Tsutsuran",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Umatac",
+      "align":1,
+      "code":"Umatac",
+      "y":12145,
+      "x":10464,
+      "name_en":"Umatac",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Yona",
+      "align":1,
+      "code":"Yona",
+      "y":20537,
+      "x":22396,
+      "name_en":"Yona",
+      "type":0,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Air Strip",
+      "align":1,
+      "code":"Air_Strip",
+      "y":27636,
+      "x":7819,
+      "name_en":"Air Strip",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Airfield 1",
+      "align":1,
+      "code":"Airfield_1",
+      "y":213428,
+      "x":120960,
+      "name_en":"Airfield 1",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Airfield 2",
+      "align":1,
+      "code":"Airfield_2",
+      "y":204365,
+      "x":115862,
+      "name_en":"Airfield 2",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Airfield 3",
+      "align":1,
+      "code":"Airfield_3",
+      "y":211832,
+      "x":120702,
+      "name_en":"Airfield 3",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Airfield 4",
+      "align":1,
+      "code":"Airfield_4",
+      "y":200040,
+      "x":120651,
+      "name_en":"Airfield 4",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Aslito Airfield",
+      "align":1,
+      "code":"Aslito_Airfield",
+      "y":217908,
+      "x":130357,
+      "name_en":"Aslito Airfield",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Landing Strip",
+      "align":1,
+      "code":"Landing_Strip",
+      "y":222903,
+      "x":128452,
+      "name_en":"Landing Strip",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Seaplane Base",
+      "align":1,
+      "code":"Seaplane_Base",
+      "y":230010,
+      "x":131732,
+      "name_en":"Seaplane Base",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Tiyan Airfield",
+      "align":1,
+      "code":"Tiyan_Airfield",
+      "y":33971,
+      "x":25423,
+      "name_en":"Tiyan Airfield",
+      "type":0,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Agana Bay",
+      "align":1,
+      "code":"Agana_Bay",
+      "y":34043,
+      "x":21350,
+      "name_en":"Agana Bay",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Agat Bay",
+      "align":1,
+      "code":"Agat_Bay",
+      "y":22129,
+      "x":7746,
+      "name_en":"Agat Bay",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Apra Harbor",
+      "align":1,
+      "code":"Apra_Harbor",
+      "y":29692,
+      "x":8767,
+      "name_en":"Apra Harbor",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Asiga Bay",
+      "align":1,
+      "code":"Asiga_Bay",
+      "y":207669,
+      "x":122881,
+      "name_en":"Asiga Bay",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Cocos Lagoon",
+      "align":1,
+      "code":"Cocos_Lagoon",
+      "y":5665,
+      "x":11828,
+      "name_en":"Cocos Lagoon",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Magicienne Bay",
+      "align":1,
+      "code":"Magicienne_Bay",
+      "y":220779,
+      "x":134388,
+      "name_en":"Magicienne Bay",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Pago Bay",
+      "align":1,
+      "code":"Pago_Bay",
+      "y":25877,
+      "x":26151,
+      "name_en":"Pago Bay",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Sunharon Harbor",
+      "align":1,
+      "code":"Sunharon_Harbor",
+      "y":198752,
+      "x":117856,
+      "name_en":"Sunharon Harbor",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Tanapag Harbor",
+      "align":1,
+      "code":"Tanapag_Harbor",
+      "y":229344,
+      "x":130350,
+      "name_en":"Tanapag Harbor",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Tilmon Bay",
+      "align":1,
+      "code":"Tilmon_Bay",
+      "y":37054,
+      "x":25165,
+      "name_en":"Tilmon Bay",
+      "type":0,
+      "zoom":6,
+      "color":5
+    },
+    {
+      "name_ru":"Aguijan",
+      "align":1,
+      "code":"Aguijan",
+      "y":187629,
+      "x":111003,
+      "name_en":"Aguijan",
+      "type":1,
+      "zoom":7,
+      "color":0
+    },
+    {
+      "name_ru":"Guam",
+      "align":1,
+      "code":"Guam",
+      "y":23541,
+      "x":17032,
+      "name_en":"Guam",
+      "type":1,
+      "zoom":7,
+      "color":0
+    },
+    {
+      "name_ru":"Rota",
+      "align":1,
+      "code":"Rota",
+      "y":109117,
+      "x":72333,
+      "name_en":"Rota",
+      "type":1,
+      "zoom":7,
+      "color":0
+    },
+    {
+      "name_ru":"Saipan",
+      "align":1,
+      "code":"Saipan",
+      "y":225257,
+      "x":131966,
+      "name_en":"Saipan",
+      "type":1,
+      "zoom":7,
+      "color":0
+    },
+    {
+      "name_ru":"Tinian",
+      "align":1,
+      "code":"Tinian",
+      "y":205784,
+      "x":119097,
+      "name_en":"Tinian",
+      "type":1,
+      "zoom":7,
+      "color":0
+    },
+    {
+      "name_ru":"Afetna Pt",
+      "align":1,
+      "code":"Afetna_Pt",
+      "y":221901,
+      "x":127420,
+      "name_en":"Afetna Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Aga Pt",
+      "align":1,
+      "code":"Aga_Pt",
+      "y":6275,
+      "x":17674,
+      "name_en":"Aga Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Agingan Pt",
+      "align":1,
+      "code":"Agingan_Pt",
+      "y":218080,
+      "x":126353,
+      "name_en":"Agingan Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Asiga Pt",
+      "align":1,
+      "code":"Asiga_Pt",
+      "y":210140,
+      "x":122218,
+      "name_en":"Asiga Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Cape Obiam",
+      "align":1,
+      "code":"Cape_Obiam",
+      "y":216506,
+      "x":128319,
+      "name_en":"Cape Obiam",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Facpi Pt",
+      "align":1,
+      "code":"Facpi_Pt",
+      "y":16917,
+      "x":7773,
+      "name_en":"Facpi Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Faibus San Hilo Pt",
+      "align":1,
+      "code":"Faibus_San_Hilo_Pt",
+      "y":209732,
+      "x":116041,
+      "name_en":"Faibus San Hilo Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Gurguan Pt",
+      "align":1,
+      "code":"Gurguan_Pt",
+      "y":203482,
+      "x":114815,
+      "name_en":"Gurguan Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Lalo Pt",
+      "align":1,
+      "code":"Lalo_Pt",
+      "y":195817,
+      "x":120318,
+      "name_en":"Lalo Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Marpo Pt",
+      "align":1,
+      "code":"Marpo_Pt",
+      "y":198464,
+      "x":123169,
+      "name_en":"Marpo Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Masalog Pt",
+      "align":1,
+      "code":"Masalog_Pt",
+      "y":204506,
+      "x":123983,
+      "name_en":"Masalog Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Mt Lasso",
+      "align":1,
+      "code":"Mt_Lasso",
+      "y":208179,
+      "x":118814,
+      "name_en":"Mt Lasso",
+      "type":0,
+      "zoom":6,
+      "color":6
+    },
+    {
+      "name_ru":"Mt Nafutan",
+      "align":1,
+      "code":"Mt_Nafutan",
+      "y":217279,
+      "x":132210,
+      "name_en":"Mt Nafutan",
+      "type":0,
+      "zoom":6,
+      "color":6
+    },
+    {
+      "name_ru":"Mt Tapotchau",
+      "align":1,
+      "code":"Mt_Tapotchau",
+      "y":224926,
+      "x":131816,
+      "name_en":"Mt Tapotchau",
+      "type":0,
+      "zoom":6,
+      "color":6
+    },
+    {
+      "name_ru":"Mutcho Pt",
+      "align":1,
+      "code":"Mutcho_Pt",
+      "y":228644,
+      "x":129106,
+      "name_en":"Mutcho Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Nafutan Pt",
+      "align":1,
+      "code":"Nafutan_Pt",
+      "y":214765,
+      "x":132478,
+      "name_en":"Nafutan Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Oce Pt",
+      "align":1,
+      "code":"Oce_Pt",
+      "y":35239,
+      "x":23412,
+      "name_en":"Oce Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Orote Pt",
+      "align":1,
+      "code":"Orote_Pt",
+      "y":28484,
+      "x":5922,
+      "name_en":"Orote Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Pagat Pt",
+      "align":1,
+      "code":"Pagat_Pt",
+      "y":34962,
+      "x":35812,
+      "name_en":"Pagat Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Pati Pt",
+      "align":1,
+      "code":"Pati_Pt",
+      "y":46159,
+      "x":43029,
+      "name_en":"Pati Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Ritidian Pt",
+      "align":1,
+      "code":"Ritidian_Pt",
+      "y":52451,
+      "x":33035,
+      "name_en":"Ritidian Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    },
+    {
+      "name_ru":"Ushi Pt",
+      "align":1,
+      "code":"Ushi_Pt",
+      "y":214620,
+      "x":121064,
+      "name_en":"Ushi Pt",
+      "type":0,
+      "zoom":6,
+      "color":2
+    }
+  ],
+  "airfields":[
+    {
+      "res":"B_25J1_g",
+      "azimuth":315,
+      "y":235442.59,
+      "x":139834.57,
+      "type":1,
+      "id":1
+    },
+    {
+      "res":"B_25J1_g",
+      "azimuth":20,
+      "y":223032.52,
+      "x":128451.42,
+      "type":1,
+      "id":2
+    },
+    {
+      "res":"IL_4_DB3T_b",
+      "azimuth":60,
+      "y":217985.33,
+      "x":130486.58,
+      "type":2,
+      "id":3
+    },
+    {
+      "res":"B_25G1_b",
+      "azimuth":90,
+      "y":213144.51,
+      "x":120938.46,
+      "type":2,
+      "id":4
+    },
+    {
+      "res":"B_25J1_g",
+      "azimuth":270,
+      "y":212175.38,
+      "x":120695.4,
+      "type":1,
+      "id":5
+    },
+    {
+      "res":"LI_2_g",
+      "azimuth":95,
+      "y":204289.35,
+      "x":116040.97,
+      "type":1,
+      "id":6
+    },
+    {
+      "res":"B_25J1_g",
+      "azimuth":45,
+      "y":200259.16,
+      "x":120738.19,
+      "type":1,
+      "id":7
+    },
+    {
+      "res":"B_25J1_g",
+      "azimuth":240,
+      "y":34021.97,
+      "x":25481.84,
+      "type":1,
+      "id":8
+    },
+    {
+      "res":"IL_4_DB3T_b",
+      "azimuth":300,
+      "y":27591.78,
+      "x":7975.15,
+      "type":2,
+      "id":9
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":230,
+      "y":230095.77,
+      "x":131533.13,
+      "type":3,
+      "id":10
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":150,
+      "y":221769.5,
+      "x":134421.77,
+      "type":3,
+      "id":11
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":160,
+      "y":207794.69,
+      "x":121797.02,
+      "type":3,
+      "id":12
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":155,
+      "y":199046.21,
+      "x":119150.82,
+      "type":3,
+      "id":13
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":65,
+      "y":107574.17,
+      "x":75869.47,
+      "type":3,
+      "id":14
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":140,
+      "y":106211.41,
+      "x":67129.35,
+      "type":3,
+      "id":15
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":220,
+      "y":36578.33,
+      "x":26012.33,
+      "type":3,
+      "id":16
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":70,
+      "y":26070.1,
+      "x":25213.59,
+      "type":3,
+      "id":17
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":275,
+      "y":28771.15,
+      "x":8645.08,
+      "type":3,
+      "id":18
+    },
+    {
+      "res":"MBR_2AM34_w",
+      "azimuth":55,
+      "y":5677.4,
+      "x":9240.33,
+      "type":3,
+      "id":19
+    }
+  ],
+  "geomentry":{
+    "width":147200,
+    "height":243200
+  },
+  "map_code":"Marianas"
+}

@@ -1,0 +1,133 @@
+{
+  "texts":[
+    {
+      "name_ru":"Ane Jima",
+      "align":1,
+      "code":"Ane_Jima",
+      "y":3199,
+      "x":8012,
+      "name_en":"Ane Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Ani Jima",
+      "align":1,
+      "code":"Ani_Jima",
+      "y":67277,
+      "x":13508,
+      "name_en":"Ani Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Chichi Jima",
+      "align":1,
+      "code":"Chichi_Jima",
+      "y":61208,
+      "x":13881,
+      "name_en":"Chichi Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Haha Jima",
+      "align":1,
+      "code":"Haha_Jima",
+      "y":15829,
+      "x":7763,
+      "name_en":"Haha Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Imohto Jima",
+      "align":1,
+      "code":"Imohto_Jima",
+      "y":4019,
+      "x":13334,
+      "name_en":"Imohto Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Kita No Shima",
+      "align":1,
+      "code":"Kita_No_Shima",
+      "y":129950,
+      "x":6519,
+      "name_en":"Kita No Shima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Mei Jima",
+      "align":1,
+      "code":"Mei_Jima",
+      "y":5039,
+      "x":15299,
+      "name_en":"Mei Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Mukoh Jima",
+      "align":1,
+      "code":"Mukoh_Jima",
+      "y":8372,
+      "x":5276,
+      "name_en":"Mukoh Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Nakohdo Jima",
+      "align":1,
+      "code":"Nakohdo_Jima",
+      "y":123832,
+      "x":10772,
+      "name_en":"Nakohdo Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Otohto Jima",
+      "align":1,
+      "code":"Otohto_Jima",
+      "y":71654,
+      "x":11643,
+      "name_en":"Otohto Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Yome Jima",
+      "align":1,
+      "code":"Yome_Jima",
+      "y":109432,
+      "x":13781,
+      "name_en":"Yome Jima",
+      "type":1,
+      "zoom":7,
+      "color":1
+    }
+  ],
+  "airfields":[
+
+  ],
+  "geomentry":{
+    "width":19200,
+    "height":136000
+  },
+  "map_code":"Chichi"
+}

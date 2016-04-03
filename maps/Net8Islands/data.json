@@ -1,0 +1,28 @@
+{
+  "texts":[
+
+  ],
+  "airfields":[
+    {
+      "res":"PE_8_g",
+      "azimuth":270,
+      "y":43907.02,
+      "x":36368.25,
+      "type":1,
+      "id":1
+    },
+    {
+      "res":"PE_8_g",
+      "azimuth":165,
+      "y":11017.63,
+      "x":10794.85,
+      "type":1,
+      "id":2
+    }
+  ],
+  "geomentry":{
+    "width":51200,
+    "height":51200
+  },
+  "map_code":"Net8Islands"
+}

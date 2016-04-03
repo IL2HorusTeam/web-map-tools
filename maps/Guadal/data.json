@@ -1,0 +1,214 @@
+{
+  "texts":[
+    {
+      "name_ru":"Kokumbono",
+      "align":1,
+      "code":"Kokumbono",
+      "y":62971,
+      "x":50237,
+      "name_en":"Kokumbono",
+      "type":1,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Tasimboko",
+      "align":1,
+      "code":"Tasimboko",
+      "y":65471,
+      "x":94583,
+      "name_en":"Tasimboko",
+      "type":1,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Tenaro",
+      "align":1,
+      "code":"Tenaro",
+      "y":80337,
+      "x":29938,
+      "name_en":"Tenaro",
+      "type":1,
+      "zoom":6,
+      "color":4
+    },
+    {
+      "name_ru":"Fighter 1",
+      "align":1,
+      "code":"Fighter_1",
+      "y":62037,
+      "x":64922,
+      "name_en":"Fighter 1",
+      "type":0,
+      "zoom":6,
+      "color":6
+    },
+    {
+      "name_ru":"Henderson Field",
+      "align":1,
+      "code":"Henderson_Field",
+      "y":63412,
+      "x":63243,
+      "name_en":"Henderson Field",
+      "type":0,
+      "zoom":6,
+      "color":6
+    },
+    {
+      "name_ru":"Gavutu Is",
+      "align":1,
+      "code":"Gavutu_Is",
+      "y":94811,
+      "x":78193,
+      "name_en":"Gavutu Is",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Tanambogo Is",
+      "align":1,
+      "code":"Tanambogo_Is",
+      "y":95570,
+      "x":77841,
+      "name_en":"Tanambogo Is",
+      "type":1,
+      "zoom":6,
+      "color":1
+    },
+    {
+      "name_ru":"Tulagi Is",
+      "align":1,
+      "code":"Tulagi_Is",
+      "y":96313,
+      "x":73763,
+      "name_en":"Tulagi Is",
+      "type":1,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Florida Is",
+      "align":1,
+      "code":"Florida_Is",
+      "y":103531,
+      "x":77583,
+      "name_en":"Florida Is",
+      "type":2,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Guadalcanal",
+      "align":1,
+      "code":"Guadalcanal",
+      "y":40957,
+      "x":74201,
+      "name_en":"Guadalcanal",
+      "type":2,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Malaita",
+      "align":1,
+      "code":"Malaita",
+      "y":111722,
+      "x":149459,
+      "name_en":"Malaita",
+      "type":2,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Savo Is",
+      "align":1,
+      "code":"Savo_Is",
+      "y":91850,
+      "x":38897,
+      "name_en":"Savo Is",
+      "type":2,
+      "zoom":7,
+      "color":1
+    },
+    {
+      "name_ru":"Cape Esperance",
+      "align":1,
+      "code":"Cape_Esperance",
+      "y":81069,
+      "x":28116,
+      "name_en":"Cape Esperance",
+      "type":1,
+      "zoom":7,
+      "color":2
+    },
+    {
+      "name_ru":"Koli Pt",
+      "align":1,
+      "code":"Koli_Pt",
+      "y":65187,
+      "x":74726,
+      "name_en":"Koli Pt",
+      "type":1,
+      "zoom":7,
+      "color":2
+    },
+    {
+      "name_ru":"Lunga Pt",
+      "align":1,
+      "code":"Lunga_Pt",
+      "y":65848,
+      "x":61517,
+      "name_en":"Lunga Pt",
+      "type":1,
+      "zoom":7,
+      "color":2
+    },
+    {
+      "name_ru":"Point Cruz",
+      "align":1,
+      "code":"Point_Cruz",
+      "y":63304,
+      "x":54473,
+      "name_en":"Point Cruz",
+      "type":1,
+      "zoom":7,
+      "color":2
+    },
+    {
+      "name_ru":"Taivu Point",
+      "align":1,
+      "code":"Taivu_Point",
+      "y":64358,
+      "x":97590,
+      "name_en":"Taivu Point",
+      "type":1,
+      "zoom":7,
+      "color":2
+    }
+  ],
+  "airfields":[
+    {
+      "res":"B_25G1_b",
+      "azimuth":65,
+      "y":63389.81,
+      "x":63209.82,
+      "type":2,
+      "id":1
+    },
+    {
+      "res":"B_25J1_g",
+      "azimuth":245,
+      "y":62251.37,
+      "x":65028.31,
+      "type":1,
+      "id":2
+    }
+  ],
+  "geomentry":{
+    "width":163200,
+    "height":128000
+  },
+  "map_code":"Guadal"
+}

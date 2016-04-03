@@ -98,13 +98,13 @@ function drawRotatedImage(image, x, y, angle) {
     map_ctx.restore();
 }
 
-function drawField(x, y, angle, type) {
+function drawField(x, y, azimuth, type) {
     map_ctx.beginPath();
     map_ctx.fillStyle = "black";
     map_ctx.arc(x, y, 11, 0, 4 * Math.PI, false);
     map_ctx.fill();
 
-    drawRotatedImage(airplane_img, x, y, angle);
+    drawRotatedImage(airplane_img, x, y, azimuth);
 }
 
 function drawText(text, type, x, y, align, fill, stroke) {
@@ -151,39 +151,35 @@ function drawText(text, type, x, y, align, fill, stroke) {
 }
 
 function drawMapData(){
-    $.get(map_path + "Props.xml", {}, function (xml) {
-        $('Airfield', xml).each(function(i) {
-            var x = parseInt($(this).attr('X'))
-              , y = parseInt($(this).attr('Y'));
-
+    $.getJSON(map_path + "data.min.json", {}, function (data) {
+        $.each(data.airfields, function(i, item) {
             drawField(
-                x / CELL_SIDE
-                , map_img.height - (y / CELL_SIDE)
-                , $(this).attr('A')
-                , $(this).attr('T1'));
+                item.x / CELL_SIDE
+                , map_img.height - (item.y / CELL_SIDE)
+                , item.azimuth
+                , item.type);
         });
 
-        $('MapText', xml).each(function(i){
-            var color = parseInt($(this).attr('Color'));
-
-            if (color === undefined) {
+        $.each(data.texts, function(i, item) {
+            if (item.color === undefined) {
                 var fill = undefined
                   , stroke = undefined;
             } else {
-                var styles = text_styles[color]
+                var styles = text_styles[item.color]
                   , fill = styles[0]
                   , stroke = styles[1];
             }
 
             drawText(
-                $(this).attr('NameEng')
-                , parseInt($(this).attr('Type'))
-                , $(this).attr('X') / CELL_SIDE
-                , map_img.height - ($(this).attr('Y') / CELL_SIDE)
-                , parseInt($(this).attr('Align'))
+                item.name_en
+                , item.type
+                , item.x / CELL_SIDE
+                , map_img.height - (item.y / CELL_SIDE)
+                , item.align
                 , fill
                 , stroke);
         });
+
     });
 }
 

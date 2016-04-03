@@ -1,0 +1,87 @@
+{
+  "texts":[
+    {
+      "name_ru":"Goon Base",
+      "align":1,
+      "code":"Goon Base",
+      "y":14386,
+      "x":38878,
+      "name_en":"Goon Base",
+      "type":1,
+      "zoom":7,
+      "color":6
+    },
+    {
+      "name_ru":"Luthier Field",
+      "align":1,
+      "code":"Luthier Field",
+      "y":39395,
+      "x":41117,
+      "name_en":"Luthier Field",
+      "type":1,
+      "zoom":7,
+      "color":6
+    },
+    {
+      "name_ru":"Maddox Intl. Airport",
+      "align":1,
+      "code":"Maddox Intl. Airport",
+      "y":39727,
+      "x":8357,
+      "name_en":"Maddox Intl. Airport",
+      "type":1,
+      "zoom":7,
+      "color":6
+    },
+    {
+      "name_ru":"Starshoy Airstrip",
+      "align":1,
+      "code":"Starshoy Airstrip",
+      "y":14925,
+      "x":10214,
+      "name_en":"Starshoy Airstrip",
+      "type":1,
+      "zoom":7,
+      "color":6
+    }
+  ],
+  "airfields":[
+    {
+      "res":"PBN1_w",
+      "azimuth":150,
+      "y":39965.57,
+      "x":8904.02,
+      "type":3,
+      "id":1
+    },
+    {
+      "res":"PBN1_w",
+      "azimuth":405,
+      "y":14899.93,
+      "x":10146.74,
+      "type":3,
+      "id":2
+    },
+    {
+      "res":"PBN1_w",
+      "azimuth":225,
+      "y":39901.48,
+      "x":41564.24,
+      "type":3,
+      "id":3
+    },
+    {
+      "res":"PBN1_w",
+      "azimuth":315,
+      "y":14436.03,
+      "x":38996.05,
+      "type":3,
+      "id":4
+    }
+  ],
+  "geomentry":{
+    "width":51200,
+    "height":51200
+  },
+  "map_code":"CoralSea"
+}
