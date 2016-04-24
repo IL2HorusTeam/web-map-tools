@@ -1,2102 +1,3393 @@
 {
   "texts":[
     {
-      "name_ru":"\u041a\u0430\u0440\u0430\u0434\u0436\u0430",
-      "align":1,
-      "code":"Karadzha",
-      "y":173118,
-      "x":11112,
+      "type":0,
       "name_en":"Karadzha",
-      "type":0,
+      "y":173118,
+      "color":0,
+      "code":"Karadzha",
+      "x":11112,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u0440\u0430\u0434\u0436\u0430"
     },
     {
-      "name_ru":"\u0410\u043a-\u041c\u0435\u0447\u0435\u0442\u044c",
-      "align":1,
-      "code":"Ak_Mechet",
-      "y":186162,
-      "x":22804,
+      "type":0,
       "name_en":"Ak-Mechet",
-      "type":0,
+      "y":186162,
+      "color":0,
+      "code":"Ak_Mechet",
+      "x":22804,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043a-\u041c\u0435\u0447\u0435\u0442\u044c"
     },
     {
-      "name_ru":"\u042f\u0440\u044b\u043b\u0433\u0430\u0447",
-      "align":1,
-      "code":"Yarylgach",
-      "y":193071,
-      "x":32226,
+      "type":0,
       "name_en":"Yarylgach",
-      "type":0,
+      "y":193071,
+      "color":0,
+      "code":"Yarylgach",
+      "x":32226,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u042f\u0440\u044b\u043b\u0433\u0430\u0447"
     },
     {
-      "name_ru":"\u0410\u043a-\u0428\u0435\u0438\u0445",
-      "align":1,
-      "code":"Ak_Sheikh",
-      "y":212915,
-      "x":76334,
+      "type":0,
       "name_en":"Ak-Sheikh",
-      "type":0,
+      "y":212915,
+      "color":0,
+      "code":"Ak_Sheikh",
+      "x":76334,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043a-\u0428\u0435\u0438\u0445"
     },
     {
-      "name_ru":"\u0421\u0443\u0434\u0430\u043a",
-      "align":1,
-      "code":"Sudak",
-      "y":122743,
-      "x":175830,
+      "type":0,
       "name_en":"Sudak",
-      "type":0,
+      "y":122743,
+      "color":0,
+      "code":"Sudak",
+      "x":175830,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0443\u0434\u0430\u043a"
     },
     {
-      "name_ru":"\u041a\u043e\u043a\u0442\u0435\u0431\u0435\u043b\u044c",
-      "align":1,
-      "code":"Koktebel",
-      "y":133688,
-      "x":194213,
+      "type":0,
       "name_en":"Koktebel",
-      "type":0,
+      "y":133688,
+      "color":0,
+      "code":"Koktebel",
+      "x":194213,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u043e\u043a\u0442\u0435\u0431\u0435\u043b\u044c"
     },
     {
-      "name_ru":"\u041a\u0438\u0448\u043b\u0430\u0432",
-      "align":1,
-      "code":"Kishlav",
-      "y":140274,
-      "x":173190,
+      "type":0,
       "name_en":"Kishlav",
-      "type":0,
+      "y":140274,
+      "color":0,
+      "code":"Kishlav",
+      "x":173190,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0438\u0448\u043b\u0430\u0432"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0440\u044b\u043c",
-      "align":1,
-      "code":"Stary_Krym",
-      "y":140801,
-      "x":185375,
+      "type":0,
       "name_en":"Stary Krym",
-      "type":0,
+      "y":140801,
+      "color":0,
+      "code":"Stary_Krym",
+      "x":185375,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0440\u044b\u043c"
     },
     {
-      "name_ru":"\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f",
-      "align":1,
-      "code":"Feodosiya",
-      "y":140616,
-      "x":202463,
+      "type":2,
       "name_en":"Feodosia",
-      "type":2,
+      "y":140616,
+      "color":0,
+      "code":"Feodosiya",
+      "x":202463,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f"
     },
     {
-      "name_ru":"\u0414\u0430\u043b\u044c\u043d\u0438\u0435 \u041a\u0430\u043c\u044b\u0448\u0438",
-      "align":1,
-      "code":"Dalnie_Kamyishi",
-      "y":148153,
-      "x":209098,
+      "type":0,
       "name_en":"Dalnie_Kamyishi",
-      "type":0,
+      "y":148153,
+      "color":0,
+      "code":"Dalnie_Kamyishi",
+      "x":209098,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0430\u043b\u044c\u043d\u0438\u0435 \u041a\u0430\u043c\u044b\u0448\u0438"
     },
     {
-      "name_ru":"\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Vladislavovka",
-      "y":152384,
-      "x":200400,
+      "type":0,
       "name_en":"Vladislavovka",
-      "type":0,
+      "y":152384,
+      "color":0,
+      "code":"Vladislavovka",
+      "x":200400,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u043e\u0432\u043a\u0430"
     },
     {
-      "name_ru":"\u0418\u0441\u043b\u0430\u043c-\u0422\u0435\u0440\u0435\u043a",
-      "align":1,
-      "code":"Islam_Terek",
-      "y":157857,
-      "x":190101,
+      "type":0,
       "name_en":"Islam-Terek",
-      "type":0,
+      "y":157857,
+      "color":0,
+      "code":"Islam_Terek",
+      "x":190101,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0418\u0441\u043b\u0430\u043c-\u0422\u0435\u0440\u0435\u043a"
     },
     {
-      "name_ru":"\u0428\u0443\u0431\u0438\u043d\u043e-\u0411\u0430\u0439\u0433\u043e\u0434\u0436\u0430",
-      "align":1,
-      "code":"Shubino",
-      "y":162862,
-      "x":190145,
+      "type":0,
       "name_en":"Shubino-Bajgodzha",
-      "type":0,
+      "y":162862,
+      "color":0,
+      "code":"Shubino",
+      "x":190145,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0428\u0443\u0431\u0438\u043d\u043e-\u0411\u0430\u0439\u0433\u043e\u0434\u0436\u0430"
     },
     {
-      "name_ru":"\u0422\u043e\u0445-\u0422\u0430\u0431\u0430",
-      "align":1,
-      "code":"Tokh-Taba",
-      "y":167264,
-      "x":183990,
+      "type":0,
       "name_en":"Tokh-Taba",
-      "type":0,
+      "y":167264,
+      "color":0,
+      "code":"Tokh-Taba",
+      "x":183990,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u043e\u0445-\u0422\u0430\u0431\u0430"
     },
     {
-      "name_ru":"\u0418\u0447\u043a\u0438",
-      "align":1,
-      "code":"Ichki",
-      "y":170042,
-      "x":171073,
+      "type":0,
       "name_en":"Ichki",
-      "type":0,
+      "y":170042,
+      "color":0,
+      "code":"Ichki",
+      "x":171073,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0418\u0447\u043a\u0438"
     },
     {
-      "name_ru":"\u0416\u0435\u043b\u044f\u0431\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Zhelyabovka",
-      "y":176012,
-      "x":160468,
+      "type":0,
       "name_en":"Zheliabovka",
-      "type":0,
+      "y":176012,
+      "color":0,
+      "code":"Zhelyabovka",
+      "x":160468,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0416\u0435\u043b\u044f\u0431\u043e\u0432\u043a\u0430"
     },
     {
-      "name_ru":"\u0421\u0435\u0439\u0442\u043b\u0435\u0440",
-      "align":1,
-      "code":"Seitler",
-      "y":181672,
-      "x":160136,
+      "type":0,
       "name_en":"Seitler",
-      "type":0,
+      "y":181672,
+      "color":0,
+      "code":"Seitler",
+      "x":160136,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0435\u0439\u0442\u043b\u0435\u0440"
     },
     {
-      "name_ru":"\u041a\u043e\u043b\u0430\u0439",
-      "align":1,
-      "code":"Kolai",
-      "y":194180,
-      "x":148344,
+      "type":0,
       "name_en":"Kolai",
-      "type":0,
+      "y":194180,
+      "color":0,
+      "code":"Kolai",
+      "x":148344,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u043e\u043b\u0430\u0439"
     },
     {
-      "name_ru":"\u0414\u0436\u0430\u043d\u043a\u043e\u0439",
-      "align":1,
-      "code":"Dzhankoy",
-      "y":206122,
-      "x":136476,
+      "type":2,
       "name_en":"Dzhankoy",
-      "type":2,
+      "y":206122,
+      "color":0,
+      "code":"Dzhankoy",
+      "x":136476,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0436\u0430\u043d\u043a\u043e\u0439"
     },
     {
-      "name_ru":"\u0414\u0436\u0443\u0440\u0447\u0438",
-      "align":1,
-      "code":"Dzhurchi",
-      "y":206786,
-      "x":99553,
+      "type":0,
       "name_en":"Dzhurchi",
-      "type":0,
+      "y":206786,
+      "color":0,
+      "code":"Dzhurchi",
+      "x":99553,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0436\u0443\u0440\u0447\u0438"
     },
     {
-      "name_ru":"\u041a\u0443\u0440\u043c\u0430\u043d-\u041a\u0435\u043c\u0435\u043b\u044c\u0447\u0438",
-      "align":1,
-      "code":"Kurman_Kemelchi",
-      "y":185874,
-      "x":128988,
+      "type":0,
       "name_en":"Kurman-Kemelchi",
-      "type":0,
+      "y":185874,
+      "color":0,
+      "code":"Kurman_Kemelchi",
+      "x":128988,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0443\u0440\u043c\u0430\u043d-\u041a\u0435\u043c\u0435\u043b\u044c\u0447\u0438"
     },
     {
-      "name_ru":"\u0422\u043e\u043a\u0443\u043b\u044c\u0447\u0430\u043a",
-      "align":1,
-      "code":"Tokulchak",
-      "y":199968,
-      "x":97941,
+      "type":0,
       "name_en":"Tokulchak",
-      "type":0,
+      "y":199968,
+      "color":0,
+      "code":"Tokulchak",
+      "x":97941,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u043e\u043a\u0443\u043b\u044c\u0447\u0430\u043a"
     },
     {
-      "name_ru":"\u041a\u043e\u043b\u043e\u043d\u0447\u0430\u043a",
-      "align":1,
-      "code":"Kolonchak",
-      "y":214796,
-      "x":94586,
+      "type":0,
       "name_en":"Kolonchak",
-      "type":0,
+      "y":214796,
+      "color":0,
+      "code":"Kolonchak",
+      "x":94586,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u043e\u043b\u043e\u043d\u0447\u0430\u043a"
     },
     {
-      "name_ru":"\u0421\u0443\u043a\u0443\u0440-\u041a\u043e\u0439",
-      "align":1,
-      "code":"Sukur_Koy",
-      "y":161781,
-      "x":58498,
+      "type":0,
       "name_en":"Sukur-Koy",
-      "type":0,
+      "y":161781,
+      "color":0,
+      "code":"Sukur_Koy",
+      "x":58498,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0443\u043a\u0443\u0440-\u041a\u043e\u0439"
     },
     {
-      "name_ru":"\u0415\u0432\u043f\u0430\u0442\u043e\u0440\u0438\u044f",
-      "align":1,
-      "code":"Yevpatoriya",
-      "y":157399,
-      "x":67378,
+      "type":2,
       "name_en":"Yevpatoria",
-      "type":2,
+      "y":157399,
+      "color":0,
+      "code":"Yevpatoriya",
+      "x":67378,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0415\u0432\u043f\u0430\u0442\u043e\u0440\u0438\u044f"
     },
     {
-      "name_ru":"\u0421\u0430\u043a\u0438",
-      "align":1,
-      "code":"Saki",
-      "y":150740,
-      "x":82408,
+      "type":1,
       "name_en":"Saki",
-      "type":1,
+      "y":150740,
+      "color":0,
+      "code":"Saki",
+      "x":82408,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0430\u043a\u0438"
     },
     {
-      "name_ru":"\u041e\u043a\u0442\u043e\u0431\u0435\u0440\u0444\u0435\u043b\u044c\u0434",
-      "align":1,
-      "code":"Oktoberfeld",
-      "y":153464,
-      "x":96247,
+      "type":0,
       "name_en":"Oktoberfeld",
-      "type":0,
+      "y":153464,
+      "color":0,
+      "code":"Oktoberfeld",
+      "x":96247,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041e\u043a\u0442\u043e\u0431\u0435\u0440\u0444\u0435\u043b\u044c\u0434"
     },
     {
-      "name_ru":"\u0421\u043f\u0430\u0442",
-      "align":1,
-      "code":"Spat",
-      "y":148779,
-      "x":110726,
+      "type":0,
       "name_en":"Spat",
-      "type":0,
+      "y":148779,
+      "color":0,
+      "code":"Spat",
+      "x":110726,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u043f\u0430\u0442"
     },
     {
-      "name_ru":"\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c",
-      "align":1,
-      "code":"Simferopol",
-      "y":132659,
-      "x":116391,
+      "type":2,
       "name_en":"Simferopol",
-      "type":2,
+      "y":132659,
+      "color":0,
+      "code":"Simferopol",
+      "x":116391,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c"
     },
     {
-      "name_ru":"\u0410\u043b\u0431\u0430\u0442",
-      "align":1,
-      "code":"Albat",
-      "y":103419,
-      "x":100094,
+      "type":0,
       "name_en":"Albat",
-      "type":0,
+      "y":103419,
+      "color":0,
+      "code":"Albat",
+      "x":100094,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043b\u0431\u0430\u0442"
     },
     {
-      "name_ru":"\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439",
-      "align":1,
-      "code":"Bakhchisaray",
-      "y":113694,
-      "x":101300,
+      "type":1,
       "name_en":"Bakhchisaray",
-      "type":1,
+      "y":113694,
+      "color":0,
+      "code":"Bakhchisaray",
+      "x":101300,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439"
     },
     {
-      "name_ru":"\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
-      "align":1,
-      "code":"Sevastopol",
-      "y":99891,
-      "x":77429,
+      "type":2,
       "name_en":"Sevastopol",
-      "type":2,
+      "y":99891,
+      "color":0,
+      "code":"Sevastopol",
+      "x":77429,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c"
     },
     {
-      "name_ru":"\u0411\u0430\u043b\u0430\u043a\u043b\u0430\u0432\u0430",
-      "align":1,
-      "code":"Balaklava",
-      "y":90325,
-      "x":81470,
+      "type":0,
       "name_en":"Balaklava",
-      "type":0,
+      "y":90325,
+      "color":0,
+      "code":"Balaklava",
+      "x":81470,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0430\u043b\u0430\u043a\u043b\u0430\u0432\u0430"
     },
     {
-      "name_ru":"\u0410\u043b\u0443\u043f\u043a\u0430",
-      "align":1,
-      "code":"Alupka",
-      "y":82168,
-      "x":112301,
+      "type":0,
       "name_en":"Alupka",
-      "type":0,
+      "y":82168,
+      "color":0,
+      "code":"Alupka",
+      "x":112301,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043b\u0443\u043f\u043a\u0430"
     },
     {
-      "name_ru":"\u042f\u043b\u0442\u0430",
-      "align":1,
-      "code":"Yalta",
-      "y":88786,
-      "x":119912,
+      "type":2,
       "name_en":"Yalta",
-      "type":2,
+      "y":88786,
+      "color":0,
+      "code":"Yalta",
+      "x":119912,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u042f\u043b\u0442\u0430"
     },
     {
-      "name_ru":"\u0410\u043b\u0443\u0448\u0442\u0430",
-      "align":1,
-      "code":"Alushta",
-      "y":107520,
-      "x":137411,
+      "type":0,
       "name_en":"Aloushta",
-      "type":0,
+      "y":107520,
+      "color":0,
+      "code":"Alushta",
+      "x":137411,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043b\u0443\u0448\u0442\u0430"
     },
     {
-      "name_ru":"\u041a\u0438\u0437-\u0410\u0443\u043b",
-      "align":1,
-      "code":"Kiz_Aul",
-      "y":144119,
-      "x":265322,
+      "type":0,
       "name_en":"Kiz-Aul",
-      "type":0,
+      "y":144119,
+      "color":0,
+      "code":"Kiz_Aul",
+      "x":265322,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0438\u0437-\u0410\u0443\u043b"
     },
     {
-      "name_ru":"\u0427\u0443\u0440\u0431\u0430\u0448",
-      "align":1,
-      "code":"Churbash",
-      "y":162210,
-      "x":264626,
+      "type":0,
       "name_en":"Churbash",
-      "type":0,
+      "y":162210,
+      "color":0,
+      "code":"Churbash",
+      "x":264626,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0427\u0443\u0440\u0431\u0430\u0448"
     },
     {
-      "name_ru":"\u041a\u0430\u043c\u044b\u0448-\u0411\u0443\u0440\u0443\u043d",
-      "align":1,
-      "code":"Kamysh_Burun",
-      "y":163871,
-      "x":271652,
+      "type":0,
       "name_en":"Kamysh-Burun",
-      "type":0,
+      "y":163871,
+      "color":0,
+      "code":"Kamysh_Burun",
+      "x":271652,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u043c\u044b\u0448-\u0411\u0443\u0440\u0443\u043d"
     },
     {
-      "name_ru":"\u0411\u0430\u0433\u0435\u0440\u043e\u0432\u043e",
-      "align":1,
-      "code":"Bagerovo",
-      "y":171910,
-      "x":263428,
+      "type":0,
       "name_en":"Bagerovo",
-      "type":0,
+      "y":171910,
+      "color":0,
+      "code":"Bagerovo",
+      "x":263428,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0430\u0433\u0435\u0440\u043e\u0432\u043e"
     },
     {
-      "name_ru":"\u041a\u0435\u0440\u0447\u044c",
-      "align":1,
-      "code":"Kerch",
-      "y":170885,
-      "x":274843,
+      "type":2,
       "name_en":"Kerch",
-      "type":2,
+      "y":170885,
+      "color":0,
+      "code":"Kerch",
+      "x":274843,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0435\u0440\u0447\u044c"
     },
     {
-      "name_ru":"\u041a\u0430\u0442\u0435\u0440\u043b\u0435\u0437",
-      "align":1,
-      "code":"Katerlez",
-      "y":174148,
-      "x":272846,
+      "type":0,
       "name_en":"Katerlez",
-      "type":0,
+      "y":174148,
+      "color":0,
+      "code":"Katerlez",
+      "x":272846,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u0442\u0435\u0440\u043b\u0435\u0437"
     },
     {
-      "name_ru":"\u0421\u0435\u043c\u044c \u041a\u043e\u043b\u043e\u0434\u0435\u0437\u0435\u0439",
-      "align":1,
-      "code":"Sem_Kolodezey",
-      "y":164887,
-      "x":228638,
+      "type":0,
       "name_en":"Sem Kolodezey",
-      "type":0,
+      "y":164887,
+      "color":0,
+      "code":"Sem_Kolodezey",
+      "x":228638,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0435\u043c\u044c \u041a\u043e\u043b\u043e\u0434\u0435\u0437\u0435\u0439"
     },
     {
-      "name_ru":"\u041a\u0430\u0440\u0430\u043a\u0443\u0439",
-      "align":1,
-      "code":"Karakui",
-      "y":162495,
-      "x":222785,
+      "type":0,
       "name_en":"Karakui",
-      "type":0,
+      "y":162495,
+      "color":0,
+      "code":"Karakui",
+      "x":222785,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u0440\u0430\u043a\u0443\u0439"
     },
     {
-      "name_ru":"\u041a\u0430\u0440\u0430\u0441\u0443\u0431\u0430\u0437\u0430\u0440",
-      "align":1,
-      "code":"Karasubazar",
-      "y":143575,
-      "x":149877,
+      "type":1,
       "name_en":"Karasubazar",
-      "type":1,
+      "y":143575,
+      "color":0,
+      "code":"Karasubazar",
+      "x":149877,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u0440\u0430\u0441\u0443\u0431\u0430\u0437\u0430\u0440"
     },
     {
-      "name_ru":"\u0410\u043b\u044c\u043c\u0430-\u0422\u0430\u043c\u0430\u043a",
-      "align":1,
-      "code":"Alma_Tamak",
-      "y":123390,
-      "x":85689,
+      "type":0,
       "name_en":"Alma-Tamak",
-      "type":0,
+      "y":123390,
+      "color":0,
+      "code":"Alma_Tamak",
+      "x":85689,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043b\u044c\u043c\u0430-\u0422\u0430\u043c\u0430\u043a"
     },
     {
-      "name_ru":"\u041a\u0430\u0437\u0430\u043d\u0442\u0438\u043f",
-      "align":1,
-      "code":"Kazantip",
-      "y":179766,
-      "x":232737,
+      "type":0,
       "name_en":"Kazantip",
-      "type":0,
+      "y":179766,
+      "color":0,
+      "code":"Kazantip",
+      "x":232737,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u0437\u0430\u043d\u0442\u0438\u043f"
     },
     {
-      "name_ru":"\u0411\u0435\u043b\u044b\u0439 \u041a\u043e\u0448",
-      "align":1,
-      "code":"Belyi_Kosh",
-      "y":187652,
-      "x":178822,
+      "type":0,
       "name_en":"Belyi\u00c2\u00a0Kosh",
-      "type":0,
+      "y":187652,
+      "color":0,
+      "code":"Belyi_Kosh",
+      "x":178822,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0435\u043b\u044b\u0439 \u041a\u043e\u0448"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e-\u0446\u0430\u0440\u0438\u0446\u044b\u043d\u043e",
-      "align":1,
-      "code":"Novo_tsaritsyino",
-      "y":167412,
-      "x":152926,
+      "type":0,
       "name_en":"Novo-tsaritsyino",
-      "type":0,
+      "y":167412,
+      "color":0,
+      "code":"Novo_tsaritsyino",
+      "x":152926,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e-\u0446\u0430\u0440\u0438\u0446\u044b\u043d\u043e"
     },
     {
-      "name_ru":"\u0411\u0438\u044e\u043a-\u041e\u043d\u043b\u0430\u0440",
-      "align":1,
-      "code":"Biyuk_Onlar",
-      "y":164971,
-      "x":118971,
+      "type":0,
       "name_en":"Biyuk-Onlar",
-      "type":0,
+      "y":164971,
+      "color":0,
+      "code":"Biyuk_Onlar",
+      "x":118971,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0438\u044e\u043a-\u041e\u043d\u043b\u0430\u0440"
     },
     {
-      "name_ru":"\u0424\u0440\u0430\u0439\u0434\u043e\u0440\u0444",
-      "align":1,
-      "code":"Fraidorf",
-      "y":180100,
-      "x":82783,
+      "type":0,
       "name_en":"Fraidorf",
-      "type":0,
+      "y":180100,
+      "color":0,
+      "code":"Fraidorf",
+      "x":82783,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0424\u0440\u0430\u0439\u0434\u043e\u0440\u0444"
     },
     {
-      "name_ru":"\u041c\u0435\u0440\u0435\u0436\u0438\u043d\u043e",
-      "align":1,
-      "code":"Merezhino",
-      "y":176170,
-      "x":60454,
+      "type":0,
       "name_en":"Merezhino",
-      "type":0,
+      "y":176170,
+      "color":0,
+      "code":"Merezhino",
+      "x":60454,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u0435\u0440\u0435\u0436\u0438\u043d\u043e"
     },
     {
-      "name_ru":"\u041f\u0440\u043e\u043b\u043e\u043c",
-      "align":1,
-      "code":"Prolom",
-      "y":148004,
-      "x":156597,
+      "type":0,
       "name_en":"Prolom",
-      "type":0,
+      "y":148004,
+      "color":0,
+      "code":"Prolom",
+      "x":156597,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0440\u043e\u043b\u043e\u043c"
     },
     {
-      "name_ru":"\u041a\u0430\u0440\u0430\u0441\u0430\u043d",
-      "align":1,
-      "code":"Karasan",
-      "y":171807,
-      "x":133637,
+      "type":0,
       "name_en":"Karasan",
-      "type":0,
+      "y":171807,
+      "color":0,
+      "code":"Karasan",
+      "x":133637,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u0440\u0430\u0441\u0430\u043d"
     },
     {
-      "name_ru":"\u0427\u0451\u0440\u043d\u044b\u0439 \u041a\u043e\u0448",
-      "align":1,
-      "code":"Chyornyiy_Kosh",
-      "y":184315,
-      "x":180150,
+      "type":0,
       "name_en":"Chyornyiy Kosh",
-      "type":0,
+      "y":184315,
+      "color":0,
+      "code":"Chyornyiy_Kosh",
+      "x":180150,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0427\u0451\u0440\u043d\u044b\u0439 \u041a\u043e\u0448"
     },
     {
-      "name_ru":"\u0411\u0443\u0437\u0443\u043b-\u041c\u043e\u043d\u0442\u0430\u043d\u0430\u0439",
-      "align":1,
-      "code":"Buzul_Montanai",
-      "y":176975,
-      "x":86087,
+      "type":0,
       "name_en":"Buzul-Montanai",
-      "type":0,
+      "y":176975,
+      "color":0,
+      "code":"Buzul_Montanai",
+      "x":86087,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0443\u0437\u0443\u043b-\u041c\u043e\u043d\u0442\u0430\u043d\u0430\u0439"
     },
     {
-      "name_ru":"\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430",
-      "align":1,
-      "code":"Nikolaevka",
-      "y":135004,
-      "x":84191,
+      "type":0,
       "name_en":"Nikolaevka",
-      "type":0,
+      "y":135004,
+      "color":0,
+      "code":"Nikolaevka",
+      "x":84191,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
     },
     {
-      "name_ru":"\u0411\u0438\u044f-\u0421\u0430\u043b\u0430",
-      "align":1,
-      "code":"Biya_Sala",
-      "y":109116,
-      "x":109421,
+      "type":0,
       "name_en":"Biya-Sala",
-      "type":0,
+      "y":109116,
+      "color":0,
+      "code":"Biya_Sala",
+      "x":109421,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0438\u044f-\u0421\u0430\u043b\u0430"
     },
     {
-      "name_ru":"\u0411\u0430\u0445\u0447\u0438-\u042d\u043b\u0438",
-      "align":1,
-      "code":"Bahchi_Ehli",
-      "y":140149,
-      "x":160297,
+      "type":0,
       "name_en":"Bahchi-Ehli",
-      "type":0,
+      "y":140149,
+      "color":0,
+      "code":"Bahchi_Ehli",
+      "x":160297,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0430\u0445\u0447\u0438-\u042d\u043b\u0438"
     },
     {
-      "name_ru":"\u0410\u0431\u043b\u0435\u0448",
-      "align":1,
-      "code":"Ablesh",
-      "y":163181,
-      "x":157927,
+      "type":0,
       "name_en":"Ablesh",
-      "type":0,
+      "y":163181,
+      "color":0,
+      "code":"Ablesh",
+      "x":157927,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0431\u043b\u0435\u0448"
     },
     {
-      "name_ru":"\u0423\u044d\u0443\u043d\u043b\u0430\u0440",
-      "align":1,
-      "code":"Ueunlar",
-      "y":148917,
-      "x":253484,
+      "type":0,
       "name_en":"Ueunlar",
-      "type":0,
+      "y":148917,
+      "color":0,
+      "code":"Ueunlar",
+      "x":253484,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0423\u044d\u0443\u043d\u043b\u0430\u0440"
     },
     {
-      "name_ru":"\u0414\u0436\u0430\u043c\u0430\u043b",
-      "align":1,
-      "code":"Dzhamal",
-      "y":190851,
-      "x":46841,
+      "type":0,
       "name_en":"Dzhamal",
-      "type":0,
+      "y":190851,
+      "color":0,
+      "code":"Dzhamal",
+      "x":46841,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0436\u0430\u043c\u0430\u043b"
     },
     {
-      "name_ru":"\u041f\u0448\u0430\u0434\u0430",
-      "align":1,
-      "code":"Pshada",
-      "y":86000,
-      "x":403402,
+      "type":0,
       "name_en":"Pshada",
-      "type":0,
+      "y":86000,
+      "color":0,
+      "code":"Pshada",
+      "x":403402,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0448\u0430\u0434\u0430"
     },
     {
-      "name_ru":"\u0414\u044f\u0434\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Dyadkovskaya",
-      "y":189738,
-      "x":456480,
+      "type":0,
       "name_en":"Dyadkovskaya",
-      "type":0,
+      "y":189738,
+      "color":0,
+      "code":"Dyadkovskaya",
+      "x":456480,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u044f\u0434\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0410\u0434\u0430\u043c\u0438\u0439",
-      "align":1,
-      "code":"Adamiy",
-      "y":134039,
-      "x":476613,
+      "type":0,
       "name_en":"Adamiy",
-      "type":0,
+      "y":134039,
+      "color":0,
+      "code":"Adamiy",
+      "x":476613,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0434\u0430\u043c\u0438\u0439"
     },
     {
-      "name_ru":"\u0422\u0430\u043c\u0430\u043d\u044c",
-      "align":1,
-      "code":"Taman",
-      "y":155149,
-      "x":288830,
+      "type":0,
       "name_en":"Taman",
-      "type":0,
+      "y":155149,
+      "color":0,
+      "code":"Taman",
+      "x":288830,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u0430\u043c\u0430\u043d\u044c"
     },
     {
-      "name_ru":"\u0410\u0445\u0442\u0430\u043d\u0438\u0437\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Akhtanizovskaya",
-      "y":166566,
-      "x":315783,
+      "type":0,
       "name_en":"Akhtanizovskaya",
-      "type":0,
+      "y":166566,
+      "color":0,
+      "code":"Akhtanizovskaya",
+      "x":315783,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0445\u0442\u0430\u043d\u0438\u0437\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0412\u0435\u0440\u0445\u043d\u0435 \u0412\u0443\u043b\u0430\u043d\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Verhne_Vulanskiy",
-      "y":80810,
-      "x":428549,
+      "type":0,
       "name_en":"Verhne Vulanskiy",
-      "type":0,
+      "y":80810,
+      "color":0,
+      "code":"Verhne_Vulanskiy",
+      "x":428549,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u0435\u0440\u0445\u043d\u0435 \u0412\u0443\u043b\u0430\u043d\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0412\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Vorontsovskaya",
-      "y":166372,
-      "x":421771,
+      "type":0,
       "name_en":"Vorontsovskaya",
-      "type":0,
+      "y":166372,
+      "color":0,
+      "code":"Vorontsovskaya",
+      "x":421771,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Lazarevskoe",
-      "y":31988,
-      "x":469033,
+      "type":0,
       "name_en":"Lazarevskoe",
-      "type":0,
+      "y":31988,
+      "color":0,
+      "code":"Lazarevskoe",
+      "x":469033,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u0441\u043a\u043e\u0435"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u0440\u0441\u0443\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Starokorsunskaya",
-      "y":137989,
-      "x":458589,
+      "type":0,
       "name_en":"Starokorsunskaya",
-      "type":0,
+      "y":137989,
+      "color":0,
+      "code":"Starokorsunskaya",
+      "x":458589,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u0440\u0441\u0443\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u043d\u0438\u0436\u043d\u0435-C\u0442\u0435\u0431\u043b\u0438\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Staronizhesteblievskaya",
-      "y":172395,
-      "x":404981,
+      "type":0,
       "name_en":"Staronizhe-Steblievskaya",
-      "type":0,
+      "y":172395,
+      "color":0,
+      "code":"Staronizhesteblievskaya",
+      "x":404981,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u043d\u0438\u0436\u043d\u0435-C\u0442\u0435\u0431\u043b\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u0432\u0435\u043b\u0438\u0447\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Starovelichkovskaya",
-      "y":177281,
-      "x":426070,
+      "type":0,
       "name_en":"Starovelichkovskaya",
-      "type":0,
+      "y":177281,
+      "color":0,
+      "code":"Starovelichkovskaya",
+      "x":426070,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u0432\u0435\u043b\u0438\u0447\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Krasnoarmeyskaya",
-      "y":170495,
-      "x":391195,
+      "type":0,
       "name_en":"Krasnoarmeyskaya",
-      "type":0,
+      "y":170495,
+      "color":0,
+      "code":"Krasnoarmeyskaya",
+      "x":391195,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
-      "align":1,
-      "code":"Krasnodar",
-      "y":137978,
-      "x":444154,
+      "type":2,
       "name_en":"Krasnodar",
-      "type":2,
+      "y":137978,
+      "color":0,
+      "code":"Krasnodar",
+      "x":444154,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
     },
     {
-      "name_ru":"\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Anastasiyevskaya",
-      "y":157514,
-      "x":368439,
+      "type":0,
       "name_en":"Anastasiyevskaya",
-      "type":0,
+      "y":157514,
+      "color":0,
+      "code":"Anastasiyevskaya",
+      "x":368439,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u043b\u0430\u0441\u0442\u0443\u043d\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Plastunovskaya",
-      "y":164651,
-      "x":462396,
+      "type":0,
       "name_en":"Plastunovskaya",
-      "type":0,
+      "y":164651,
+      "color":0,
+      "code":"Plastunovskaya",
+      "x":462396,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u043b\u0430\u0441\u0442\u0443\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u043b\u0430\u0442\u043d\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Platnirovskaya",
-      "y":173924,
-      "x":470009,
+      "type":0,
       "name_en":"Platnirovskaya",
-      "type":0,
+      "y":173924,
+      "color":0,
+      "code":"Platnirovskaya",
+      "x":470009,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u043b\u0430\u0442\u043d\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Stavropolskaya",
-      "y":114380,
-      "x":433470,
+      "type":0,
       "name_en":"Stavropolskaya",
-      "type":0,
+      "y":114380,
+      "color":0,
+      "code":"Stavropolskaya",
+      "x":433470,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u043b\u0430\u0432\u044f\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Slavyansk_Na_Kubani",
-      "y":160341,
-      "x":385345,
+      "type":1,
       "name_en":"Slavyanskaya",
-      "type":1,
+      "y":160341,
+      "color":0,
+      "code":"Slavyansk_Na_Kubani",
+      "x":385345,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u043b\u0430\u0432\u044f\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Ryazanskaya",
-      "y":131401,
-      "x":483520,
+      "type":0,
       "name_en":"Ryazanskaya",
-      "type":0,
+      "y":131401,
+      "color":0,
+      "code":"Ryazanskaya",
+      "x":483520,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043a\u0430",
-      "align":1,
-      "code":"Kabardinka",
-      "y":102337,
-      "x":372480,
+      "type":0,
       "name_en":"Kabardinka",
-      "type":0,
+      "y":102337,
+      "color":0,
+      "code":"Kabardinka",
+      "x":372480,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043a\u0430"
     },
     {
-      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Pervomayskiy2",
+      "type":0,
+      "name_en":"Pervomayskiy",
       "y":193999,
+      "color":0,
+      "code":"Pervomayskiy2",
       "x":465032,
-      "name_en":"Pervomayskiy",
-      "type":0,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u041a\u0443\u0440\u0447\u0430\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Kurchanskaya",
-      "y":158008,
-      "x":346234,
+      "type":0,
       "name_en":"Kurchanskaya",
-      "type":0,
+      "y":158008,
+      "color":0,
+      "code":"Kurchanskaya",
+      "x":346234,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0443\u0440\u0447\u0430\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0412\u043e\u0447\u0435\u043f\u0448\u0438\u0439",
-      "align":1,
-      "code":"Vochepshiy",
-      "y":124935,
-      "x":462285,
+      "type":0,
       "name_en":"Vochepshiy",
-      "type":0,
+      "y":124935,
+      "color":0,
+      "code":"Vochepshiy",
+      "x":462285,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u043e\u0447\u0435\u043f\u0448\u0438\u0439"
     },
     {
-      "name_ru":"\u0424\u0435\u0434\u043e\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Fedorovskaya",
-      "y":144140,
-      "x":407331,
+      "type":0,
       "name_en":"Fedorovskaya",
-      "type":0,
+      "y":144140,
+      "color":0,
+      "code":"Fedorovskaya",
+      "x":407331,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0424\u0435\u0434\u043e\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Andreevskaya",
-      "y":173609,
-      "x":416084,
+      "type":0,
       "name_en":"Andreevskaya",
-      "type":0,
+      "y":173609,
+      "color":0,
+      "code":"Andreevskaya",
+      "x":416084,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041c\u0435\u0434\u0432\u0435\u0434\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Medvedovskaya",
+      "type":0,
+      "name_en":"Medvedovskaya",
       "y":179845,
-      "x":444501,
-      "name_en":"Medvedovskaya",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0425\u0430\u0434\u044b\u0436\u0435\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Khadyzhenskaya",
-      "y":80206,
-      "x":481207,
-      "name_en":"Khadyzhenskaya",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439",
-      "align":1,
-      "code":"Zheleznyi",
-      "y":165253,
-      "x":480917,
-      "name_en":"Zhelezny",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u041a\u0440. \u0421\u0442\u0440\u0435\u043b\u0430",
-      "align":1,
-      "code":"Kr_Strela",
-      "y":156815,
-      "x":328218,
-      "name_en":"Kr. Strela",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u042d\u043d\u0435\u043c",
-      "align":1,
-      "code":"Enem",
-      "y":129690,
-      "x":438274,
-      "name_en":"Enem",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0413\u0435\u043b\u0435\u043d\u0434\u0436\u0438\u043a",
-      "align":1,
-      "code":"Gelendzhik",
-      "y":95066,
-      "x":379241,
-      "name_en":"Gelendzhik",
-      "type":1,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0428\u0435\u043d\u0434\u0436\u0438\u0439",
-      "align":1,
-      "code":"Shendzhyi",
-      "y":125206,
-      "x":448614,
-      "name_en":"Shendzhy",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0412\u0430\u0440\u0435\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Varenikovskaya",
-      "y":147918,
-      "x":350872,
-      "name_en":"Varenikovskaya",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0418\u043c\u0435\u0440\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Imeretinskaya",
-      "y":105339,
-      "x":473764,
-      "name_en":"Imeretinskaya",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Chernigovskaya",
-      "y":112497,
-      "x":473955,
-      "name_en":"Chernigovskaya",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0425\u043e\u043b\u043c\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Holmskaya",
-      "y":122327,
-      "x":403534,
-      "name_en":"Holmskaya",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u041a\u0443\u0447\u0443\u0433\u0443\u0440\u044b",
-      "align":1,
-      "code":"Kuchuguryi",
-      "y":174856,
-      "x":305483,
-      "name_en":"Kuchuguryi",
-      "type":0,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u041c\u0435\u0434\u0432\u0435\u0434\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
+      "color":0,
       "code":"Medvedovskaya",
-      "y":121056,
-      "x":345545,
+      "x":444501,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u041c\u0435\u0434\u0432\u0435\u0434\u043e\u0432\u0441\u043a\u0430\u044f"
+    },
+    {
+      "type":0,
+      "name_en":"Khadyzhenskaya",
+      "y":80206,
+      "color":0,
+      "code":"Khadyzhenskaya",
+      "x":481207,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0425\u0430\u0434\u044b\u0436\u0435\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "type":0,
+      "name_en":"Zhelezny",
+      "y":165253,
+      "color":0,
+      "code":"Zheleznyi",
+      "x":480917,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439"
+    },
+    {
+      "type":0,
+      "name_en":"Kr. Strela",
+      "y":156815,
+      "color":0,
+      "code":"Kr_Strela",
+      "x":328218,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u041a\u0440. \u0421\u0442\u0440\u0435\u043b\u0430"
+    },
+    {
+      "type":0,
+      "name_en":"Enem",
+      "y":129690,
+      "color":0,
+      "code":"Enem",
+      "x":438274,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u042d\u043d\u0435\u043c"
+    },
+    {
+      "type":1,
+      "name_en":"Gelendzhik",
+      "y":95066,
+      "color":0,
+      "code":"Gelendzhik",
+      "x":379241,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0413\u0435\u043b\u0435\u043d\u0434\u0436\u0438\u043a"
+    },
+    {
+      "type":0,
+      "name_en":"Shendzhy",
+      "y":125206,
+      "color":0,
+      "code":"Shendzhyi",
+      "x":448614,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0428\u0435\u043d\u0434\u0436\u0438\u0439"
+    },
+    {
+      "type":0,
+      "name_en":"Varenikovskaya",
+      "y":147918,
+      "color":0,
+      "code":"Varenikovskaya",
+      "x":350872,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0412\u0430\u0440\u0435\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
+    },
+    {
+      "type":0,
+      "name_en":"Imeretinskaya",
+      "y":105339,
+      "color":0,
+      "code":"Imeretinskaya",
+      "x":473764,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0418\u043c\u0435\u0440\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "type":0,
+      "name_en":"Chernigovskaya",
+      "y":112497,
+      "color":0,
+      "code":"Chernigovskaya",
+      "x":473955,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430\u044f"
+    },
+    {
+      "type":0,
+      "name_en":"Holmskaya",
+      "y":122327,
+      "color":0,
+      "code":"Holmskaya",
+      "x":403534,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u0425\u043e\u043b\u043c\u0441\u043a\u0430\u044f"
+    },
+    {
+      "type":0,
+      "name_en":"Kuchuguryi",
+      "y":174856,
+      "color":0,
+      "code":"Kuchuguryi",
+      "x":305483,
+      "zoom":7,
+      "align":1,
+      "name_ru":"\u041a\u0443\u0447\u0443\u0433\u0443\u0440\u044b"
+    },
+    {
+      "type":0,
       "name_en":"Medvedovskaya",
-      "type":0,
+      "y":121056,
+      "color":0,
+      "code":"Medvedovskaya",
+      "x":345545,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u0435\u0434\u0432\u0435\u0434\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041c\u043e\u0433\u0443\u043a\u043e\u0440\u043e\u0432\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Mogukorovskiy",
-      "y":152801,
-      "x":391797,
+      "type":0,
       "name_en":"Mogukorovskiy",
-      "type":0,
+      "y":152801,
+      "color":0,
+      "code":"Mogukorovskiy",
+      "x":391797,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u043e\u0433\u0443\u043a\u043e\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0411\u0436\u0435\u0434\u0443\u0445\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Bzheduhovskaya",
-      "y":126214,
-      "x":479680,
+      "type":0,
       "name_en":"Bzheduhovskaya",
-      "type":0,
+      "y":126214,
+      "color":0,
+      "code":"Bzheduhovskaya",
+      "x":479680,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0436\u0435\u0434\u0443\u0445\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0412\u044b\u0448\u0435\u0441\u0442\u0435\u0431\u043b\u0438\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Vishestebliyevskaya",
-      "y":154807,
-      "x":307823,
+      "type":0,
       "name_en":"Vishesteblevskaya",
-      "type":0,
+      "y":154807,
+      "color":0,
+      "code":"Vishestebliyevskaya",
+      "x":307823,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u044b\u0448\u0435\u0441\u0442\u0435\u0431\u043b\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0414\u0436\u0438\u0434\u0436\u0438-\u0425\u0430\u0431\u043b\u044c",
-      "align":1,
-      "code":"Dzhizhi_Khabl",
-      "y":126802,
-      "x":472608,
+      "type":0,
       "name_en":"Dzhizhi-Khabl",
-      "type":0,
+      "y":126802,
+      "color":0,
+      "code":"Dzhizhi_Khabl",
+      "x":472608,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0436\u0438\u0434\u0436\u0438-\u0425\u0430\u0431\u043b\u044c"
     },
     {
-      "name_ru":"\u0410\u0445\u0442\u044b\u0440\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Akhtyrskiy",
-      "y":123193,
-      "x":396055,
+      "type":0,
       "name_en":"Akhtyrskaya",
-      "type":0,
+      "y":123193,
+      "color":0,
+      "code":"Akhtyrskiy",
+      "x":396055,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0445\u0442\u044b\u0440\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0414\u0436\u0438\u0433\u0438\u043d\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Dzhiginskoe",
-      "y":153840,
-      "x":328629,
+      "type":0,
       "name_en":"Dzhiginskoe",
-      "type":0,
+      "y":153840,
+      "color":0,
+      "code":"Dzhiginskoe",
+      "x":328629,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0436\u0438\u0433\u0438\u043d\u0441\u043a\u043e\u0435"
     },
     {
-      "name_ru":"\u0410\u0431\u0438\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Abinsk",
-      "y":124643,
-      "x":385929,
+      "type":0,
       "name_en":"Abinskaya",
-      "type":0,
+      "y":124643,
+      "color":0,
+      "code":"Abinsk",
+      "x":385929,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0431\u0438\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0410\u0440\u0445\u0438\u043f\u043e-\u041e\u0441\u0438\u043f\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Arhipo-Osipovka",
-      "y":76346,
-      "x":413371,
+      "type":0,
       "name_en":"Arhipo-Osipovka",
-      "type":0,
+      "y":76346,
+      "color":0,
+      "code":"Arhipo-Osipovka",
+      "x":413371,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0440\u0445\u0438\u043f\u043e-\u041e\u0441\u0438\u043f\u043e\u0432\u043a\u0430"
     },
     {
-      "name_ru":"\u0410\u0444\u0438\u043f\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Afipskaya",
-      "y":127206,
-      "x":433368,
+      "type":0,
       "name_en":"Afipskaya",
-      "type":0,
+      "y":127206,
+      "color":0,
+      "code":"Afipskaya",
+      "x":433368,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0444\u0438\u043f\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u042d\u0440\u0438\u0432\u0430\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Erivanskaya",
-      "y":109817,
-      "x":389026,
+      "type":0,
       "name_en":"Erivanskaya",
-      "type":0,
+      "y":109817,
+      "color":0,
+      "code":"Erivanskaya",
+      "x":389026,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u042d\u0440\u0438\u0432\u0430\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Elizavetinskaya",
-      "y":141250,
-      "x":429868,
+      "type":0,
       "name_en":"Elizavetinskaya",
-      "type":0,
+      "y":141250,
+      "color":0,
+      "code":"Elizavetinskaya",
+      "x":429868,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0441\u0432\u0445. \u0410\u0431\u0440\u0430\u0443-\u0414\u044e\u0440\u0441\u043e",
-      "align":1,
-      "code":"Abrau-Durso",
-      "y":105031,
-      "x":351490,
+      "type":0,
       "name_en":"Abrau-Durso",
-      "type":0,
+      "y":105031,
+      "color":0,
+      "code":"Abrau-Durso",
+      "x":351490,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0441\u0432\u0445. \u0410\u0431\u0440\u0430\u0443-\u0414\u044e\u0440\u0441\u043e"
     },
     {
-      "name_ru":"\u0412\u0435\u0440\u0445\u043d\u0435\u0431\u0430\u043a\u0430\u043d\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Verkhnebakanskiy",
-      "y":120850,
-      "x":353802,
+      "type":0,
       "name_en":"Verkhnebakanskiy",
-      "type":0,
+      "y":120850,
+      "color":0,
+      "code":"Verkhnebakanskiy",
+      "x":353802,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u0435\u0440\u0445\u043d\u0435\u0431\u0430\u043a\u0430\u043d\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0422\u0438\u0445\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Tikhonovskiy",
-      "y":155724,
-      "x":391891,
+      "type":0,
       "name_en":"Tikhonovskiy",
-      "type":0,
+      "y":155724,
+      "color":0,
+      "code":"Tikhonovskiy",
+      "x":391891,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u0438\u0445\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0411\u0430\u043a\u0438\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Bakinskaya",
-      "y":112746,
-      "x":463800,
+      "type":0,
       "name_en":"Bakinskaya",
-      "type":0,
+      "y":112746,
+      "color":0,
+      "code":"Bakinskaya",
+      "x":463800,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0430\u043a\u0438\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0420\u0443\u0441\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Russkoe",
-      "y":130795,
-      "x":366630,
+      "type":0,
       "name_en":"Russkoe",
-      "type":0,
+      "y":130795,
+      "color":0,
+      "code":"Russkoe",
+      "x":366630,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0420\u0443\u0441\u0441\u043a\u043e\u0435"
     },
     {
-      "name_ru":"\u0420\u0430\u0437. \u0425\u0430\u0431\u043b\u044c",
-      "align":1,
-      "code":"Raz_Habl",
-      "y":122783,
-      "x":409819,
+      "type":0,
       "name_en":"Raz. Habl",
-      "type":0,
+      "y":122783,
+      "color":0,
+      "code":"Raz_Habl",
+      "x":409819,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0420\u0430\u0437. \u0425\u0430\u0431\u043b\u044c"
     },
     {
-      "name_ru":"\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Penzenskaya",
-      "y":113424,
-      "x":443014,
+      "type":0,
       "name_en":"Penzenskaya",
-      "type":0,
+      "y":113424,
+      "color":0,
+      "code":"Penzenskaya",
+      "x":443014,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u043e\u043d\u0435\u0436\u0443\u043a\u0430\u0439",
-      "align":1,
-      "code":"Ponezhukay",
-      "y":124909,
-      "x":470831,
+      "type":0,
       "name_en":"Ponezhukay",
-      "type":0,
+      "y":124909,
+      "color":0,
+      "code":"Ponezhukay",
+      "x":470831,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u043e\u043d\u0435\u0436\u0443\u043a\u0430\u0439"
     },
     {
-      "name_ru":"\u041c\u0438\u043d\u0433\u0440\u0435\u043b\u044c\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Mingrelskaya",
-      "y":137906,
-      "x":398832,
+      "type":0,
       "name_en":"Mingrelskaya",
-      "type":0,
+      "y":137906,
+      "color":0,
+      "code":"Mingrelskaya",
+      "x":398832,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u0438\u043d\u0433\u0440\u0435\u043b\u044c\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0435\u043d\u043d\u0430\u044f",
-      "align":1,
-      "code":"Sennaya",
-      "y":164765,
-      "x":308568,
+      "type":0,
       "name_en":"Sennaya",
-      "type":0,
+      "y":164765,
+      "color":0,
+      "code":"Sennaya",
+      "x":308568,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0435\u043d\u043d\u0430\u044f"
     },
     {
-      "name_ru":"\u0414\u0438\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Dinskaya",
-      "y":157591,
-      "x":458577,
+      "type":0,
       "name_en":"Dinskaya",
-      "type":0,
+      "y":157591,
+      "color":0,
+      "code":"Dinskaya",
+      "x":458577,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0438\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0422\u0440\u043e\u0438\u0446\u043a\u0430\u044f",
-      "align":1,
-      "code":"Troitskaya",
-      "y":149400,
-      "x":384424,
+      "type":0,
       "name_en":"Troitskaya",
-      "type":0,
+      "y":149400,
+      "color":0,
+      "code":"Troitskaya",
+      "x":384424,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u0440\u043e\u0438\u0446\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041a\u0440\u0435\u043f\u043e\u0441\u0442\u043d\u0430\u044f",
-      "align":1,
-      "code":"Krepostnaya",
-      "y":113961,
-      "x":428984,
+      "type":0,
       "name_en":"Krepostnaya",
-      "type":0,
+      "y":113961,
+      "color":0,
+      "code":"Krepostnaya",
+      "x":428984,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0440\u0435\u043f\u043e\u0441\u0442\u043d\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u043c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0441\u043a",
-      "align":1,
-      "code":"Novomikhaylovsk",
-      "y":65240,
-      "x":434560,
+      "type":0,
       "name_en":"Novomikhaylovsk",
-      "type":0,
+      "y":65240,
+      "color":0,
+      "code":"Novomikhaylovsk",
+      "x":434560,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u043c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0441\u043a"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u043c\u044b\u0448\u0430\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Staromyshastovskaya",
-      "y":170463,
-      "x":447553,
+      "type":0,
       "name_en":"Staromyshastovskaya",
-      "type":0,
+      "y":170463,
+      "color":0,
+      "code":"Staromyshastovskaya",
+      "x":447553,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u043c\u044b\u0448\u0430\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a",
-      "align":1,
-      "code":"Novorossiysk",
-      "y":110250,
-      "x":361176,
-      "name_en":"Novorossiysk",
       "type":2,
+      "name_en":"Novorossiysk",
+      "y":110250,
+      "color":0,
+      "code":"Novorossiysk",
+      "x":361176,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a"
     },
     {
-      "name_ru":"\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Zaporozhskaya",
-      "y":172753,
-      "x":299674,
+      "type":0,
       "name_en":"Zaporozhskaya",
-      "type":0,
+      "y":172753,
+      "color":0,
+      "code":"Zaporozhskaya",
+      "x":299674,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u0442\u0438\u0442\u0430\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Starotitarovskaya",
-      "y":155560,
-      "x":319033,
+      "type":0,
       "name_en":"Starotitarovskaya",
-      "type":0,
+      "y":155560,
+      "color":0,
+      "code":"Starotitarovskaya",
+      "x":319033,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0430\u0440\u043e\u0442\u0438\u0442\u0430\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u042e\u0440\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Yurovka",
-      "y":147306,
-      "x":338586,
+      "type":0,
       "name_en":"Yurovka",
-      "type":0,
+      "y":147306,
+      "color":0,
+      "code":"Yurovka",
+      "x":338586,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u042e\u0440\u043e\u0432\u043a\u0430"
     },
     {
-      "name_ru":"\u0410\u0437\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Azovskaya",
-      "y":116729,
-      "x":419154,
+      "type":0,
       "name_en":"Azovskaya",
-      "type":0,
+      "y":116729,
+      "color":0,
+      "code":"Azovskaya",
+      "x":419154,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0437\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0410\u043d\u0430\u043f\u0430",
-      "align":1,
-      "code":"Anapa",
-      "y":126140,
-      "x":330360,
+      "type":1,
       "name_en":"Anapa",
-      "type":1,
+      "y":126140,
+      "color":0,
+      "code":"Anapa",
+      "x":330360,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043d\u0430\u043f\u0430"
     },
     {
-      "name_ru":"\u0422\u0443\u0430\u043f\u0441\u0435",
-      "align":1,
-      "code":"Tuapse",
-      "y":50892,
-      "x":450907,
+      "type":1,
       "name_en":"Tuapse",
-      "type":1,
+      "y":50892,
+      "color":0,
+      "code":"Tuapse",
+      "x":450907,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u0443\u0430\u043f\u0441\u0435"
     },
     {
-      "name_ru":"\u0410\u043d\u0430\u043f\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Anapskaya",
-      "y":128451,
-      "x":335201,
+      "type":0,
       "name_en":"Anapskaya",
-      "type":0,
+      "y":128451,
+      "color":0,
+      "code":"Anapskaya",
+      "x":335201,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u043d\u0430\u043f\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"3-\u044f \u0440\u0435\u0447\u043a\u0430 \u041a\u043e\u0447\u0435\u0442\u044b",
-      "align":1,
-      "code":"3ya_rechka_Kochetyi",
-      "y":162811,
-      "x":473384,
+      "type":0,
       "name_en":"3-ya rechka Kochetyi",
-      "type":0,
+      "y":162811,
+      "color":0,
+      "code":"3ya_rechka_Kochetyi",
+      "x":473384,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"3-\u044f \u0440\u0435\u0447\u043a\u0430 \u041a\u043e\u0447\u0435\u0442\u044b"
     },
     {
-      "name_ru":"\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Saratovskaya",
-      "y":108380,
-      "x":458935,
+      "type":0,
       "name_en":"Saratovskaya",
-      "type":0,
+      "y":108380,
+      "color":0,
+      "code":"Saratovskaya",
+      "x":458935,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041a\u043e\u0440\u0435\u043d\u043e\u0432\u0441\u043a",
-      "align":1,
-      "code":"Korenovsk",
-      "y":180299,
-      "x":475332,
+      "type":0,
       "name_en":"Korenovsk",
-      "type":0,
+      "y":180299,
+      "color":0,
+      "code":"Korenovsk",
+      "x":475332,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u043e\u0440\u0435\u043d\u043e\u0432\u0441\u043a"
     },
     {
-      "name_ru":"\u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Sergievskaya",
-      "y":176189,
-      "x":457767,
+      "type":0,
       "name_en":"Sergievskaya",
-      "type":0,
+      "y":176189,
+      "color":0,
+      "code":"Sergievskaya",
+      "x":457767,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0427\u0435\u0440\u043d\u043e\u0435\u0440\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Chernoyevskaya",
-      "y":178793,
-      "x":360628,
+      "type":0,
       "name_en":"Chernoyevskaya",
-      "type":0,
+      "y":178793,
+      "color":0,
+      "code":"Chernoyevskaya",
+      "x":360628,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0427\u0435\u0440\u043d\u043e\u0435\u0440\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Voronezhskaya",
-      "y":156794,
-      "x":481457,
+      "type":0,
       "name_en":"Voronezhskaya",
-      "type":0,
+      "y":156794,
+      "color":0,
+      "code":"Voronezhskaya",
+      "x":481457,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e \u0413\u0443\u0440\u0438\u0439\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Novo_Guriyskiy",
-      "y":120591,
-      "x":476566,
+      "type":0,
       "name_en":"Novo Guriyskiy",
-      "type":0,
+      "y":120591,
+      "color":0,
+      "code":"Novo_Guriyskiy",
+      "x":476566,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e \u0413\u0443\u0440\u0438\u0439\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u041c\u0430\u0440\u0442\u0430\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Martanskaya",
-      "y":113591,
-      "x":469809,
+      "type":0,
       "name_en":"Martanskaya",
-      "type":0,
+      "y":113591,
+      "color":0,
+      "code":"Martanskaya",
+      "x":469809,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u0430\u0440\u0442\u0430\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Pervomayskiy",
+      "type":0,
+      "name_en":"Pervomayskiy",
       "y":106778,
+      "color":0,
+      "code":"Pervomayskiy",
       "x":469385,
-      "name_en":"Pervomayskiy",
-      "type":0,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0413\u043e\u0440\u044f\u0447\u0438\u0439 \u041a\u043b\u044e\u0447",
-      "align":1,
-      "code":"Goryachiy_Klyuch",
-      "y":101000,
-      "x":453604,
+      "type":1,
       "name_en":"Goryachiy Kluch",
-      "type":1,
+      "y":101000,
+      "color":0,
+      "code":"Goryachiy_Klyuch",
+      "x":453604,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0413\u043e\u0440\u044f\u0447\u0438\u0439 \u041a\u043b\u044e\u0447"
     },
     {
-      "name_ru":"\u041c\u0430\u0440\u044c\u044f\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Maryanskaya",
-      "y":146506,
-      "x":419504,
+      "type":0,
       "name_en":"Maryanskaya",
-      "type":0,
+      "y":146506,
+      "color":0,
+      "code":"Maryanskaya",
+      "x":419504,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u0430\u0440\u044c\u044f\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u0430\u0448\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Pashkovskiy",
-      "y":138858,
-      "x":450461,
+      "type":0,
       "name_en":"Pashkovsky",
-      "type":0,
+      "y":138858,
+      "color":0,
+      "code":"Pashkovskiy",
+      "x":450461,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0430\u0448\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0418\u043b\u044c\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Ilskaya",
-      "y":121879,
-      "x":414750,
+      "type":0,
       "name_en":"Ilskaya",
-      "type":0,
+      "y":121879,
+      "color":0,
+      "code":"Ilskaya",
+      "x":414750,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0418\u043b\u044c\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0410\u0441\u0441\u043e\u043a\u043b\u0430\u0439",
-      "align":1,
-      "code":"Assoklay",
-      "y":123561,
-      "x":475367,
+      "type":0,
       "name_en":"Assoklay",
-      "type":0,
+      "y":123561,
+      "color":0,
+      "code":"Assoklay",
+      "x":475367,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0441\u0441\u043e\u043a\u043b\u0430\u0439"
     },
     {
-      "name_ru":"\u0412\u0430\u0441\u044e\u0440\u0438\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Vasyurinskaya",
-      "y":147499,
-      "x":472452,
+      "type":0,
       "name_en":"Vasurinskaya",
-      "type":0,
+      "y":147499,
+      "color":0,
+      "code":"Vasyurinskaya",
+      "x":472452,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0412\u0430\u0441\u044e\u0440\u0438\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0413\u043e\u0441\u0442\u0430\u0433\u0430\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Gostagayevskaya",
-      "y":138576,
-      "x":342514,
+      "type":0,
       "name_en":"Gostagaevskaya",
-      "type":0,
+      "y":138576,
+      "color":0,
+      "code":"Gostagayevskaya",
+      "x":342514,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0413\u043e\u0441\u0442\u0430\u0433\u0430\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Petrovskaya",
-      "y":176188,
-      "x":373509,
+      "type":0,
       "name_en":"Petrovskaya",
-      "type":0,
+      "y":176188,
+      "color":0,
+      "code":"Petrovskaya",
+      "x":373509,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0414\u0436\u0443\u0431\u0433\u0430",
-      "align":1,
-      "code":"Dzhubga",
-      "y":70396,
-      "x":425391,
+      "type":0,
       "name_en":"Dzhubga",
-      "type":0,
+      "y":70396,
+      "color":0,
+      "code":"Dzhubga",
+      "x":425391,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u0436\u0443\u0431\u0433\u0430"
     },
     {
-      "name_ru":"\u041d\u0430\u0442\u0443\u0445\u0430\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Natukhayevskaya",
-      "y":127137,
-      "x":346653,
+      "type":0,
       "name_en":"Natukhaevskaya",
-      "type":0,
+      "y":127137,
+      "color":0,
+      "code":"Natukhayevskaya",
+      "x":346653,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u0430\u0442\u0443\u0445\u0430\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Severskaya",
-      "y":121583,
-      "x":422781,
+      "type":0,
       "name_en":"Severskaya",
-      "type":0,
+      "y":121583,
+      "color":0,
+      "code":"Severskaya",
+      "x":422781,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u0434\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Novodmitrievskaya",
-      "y":120185,
-      "x":435929,
+      "type":0,
       "name_en":"Novodmitrievskaya",
-      "type":0,
+      "y":120185,
+      "color":0,
+      "code":"Novodmitrievskaya",
+      "x":435929,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u0434\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u043c\u044b\u0448\u0430\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Novomyshastovskaya",
-      "y":155453,
-      "x":415368,
+      "type":0,
       "name_en":"Novomyshastovskaya",
-      "type":0,
+      "y":155453,
+      "color":0,
+      "code":"Novomyshastovskaya",
+      "x":415368,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u043c\u044b\u0448\u0430\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Pervomayskiy3",
-      "y":161592,
-      "x":477005,
+      "type":0,
       "name_en":"Pervomayskiy",
-      "type":0,
+      "y":161592,
+      "color":0,
+      "code":"Pervomayskiy3",
+      "x":477005,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u0442\u0438\u0442\u0430\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Novotitarovskaya",
-      "y":157590,
-      "x":441790,
+      "type":0,
       "name_en":"Novotitarovskaya",
-      "type":0,
+      "y":157590,
+      "color":0,
+      "code":"Novotitarovskaya",
+      "x":441790,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u0442\u0438\u0442\u0430\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u0432\u0435\u043b\u0438\u0447\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Novovelichkovskaya",
-      "y":162935,
-      "x":432703,
+      "type":0,
       "name_en":"Novovelichkovskaya",
-      "type":0,
+      "y":162935,
+      "color":0,
+      "code":"Novovelichkovskaya",
+      "x":432703,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u0432\u0435\u043b\u0438\u0447\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041a\u0438\u0435\u0432\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Kievskoe",
-      "y":140045,
-      "x":368263,
+      "type":0,
       "name_en":"Kievskoe",
-      "type":0,
+      "y":140045,
+      "color":0,
+      "code":"Kievskoe",
+      "x":368263,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
     },
     {
-      "name_ru":"\u041a\u0440\u044b\u043c\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Krymsk",
-      "y":127726,
-      "x":375485,
+      "type":1,
       "name_en":"Krymskaya",
-      "type":1,
+      "y":127726,
+      "color":0,
+      "code":"Krymsk",
+      "x":375485,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041a\u0440\u044b\u043c\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u0430\u044f",
-      "align":1,
-      "code":"Razdolnaya",
-      "y":173295,
-      "x":481758,
+      "type":0,
       "name_en":"Razdolnaya",
-      "type":0,
+      "y":173295,
+      "color":0,
+      "code":"Razdolnaya",
+      "x":481758,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u0438\u0436\u043d\u0435\u0431\u0430\u043a\u0430\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Nizhnebakanskaya",
-      "y":123584,
-      "x":366619,
+      "type":0,
       "name_en":"Nizhnebakanskaya",
-      "type":0,
+      "y":123584,
+      "color":0,
+      "code":"Nizhnebakanskaya",
+      "x":366619,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u0438\u0436\u043d\u0435\u0431\u0430\u043a\u0430\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0422\u0435\u043c\u0440\u044e\u043a",
-      "align":1,
-      "code":"Temryuk",
-      "y":161639,
-      "x":332640,
+      "type":0,
       "name_en":"Temryuk",
-      "type":0,
+      "y":161639,
+      "color":0,
+      "code":"Temryuk",
+      "x":332640,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u0435\u043c\u0440\u044e\u043a"
     },
     {
-      "name_ru":"\u0441\u0432\u0445. \u041c\u044b\u0441\u0445\u0430\u043a\u043e",
-      "align":1,
-      "code":"Myskhako",
-      "y":104410,
-      "x":360624,
+      "type":0,
       "name_en":"Myskhako",
-      "type":0,
+      "y":104410,
+      "color":0,
+      "code":"Myskhako",
+      "x":360624,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0441\u0432\u0445. \u041c\u044b\u0441\u0445\u0430\u043a\u043e"
     },
     {
-      "name_ru":"\u041f\u043e\u043f\u043e\u0432\u0438\u0447\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Popovichevskaya",
-      "y":182636,
-      "x":420637,
+      "type":0,
       "name_en":"Popovichevskaya",
-      "type":0,
+      "y":182636,
+      "color":0,
+      "code":"Popovichevskaya",
+      "x":420637,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u043e\u043f\u043e\u0432\u0438\u0447\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0422\u0438\u043c\u0430\u0448\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Timashevskaya",
-      "y":197609,
-      "x":438910,
+      "type":1,
       "name_en":"Timashevskaya",
-      "type":1,
+      "y":197609,
+      "color":0,
+      "code":"Timashevskaya",
+      "x":438910,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0422\u0438\u043c\u0430\u0448\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0420\u043e\u0433\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Rogovskaya",
-      "y":202227,
-      "x":431716,
+      "type":0,
       "name_en":"Rogovskaya",
-      "type":0,
+      "y":202227,
+      "color":0,
+      "code":"Rogovskaya",
+      "x":431716,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0420\u043e\u0433\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0411\u0440\u044e\u0445\u043e\u0432\u0435\u0446\u043a\u0430\u044f",
-      "align":1,
-      "code":"Bruchovetskaya",
-      "y":210343,
-      "x":448454,
+      "type":1,
       "name_en":"Bruchovetskaya",
-      "type":1,
+      "y":210343,
+      "color":0,
+      "code":"Bruchovetskaya",
+      "x":448454,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0440\u044e\u0445\u043e\u0432\u0435\u0446\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0413\u0440\u0438\u0432\u0435\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Grivenskaya",
-      "y":197737,
-      "x":391280,
+      "type":1,
       "name_en":"Grivenskaya",
-      "type":1,
+      "y":197737,
+      "color":0,
+      "code":"Grivenskaya",
+      "x":391280,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0413\u0440\u0438\u0432\u0435\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0410\u0447\u0443\u0435\u0432\u043e",
-      "align":1,
-      "code":"Achuevo",
-      "y":198829,
-      "x":364533,
+      "type":0,
       "name_en":"Achuevo",
-      "type":0,
+      "y":198829,
+      "color":0,
+      "code":"Achuevo",
+      "x":364533,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0410\u0447\u0443\u0435\u0432\u043e"
     },
     {
-      "name_ru":"\u041c\u043e\u0433\u0443\u0440\u043e\u0432\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Mogurovskiy",
-      "y":201412,
-      "x":409705,
+      "type":0,
       "name_en":"Mogurovskiy",
-      "type":0,
+      "y":201412,
+      "color":0,
+      "code":"Mogurovskiy",
+      "x":409705,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u043e\u0433\u0443\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0413\u0440\u0435\u0447\u0430\u043d\u0430\u044f \u0411\u0430\u043b\u043a\u0430",
-      "align":1,
-      "code":"Grechnaya_Balka",
-      "y":197793,
-      "x":418959,
+      "type":0,
       "name_en":"Grechnaya Balka",
-      "type":0,
+      "y":197793,
+      "color":0,
+      "code":"Grechnaya_Balka",
+      "x":418959,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0413\u0440\u0435\u0447\u0430\u043d\u0430\u044f \u0411\u0430\u043b\u043a\u0430"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u0434\u0436\u0435\u0440\u0435\u043b\u0438\u0435\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Novodzherelievskaya",
-      "y":205571,
-      "x":427687,
+      "type":0,
       "name_en":"Novodzherelievskaya",
-      "type":0,
+      "y":205571,
+      "color":0,
+      "code":"Novodzherelievskaya",
+      "x":427687,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u0434\u0436\u0435\u0440\u0435\u043b\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Ukrainskiy",
-      "y":213258,
-      "x":423338,
+      "type":0,
       "name_en":"Ukrainskiy",
-      "type":0,
+      "y":213258,
+      "color":0,
+      "code":"Ukrainskiy",
+      "x":423338,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Pereyaslavskaya",
-      "y":216847,
-      "x":446972,
+      "type":0,
       "name_en":"Pereyaslavskaya",
-      "type":0,
+      "y":216847,
+      "color":0,
+      "code":"Pereyaslavskaya",
+      "x":446972,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439",
-      "align":1,
-      "code":"Privolnyiy",
-      "y":214220,
-      "x":456976,
+      "type":0,
       "name_en":"Privolnyiy",
-      "type":0,
+      "y":214220,
+      "color":0,
+      "code":"Privolnyiy",
+      "x":456976,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439"
     },
     {
-      "name_ru":"\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Chernigovsky",
-      "y":213075,
-      "x":470038,
+      "type":0,
       "name_en":"\u00d0\u00a1hernigovsky",
-      "type":0,
+      "y":213075,
+      "color":0,
+      "code":"Chernigovsky",
+      "x":470038,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0411\u0430\u0442\u0443\u0440\u0438\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Baturinskaya",
-      "y":213220,
-      "x":476977,
+      "type":0,
       "name_en":"Baturinskaya",
-      "type":0,
+      "y":213220,
+      "color":0,
+      "code":"Baturinskaya",
+      "x":476977,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0430\u0442\u0443\u0440\u0438\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u041d\u0435\u0437\u0430\u0439\u043c\u0430\u043d\u043a\u0430",
-      "align":1,
-      "code":"Nezaymanka",
-      "y":206191,
-      "x":475374,
+      "type":0,
       "name_en":"Nezaymanka",
-      "type":0,
+      "y":206191,
+      "color":0,
+      "code":"Nezaymanka",
+      "x":475374,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u0435\u0437\u0430\u0439\u043c\u0430\u043d\u043a\u0430"
     },
     {
-      "name_ru":"\u0411\u0440\u0430\u0442\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Bratkovskiy",
-      "y":196363,
-      "x":478117,
+      "type":0,
       "name_en":"Bratkovskiy",
-      "type":0,
+      "y":196363,
+      "color":0,
+      "code":"Bratkovskiy",
+      "x":478117,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0440\u0430\u0442\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u041c\u0430\u0440\u0444\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Marfovka",
-      "y":157690,
-      "x":250576,
+      "type":0,
       "name_en":"Marfovka",
-      "type":0,
+      "y":157690,
+      "color":0,
+      "code":"Marfovka",
+      "x":250576,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041c\u0430\u0440\u0444\u043e\u0432\u043a\u0430"
     },
     {
-      "name_ru":"\u042e\u0445\u0430\u0440\u0438\u043d\u0430 \u0411\u0430\u043b\u043a\u0430",
-      "align":1,
-      "code":"Juharina_Balka",
-      "y":93705,
-      "x":75604,
+      "type":0,
       "name_en":"Juharina Balka",
-      "type":0,
+      "y":93705,
+      "color":2,
+      "code":"Juharina_Balka",
+      "x":75604,
       "zoom":6,
-      "color":2
+      "align":1,
+      "name_ru":"\u042e\u0445\u0430\u0440\u0438\u043d\u0430 \u0411\u0430\u043b\u043a\u0430"
     },
     {
-      "name_ru":"\u041a\u0443\u043b\u0438\u043a\u043e\u0432\u043e \u043f\u043e\u043b\u0435",
-      "align":1,
-      "code":"Kulikowo_Pole",
-      "y":97373,
-      "x":77234,
+      "type":0,
       "name_en":"Kulikowo Pole",
-      "type":0,
+      "y":97373,
+      "color":2,
+      "code":"Kulikowo_Pole",
+      "x":77234,
       "zoom":6,
-      "color":2
+      "align":1,
+      "name_ru":"\u041a\u0443\u043b\u0438\u043a\u043e\u0432\u043e \u043f\u043e\u043b\u0435"
     },
     {
-      "name_ru":"\u0425\u0435\u0440\u0441\u043e\u043d\u0435\u0441",
-      "align":1,
-      "code":"Khersones",
-      "y":97582,
-      "x":69297,
+      "type":0,
       "name_en":"Khersones",
-      "type":0,
+      "y":97582,
+      "color":2,
+      "code":"Khersones",
+      "x":69297,
       "zoom":6,
-      "color":2
+      "align":1,
+      "name_ru":"\u0425\u0435\u0440\u0441\u043e\u043d\u0435\u0441"
     },
     {
-      "name_ru":"\u0414\u043d\u0435\u043f\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Dneprovskaya",
-      "y":197136,
-      "x":429956,
+      "type":0,
       "name_en":"Dneprovskaya",
-      "type":0,
+      "y":197136,
+      "color":0,
+      "code":"Dneprovskaya",
+      "x":429956,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0414\u043d\u0435\u043f\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0442\u0440\u0438\u043d\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Strinskiy",
-      "y":205148,
-      "x":469994,
+      "type":0,
       "name_en":"Strinskiy",
-      "type":0,
+      "y":205148,
+      "color":0,
+      "code":"Strinskiy",
+      "x":469994,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0442\u0440\u0438\u043d\u0441\u043a\u0438\u0439"
     },
     {
-      "name_ru":"\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u0441\u043a\u0430\u044f",
-      "align":1,
-      "code":"Berezanskaya",
-      "y":202877,
-      "x":484979,
-      "name_en":"Berezanskaya",
       "type":1,
+      "name_en":"Berezanskaya",
+      "y":202877,
+      "color":0,
+      "code":"Berezanskaya",
+      "x":484979,
       "zoom":6,
-      "color":0
+      "align":1,
+      "name_ru":"\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u0441\u043a\u0430\u044f"
     },
     {
-      "name_ru":"\u0421\u0430\u0434\u043a\u0438",
-      "align":1,
-      "code":"Sadki",
-      "y":215505,
-      "x":387384,
+      "type":0,
       "name_en":"Sadki",
-      "type":0,
+      "y":215505,
+      "color":0,
+      "code":"Sadki",
+      "x":387384,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u0421\u0430\u0434\u043a\u0438"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u043d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Novonekrasovskiy",
-      "y":209437,
-      "x":401566,
-      "name_en":"Novonekrasovskiy",
       "type":0,
+      "name_en":"Novonekrasovskiy",
+      "y":209437,
+      "color":0,
+      "code":"Novonekrasovskiy",
+      "x":401566,
       "zoom":7,
-      "color":0
+      "align":1,
+      "name_ru":"\u041d\u043e\u0432\u043e\u043d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u0441\u043a\u0438\u0439"
     }
   ],
-  "airfields":[
-
+  "airbases":[
+    {
+      "x":249851.22,
+      "radius":1085.0045633592,
+      "runways":[
+        [
+          [
+            250406.2969,
+            157799.6719
+          ],
+          [
+            249296.1406,
+            156689.5
+          ]
+        ]
+      ],
+      "y":157244.59
+    },
+    {
+      "x":347451.56,
+      "radius":1089.996649359,
+      "runways":[
+        [
+          [
+            347056.5625,
+            118649.0312
+          ],
+          [
+            347846.5625,
+            117280.7188
+          ]
+        ]
+      ],
+      "y":117964.88
+    },
+    {
+      "x":484002.19,
+      "radius":1074.995117412,
+      "runways":[
+        [
+          [
+            483614.6875,
+            134961.8125
+          ],
+          [
+            484389.6875,
+            136304.1406
+          ]
+        ]
+      ],
+      "y":135632.98
+    },
+    {
+      "x":463104.56,
+      "radius":1090.0041542333,
+      "runways":[
+        [
+          [
+            462596.75,
+            150594.875
+          ],
+          [
+            463612.375,
+            149384.5312
+          ]
+        ]
+      ],
+      "y":149989.7
+    },
+    {
+      "x":457131.22,
+      "radius":1075.0018724058,
+      "runways":[
+        [
+          [
+            456743.7188,
+            153721.1875
+          ],
+          [
+            457518.7188,
+            155063.5312
+          ]
+        ]
+      ],
+      "y":154392.36
+    },
+    {
+      "x":471705.14,
+      "radius":1090.0102026762,
+      "runways":[
+        [
+          [
+            471020.9688,
+            179446.8438
+          ],
+          [
+            472389.3125,
+            178656.8438
+          ]
+        ]
+      ],
+      "y":179051.84
+    },
+    {
+      "x":414187.31,
+      "radius":1085.0052031117,
+      "runways":[
+        [
+          [
+            413794.8125,
+            165566.8281
+          ],
+          [
+            414579.8125,
+            166926.5
+          ]
+        ]
+      ],
+      "y":166246.66
+    },
+    {
+      "x":443504.05,
+      "radius":1090.0005463885,
+      "runways":[
+        [
+          [
+            442788.0625,
+            168562.9062
+          ],
+          [
+            444220.0312,
+            167895.1719
+          ]
+        ]
+      ],
+      "y":168229.04
+    },
+    {
+      "x":448550.56,
+      "radius":1084.9869356103,
+      "runways":[
+        [
+          [
+            447768.5625,
+            163326.1406
+          ],
+          [
+            449332.5625,
+            163462.9688
+          ]
+        ]
+      ],
+      "y":163394.55
+    },
+    {
+      "x":441248.89,
+      "radius":1092.5064713327,
+      "runways":[
+        [
+          [
+            440688.5,
+            162590.6094
+          ],
+          [
+            441809.2812,
+            163711.375
+          ]
+        ]
+      ],
+      "y":163150.99
+    },
+    {
+      "x":454754.92,
+      "radius":1089.9972379568,
+      "runways":[
+        [
+          [
+            453991.8438,
+            141308.5938
+          ],
+          [
+            455518.0,
+            141717.5312
+          ]
+        ]
+      ],
+      "y":141513.06
+    },
+    {
+      "x":458917.56,
+      "radius":1092.504457865,
+      "runways":[
+        [
+          [
+            458152.0625,
+            125706.4062
+          ],
+          [
+            459683.0625,
+            126116.6406
+          ]
+        ]
+      ],
+      "y":125911.52
+    },
+    {
+      "x":438092.47,
+      "radius":1089.9966926602,
+      "runways":[
+        [
+          [
+            437408.3125,
+            125499.8359
+          ],
+          [
+            438776.625,
+            126289.8359
+          ]
+        ]
+      ],
+      "y":125894.84
+    },
+    {
+      "x":379349.23,
+      "radius":1085.0045280037,
+      "runways":[
+        [
+          [
+            378794.1562,
+            190026.1094
+          ],
+          [
+            379904.3125,
+            191136.2812
+          ]
+        ]
+      ],
+      "y":190581.2
+    },
+    {
+      "x":388773.78,
+      "radius":1074.9883624378,
+      "runways":[
+        [
+          [
+            388102.625,
+            186052.6094
+          ],
+          [
+            389444.9375,
+            186827.6094
+          ]
+        ]
+      ],
+      "y":186440.11
+    },
+    {
+      "x":366869.48,
+      "radius":1090.0102026762,
+      "runways":[
+        [
+          [
+            366185.3125,
+            164008.6562
+          ],
+          [
+            367553.6562,
+            164798.6562
+          ]
+        ]
+      ],
+      "y":164403.66
+    },
+    {
+      "x":397634.91,
+      "radius":1085.0100788503,
+      "runways":[
+        [
+          [
+            397079.8125,
+            147559.4375
+          ],
+          [
+            398190.0,
+            146449.2812
+          ]
+        ]
+      ],
+      "y":147004.36
+    },
+    {
+      "x":336695.34,
+      "radius":1092.5,
+      "runways":[
+        [
+          [
+            335902.8438,
+            126374.8047
+          ],
+          [
+            337487.8438,
+            126374.8047
+          ]
+        ]
+      ],
+      "y":126374.8
+    },
+    {
+      "x":372369.36,
+      "radius":1089.9984696457,
+      "runways":[
+        [
+          [
+            371810.75,
+            132620.4688
+          ],
+          [
+            372927.9688,
+            133737.7031
+          ]
+        ]
+      ],
+      "y":133179.09
+    },
+    {
+      "x":391049.75,
+      "radius":1092.50344847,
+      "runways":[
+        [
+          [
+            390284.25,
+            128544.6328
+          ],
+          [
+            391815.25,
+            128134.4062
+          ]
+        ]
+      ],
+      "y":128339.52
+    },
+    {
+      "x":411938.92,
+      "radius":1089.9956765597,
+      "runways":[
+        [
+          [
+            411380.3125,
+            125874.1406
+          ],
+          [
+            412497.5312,
+            124756.9141
+          ]
+        ]
+      ],
+      "y":125315.53
+    },
+    {
+      "x":472192.59,
+      "radius":1074.9984949064,
+      "runways":[
+        [
+          [
+            471805.0938,
+            121994.3125
+          ],
+          [
+            472580.0938,
+            120651.9766
+          ]
+        ]
+      ],
+      "y":121323.14
+    },
+    {
+      "x":408785.98,
+      "radius":1085.0018056283,
+      "runways":[
+        [
+          [
+            408230.9062,
+            78305.0781
+          ],
+          [
+            409341.0625,
+            79415.2422
+          ]
+        ]
+      ],
+      "y":78860.16
+    },
+    {
+      "x":439898.97,
+      "radius":1112.5,
+      "runways":[
+        [
+          [
+            439086.4688,
+            145553.1719
+          ],
+          [
+            440711.4688,
+            145553.1719
+          ]
+        ]
+      ],
+      "y":145553.17
+    },
+    {
+      "x":438424.19,
+      "radius":1114.9914804961,
+      "runways":[
+        [
+          [
+            437799.875,
+            134022.5469
+          ],
+          [
+            439048.5,
+            132974.7969
+          ]
+        ]
+      ],
+      "y":133498.67
+    },
+    {
+      "x":359376.98,
+      "radius":1111.9917919351,
+      "runways":[
+        [
+          [
+            358673.7812,
+            105763.75
+          ],
+          [
+            360080.1875,
+            106575.75
+          ]
+        ]
+      ],
+      "y":106169.75
+    },
+    {
+      "x":480349.42,
+      "radius":1075.0056138544,
+      "runways":[
+        [
+          [
+            479801.4062,
+            73320.0469
+          ],
+          [
+            480897.4375,
+            74416.0625
+          ]
+        ]
+      ],
+      "y":73868.05
+    },
+    {
+      "x":450295.25,
+      "radius":1090.0098373209,
+      "runways":[
+        [
+          [
+            449690.0625,
+            53551.3047
+          ],
+          [
+            450900.4375,
+            54566.9102
+          ]
+        ]
+      ],
+      "y":54059.11
+    },
+    {
+      "x":459743.86,
+      "radius":1092.4883670875,
+      "runways":[
+        [
+          [
+            458978.375,
+            99289.4688
+          ],
+          [
+            460509.3438,
+            99699.6953
+          ]
+        ]
+      ],
+      "y":99494.58
+    },
+    {
+      "x":375080.27,
+      "radius":1092.5064713327,
+      "runways":[
+        [
+          [
+            374519.875,
+            101233.1953
+          ],
+          [
+            375640.6562,
+            100112.4297
+          ]
+        ]
+      ],
+      "y":100672.81
+    },
+    {
+      "x":331431.86,
+      "radius":1090.0102026762,
+      "runways":[
+        [
+          [
+            330747.6875,
+            136498.7188
+          ],
+          [
+            332116.0312,
+            135708.7188
+          ]
+        ]
+      ],
+      "y":136103.72
+    },
+    {
+      "x":324420.55,
+      "radius":1092.4981751031,
+      "runways":[
+        [
+          [
+            323675.8438,
+            152549.2656
+          ],
+          [
+            325165.25,
+            152007.1562
+          ]
+        ]
+      ],
+      "y":152278.21
+    },
+    {
+      "x":276637.78,
+      "radius":1092.5008194495,
+      "runways":[
+        [
+          [
+            276128.375,
+            174601.0781
+          ],
+          [
+            277147.1875,
+            175815.2656
+          ]
+        ]
+      ],
+      "y":175208.17
+    },
+    {
+      "x":401988.97,
+      "radius":1074.9937003655,
+      "runways":[
+        [
+          [
+            401490.8125,
+            142402.5156
+          ],
+          [
+            402487.125,
+            143589.875
+          ]
+        ]
+      ],
+      "y":142996.2
+    },
+    {
+      "x":419735.72,
+      "radius":1092.5,
+      "runways":[
+        [
+          [
+            418943.2188,
+            153056.4844
+          ],
+          [
+            420528.2188,
+            153056.4844
+          ]
+        ]
+      ],
+      "y":153056.48
+    },
+    {
+      "x":386321.39,
+      "radius":1089.9972991941,
+      "runways":[
+        [
+          [
+            385558.3125,
+            173301.875
+          ],
+          [
+            387084.4688,
+            173710.8125
+          ]
+        ]
+      ],
+      "y":173506.34
+    },
+    {
+      "x":421064.8,
+      "radius":1075.0056138544,
+      "runways":[
+        [
+          [
+            420516.7812,
+            187212.5781
+          ],
+          [
+            421612.8125,
+            186116.5625
+          ]
+        ]
+      ],
+      "y":186664.57
+    },
+    {
+      "x":260133.09,
+      "radius":1092.4996581119,
+      "runways":[
+        [
+          [
+            259798.1719,
+            176686.8438
+          ],
+          [
+            260468.0156,
+            178123.3438
+          ]
+        ]
+      ],
+      "y":177405.09
+    },
+    {
+      "x":233580.73,
+      "radius":1090.0,
+      "runways":[
+        [
+          [
+            232790.7344,
+            164023.0
+          ],
+          [
+            234370.7344,
+            164023.0
+          ]
+        ]
+      ],
+      "y":164023.0
+    },
+    {
+      "x":189014.11,
+      "radius":1092.5026132338,
+      "runways":[
+        [
+          [
+            188327.7812,
+            152001.0469
+          ],
+          [
+            189700.4375,
+            151208.5469
+          ]
+        ]
+      ],
+      "y":151604.8
+    },
+    {
+      "x":83164.92,
+      "radius":1089.9966926602,
+      "runways":[
+        [
+          [
+            82769.9219,
+            145339.875
+          ],
+          [
+            83559.9219,
+            146708.1875
+          ]
+        ]
+      ],
+      "y":146024.03
+    },
+    {
+      "x":107847.43,
+      "radius":1075.0019157071,
+      "runways":[
+        [
+          [
+            107176.2578,
+            147563.875
+          ],
+          [
+            108518.6016,
+            146788.875
+          ]
+        ]
+      ],
+      "y":147176.38
+    },
+    {
+      "x":45366.67,
+      "radius":1090.001227348,
+      "runways":[
+        [
+          [
+            44808.0547,
+            167098.6094
+          ],
+          [
+            45925.2812,
+            168215.8438
+          ]
+        ]
+      ],
+      "y":167657.23
+    },
+    {
+      "x":57661.09,
+      "radius":1075.0010358795,
+      "runways":[
+        [
+          [
+            56958.6992,
+            206647.25
+          ],
+          [
+            58363.4766,
+            205992.1875
+          ]
+        ]
+      ],
+      "y":206319.72
+    },
+    {
+      "x":90526.16,
+      "radius":1090.001227348,
+      "runways":[
+        [
+          [
+            89967.5469,
+            217277.3125
+          ],
+          [
+            91084.7734,
+            218394.5469
+          ]
+        ]
+      ],
+      "y":217835.93
+    },
+    {
+      "x":103955.16,
+      "radius":1090.0,
+      "runways":[
+        [
+          [
+            103165.1641,
+            216084.0469
+          ],
+          [
+            104745.1641,
+            216084.0469
+          ]
+        ]
+      ],
+      "y":216084.05
+    },
+    {
+      "x":73106.31,
+      "radius":1092.5000511624,
+      "runways":[
+        [
+          [
+            72316.8281,
+            209255.0312
+          ],
+          [
+            73895.7969,
+            209393.1719
+          ]
+        ]
+      ],
+      "y":209324.1
+    },
+    {
+      "x":154316.31,
+      "radius":1090.0,
+      "runways":[
+        [
+          [
+            154316.3125,
+            208616.2969
+          ],
+          [
+            154316.3125,
+            210196.2969
+          ]
+        ]
+      ],
+      "y":209406.3
+    },
+    {
+      "x":99815.5,
+      "radius":1089.9955528587,
+      "runways":[
+        [
+          [
+            99073.1484,
+            170899.7812
+          ],
+          [
+            100557.8594,
+            171440.1562
+          ]
+        ]
+      ],
+      "y":171169.97
+    },
+    {
+      "x":168149.7,
+      "radius":1085.0025217045,
+      "runways":[
+        [
+          [
+            167367.6875,
+            166955.9375
+          ],
+          [
+            168931.7188,
+            167092.7656
+          ]
+        ]
+      ],
+      "y":167024.35
+    },
+    {
+      "x":162781.38,
+      "radius":1092.4996581119,
+      "runways":[
+        [
+          [
+            162063.125,
+            187540.0625
+          ],
+          [
+            163499.625,
+            188209.9062
+          ]
+        ]
+      ],
+      "y":187874.98
+    },
+    {
+      "x":145533.56,
+      "radius":1090.0,
+      "runways":[
+        [
+          [
+            144743.5625,
+            190471.9375
+          ],
+          [
+            146323.5625,
+            190471.9375
+          ]
+        ]
+      ],
+      "y":190471.94
+    },
+    {
+      "x":141623.28,
+      "radius":1075.0018724058,
+      "runways":[
+        [
+          [
+            140952.1094,
+            175419.4219
+          ],
+          [
+            142294.4531,
+            176194.4219
+          ]
+        ]
+      ],
+      "y":175806.92
+    },
+    {
+      "x":127672.52,
+      "radius":1089.9972991941,
+      "runways":[
+        [
+          [
+            126909.4375,
+            193892.4844
+          ],
+          [
+            128435.5938,
+            193483.5469
+          ]
+        ]
+      ],
+      "y":193688.02
+    },
+    {
+      "x":115598.58,
+      "radius":1075.001500564,
+      "runways":[
+        [
+          [
+            115799.1641,
+            167852.0156
+          ],
+          [
+            115397.9922,
+            169349.2031
+          ]
+        ]
+      ],
+      "y":168600.61
+    },
+    {
+      "x":270261.0,
+      "radius":1107.498920543,
+      "runways":[
+        [
+          [
+            269797.8438,
+            168124.8438
+          ],
+          [
+            270724.1562,
+            169447.7812
+          ]
+        ]
+      ],
+      "y":168786.31
+    },
+    {
+      "x":63498.43,
+      "radius":1112.0043046307,
+      "runways":[
+        [
+          [
+            63288.2656,
+            159010.9844
+          ],
+          [
+            63708.5898,
+            157442.3125
+          ]
+        ]
+      ],
+      "y":158226.65
+    },
+    {
+      "x":117111.06,
+      "radius":1105.6089378143,
+      "runways":[
+        [
+          [
+            116413.2344,
+            126455.0078
+          ],
+          [
+            117808.8828,
+            127260.1094
+          ]
+        ]
+      ],
+      "y":126857.56
+    },
+    {
+      "x":107137.21,
+      "radius":1085.0053246351,
+      "runways":[
+        [
+          [
+            106494.1719,
+            137136.0312
+          ],
+          [
+            107780.2422,
+            138036.5625
+          ]
+        ]
+      ],
+      "y":137586.3
+    },
+    {
+      "x":128190.45,
+      "radius":1085.0021012838,
+      "runways":[
+        [
+          [
+            127547.4219,
+            173110.3438
+          ],
+          [
+            128833.4844,
+            174010.875
+          ]
+        ]
+      ],
+      "y":173560.61
+    },
+    {
+      "x":131300.23,
+      "radius":1090.0048204708,
+      "runways":[
+        [
+          [
+            130537.1406,
+            166797.2812
+          ],
+          [
+            132063.3125,
+            166388.3438
+          ]
+        ]
+      ],
+      "y":166592.81
+    },
+    {
+      "x":142085.62,
+      "radius":1115.0046806305,
+      "runways":[
+        [
+          [
+            141874.6875,
+            202353.8594
+          ],
+          [
+            142296.5625,
+            200779.3906
+          ]
+        ]
+      ],
+      "y":201566.62
+    },
+    {
+      "x":440570.77,
+      "radius":987.0702921232,
+      "runways":[
+        [
+          [
+            440085.125,
+            200408.2031
+          ],
+          [
+            441056.4062,
+            201380.25
+          ]
+        ]
+      ],
+      "y":200894.23
+    },
+    {
+      "x":431753.58,
+      "radius":987.0781544152,
+      "runways":[
+        [
+          [
+            432440.6562,
+            195571.875
+          ],
+          [
+            431066.5,
+            195571.3281
+          ]
+        ]
+      ],
+      "y":195571.6
+    },
+    {
+      "x":286333.11,
+      "radius":1089.9985050013,
+      "runways":[
+        [
+          [
+            285774.5,
+            154449.1875
+          ],
+          [
+            286891.7188,
+            153331.9531
+          ]
+        ]
+      ],
+      "y":153890.57
+    },
+    {
+      "x":90812.91,
+      "radius":1090.001227348,
+      "runways":[
+        [
+          [
+            90254.2969,
+            100029.8125
+          ],
+          [
+            91371.5234,
+            101147.0469
+          ]
+        ]
+      ],
+      "y":100588.43
+    },
+    {
+      "x":81601.2,
+      "radius":1085.0008220355,
+      "runways":[
+        [
+          [
+            80958.1641,
+            115268.2422
+          ],
+          [
+            82244.2344,
+            114367.7266
+          ]
+        ]
+      ],
+      "y":114817.98
+    },
+    {
+      "x":80864.44,
+      "radius":1112.4990122334,
+      "runways":[
+        [
+          [
+            80160.7969,
+            108066.0781
+          ],
+          [
+            81568.0859,
+            108878.5781
+          ]
+        ]
+      ],
+      "y":108472.33
+    },
+    {
+      "x":69055.32,
+      "radius":913.7802840267,
+      "runways":[
+        [
+          [
+            69108.0391,
+            98064.9375
+          ],
+          [
+            69002.5938,
+            96841.9141
+          ]
+        ]
+      ],
+      "y":97453.43
+    },
+    {
+      "x":75528.73,
+      "radius":1085.1758445023,
+      "runways":[
+        [
+          [
+            74973.4062,
+            93925.2266
+          ],
+          [
+            76084.0625,
+            92815.0703
+          ]
+        ]
+      ],
+      "y":93370.15
+    },
+    {
+      "x":72136.56,
+      "radius":848.1028016305,
+      "runways":[
+        [
+          [
+            71642.4531,
+            100222.3125
+          ],
+          [
+            72630.6641,
+            100696.7656
+          ]
+        ]
+      ],
+      "y":100459.54
+    },
+    {
+      "x":77807.89,
+      "radius":788.9964894448,
+      "runways":[
+        [
+          [
+            78296.8828,
+            101999.9766
+          ],
+          [
+            77318.8906,
+            102001.2109
+          ]
+        ]
+      ],
+      "y":102000.59
+    },
+    {
+      "x":80670.04,
+      "radius":1404.1464202829,
+      "runways":[
+        [
+          [
+            81749.2969,
+            101209.2422
+          ],
+          [
+            79590.7812,
+            101675.4688
+          ]
+        ]
+      ],
+      "y":101442.36
+    },
+    {
+      "x":77207.27,
+      "radius":838.074589571,
+      "runways":[
+        [
+          [
+            77434.9609,
+            97644.8516
+          ],
+          [
+            76979.5703,
+            96669.8047
+          ]
+        ]
+      ],
+      "y":97157.33
+    },
+    {
+      "x":114623.25,
+      "radius":1085.005295956,
+      "runways":[
+        [
+          [
+            113980.2109,
+            132125.0
+          ],
+          [
+            115266.2812,
+            133025.5312
+          ]
+        ]
+      ],
+      "y":132575.27
+    },
+    {
+      "x":331037.16,
+      "radius":1085.0100434954,
+      "runways":[
+        [
+          [
+            330482.0625,
+            125127.5781
+          ],
+          [
+            331592.25,
+            124017.4219
+          ]
+        ]
+      ],
+      "y":124572.5
+    }
   ],
-  "geomentry":{
+  "map_code":"BlackSea",
+  "geometry":{
     "width":488000,
     "height":227200
-  },
-  "map_code":"BlackSea"
+  }
 }

@@ -1,13 +1,13 @@
 {
+  "map_code":"CoralSea",
   "texts":[
 
   ],
-  "airfields":[
-
-  ],
-  "geomentry":{
-    "width":51200,
-    "height":51200
+  "geometry":{
+    "height":51200,
+    "width":51200
   },
-  "map_code":"CoralSea"
+  "airbases":[
+
+  ]
 }

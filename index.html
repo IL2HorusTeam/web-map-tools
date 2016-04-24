@@ -1,158 +1,179 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <!-- fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Fugaz+One' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
+  <title>IL-2 Map Tools | web 0.9.0</title>
 
-    <!-- main style -->
-    <link rel="stylesheet" type="text/css" href="css/maptools.css">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <!-- fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Fugaz+One' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
 
-    <!-- scripts -->
-    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/fabric.js/1.1.0/fabric.all.min.js" type="text/javascript"></script>
+  <!-- main style -->
+  <link rel="stylesheet" type="text/css" href="css/maptools.css">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  <!-- scripts -->
+  <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/fabric.js/1.1.0/fabric.all.min.js" type="text/javascript"></script>
 
-    <!-- jQuery UI -->
-    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-    <!-- chosen -->
-    <link rel="stylesheet" href="lib/chosen/chosen.css" />
-    <script src="lib/chosen/chosen.jquery.js" type="text/javascript"></script>
+  <!-- jQuery UI -->
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 
-    <!-- Application -->
-    <script src="js/maptools.js" type="text/javascript"></script>
+  <!-- chosen -->
+  <link rel="stylesheet" href="lib/chosen/chosen.css" />
+  <script src="lib/chosen/chosen.jquery.js" type="text/javascript"></script>
 
-    <title>IL-2 Map Tools | web 0.8.0</title>
-  </head>
-  <body>
-    <div id='dashboard'>
-        <div id='logo'>
-            <span id='project_name'>IL-2 Map Tools</span>
-            <small id='version_info'>web 0.8.0</small>
-        </div>
-        <div id='map_selector_block'>
-            <div id='map_selector_wrap'>
-                <select size=1 id="map_selector" class="chzn-select">
-                    <option value="Ardennes">Ardennes</option>
-                    <option value="BalatonSummer">Balaton (summer)</option>
-                    <option value="BalatonWinter">Balaton (winter)</option>
-                    <option value="Berlin">Berlin</option>
-                    <option value="Bessarabia">Bessarabia</option>
-                    <option value="BessarabiaIasi">Bessarabia (Iasi)</option>
-                    <option value="BessarabiaOdessa">Bessarabia (Odessa)</option>
-                    <option value="BlackSea">Black sea</option>
-                    <option value="Burma">Burma</option>
-                    <option value="Chichi">Chichi Jima</option>
-                    <option value="CoralSeaOnline1">Coral sea (online 1)</option>
-                    <option value="CoralSeaOnline2">Coral sea (online 2)</option>
-                    <option value="Crimea">Crimea</option>
-                    <option value="Desert">Desert</option>
-                    <option value="FinsGulfSummer">Gulf of Finland (summer)</option>
-                    <option value="FinsGulfWinter">Gulf of Finland (winter)</option>
-                    <option value="Guadal">Guadalcanal</option>
-                    <option value="GuadalEarly">Guadalcanal (early)</option>
-                    <option value="Hawaii">Hawaii</option>
-                    <option value="Italy_DF">Italy</option>
-                    <option value="IwoOnline">Iwo Jima (online)</option>
-                    <option value="Japan1">Kyushu (South Japan)</option>
-                    <option value="KhalkhinGol">Khalkhin Gol</option>
-                    <option value="Kiev">Kiev</option>
-                    <option value="Kuban">Kuban</option>
-                    <option value="Kurland">Kurland</option>
-                    <option value="KurlandOnline">Kurland (online)</option>
-                    <option value="Kursk">Kursk</option>
-                    <option value="Lviv">Lviv</option>
-                    <option value="Manchuria">Manchuria</option>
-                    <option value="MarianasOnline">Marianas (online)</option>
-                    <option value="Midway">Midway</option>
-                    <option value="Moscow">Moscow</option>
-                    <option value="MTO">MTO</option>
-                    <option value="Murmansk">Murmansk</option>
-                    <option value="Net1">Online 1</option>
-                    <option value="NetIslands">Online 1 (islands)</option>
-                    <option value="Net2">Online 2</option>
-                    <option value="Net3Summer">Online 3 (summer)</option>
-                    <option value="NetMountains">Online 4 (mountains)</option>
-                    <option value="Net5Summer">Online 5 (summer)</option>
-                    <option value="Net6Island">Online 6 (islands)</option>
-                    <option value="Net7Islands">Online 7 (islands)</option>
-                    <option value="Net8Islands">Online 8 (Pacific islands)</option>
-                    <option value="Empty1">Online 9</option>
-                    <option value="Empty2">Online 10</option>
-                    <option value="Empty4">Online 11</option>
-                    <option value="SandsOfTime">Online MT (Sands of time)</option>
-                    <option value="NewGuinea">New Guinea</option>
-                    <option value="Normandy1">Normandy 1</option>
-                    <option value="Normandy2">Normandy 2</option>
-                    <option value="Normandy3">Normandy 3</option>
-                    <option value="Norway">Norway</option>
-                    <option value="NWEurope">Northwest Europe</option>
-                    <option value="New-Britain_New-Guinea_Mar-43_DT">New Britain &amp; New Guinea (Mar 43)</option>
-                    <option value="New-Britain_New-Guinea_Sept-43_DT">New Britain &amp; New Guinea (Sept 43)</option>
-                    <option value="New-Britain_New-Guinea_Jan-44_DT">New Britain &amp; New Guinea (Jan 44)</option>
-                    <option value="New-Britain_New-Guinea_June-44_DT">New Britain &amp; New Guinea (June 44)</option>
-                    <option value="OkinawaOnline">Okinawa (online)</option>
-                    <option value="PalauOnline">Palau (online)</option>
-                    <option value="Prokhorovka">Prokhorovka</option>
-                    <option value="Singapore1">Singapore 1</option>
-                    <option value="Singapore2">Singapore 2</option>
-                    <option value="Slovakia">Slovakia</option>
-                    <option value="Smolensk">Smolensk</option>
-                    <option value="Solomons_Aug_42">Solomons (Aug 42)</option>
-                    <option value="Solomons_Oct_42">Solomons (Oct 42)</option>
-                    <option value="Solomons_Dec_42">Solomons (Dec 42)</option>
-                    <option value="Solomons_July_43">Solomons (July 43)</option>
-                    <option value="Solomons_Oct_43">Solomons (Oct 43)</option>
-                    <option value="Solomons_Jan_44">Solomons (Jan 44)</option>
-                    <option value="Stalingrad">Stalingrad</option>
-                    <option value="Svalbard">Svalbard</option>
-                    <option value="Tarawa">Tarawa</option>
-                    <option value="Tobruk">Tobruk</option>
-                    <option value="Wake">Wake</option>
-                </select>
-            </div>
-            <div id="display_loading" title="Loading image..."></div>
-        </div>
-        <div id='map_size_info'>
-            <div id='map_width'>0</div>
-            <div id='map_height'>0</div>
-            <div class='metrics_k'>km</div>
-        </div>
-        <div id="position_holder" title="Current position">
-            <div id='current_pos_x'>0.0</div>
-            <div>; </div>
-            <div id='current_pos_y'>0.0</div>
-            <div class='metrics_k'>km</div>
-        </div>
-        <div id="height_holder" title="Current height">
-            <div id='current_height_m'>0</div>
-            <div>m /</div>
-            <div id='current_height_ft'>0</div>
-            <div>ft</div>
-        </div>
-        <div id="cell_holder" title="Current map cell">
-            <span id='current_cell_letter'>A</span>:<span id='current_cell_number'>1</span>
-        </div>
+  <!-- Application -->
+  <script src="js/maptools.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div id='dashboard'>
+  <div id='logo'>
+    <span id='project_name'>IL-2 Map Tools</span>
+    <small id='version_info'>web 0.9.0</small>
+  </div>
+  <div id='map_selector_block'>
+    <div id='map_selector_wrap'>
+      <select size=1 id="map_selector" class="chzn-select">
+        <option value="ArdennesSummer">Ardennes (summer)</option>
+        <option value="ArdennesWinter">Ardennes (winter)</option>
+        <option value="BalatonSummer">Balaton (summer)</option>
+        <option value="BalatonWinter">Balaton (winter)</option>
+        <option value="Berlin">Berlin</option>
+        <option value="Bessarabia">Bessarabia</option>
+        <option value="BessarabiaIasi">Bessarabia (Iasi)</option>
+        <option value="BessarabiaOdessa">Bessarabia (Odessa)</option>
+        <option value="BlackSea">Black sea</option>
+        <option value="Burma">Burma</option>
+        <option value="Chichi">Chichi Jima</option>
+        <option value="CoralSeaOnline1">Coral sea (online 1)</option>
+        <option value="CoralSeaOnline2">Coral sea (online 2)</option>
+        <option value="Crimea">Crimea</option>
+        <option value="Desert">Desert</option>
+        <option value="FinsGulfSummer">Gulf of Finland (summer)</option>
+        <option value="FinsGulfWinter">Gulf of Finland (winter)</option>
+        <option value="Guadal">Guadalcanal</option>
+        <option value="GuadalEarly">Guadalcanal (early)</option>
+        <option value="Hawaii">Hawaii</option>
+        <option value="Italy_DF">Italy</option>
+        <option value="IwoOnline">Iwo Jima (online)</option>
+        <option value="Japan1">Kyushu (South Japan)</option>
+        <option value="KhalkhinGol">Khalkhin Gol</option>
+        <option value="Kiev">Kiev</option>
+        <option value="Kuban">Kuban</option>
+        <option value="Kurland">Kurland</option>
+        <option value="KurlandOnline">Kurland (online)</option>
+        <option value="Kursk">Kursk</option>
+        <option value="Lviv">Lviv</option>
+        <option value="Manchuria">Manchuria</option>
+        <option value="MarianasOnline">Marianas (online)</option>
+        <option value="Midway">Midway</option>
+        <option value="MoscowSummer">Moscow (summer)</option>
+        <option value="MoscowWinter">Moscow (winter)</option>
+        <option value="MTO">MTO</option>
+        <option value="MTOLight">MTO (light)</option>
+        <option value="MurmanskSummer">Murmansk (summer)</option>
+        <option value="MurmanskWinter">Murmansk (winter)</option>
+        <option value="NewGuinea">New Guinea</option>
+        <option value="New-Britain_New-Guinea_Mar-43_DT">New Britain &amp; New Guinea (Mar 43)</option>
+        <option value="New-Britain_New-Guinea_Sept-43_DT">New Britain &amp; New Guinea (Sept 43)</option>
+        <option value="New-Britain_New-Guinea_Jan-44_DT">New Britain &amp; New Guinea (Jan 44)</option>
+        <option value="New-Britain_New-Guinea_June-44_DT">New Britain &amp; New Guinea (June 44)</option>
+        <option value="Normandy1">Normandy 1</option>
+        <option value="Normandy2">Normandy 2</option>
+        <option value="Normandy3">Normandy 3</option>
+        <option value="Norway">Norway</option>
+        <option value="NWEurope">Northwest Europe</option>
+        <option value="Okinawa">Okinawa</option>
+        <option value="Palau">Palau</option>
+        <option value="Prokhorovka">Prokhorovka</option>
+        <option value="Singapore1">Singapore 1</option>
+        <option value="Singapore2">Singapore 2</option>
+        <option value="SlovakiaSummer">Slovakia (summer)</option>
+        <option value="SlovakiaAutumn">Slovakia (autumn)</option>
+        <option value="SlovakiaWinter">Slovakia (winter)</option>
+        <option value="SlovakiaSummerOnline">Slovakia (summer online)</option>
+        <option value="SlovakiaWinterOnline">Slovakia (winter online)</option>
+        <option value="Smolensk">Smolensk</option>
+        <option value="Solomons_Aug_42">Solomons (Aug 42)</option>
+        <option value="Solomons_Oct_42">Solomons (Oct 42)</option>
+        <option value="Solomons_Dec_42">Solomons (Dec 42)</option>
+        <option value="Solomons_July_43">Solomons (July 43)</option>
+        <option value="Solomons_Oct_43">Solomons (Oct 43)</option>
+        <option value="Solomons_Jan_44">Solomons (Jan 44)</option>
+        <option value="StalingradSummer">Stalingrad (summer)</option>
+        <option value="StalingradWinter">Stalingrad (winter)</option>
+        <option value="Svalbard">Svalbard</option>
+        <option value="Tarawa">Tarawa</option>
+        <option value="Tobruk">Tobruk</option>
+        <option value="Wake">Wake</option>
+        <option value="Net1Summer">Online 1 (summer)</option>
+        <option value="Net1Winter">Online 1 (winter)</option>
+        <option value="NetIslands">Online 1 (islands)</option>
+        <option value="Net2Summer">Online 2 (summer)</option>
+        <option value="Net2Winter">Online 2 (winter)</option>
+        <option value="Net3Summer">Online 3 (summer)</option>
+        <option value="NetMountains">Online 4 (mountains)</option>
+        <option value="Net5Summer">Online 5 (summer)</option>
+        <option value="Net6Island">Online 6 (islands)</option>
+        <option value="Net7Islands">Online 7 (islands)</option>
+        <option value="Net8Islands1">Online 8 (Pacific islands)</option>
+        <option value="Net8Islands2">Online 8a (Pacific islands)</option>
+        <option value="Empty1a">Online 9a</option>
+        <option value="Empty1aWinter">Online 9a (winter)</option>
+        <option value="Empty1b">Online 9b</option>
+        <option value="Empty1bWinter">Online 9b (winter)</option>
+        <option value="Empty2a">Online 10a</option>
+        <option value="Empty2aWinter">Online 10a (winter)</option>
+        <option value="Empty2b">Online 10b</option>
+        <option value="Empty2aWinter">Online 10b (winter)</option>
+        <option value="Empty4a">Online 11a</option>
+        <option value="Empty4b">Online 11b</option>
+        <option value="SandsOfTime">Online MT (Sands of time)</option>
+      </select>
     </div>
-    <div id='ruler_corner'></div>
-    <div id='top_ruler_wrap'>
-        <canvas id='top_ruler'></canvas>
-    </div>
-    <div id='left_ruler_wrap'>
-        <canvas id='left_ruler'></canvas>
-    </div>
-    <div id='map_holder_wrap'>
-        <canvas id='map_holder'></canvas>
-    </div>
-  </body>
+    <div id="display_loading" title="Loading image..."></div>
+  </div>
+  <div id='map_size_info'>
+    <div id='map_width'>0</div>
+    <div id='map_height'>0</div>
+    <div class='metrics_k'>km</div>
+  </div>
+  <div id="position_holder" title="Current position">
+    <div id='current_pos_x'>0.0</div>
+    <div>; </div>
+    <div id='current_pos_y'>0.0</div>
+    <div class='metrics_k'>km</div>
+  </div>
+  <div id="height_holder" title="Current height">
+    <div id='current_height_m'>0</div>
+    <div>m /</div>
+    <div id='current_height_ft'>0</div>
+    <div>ft</div>
+  </div>
+  <div id="cell_holder" title="Current map cell">
+    <span id='current_cell_letter'>A</span>:<span id='current_cell_number'>1</span>
+  </div>
+</div>
+<div id='ruler_corner'></div>
+<div id='top_ruler_wrap'>
+    <canvas id='top_ruler'></canvas>
+</div>
+<div id='left_ruler_wrap'>
+    <canvas id='left_ruler'></canvas>
+</div>
+<div id='map_holder_wrap'>
+    <canvas id='map_holder'></canvas>
+</div>
+
+</body>
 </html>

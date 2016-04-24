@@ -52,7 +52,7 @@ def xml2json(source, destination, indent, minimize):
 def get_data(tree):
     return {
         'map_code': get_map_code(tree),
-        'geomentry': get_geometry(tree),
+        'geometry': get_geometry(tree),
         'texts': get_texts(tree),
         'airfields': get_airfields(tree),
     }
@@ -102,7 +102,7 @@ def get_single_airfield(node):
         'id': int(node.attrib.get('ID', 0)),
         'x': float(node.attrib.get('X', 0)),
         'y': float(node.attrib.get('Y', 0)),
-        'azimuth': int(node.attrib.get('A', 0)),
+        'heading': int(node.attrib.get('A', 0)),
         'type': int(node.attrib.get('T1', 0)),
         'res': node.attrib.get('Res'),
     }

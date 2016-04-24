@@ -1,5 +1,9 @@
 awesome-slugify
-transliterate
-lxml
 click
+lxml
+numpy
+Pillow
+shapely
+transliterate
 ujson
+unipath

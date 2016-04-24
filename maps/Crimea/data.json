@@ -1,933 +1,1203 @@
 {
   "texts":[
     {
-      "name_ru":"\u0410\u043b\u0443\u043f\u043a\u0430",
-      "align":1,
-      "code":"Alupka",
-      "y":21368,
       "x":112301,
-      "name_en":"Alupka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Alupka",
+      "name_ru":"\u0410\u043b\u0443\u043f\u043a\u0430",
+      "y":21368,
+      "name_en":"Alupka"
     },
     {
-      "name_ru":"\u0410\u043b\u0443\u0448\u0442\u0430",
-      "align":1,
-      "code":"Alushta",
-      "y":46720,
       "x":137411,
-      "name_en":"Aloushta",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Alushta",
+      "name_ru":"\u0410\u043b\u0443\u0448\u0442\u0430",
+      "y":46720,
+      "name_en":"Aloushta"
     },
     {
-      "name_ru":"\u0410\u0440\u0448\u0438\u043d\u0446\u0435\u0432\u043e",
-      "align":1,
-      "code":"Arshintsevo",
-      "y":103052,
       "x":271836,
-      "name_en":"Arshintsevo",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Arshintsevo",
+      "name_ru":"\u0410\u0440\u0448\u0438\u043d\u0446\u0435\u0432\u043e",
+      "y":103052,
+      "name_en":"Arshintsevo"
     },
     {
-      "name_ru":"\u0410\u0437\u043e\u0432\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Azovskoye",
-      "y":133380,
       "x":148344,
-      "name_en":"Azovskoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Azovskoye",
+      "name_ru":"\u0410\u0437\u043e\u0432\u0441\u043a\u043e\u0435",
+      "y":133380,
+      "name_en":"Azovskoye"
     },
     {
-      "name_ru":"\u0411\u0430\u0433\u0435\u0440\u043e\u0432\u043e",
-      "align":1,
-      "code":"Bagerovo",
-      "y":111110,
       "x":263428,
-      "name_en":"Bagerovo",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Bagerovo",
+      "name_ru":"\u0411\u0430\u0433\u0435\u0440\u043e\u0432\u043e",
+      "y":111110,
+      "name_en":"Bagerovo"
     },
     {
-      "name_ru":"\u0411\u0430\u043b\u0430\u043a\u043b\u0430\u0432\u0430",
-      "align":1,
-      "code":"Balaklava",
-      "y":29525,
       "x":81470,
-      "name_en":"Balaklava",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Balaklava",
+      "name_ru":"\u0411\u0430\u043b\u0430\u043a\u043b\u0430\u0432\u0430",
+      "y":29525,
+      "name_en":"Balaklava"
     },
     {
-      "name_ru":"\u0411\u0435\u043b\u043e\u0441\u0442\u0430\u0434\u043d\u043e\u0435",
-      "align":1,
-      "code":"Belostadnoye",
-      "y":126852,
       "x":178822,
-      "name_en":"Belostadnoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Belostadnoye",
+      "name_ru":"\u0411\u0435\u043b\u043e\u0441\u0442\u0430\u0434\u043d\u043e\u0435",
+      "y":126852,
+      "name_en":"Belostadnoye"
     },
     {
-      "name_ru":"\u0411\u043e\u0433\u0430\u0442\u043e\u0435",
-      "align":1,
-      "code":"Bogatoye",
-      "y":79349,
       "x":160297,
-      "name_en":"Bogatoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Bogatoye",
+      "name_ru":"\u0411\u043e\u0433\u0430\u0442\u043e\u0435",
+      "y":79349,
+      "name_en":"Bogatoye"
     },
     {
-      "name_ru":"\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Chernomorskoe",
-      "y":125362,
       "x":22804,
-      "name_en":"Chernomorskoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Chernomorskoe",
+      "name_ru":"\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435",
+      "y":125362,
+      "name_en":"Chernomorskoye"
     },
     {
-      "name_ru":"\u0414\u043e\u0437\u043e\u0440\u043e\u043d\u043e\u0435",
-      "align":1,
-      "code":"Dozornoye",
-      "y":129979,
       "x":47057,
-      "name_en":"Dozornoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Dozornoye",
+      "name_ru":"\u0414\u043e\u0437\u043e\u0440\u043e\u043d\u043e\u0435",
+      "y":129979,
+      "name_en":"Dozornoye"
     },
     {
-      "name_ru":"\u0413\u0440\u0438\u0448\u0438\u043d\u043e",
-      "align":1,
-      "code":"Grishino",
-      "y":139168,
       "x":97941,
-      "name_en":"Grishino",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Grishino",
+      "name_ru":"\u0413\u0440\u0438\u0448\u0438\u043d\u043e",
+      "y":139168,
+      "name_en":"Grishino"
     },
     {
-      "name_ru":"\u0413\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Gvardeyskoye",
-      "y":87979,
       "x":110726,
-      "name_en":"Gvardeyskoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Gvardeyskoye",
+      "name_ru":"\u0413\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u043e\u0435",
+      "y":87979,
+      "name_en":"Gvardeyskoye"
     },
     {
-      "name_ru":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Kirovskoe",
-      "y":97057,
       "x":190101,
-      "name_en":"Kirovskoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Kirovskoe",
+      "name_ru":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u043e\u0435",
+      "y":97057,
+      "name_en":"Kirovskoe"
     },
     {
-      "name_ru":"\u0420\u043e\u043c\u0430\u0448\u043a\u0438\u043d\u043e",
-      "align":1,
-      "code":"Koloski",
-      "y":100981,
       "x":58498,
-      "name_en":"Koloski",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Koloski",
+      "name_ru":"\u0420\u043e\u043c\u0430\u0448\u043a\u0438\u043d\u043e",
+      "y":100981,
+      "name_en":"Koloski"
     },
     {
-      "name_ru":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Krasnogvardeyskoye",
-      "y":125074,
       "x":128988,
-      "name_en":"Krasnogvardeyskoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Krasnogvardeyskoye",
+      "name_ru":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u043e\u0435",
+      "y":125074,
+      "name_en":"Krasnogvardeyskoye"
     },
     {
-      "name_ru":"\u041a\u0440\u044b\u043c\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Krymskoye",
-      "y":92664,
       "x":96247,
-      "name_en":"Krymskoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Krymskoye",
+      "name_ru":"\u041a\u0440\u044b\u043c\u0441\u043a\u043e\u0435",
+      "y":92664,
+      "name_en":"Krymskoye"
     },
     {
-      "name_ru":"\u041a\u0443\u0440\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Kurskoe",
-      "y":79474,
       "x":173190,
-      "name_en":"Kurskoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Kurskoe",
+      "name_ru":"\u041a\u0443\u0440\u0441\u043a\u043e\u0435",
+      "y":79474,
+      "name_en":"Kurskoe"
     },
     {
-      "name_ru":"\u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432\u043e",
-      "align":1,
-      "code":"Kuybyshevo",
-      "y":42619,
       "x":100094,
-      "name_en":"Kuibyshevo",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Kuybyshevo",
+      "name_ru":"\u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432\u043e",
+      "y":42619,
+      "name_en":"Kuibyshevo"
     },
     {
-      "name_ru":"\u041b\u0435\u043d\u0438\u043d\u043e",
-      "align":1,
-      "code":"Lenino",
-      "y":104087,
       "x":228638,
-      "name_en":"Lenino",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Lenino",
+      "name_ru":"\u041b\u0435\u043d\u0438\u043d\u043e",
+      "y":104087,
+      "name_en":"Lenino"
     },
     {
-      "name_ru":"\u041b\u0438\u043c\u0430\u043d\u043a\u0430",
-      "align":1,
-      "code":"Limanka",
-      "y":106464,
       "x":183990,
-      "name_en":"Limanka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Limanka",
+      "name_ru":"\u041b\u0438\u043c\u0430\u043d\u043a\u0430",
+      "y":106464,
+      "name_en":"Limanka"
     },
     {
-      "name_ru":"\u041c\u0435\u0436\u0432\u043e\u0434\u043d\u043e\u0435",
-      "align":1,
-      "code":"Mezhvodnoe",
-      "y":132271,
       "x":32226,
-      "name_en":"Mezhvodnoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Mezhvodnoe",
+      "name_ru":"\u041c\u0435\u0436\u0432\u043e\u0434\u043d\u043e\u0435",
+      "y":132271,
+      "name_en":"Mezhvodnoe"
     },
     {
-      "name_ru":"\u041c\u044b\u0441\u043e\u0432\u043e\u0435",
-      "align":1,
-      "code":"Mysovoye",
-      "y":118966,
       "x":232737,
-      "name_en":"Mysovoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Mysovoye",
+      "name_ru":"\u041c\u044b\u0441\u043e\u0432\u043e\u0435",
+      "y":118966,
+      "name_en":"Mysovoe"
     },
     {
-      "name_ru":"\u041d\u0430\u0442\u0430\u0448\u0438\u043d\u043e",
-      "align":1,
-      "code":"Natashino",
-      "y":115370,
       "x":60454,
-      "name_en":"Natashino",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Natashino",
+      "name_ru":"\u041d\u0430\u0442\u0430\u0448\u0438\u043d\u043e",
+      "y":115370,
+      "name_en":"Natashino"
     },
     {
-      "name_ru":"\u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Nekrasovka",
-      "y":123515,
       "x":180150,
-      "name_en":"Nekrasovka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Nekrasovka",
+      "name_ru":"\u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u043a\u0430",
+      "y":123515,
+      "name_en":"Nekrasovka"
     },
     {
-      "name_ru":"\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430",
-      "align":1,
-      "code":"Nikolaevka",
-      "y":74090,
       "x":83341,
-      "name_en":"Nikolaevka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Nikolaevka",
+      "name_ru":"\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430",
+      "y":74090,
+      "name_en":"Nikolaevka"
     },
     {
-      "name_ru":"\u041d\u0438\u0436\u043d\u0435\u0433\u043e\u0440\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Nizhnegorskiy",
-      "y":120872,
       "x":160136,
-      "name_en":"Nizhnegorskiy",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Nizhnegorskiy",
+      "name_ru":"\u041d\u0438\u0436\u043d\u0435\u0433\u043e\u0440\u0441\u043a\u0438\u0439",
+      "y":120872,
+      "name_en":"Nizhnegorskiy"
     },
     {
-      "name_ru":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Novoselovskoye",
-      "y":119300,
       "x":82783,
-      "name_en":"Novoselovskoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Novoselovskoye",
+      "name_ru":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u0441\u043a\u043e\u0435",
+      "y":119300,
+      "name_en":"Novoselovskoe"
     },
     {
-      "name_ru":"\u041e\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0435",
-      "align":1,
-      "code":"Ogorodnoye",
-      "y":153996,
       "x":94586,
-      "name_en":"Ogorodnoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Ogorodnoye",
+      "name_ru":"\u041e\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0435",
+      "y":153996,
+      "name_en":"Ogorodnoye"
     },
     {
-      "name_ru":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Oktyabrskoye",
-      "y":104171,
       "x":118971,
-      "name_en":"Oktyabrskoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Oktyabrskoye",
+      "name_ru":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435",
+      "y":104171,
+      "name_en":"Oktyabrskoye"
     },
     {
-      "name_ru":"\u041e\u043b\u0435\u043d\u0435\u0432\u043a\u0430",
-      "align":1,
-      "code":"Olenevka",
-      "y":112318,
       "x":11112,
-      "name_en":"Olenevka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Olenevka",
+      "name_ru":"\u041e\u043b\u0435\u043d\u0435\u0432\u043a\u0430",
+      "y":112318,
+      "name_en":"Olenevka"
     },
     {
-      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435",
-      "align":1,
-      "code":"Pervomayskoye",
-      "y":145986,
       "x":99553,
-      "name_en":"Pervomayskoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Pervomayskoye",
+      "name_ru":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435",
+      "y":145986,
+      "name_en":"Pervomayskoye"
     },
     {
-      "name_ru":"\u041f\u043b\u0430\u043d\u0435\u0440\u043d\u043e\u0435",
-      "align":1,
-      "code":"Planernoe",
-      "y":72888,
       "x":194213,
-      "name_en":"Planernoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Planernoe",
+      "name_ru":"\u041f\u043b\u0430\u043d\u0435\u0440\u043d\u043e\u0435",
+      "y":72888,
+      "name_en":"Planernoe"
     },
     {
-      "name_ru":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Primorskiy",
-      "y":87353,
       "x":209098,
-      "name_en":"Primorskiy",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Primorskiy",
+      "name_ru":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439",
+      "y":87353,
+      "name_en":"Primorskiy"
     },
     {
-      "name_ru":"\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u043d\u043e\u0435",
-      "align":1,
-      "code":"Priozernoye",
-      "y":101410,
       "x":264626,
-      "name_en":"Priozernoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Priozernoye",
+      "name_ru":"\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u043d\u043e\u0435",
+      "y":101410,
+      "name_en":"Priozernoe"
     },
     {
-      "name_ru":"\u041f\u0440\u0443\u0434\u044b",
-      "align":1,
-      "code":"Prudy",
-      "y":102381,
       "x":157927,
-      "name_en":"Prudy",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Prudy",
+      "name_ru":"\u041f\u0440\u0443\u0434\u044b",
+      "y":102381,
+      "name_en":"Prudy"
     },
     {
-      "name_ru":"\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u043e\u0435",
-      "align":1,
-      "code":"Razdolnoe",
-      "y":152115,
       "x":76334,
-      "name_en":"Razdolnoe",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Razdolnoe",
+      "name_ru":"\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u043e\u0435",
+      "y":152115,
+      "name_en":"Razdolnoe"
     },
     {
-      "name_ru":"\u0420\u043e\u0432\u043d\u043e\u0435",
-      "align":1,
-      "code":"Rovnoe",
-      "y":111007,
       "x":133637,
-      "name_en":"Rovnoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Rovnoe",
+      "name_ru":"\u0420\u043e\u0432\u043d\u043e\u0435",
+      "y":111007,
+      "name_en":"Rovnoye"
     },
     {
-      "name_ru":"\u0421\u0430\u0434\u043e\u0432\u043e\u0435",
-      "align":1,
-      "code":"Sadovoye",
-      "y":106612,
       "x":152926,
-      "name_en":"Sadovoye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Sadovoye",
+      "name_ru":"\u0421\u0430\u0434\u043e\u0432\u043e\u0435",
+      "y":106612,
+      "name_en":"Sadovoye"
     },
     {
-      "name_ru":"\u0428\u0443\u0431\u0438\u043d\u043e",
-      "align":1,
-      "code":"Shubino",
-      "y":102062,
       "x":190145,
-      "name_en":"Shubino",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Shubino",
+      "name_ru":"\u0428\u0443\u0431\u0438\u043d\u043e",
+      "y":102062,
+      "name_en":"Shubino"
     },
     {
-      "name_ru":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439",
-      "align":1,
-      "code":"Sovetskiy",
-      "y":109242,
       "x":171073,
-      "name_en":"Sovetskiy",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Sovetskiy",
+      "name_ru":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439",
+      "y":109242,
+      "name_en":"Sovetskiy"
     },
     {
-      "name_ru":"\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0440\u044b\u043c",
-      "align":1,
-      "code":"Stary_Krym",
-      "y":80001,
       "x":185375,
-      "name_en":"Stary Krym",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Stary_Krym",
+      "name_ru":"\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0440\u044b\u043c",
+      "y":80001,
+      "name_en":"Stary Krym"
     },
     {
-      "name_ru":"\u0421\u0443\u0434\u0430\u043a",
-      "align":1,
-      "code":"Sudak",
-      "y":61943,
       "x":175830,
-      "name_en":"Sudak",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Sudak",
+      "name_ru":"\u0421\u0443\u0434\u0430\u043a",
+      "y":61943,
+      "name_en":"Sudak"
     },
     {
-      "name_ru":"\u0422\u0430\u043c\u0430\u043d\u044c",
-      "align":1,
-      "code":"Taman",
-      "y":94583,
       "x":291181,
-      "name_en":"Taman",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Taman",
+      "name_ru":"\u0422\u0430\u043c\u0430\u043d\u044c",
+      "y":94583,
+      "name_en":"Taman"
     },
     {
-      "name_ru":"\u0418\u043b\u044c\u0438\u0447\u0435\u0432\u043e",
-      "align":1,
-      "code":"Uvarovo",
-      "y":101695,
       "x":222785,
-      "name_en":"Uvarovo",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Uvarovo",
+      "name_ru":"\u0418\u043b\u044c\u0438\u0447\u0435\u0432\u043e",
+      "y":101695,
+      "name_en":"Uvarovo"
     },
     {
-      "name_ru":"\u0412\u0435\u0440\u0445\u043e\u0440\u0435\u0447\u044c\u0435",
-      "align":1,
-      "code":"Verkhorechye",
-      "y":48316,
       "x":109421,
-      "name_en":"Verkhorechye",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Verkhorechye",
+      "name_ru":"\u0412\u0435\u0440\u0445\u043e\u0440\u0435\u0447\u044c\u0435",
+      "y":48316,
+      "name_en":"Verkhorechye"
     },
     {
-      "name_ru":"\u0412\u0438\u043b\u0438\u043d\u043e",
-      "align":1,
-      "code":"Vilino",
-      "y":62590,
       "x":85689,
-      "name_en":"Vilino",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Vilino",
+      "name_ru":"\u0412\u0438\u043b\u0438\u043d\u043e",
+      "y":62590,
+      "name_en":"Vilino"
     },
     {
-      "name_ru":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043e",
-      "align":1,
-      "code":"Vinogradovo",
-      "y":116175,
       "x":86087,
-      "name_en":"Vinogradovo",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Vinogradovo",
+      "name_ru":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043e",
+      "y":116175,
+      "name_en":"Vinogradovo"
     },
     {
-      "name_ru":"\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Vladislavovka",
-      "y":91584,
       "x":200400,
-      "name_en":"Vladislavovka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Vladislavovka",
+      "name_ru":"\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u043e\u0432\u043a\u0430",
+      "y":91584,
+      "name_en":"Vladislavovka"
     },
     {
-      "name_ru":"\u0412\u043e\u0439\u043a\u043e\u0432\u043e",
-      "align":1,
-      "code":"Voykovo",
-      "y":113348,
       "x":272846,
-      "name_en":"Voykovo",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Voykovo",
+      "name_ru":"\u0412\u043e\u0439\u043a\u043e\u0432\u043e",
+      "y":113348,
+      "name_en":"Voykovo"
     },
     {
-      "name_ru":"\u0412\u0443\u043b\u043a\u0430\u043d\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Vulkanovka",
-      "y":88117,
       "x":253484,
-      "name_en":"Vulkanovka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Vulkanovka",
+      "name_ru":"\u0412\u0443\u043b\u043a\u0430\u043d\u043e\u0432\u043a\u0430",
+      "y":88117,
+      "name_en":"Vulkanovka"
     },
     {
-      "name_ru":"\u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e\u0432\u043e",
-      "align":1,
-      "code":"Yakovenkovo",
-      "y":83319,
       "x":265322,
-      "name_en":"Yakovenkovo",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Yakovenkovo",
+      "name_ru":"\u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e\u0432\u043e",
+      "y":83319,
+      "name_en":"Yakovenkovo"
     },
     {
-      "name_ru":"\u0416\u0435\u043b\u044f\u0431\u043e\u0432\u043a\u0430",
-      "align":1,
-      "code":"Zhelyabovka",
-      "y":115212,
       "x":160468,
-      "name_en":"Zheliabovka",
+      "align":1,
+      "color":0,
       "type":0,
       "zoom":6,
-      "color":0
+      "code":"Zhelyabovka",
+      "name_ru":"\u0416\u0435\u043b\u044f\u0431\u043e\u0432\u043a\u0430",
+      "y":115212,
+      "name_en":"Zheliabovka"
     },
     {
-      "name_ru":"\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439",
-      "align":1,
-      "code":"Bakhchisaray",
-      "y":52970,
       "x":99617,
-      "name_en":"Bakhchisaray",
+      "align":1,
+      "color":0,
       "type":1,
       "zoom":7,
-      "color":0
+      "code":"Bakhchisaray",
+      "name_ru":"\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439",
+      "y":52970,
+      "name_en":"Bakhchisaray"
     },
     {
-      "name_ru":"\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a",
-      "align":1,
-      "code":"Belogorsk",
-      "y":81907,
       "x":149401,
-      "name_en":"Belogorsk",
+      "align":1,
+      "color":0,
       "type":1,
       "zoom":7,
-      "color":0
+      "code":"Belogorsk",
+      "name_ru":"\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a",
+      "y":81907,
+      "name_en":"Belogorsk"
     },
     {
-      "name_ru":"\u0421\u0430\u043a\u0438",
-      "align":1,
-      "code":"Saki",
-      "y":89940,
       "x":82408,
-      "name_en":"Saki",
+      "align":1,
+      "color":0,
       "type":1,
       "zoom":7,
-      "color":0
+      "code":"Saki",
+      "name_ru":"\u0421\u0430\u043a\u0438",
+      "y":89940,
+      "name_en":"Saki"
     },
     {
-      "name_ru":"\u0414\u0436\u0430\u043d\u043a\u043e\u0439",
-      "align":1,
-      "code":"Dzhankoy",
-      "y":145322,
       "x":136476,
-      "name_en":"Dzhankoy",
+      "align":1,
+      "color":0,
       "type":2,
       "zoom":7,
-      "color":0
+      "code":"Dzhankoy",
+      "name_ru":"\u0414\u0436\u0430\u043d\u043a\u043e\u0439",
+      "y":145322,
+      "name_en":"Dzhankoy"
     },
     {
-      "name_ru":"\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f",
-      "align":1,
-      "code":"Feodosiya",
-      "y":79816,
       "x":202463,
-      "name_en":"Feodosia",
+      "align":1,
+      "color":0,
       "type":2,
       "zoom":7,
-      "color":0
+      "code":"Feodosiya",
+      "name_ru":"\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f",
+      "y":79816,
+      "name_en":"Feodosia"
     },
     {
-      "name_ru":"\u041a\u0435\u0440\u0447\u044c",
-      "align":1,
-      "code":"Kerch",
-      "y":110085,
       "x":274843,
-      "name_en":"Kerch",
+      "align":1,
+      "color":0,
       "type":2,
       "zoom":7,
-      "color":0
+      "code":"Kerch",
+      "name_ru":"\u041a\u0435\u0440\u0447\u044c",
+      "y":110085,
+      "name_en":"Kerch"
     },
     {
-      "name_ru":"\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
-      "align":1,
-      "code":"Sevastopol",
-      "y":39091,
       "x":77429,
-      "name_en":"Sevastopol",
+      "align":1,
+      "color":0,
       "type":2,
       "zoom":7,
-      "color":0
+      "code":"Sevastopol",
+      "name_ru":"\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
+      "y":39091,
+      "name_en":"Sevastopol"
     },
     {
-      "name_ru":"\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c",
-      "align":1,
-      "code":"Simferopol",
-      "y":71859,
       "x":116391,
-      "name_en":"Simferopol",
+      "align":1,
+      "color":0,
       "type":2,
       "zoom":7,
-      "color":0
+      "code":"Simferopol",
+      "name_ru":"\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c",
+      "y":71859,
+      "name_en":"Simferopol"
     },
     {
-      "name_ru":"\u042f\u043b\u0442\u0430",
-      "align":1,
-      "code":"Yalta",
-      "y":27986,
       "x":119912,
-      "name_en":"Yalta",
-      "type":2,
-      "zoom":7,
-      "color":0
-    },
-    {
-      "name_ru":"\u0415\u0432\u043f\u0430\u0442\u043e\u0440\u0438\u044f",
       "align":1,
-      "code":"Yevpatoriya",
-      "y":96599,
-      "x":67378,
-      "name_en":"Yevpatoria",
+      "color":0,
       "type":2,
       "zoom":7,
-      "color":0
+      "code":"Yalta",
+      "name_ru":"\u042f\u043b\u0442\u0430",
+      "y":27986,
+      "name_en":"Yalta"
+    },
+    {
+      "x":67378,
+      "align":1,
+      "color":0,
+      "type":2,
+      "zoom":7,
+      "code":"Yevpatoriya",
+      "name_ru":"\u0415\u0432\u043f\u0430\u0442\u043e\u0440\u0438\u044f",
+      "y":96599,
+      "name_en":"Yevpatoria"
     }
   ],
-  "airfields":[
+  "map_code":"Crimea",
+  "airbases":[
     {
-      "res":"B_24J100_g",
-      "azimuth":45,
-      "y":106857.0,
-      "x":45366.0,
-      "type":1,
-      "id":3
+      "x":90812.91,
+      "y":39788.43,
+      "runways":[
+        [
+          [
+            90254.2969,
+            39229.8164
+          ],
+          [
+            91371.5234,
+            40347.043
+          ]
+        ]
+      ],
+      "radius":1089.9984696267
     },
     {
-      "res":"A_20G_g",
-      "azimuth":115,
-      "y":145518.0,
-      "x":57663.0,
-      "type":1,
-      "id":4
+      "x":81601.2,
+      "y":54017.98,
+      "runways":[
+        [
+          [
+            80958.1641,
+            54468.2422
+          ],
+          [
+            82244.2344,
+            53567.7266
+          ]
+        ]
+      ],
+      "radius":1085.0008220355
     },
     {
-      "res":"B_17E_b",
-      "azimuth":165,
-      "y":97429.14,
-      "x":63497.35,
-      "type":2,
-      "id":5
+      "x":260133.09,
+      "y":116605.09,
+      "runways":[
+        [
+          [
+            259798.1719,
+            115886.8359
+          ],
+          [
+            260468.0156,
+            117323.3359
+          ]
+        ]
+      ],
+      "radius":1092.4996581119
     },
     {
-      "res":"B_17G_g",
-      "azimuth":85,
-      "y":148524.0,
-      "x":73106.0,
-      "type":1,
-      "id":6
+      "x":233580.73,
+      "y":103223.01,
+      "runways":[
+        [
+          [
+            232790.7344,
+            103223.0078
+          ],
+          [
+            234370.7344,
+            103223.0078
+          ]
+        ]
+      ],
+      "radius":1090.0
     },
     {
-      "res":"B_17F_b",
-      "azimuth":155,
-      "y":36912.0,
-      "x":73288.0,
-      "type":2,
-      "id":7
+      "x":189014.11,
+      "y":90804.8,
+      "runways":[
+        [
+          [
+            188327.7812,
+            91201.0469
+          ],
+          [
+            189700.4375,
+            90408.5469
+          ]
+        ]
+      ],
+      "radius":1092.5026132338
     },
     {
-      "res":"B_17D_b",
-      "azimuth":60,
-      "y":47671.93,
-      "x":80864.7,
-      "type":2,
-      "id":8
+      "x":83164.92,
+      "y":85224.04,
+      "runways":[
+        [
+          [
+            82769.9219,
+            84539.875
+          ],
+          [
+            83559.9219,
+            85908.1953
+          ]
+        ]
+      ],
+      "radius":1090.000070157
     },
     {
-      "res":"TBM3AVENGER3_g",
-      "azimuth":125,
-      "y":54017.35,
-      "x":81601.0,
-      "type":1,
-      "id":9
+      "x":107847.43,
+      "y":86376.38,
+      "runways":[
+        [
+          [
+            107176.2578,
+            86763.875
+          ],
+          [
+            108518.6016,
+            85988.875
+          ]
+        ]
+      ],
+      "radius":1075.0019157071
     },
     {
-      "res":"B_17D_g",
-      "azimuth":210,
-      "y":85224.42,
-      "x":83164.7,
-      "type":1,
-      "id":10
+      "x":45366.67,
+      "y":106857.22,
+      "runways":[
+        [
+          [
+            44808.0547,
+            106298.6094
+          ],
+          [
+            45925.2812,
+            107415.8359
+          ]
+        ]
+      ],
+      "radius":1089.9984342713
     },
     {
-      "res":"B_24J100_g",
-      "azimuth":45,
-      "y":39788.0,
-      "x":90811.94,
-      "type":1,
-      "id":11
+      "x":57661.09,
+      "y":145519.72,
+      "runways":[
+        [
+          [
+            56958.6992,
+            145847.25
+          ],
+          [
+            58363.4766,
+            145192.1875
+          ]
+        ]
+      ],
+      "radius":1075.0010358795
     },
     {
-      "res":"B_17D_g",
-      "azimuth":225,
-      "y":157035.35,
-      "x":90526.0,
-      "type":1,
-      "id":12
+      "x":90526.16,
+      "y":157035.93,
+      "runways":[
+        [
+          [
+            89967.5469,
+            156477.3125
+          ],
+          [
+            91084.7734,
+            157594.5469
+          ]
+        ]
+      ],
+      "radius":1090.001227348
     },
     {
-      "res":"B_24J100_g",
-      "azimuth":70,
-      "y":110369.42,
-      "x":99815.14,
-      "type":1,
-      "id":13
+      "x":103955.16,
+      "y":155284.05,
+      "runways":[
+        [
+          [
+            103165.1641,
+            155284.0469
+          ],
+          [
+            104745.1641,
+            155284.0469
+          ]
+        ]
+      ],
+      "radius":1090.0
     },
     {
-      "res":"B_17D_g",
-      "azimuth":270,
-      "y":155284.0,
-      "x":103955.0,
-      "type":1,
-      "id":14
+      "x":73106.31,
+      "y":148524.1,
+      "runways":[
+        [
+          [
+            72316.8281,
+            148455.0312
+          ],
+          [
+            73895.7969,
+            148593.1719
+          ]
+        ]
+      ],
+      "radius":1092.5000511624
     },
     {
-      "res":"TBM3AVENGER3_g",
-      "azimuth":55,
-      "y":76786.0,
-      "x":107137.0,
-      "type":1,
-      "id":15
+      "x":154316.31,
+      "y":148606.3,
+      "runways":[
+        [
+          [
+            154316.3125,
+            147816.2969
+          ],
+          [
+            154316.3125,
+            149396.2969
+          ]
+        ]
+      ],
+      "radius":1090.0
     },
     {
-      "res":"A_20G_g",
-      "azimuth":120,
-      "y":86374.7,
-      "x":107849.79,
-      "type":1,
-      "id":16
+      "x":99815.5,
+      "y":110369.97,
+      "runways":[
+        [
+          [
+            99073.1484,
+            110099.7734
+          ],
+          [
+            100557.8594,
+            110640.1641
+          ]
+        ]
+      ],
+      "radius":1089.9982376828
     },
     {
-      "res":"A_20G_g",
-      "azimuth":165,
-      "y":107803.26,
-      "x":115597.85,
-      "type":1,
-      "id":17
+      "x":168149.7,
+      "y":106224.35,
+      "runways":[
+        [
+          [
+            167367.6875,
+            106155.9297
+          ],
+          [
+            168931.7188,
+            106292.7656
+          ]
+        ]
+      ],
+      "radius":1085.0028616044
     },
     {
-      "res":"B_17F_b",
-      "azimuth":60,
-      "y":66058.0,
-      "x":117113.0,
-      "type":2,
-      "id":18
+      "x":162781.38,
+      "y":127074.99,
+      "runways":[
+        [
+          [
+            162063.125,
+            126740.0625
+          ],
+          [
+            163499.625,
+            127409.9141
+          ]
+        ]
+      ],
+      "radius":1092.5013274472
     },
     {
-      "res":"B_17D_g",
-      "azimuth":285,
-      "y":132888.0,
-      "x":127672.0,
-      "type":1,
-      "id":19
+      "x":145533.56,
+      "y":129671.94,
+      "runways":[
+        [
+          [
+            144743.5625,
+            129671.9375
+          ],
+          [
+            146323.5625,
+            129671.9375
+          ]
+        ]
+      ],
+      "radius":1090.0
     },
     {
-      "res":"TBM3AVENGER3_g",
-      "azimuth":55,
-      "y":112760.0,
-      "x":128190.06,
-      "type":1,
-      "id":20
+      "x":141623.28,
+      "y":115006.92,
+      "runways":[
+        [
+          [
+            140952.1094,
+            114619.4219
+          ],
+          [
+            142294.4531,
+            115394.4219
+          ]
+        ]
+      ],
+      "radius":1075.0018724058
     },
     {
-      "res":"B_24J100_g",
-      "azimuth":105,
-      "y":105792.28,
-      "x":131299.93,
-      "type":1,
-      "id":21
+      "x":127672.52,
+      "y":132888.02,
+      "runways":[
+        [
+          [
+            126909.4375,
+            133092.4844
+          ],
+          [
+            128435.5938,
+            132683.5469
+          ]
+        ]
+      ],
+      "radius":1089.9972991941
     },
     {
-      "res":"A_20G_g",
-      "azimuth":60,
-      "y":115009.84,
-      "x":141628.27,
-      "type":1,
-      "id":22
+      "x":115598.58,
+      "y":107800.61,
+      "runways":[
+        [
+          [
+            115799.1641,
+            107052.0156
+          ],
+          [
+            115397.9922,
+            108549.2031
+          ]
+        ]
+      ],
+      "radius":1075.001500564
     },
     {
-      "res":"TBM3AVENGER3_b",
-      "azimuth":165,
-      "y":140766.0,
-      "x":142085.0,
-      "type":2,
-      "id":23
+      "x":287217.69,
+      "y":92661.72,
+      "runways":[
+        [
+          [
+            286810.1875,
+            93367.5312
+          ],
+          [
+            287625.1875,
+            91955.9141
+          ]
+        ]
+      ],
+      "radius":1114.998134509
     },
     {
-      "res":"B_17F_g",
-      "azimuth":90,
-      "y":129671.42,
-      "x":145533.0,
-      "type":1,
-      "id":24
+      "x":270261.0,
+      "y":107986.32,
+      "runways":[
+        [
+          [
+            269797.8438,
+            107324.8516
+          ],
+          [
+            270724.1562,
+            108647.7812
+          ]
+        ]
+      ],
+      "radius":1107.4957258323
     },
     {
-      "res":"B_17F_g",
-      "azimuth":360,
-      "y":148606.63,
-      "x":154316.56,
-      "type":1,
-      "id":25
+      "x":80864.44,
+      "y":47672.33,
+      "runways":[
+        [
+          [
+            80160.7969,
+            47266.0781
+          ],
+          [
+            81568.0859,
+            48078.5781
+          ]
+        ]
+      ],
+      "radius":1112.4990122334
     },
     {
-      "res":"B_17E_g",
-      "azimuth":65,
-      "y":127074.07,
-      "x":162781.0,
-      "type":1,
-      "id":26
+      "x":63498.43,
+      "y":97426.65,
+      "runways":[
+        [
+          [
+            63288.2656,
+            98210.9844
+          ],
+          [
+            63708.5898,
+            96642.3203
+          ]
+        ]
+      ],
+      "radius":1112.0005375205
     },
     {
-      "res":"TBM3AVENGER3_g",
-      "azimuth":85,
-      "y":106224.0,
-      "x":168149.0,
-      "type":1,
-      "id":27
+      "x":117111.06,
+      "y":66057.56,
+      "runways":[
+        [
+          [
+            116413.2344,
+            65655.0078
+          ],
+          [
+            117808.8828,
+            66460.1094
+          ]
+        ]
+      ],
+      "radius":1105.6089378143
     },
     {
-      "res":"B_17G_g",
-      "azimuth":120,
-      "y":90804.42,
-      "x":189014.21,
-      "type":1,
-      "id":28
+      "x":73287.23,
+      "y":36915.68,
+      "runways":[
+        [
+          [
+            72947.0391,
+            37645.9336
+          ],
+          [
+            73627.4297,
+            36185.4336
+          ]
+        ]
+      ],
+      "radius":1105.6040619573
     },
     {
-      "res":"B_17F_g",
-      "azimuth":90,
-      "y":103223.0,
-      "x":233580.0,
-      "type":1,
-      "id":29
+      "x":107137.21,
+      "y":76786.3,
+      "runways":[
+        [
+          [
+            106494.1719,
+            76336.0391
+          ],
+          [
+            107780.2422,
+            77236.5547
+          ]
+        ]
+      ],
+      "radius":1085.0008220355
     },
     {
-      "res":"B_17E_g",
-      "azimuth":25,
-      "y":116605.0,
-      "x":260133.0,
-      "type":1,
-      "id":30
+      "x":128190.45,
+      "y":112760.61,
+      "runways":[
+        [
+          [
+            127547.4219,
+            112310.3516
+          ],
+          [
+            128833.4844,
+            113210.8672
+          ]
+        ]
+      ],
+      "radius":1084.9976273451
     },
     {
-      "res":"A_20G_b",
-      "azimuth":35,
-      "y":107988.0,
-      "x":270262.0,
-      "type":2,
-      "id":31
+      "x":131300.23,
+      "y":105792.8,
+      "runways":[
+        [
+          [
+            130537.1406,
+            105997.2734
+          ],
+          [
+            132063.3125,
+            105588.3359
+          ]
+        ]
+      ],
+      "radius":1090.0048334118
     },
     {
-      "res":"TBM3AVENGER3_b",
-      "azimuth":150,
-      "y":92661.0,
-      "x":287217.0,
-      "type":2,
-      "id":32
+      "x":142085.62,
+      "y":140766.62,
+      "runways":[
+        [
+          [
+            141874.6875,
+            141553.8594
+          ],
+          [
+            142296.5625,
+            139979.3906
+          ]
+        ]
+      ],
+      "radius":1115.0046806305
     }
   ],
-  "geomentry":{
+  "geometry":{
     "width":294400,
     "height":166400
-  },
-  "map_code":"Crimea"
+  }
 }

@@ -8,7 +8,6 @@ var CELL_SIDE = 100
 var map_path = null
   , map_img = null
   , height_img = null
-  , airplane_img = null
   , is_wide_map = false
   , map_canvas = null
   , map_ctx = null
@@ -42,6 +41,9 @@ var map_path = null
     ["rgba(255, 0, 255, 0.8)",   "rgba(255, 255, 255, 0.9)"], // #ff00ff
     ["rgba(0, 255, 255, 1.0)",   "rgba( 60,  60,  60, 0.7)"], // #00ffff
     ["rgba(255, 255, 255, 1.0)", "rgba(  0,   0,   0, 0.6)"], // #ffffff
+  ]
+  , runway_colors = [
+    "white", "red", "lime", "blue",
   ];
 
 function squareName(x) {
@@ -98,13 +100,32 @@ function drawRotatedImage(image, x, y, angle) {
     map_ctx.restore();
 }
 
-function drawField(x, y, azimuth, type) {
+function drawAirbase(airbase) {
+    var x = airbase.x / CELL_SIDE
+      , y = map_img.height - (airbase.y / CELL_SIDE)
+      , old_line_width = map_ctx.lineWidth;
+
     map_ctx.beginPath();
+    map_ctx.arc(x, y, Math.max(11, airbase.radius / CELL_SIDE), 0, 2 * Math.PI, false);
     map_ctx.fillStyle = "black";
-    map_ctx.arc(x, y, 11, 0, 4 * Math.PI, false);
     map_ctx.fill();
 
-    drawRotatedImage(airplane_img, x, y, azimuth);
+    map_ctx.lineWidth = 4;
+
+    $.each(airbase.runways, function(i, item) {
+        var x1 = item[0][0] / CELL_SIDE
+          , y1 = map_img.height - (item[0][1] / CELL_SIDE)
+          , x2 = item[1][0] / CELL_SIDE
+          , y2 = map_img.height - (item[1][1] / CELL_SIDE);
+
+        map_ctx.strokeStyle = runway_colors[i % runway_colors.length];
+        map_ctx.beginPath();
+        map_ctx.moveTo(x1, y1);
+        map_ctx.lineTo(x2, y2);
+        map_ctx.stroke();
+    });
+
+    map_ctx.lineWidth = old_line_width;
 }
 
 function drawText(text, type, x, y, align, fill, stroke) {
@@ -152,13 +173,9 @@ function drawText(text, type, x, y, align, fill, stroke) {
 
 function drawMapData(){
     $.getJSON(map_path + "data.min.json", {}, function (data) {
-        $.each(data.airfields, function(i, item) {
-            drawField(
-                item.x / CELL_SIDE
-                , map_img.height - (item.y / CELL_SIDE)
-                , item.azimuth
-                , item.type);
-        });
+        if (data.airbases !== undefined) {
+            data.airbases.map(drawAirbase);
+        }
 
         $.each(data.texts, function(i, item) {
             if (item.color === undefined) {
@@ -223,7 +240,7 @@ function drawTopRuler() {
 
     for (var x = 0; x < ruler_top_canvas.width; x += CELL_SIDE) {
         ruler_top_ctx.moveTo(0.5 + x, RULER_PADDING);
-        ruler_top_ctx.lineTo(0.5 + x, RULER_SIZE-RULER_PADDING);
+        ruler_top_ctx.lineTo(0.5 + x, RULER_SIZE - RULER_PADDING);
 
         text = squareName(x);
         metrics = ruler_top_ctx.measureText(text);
@@ -346,9 +363,6 @@ function setHandlers() {
 function initVariables() {
     map_img = new Image()
     height_img = new Image()
-
-    airplane_img = new Image();
-    airplane_img.src = "img/airplane.png";
 
     map_canvas = document.getElementById("map_holder");
     map_ctx = map_canvas.getContext("2d");

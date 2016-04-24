@@ -1,52 +1,71 @@
 {
-  "texts":[
-    {
-      "name_ru":"Peale Island",
-      "align":1,
-      "code":"Peale_Island",
-      "y":7572,
-      "x":6377,
-      "name_en":"Peale Island",
-      "type":1,
-      "zoom":6,
-      "color":4
-    },
-    {
-      "name_ru":"Wilkes Island",
-      "align":1,
-      "code":"Wilkes_Island",
-      "y":6060,
-      "x":4327,
-      "name_en":"Wilkes Island",
-      "type":1,
-      "zoom":6,
-      "color":4
-    },
-    {
-      "name_ru":"Wake Island",
-      "align":1,
-      "code":"Wake_Island",
-      "y":5259,
-      "x":7875,
-      "name_en":"Wake Island",
-      "type":1,
-      "zoom":7,
-      "color":4
-    }
-  ],
-  "airfields":[
-    {
-      "res":"SBD5_g",
-      "azimuth":288,
-      "y":4262.67,
-      "x":8118.22,
-      "type":1,
-      "id":1
-    }
-  ],
-  "geomentry":{
+  "map_code":"Wake",
+  "geometry":{
     "width":12800,
     "height":12800
   },
-  "map_code":"Wake"
+  "texts":[
+    {
+      "x":6377,
+      "type":1,
+      "color":4,
+      "y":7572,
+      "name_ru":"Peale Island",
+      "name_en":"Peale Island",
+      "code":"Peale_Island",
+      "align":1,
+      "zoom":6
+    },
+    {
+      "x":4327,
+      "type":1,
+      "color":4,
+      "y":6060,
+      "name_ru":"Wilkes Island",
+      "name_en":"Wilkes Island",
+      "code":"Wilkes_Island",
+      "align":1,
+      "zoom":6
+    },
+    {
+      "x":7875,
+      "type":1,
+      "color":4,
+      "y":5259,
+      "name_ru":"Wake Island",
+      "name_en":"Wake Island",
+      "code":"Wake_Island",
+      "align":1,
+      "zoom":7
+    }
+  ],
+  "airbases":[
+    {
+      "y":4479.05,
+      "x":8226.19,
+      "runways":[
+        [
+          [
+            8704.7275,
+            3979.3196
+          ],
+          [
+            9061.0635,
+            4978.7827
+          ]
+        ],
+        [
+          [
+            8826.9551,
+            4031.8474
+          ],
+          [
+            7391.3242,
+            4499.687
+          ]
+        ]
+      ],
+      "radius":1273.0051153805
+    }
+  ]
 }

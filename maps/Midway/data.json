@@ -1,82 +1,110 @@
 {
+  "map_code":"Midway",
+  "airbases":[
+    {
+      "y":35848.36,
+      "radius":1098.9131792932,
+      "runways":[
+        [
+          [
+            124814.7656,
+            36261.6797
+          ],
+          [
+            124156.4688,
+            35506.3203
+          ]
+        ],
+        [
+          [
+            123676.1562,
+            35435.0391
+          ],
+          [
+            125043.5312,
+            35929.1367
+          ]
+        ]
+      ],
+      "x":124359.84
+    },
+    {
+      "y":36075.45,
+      "radius":999.4857618379,
+      "runways":[
+        [
+          [
+            120765.8594,
+            35895.6016
+          ],
+          [
+            122117.7969,
+            36255.3047
+          ]
+        ]
+      ],
+      "x":121441.83
+    }
+  ],
+  "geometry":{
+    "height":92800,
+    "width":142400
+  },
   "texts":[
     {
-      "name_ru":"Eastern Island",
-      "align":1,
-      "code":"Eastern_Island",
       "y":36436,
-      "x":124725,
       "name_en":"Eastern Island",
-      "type":0,
       "zoom":6,
-      "color":2
+      "code":"Eastern_Island",
+      "name_ru":"Eastern Island",
+      "color":2,
+      "x":124725,
+      "type":0,
+      "align":1
     },
     {
-      "name_ru":"Sand Island",
-      "align":1,
-      "code":"Sand_Island",
       "y":35919,
-      "x":119263,
       "name_en":"Sand Island",
-      "type":0,
       "zoom":6,
-      "color":2
+      "code":"Sand_Island",
+      "name_ru":"Sand Island",
+      "color":2,
+      "x":119263,
+      "type":0,
+      "align":1
     },
     {
-      "name_ru":"Spit Island",
-      "align":1,
-      "code":"Spit_Island",
       "y":35482,
-      "x":122680,
       "name_en":"Spit Island",
-      "type":0,
       "zoom":6,
-      "color":2
+      "code":"Spit_Island",
+      "name_ru":"Spit Island",
+      "color":2,
+      "x":122680,
+      "type":0,
+      "align":1
     },
     {
-      "name_ru":"Kure Atoll",
-      "align":1,
-      "code":"Kure_Atoll",
       "y":58478,
-      "x":22087,
       "name_en":"Kure Atoll",
-      "type":1,
       "zoom":7,
-      "color":0
+      "code":"Kure_Atoll",
+      "name_ru":"Kure Atoll",
+      "color":0,
+      "x":22087,
+      "type":1,
+      "align":1
     },
     {
-      "name_ru":"Midway",
-      "align":1,
-      "code":"Midway",
       "y":41111,
-      "x":121148,
       "name_en":"Midway",
-      "type":1,
       "zoom":7,
-      "color":0
-    }
-  ],
-  "airfields":[
-    {
-      "res":"MBR_2AM34_w",
-      "azimuth":75,
-      "y":36072.69,
-      "x":121443.71,
-      "type":3,
-      "id":1
-    },
-    {
-      "res":"PE_2SERIES110_g",
-      "azimuth":250,
-      "y":35686.89,
-      "x":124373.19,
+      "code":"Midway",
+      "name_ru":"Midway",
+      "color":0,
+      "x":121148,
       "type":1,
-      "id":2
+      "align":1
     }
-  ],
-  "geomentry":{
-    "width":142400,
-    "height":92800
-  },
-  "map_code":"Midway"
+  ]
 }

@@ -1,288 +1,315 @@
 {
+  "airbases":[
+    {
+      "runways":[
+        [
+          [
+            93067.0781,
+            25276.7949
+          ],
+          [
+            93067.0781,
+            23736.7949
+          ]
+        ]
+      ],
+      "radius":1070.0,
+      "x":93067.08,
+      "y":24506.79
+    },
+    {
+      "runways":[
+        [
+          [
+            63385.125,
+            22706.6543
+          ],
+          [
+            62615.125,
+            24040.334
+          ]
+        ]
+      ],
+      "radius":1070.0002503558,
+      "x":63000.12,
+      "y":23373.49
+    },
+    {
+      "runways":[
+        [
+          [
+            12254.4385,
+            90050.2812
+          ],
+          [
+            12254.4385,
+            91591.2812
+          ]
+        ]
+      ],
+      "radius":1070.5,
+      "x":12254.44,
+      "y":90820.78
+    }
+  ],
   "texts":[
     {
+      "color":0,
+      "code":"Karhula",
+      "name_en":"Karhula",
+      "y":82378,
       "name_ru":"\u041a\u0430\u0440\u0445\u0443\u043b\u0430",
       "align":1,
-      "code":"Karhula",
-      "y":82378,
       "x":14330,
-      "name_en":"Karhula",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Kiiskinkyla",
+      "name_en":"Kiiskinkyla",
+      "y":30206,
       "name_ru":"Kiiskinkyla",
       "align":0,
-      "code":"Kiiskinkyla",
-      "y":30206,
       "x":16438,
-      "name_en":"Kiiskinkyla",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Klamila",
+      "name_en":"Klamila",
+      "y":81502,
       "name_ru":"\u041a\u043b\u0430\u043c\u0438\u043b\u0430",
       "align":1,
-      "code":"Klamila",
-      "y":81502,
       "x":44106,
-      "name_en":"Klamila",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Kondratievo",
+      "name_en":"Kondratiyevo",
+      "y":91374,
       "name_ru":"\u041a\u043e\u043d\u0434\u0440\u0430\u0442\u044c\u0435\u0432\u043e",
       "align":0,
-      "code":"Kondratievo",
-      "y":91374,
       "x":84391,
-      "name_en":"Kondratiyevo",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Kymi",
+      "name_en":"Kymi",
+      "y":89645,
       "name_ru":"Kymi",
       "align":2,
-      "code":"Kymi",
-      "y":89645,
       "x":11948,
-      "name_en":"Kymi",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Sakkijarvi",
+      "name_en":"Sakkijarvi",
+      "y":92807,
       "name_ru":"Sakkijarvi",
       "align":0,
-      "code":"Sakkijarvi",
-      "y":92807,
       "x":84312,
-      "name_en":"Sakkijarvi",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Siltakyla",
+      "name_en":"Siltakyla",
+      "y":81582,
       "name_ru":"\u0421\u0438\u043b\u0442\u0430\u043a\u044e\u043b\u044f",
       "align":1,
-      "code":"Siltakyla",
-      "y":81582,
       "x":3980,
-      "name_en":"Siltakyla",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Suurkyla",
+      "name_en":"Suurkyla",
+      "y":34376,
       "name_ru":"Suurkyla",
       "align":0,
-      "code":"Suurkyla",
-      "y":34376,
       "x":14636,
-      "name_en":"Suurkyla",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Virolahti",
+      "name_en":"Virolahti",
+      "y":80626,
       "name_ru":"\u0412\u0438\u0440\u043e\u043b\u0430\u0445\u0442\u0438",
       "align":1,
-      "code":"Virolahti",
-      "y":80626,
       "x":56924,
-      "name_en":"Virolahti",
       "type":1,
-      "zoom":6,
-      "color":0
+      "zoom":6
     },
     {
+      "color":0,
+      "code":"Hamina",
+      "name_en":"Hamina",
+      "y":89304,
       "name_ru":"\u0425\u0430\u043c\u0438\u043d\u0430",
       "align":1,
-      "code":"Hamina",
-      "y":89304,
       "x":28502,
-      "name_en":"Hamina",
       "type":2,
-      "zoom":7,
-      "color":0
+      "zoom":7
     },
     {
+      "color":0,
+      "code":"Kotka",
+      "name_en":"Kotka",
+      "y":76486,
       "name_ru":"\u041a\u041e\u0422\u041a\u0410",
       "align":0,
-      "code":"Kotka",
-      "y":76486,
       "x":16559,
-      "name_en":"Kotka",
       "type":2,
-      "zoom":7,
-      "color":0
+      "zoom":7
     },
     {
+      "color":0,
+      "code":"Virojoki",
+      "name_en":"Virojoki",
+      "y":88349,
       "name_ru":"\u0412\u0438\u0440\u043e\u0439\u043e\u043a\u0438",
       "align":1,
-      "code":"Virojoki",
-      "y":88349,
       "x":58118,
-      "name_en":"Virojoki",
       "type":2,
-      "zoom":7,
-      "color":0
+      "zoom":7
     },
     {
+      "color":4,
+      "code":"GULF_OF_FINLAND",
+      "name_en":"GULF OF FINLAND",
+      "y":48940,
       "name_ru":"\u0424\u0418\u041d\u0421\u041a\u0418\u0419 \u0417\u0410\u041b\u0418\u0412",
       "align":1,
-      "code":"GULF_OF_FINLAND",
-      "y":48940,
       "x":52864,
-      "name_en":"GULF OF FINLAND",
       "type":2,
-      "zoom":7,
-      "color":4
+      "zoom":7
     },
     {
+      "color":4,
+      "code":"Lavansaari",
+      "name_en":"Lavansaari",
+      "y":25612,
       "name_ru":"Lavansaari",
       "align":2,
-      "code":"Lavansaari",
-      "y":25612,
       "x":61303,
-      "name_en":"Lavansaari",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"o_Bolshoi_Tiuters",
+      "name_en":"Bolshoi Tiuters",
+      "y":6982,
       "name_ru":"\u043e. \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0422\u044e\u0442\u0435\u0440\u0441",
       "align":0,
-      "code":"o_Bolshoi_Tiuters",
-      "y":6982,
       "x":26414,
-      "name_en":"Bolshoi Tiuters",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"o_Gogland",
+      "name_en":"Gogland",
+      "y":31743,
       "name_ru":"\u043e. \u0413\u043e\u0433\u043b\u0430\u043d\u0434",
       "align":0,
-      "code":"o_Gogland",
-      "y":31743,
       "x":15365,
-      "name_en":"Gogland",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"o_Malyi",
+      "name_en":"Malyi",
+      "y":24657,
       "name_ru":"\u043e. \u041c\u0430\u043b\u044b\u0439",
       "align":0,
-      "code":"o_Malyi",
-      "y":24657,
       "x":73643,
-      "name_en":"Malyi",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"o_Moschnyi",
+      "name_en":"Moschnyi",
+      "y":23861,
       "name_ru":"\u043e. \u041c\u043e\u0449\u043d\u044b\u0439",
       "align":2,
-      "code":"o_Moschnyi",
-      "y":23861,
       "x":61382,
-      "name_en":"Moschnyi",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"o_Seiskar",
+      "name_en":"Seskar",
+      "y":23622,
       "name_ru":"\u043e. \u0421\u0435\u0441\u043a\u0430\u0440",
       "align":2,
-      "code":"o_Seiskar",
-      "y":23622,
       "x":92750,
-      "name_en":"Seskar",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"Peninsaari",
+      "name_en":"Peninsaari",
+      "y":26250,
       "name_ru":"Peninsaari",
       "align":0,
-      "code":"Peninsaari",
-      "y":26250,
       "x":72210,
-      "name_en":"Peninsaari",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"Seiskari",
+      "name_en":"Seiskari",
+      "y":25532,
       "name_ru":"Seiskari",
       "align":2,
-      "code":"Seiskari",
-      "y":25532,
       "x":92352,
-      "name_en":"Seiskari",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"Suursaari",
+      "name_en":"Suursaari",
+      "y":33335,
       "name_ru":"Suursaari",
       "align":0,
-      "code":"Suursaari",
-      "y":33335,
       "x":14967,
-      "name_en":"Suursaari",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     },
     {
+      "color":4,
+      "code":"Tutarsaari",
+      "name_en":"Tutarsaari",
+      "y":8654,
       "name_ru":"Tutarsaari",
       "align":0,
-      "code":"Tutarsaari",
-      "y":8654,
       "x":26812,
-      "name_en":"Tutarsaari",
       "type":1,
-      "zoom":6,
-      "color":4
+      "zoom":6
     }
   ],
-  "airfields":[
-    {
-      "res":"B_24J100_g",
-      "azimuth":0,
-      "y":90817.15,
-      "x":12255.11,
-      "type":1,
-      "id":1
-    },
-    {
-      "res":"TBM3AVENGER3_g",
-      "azimuth":330,
-      "y":23373.99,
-      "x":62999.76,
-      "type":1,
-      "id":2
-    },
-    {
-      "res":"B_17F_g",
-      "azimuth":180,
-      "y":24506.32,
-      "x":93067.36,
-      "type":1,
-      "id":3
-    }
-  ],
-  "geomentry":{
+  "map_code":"Net5Summer",
+  "geometry":{
     "width":99200,
     "height":94400
-  },
-  "map_code":"Net5Summer"
+  }
 }
