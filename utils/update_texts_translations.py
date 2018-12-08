@@ -26,7 +26,7 @@ class EmptyTextTranslationError(TextError):
     '-d', '--data-path',
     type=click.Path(exists=True),
     required=True,
-    help="Path to target 'Props.xml'.")
+    help="Path to target 'data.json'.")
 @click.option(
     '-e', '--en-path',
     type=click.Path(exists=True),
@@ -39,7 +39,7 @@ class EmptyTextTranslationError(TextError):
     help="Path to Russian properties.")
 def update_texts_translations(data_path, en_path, ru_path):
     """
-    Take 'Props.xml' and update texts from '*.properties'.
+    Take 'data.json' and update texts from '*.properties'.
     """
     with open(data_path, 'r') as f:
         data = json.load(f)
