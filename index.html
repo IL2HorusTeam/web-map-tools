@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <title>IL-2 Map Tools | web 0.9.1</title>
+  <title>IL-2 Map Tools | web 0.9.2</title>
 
   <!-- fonts -->
   <link href='http://fonts.googleapis.com/css?family=Fugaz+One' rel='stylesheet' type='text/css'>
@@ -39,121 +39,746 @@
 <div id='dashboard'>
   <div id='logo'>
     <span id='project_name'>IL-2 Map Tools</span>
-    <small id='version_info'>web 0.9.1</small>
+    <small id='version_info'>web 0.9.2</small>
   </div>
   <div id='map_selector_block'>
     <div id='map_selector_wrap'>
       <select size=1 id="map_selector" class="chzn-select">
-        <option value="ArcticSummer41">Arctic (summer 41)</option>
-        <option value="ArcticWinter41">Arctic (winter 41)</option>
-        <option value="ArcticSummer44">Arctic (summer 1942-44)</option>
-        <option value="ArcticWinter44">Arctic (winter 1942-44)</option>
-        <option value="ArdennesSummer">Ardennes (summer)</option>
-        <option value="ArdennesWinter">Ardennes (winter)</option>
-        <option value="BalatonSummer">Balaton (summer)</option>
-        <option value="BalatonWinter">Balaton (winter)</option>
-        <option value="Berlin">Berlin</option>
-        <option value="Bessarabia">Bessarabia</option>
-        <option value="BessarabiaIasi">Bessarabia (Iasi)</option>
-        <option value="BessarabiaOdessa">Bessarabia (Odessa)</option>
-        <option value="BlackSea">Black sea</option>
-        <option value="Burma">Burma</option>
-        <option value="Chichi">Chichi Jima</option>
-        <option value="CoralSeaOnline1">Coral sea (online 1)</option>
-        <option value="CoralSeaOnline2">Coral sea (online 2)</option>
-        <option value="Crimea">Crimea</option>
-        <option value="Desert">Desert</option>
-        <option value="DonbassSpring">Donbass (spring)</option>
-        <option value="DonbassSummer">Donbass (summer)</option>
-        <option value="DonbassAutumn">Donbass (autumn)</option>
-        <option value="DonbassWinter">Donbass (winter)</option>
-        <option value="FinsGulfSummer">Gulf of Finland (summer)</option>
-        <option value="FinsGulfWinter">Gulf of Finland (winter)</option>
-        <option value="Franz_Josef_Land">Franz Josef Land (North Pole)</option>
-        <option value="Guadal">Guadalcanal</option>
-        <option value="GuadalEarly">Guadalcanal (early)</option>
-        <option value="Hawaii">Hawaii</option>
-        <option value="Italy_DF">Italy</option>
-        <option value="IwoOnline">Iwo Jima (online)</option>
-        <option value="Japan1">Kyushu (South Japan)</option>
-        <option value="KhalkhinGol">Khalkhin Gol</option>
-        <option value="KhalkhinGol_Summer39">Khalkhin Gol (summer 39)</option>
-        <option value="Kiev">Kiev</option>
-        <option value="Kuban">Kuban</option>
-        <option value="Kurland">Kurland</option>
-        <option value="KurlandOnline">Kurland (online)</option>
-        <option value="Kursk">Kursk</option>
-        <option value="Lviv">Lviv</option>
-        <option value="Manchuria">Manchuria</option>
-        <option value="MarianasOnline">Marianas (online)</option>
-        <option value="Midway">Midway</option>
-        <option value="BoMSpring">Moscow (spring)</option>
-        <option value="BoMSummer">Moscow (summer)</option>
-        <option value="BoMAutumn">Moscow (autumn)</option>
-        <option value="BoMWinter">Moscow (winter)</option>
-        <option value="MoscowSummer">Moscow Region (summer)</option>
-        <option value="MoscowWinter">Moscow Region (winter)</option>
-        <option value="MTO">MTO</option>
-        <option value="MTOLight">MTO (light)</option>
-        <option value="MurmanskSummer">Murmansk (summer)</option>
-        <option value="MurmanskWinter">Murmansk (winter)</option>
-        <option value="NewGuinea">New Guinea</option>
-        <option value="New-Britain_New-Guinea_Mar-43_DT">New Britain &amp; New Guinea (Mar 43)</option>
-        <option value="New-Britain_New-Guinea_Sept-43_DT">New Britain &amp; New Guinea (Sept 43)</option>
-        <option value="New-Britain_New-Guinea_Jan-44_DT">New Britain &amp; New Guinea (Jan 44)</option>
-        <option value="New-Britain_New-Guinea_June-44_DT">New Britain &amp; New Guinea (June 44)</option>
-        <option value="Normandy1">Normandy 1</option>
-        <option value="Normandy2">Normandy 2</option>
-        <option value="Normandy3">Normandy 3</option>
-        <option value="Norway">Norway</option>
-        <option value="NWEurope">Northwest Europe</option>
-        <option value="Okinawa">Okinawa</option>
-        <option value="Palau">Palau</option>
-        <option value="PACIFIC_A">Pacific Islands (online)</option>
-        <option value="Prokhorovka">Prokhorovka</option>
-        <option value="Singapore1">Singapore 1</option>
-        <option value="Singapore2">Singapore 2</option>
-        <option value="SlovakiaSummer">Slovakia (summer)</option>
-        <option value="SlovakiaAutumn">Slovakia (autumn)</option>
-        <option value="SlovakiaWinter">Slovakia (winter)</option>
-        <option value="SlovakiaSummerOnline">Slovakia (summer online)</option>
-        <option value="SlovakiaWinterOnline">Slovakia (winter online)</option>
-        <option value="Smolensk">Smolensk</option>
-        <option value="Solomons_Aug_42">Solomons (Aug 42)</option>
-        <option value="Solomons_Oct_42">Solomons (Oct 42)</option>
-        <option value="Solomons_Dec_42">Solomons (Dec 42)</option>
-        <option value="Solomons_July_43">Solomons (July 43)</option>
-        <option value="Solomons_Oct_43">Solomons (Oct 43)</option>
-        <option value="Solomons_Jan_44">Solomons (Jan 44)</option>
-        <option value="StalingradSummer">Stalingrad (summer)</option>
-        <option value="StalingradWinter">Stalingrad (winter)</option>
-        <option value="Svalbard">Svalbard</option>
-        <option value="Tarawa">Tarawa</option>
-        <option value="Tobruk">Tobruk</option>
-        <option value="Wake">Wake</option>
-        <option value="Net1Summer">Online 1 (summer)</option>
-        <option value="Net1Winter">Online 1 (winter)</option>
-        <option value="NetIslands">Online 1 (islands)</option>
-        <option value="Net2Summer">Online 2 (summer)</option>
-        <option value="Net2Winter">Online 2 (winter)</option>
-        <option value="Net3Summer">Online 3 (summer)</option>
-        <option value="NetMountains">Online 4 (mountains)</option>
-        <option value="Net5Summer">Online 5 (summer)</option>
-        <option value="Net6Island">Online 6 (islands)</option>
-        <option value="Net7Islands">Online 7 (islands)</option>
-        <option value="Net8Islands1">Online 8 (Pacific islands)</option>
-        <option value="Net8Islands2">Online 8a (Pacific islands)</option>
-        <option value="Empty1a">Online 9a</option>
-        <option value="Empty1aWinter">Online 9a (winter)</option>
-        <option value="Empty1b">Online 9b</option>
-        <option value="Empty1bWinter">Online 9b (winter)</option>
-        <option value="Empty2a">Online 10a</option>
-        <option value="Empty2aWinter">Online 10a (winter)</option>
-        <option value="Empty2b">Online 10b</option>
-        <option value="Empty2aWinter">Online 10b (winter)</option>
-        <option value="Empty4a">Online 11a</option>
-        <option value="Empty4b">Online 11b</option>
-        <option value="SandsOfTime">Online MT (Sands of time)</option>
+        <optgroup label="Arctic">
+          <option
+            value="arctic_41_summer"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Arctic"
+            data-info-path="Arctic/41/summer"
+          >Arctic (summer 41)</option>
+          <option
+            value="arctic_41_winter"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Arctic"
+            data-info-path="Arctic/41/winter"
+          >Arctic (winter 41)</option>
+          <option
+            value="arctic_42_44_summer"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Arctic"
+            data-info-path="Arctic/42_44/summer"
+          >Arctic (summer 42-44)</option>
+          <option
+            value="arctic_42_44_winter"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Arctic"
+            data-info-path="Arctic/42_44/winter"
+          >Arctic (winter 42-44)</option>
+        </optgroup>
+        <optgroup label="Ardennes">
+          <option
+            value="ardennes_summer"
+            data-img-format="png"
+            data-img-path="Ardennes"
+            data-info-path="Ardennes/summer"
+          >Ardennes (summer)</option>
+          <option
+            value="ardennes_winter"
+            data-img-format="png"
+            data-img-path="Ardennes"
+            data-info-path="Ardennes/winter"
+          >Ardennes (winter)</option>
+        </optgroup>
+        <optgroup label="Balaton">
+          <option
+            value="balaton_summer"
+            data-img-format="png"
+            data-img-path="Balaton"
+            data-info-path="Balaton/summer"
+          >Balaton (summer)</option>
+          <option
+            value="balaton_winter"
+            data-img-format="png"
+            data-img-path="Balaton"
+            data-info-path="Balaton/winter"
+          >Balaton (winter)</option>
+        </optgroup>
+        <option
+          value="berlin"
+          data-img-format="png"
+          data-img-path="Berlin"
+          data-info-path="Berlin"
+        >Berlin</option>
+        <optgroup label="Bessarabia">
+          <option
+            value="bessarabia_full"
+            data-img-format="png"
+            data-img-path="Bessarabia/Full"
+            data-info-path="Bessarabia/Full"
+          >Bessarabia (Full)</option>
+          <option
+            value="bessarabia_iasi"
+            data-img-format="png"
+            data-img-path="Bessarabia/Iasi"
+            data-info-path="Bessarabia/Iasi"
+          >Bessarabia (Iasi)</option>
+          <option
+            value="bessarabia_odessa"
+            data-img-format="png"
+            data-img-path="Bessarabia/Odessa"
+            data-info-path="Bessarabia/Odessa"
+          >Bessarabia (Odessa)</option>
+        </optgroup>
+        <optgroup label="Black Sea">
+          <option
+            value="black_sea_full"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Black_Sea/Full"
+            data-info-path="Black_Sea/Full"
+          >Black Sea (Full)</option>
+          <option
+            value="black_sea_crimea"
+            data-img-format="png"
+            data-img-path="Black_Sea/Crimea"
+            data-info-path="Black_Sea/Crimea"
+          >Black Sea (Crimea)</option>
+          <option
+            value="black_sea_kuban"
+            data-img-format="png"
+            data-img-path="Black_Sea/Kuban"
+            data-info-path="Black_Sea/Kuban"
+          >Black Sea (Kuban)</option>
+        </optgroup>
+        <option
+          value="burma"
+          data-img-format="png"
+          data-img-path="Burma"
+          data-info-path="Burma"
+        >Burma</option>
+        <option
+          value="chichi_jima"
+          data-img-format="png"
+          data-img-path="Chichi_Jima"
+          data-info-path="Chichi_Jima"
+        >Chichi Jima</option>
+        <optgroup label="Coral Sea">
+          <option
+            value="coral_sea_online1"
+            data-img-format="png"
+            data-img-path="Coral_Sea/online1"
+            data-info-path="Coral_Sea/online1"
+          >Coral Sea (online 1)</option>
+          <option
+            value="coral_sea_online2"
+            data-img-format="png"
+            data-img-path="Coral_Sea/online2"
+            data-info-path="Coral_Sea/online2"
+          >Coral Sea (online 2)</option>
+        </optgroup>
+        <option
+          value="desert"
+          data-img-format="png"
+          data-img-path="Desert"
+          data-info-path="Desert"
+        >Desert</option>
+        <optgroup label="Donbass">
+          <option
+            value="donbass_spring"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Donbass"
+            data-info-path="Donbass/spring"
+          >Donbass (spring)</option>
+          <option
+            value="donbass_summer"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Donbass"
+            data-info-path="Donbass/summer"
+          >Donbass (summer)</option>
+          <option
+            value="donbass_autumn"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Donbass"
+            data-info-path="Donbass/autumn"
+          >Donbass (autumn)</option>
+          <option
+            value="donbass_winter"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Donbass"
+            data-info-path="Donbass/winter"
+          >Donbass (winter)</option>
+        </optgroup>
+        <option
+          value="franz_josef_land"
+          data-img-format="webp"
+          data-img-format-fallback="jpg"
+          data-img-path="Franz_Josef_Land"
+          data-info-path="Franz_Josef_Land"
+        >Franz Josef Land (North Pole)</option>
+        <optgroup label="Guadalcanal">
+          <option
+            value="gulf_of_finland_summer"
+            data-img-format="png"
+            data-img-path="Guadalcanal"
+            data-info-path="Guadalcanal/default"
+          >Guadalcanal (default)</option>
+          <option
+            value="gulf_of_finland_winter"
+            data-img-format="png"
+            data-img-path="Guadalcanal"
+            data-info-path="Guadalcanal/early"
+          >Guadalcanal (early)</option>
+        </optgroup>
+        <optgroup label="Gulf of Finland">
+          <option
+            value="gulf_of_finland_summer"
+            data-img-format="png"
+            data-img-path="Gulf_of_Finland"
+            data-info-path="Gulf_of_Finland/summer"
+          >Gulf of Finland (summer)</option>
+          <option
+            value="gulf_of_finland_winter"
+            data-img-format="png"
+            data-img-path="Gulf_of_Finland"
+            data-info-path="Gulf_of_Finland/winter"
+          >Gulf of Finland (winter)</option>
+        </optgroup>
+        <option
+          value="hawaii"
+          data-img-format="png"
+          data-img-path="Hawaii"
+          data-info-path="Hawaii"
+        >Hawaii</option>
+        <option
+          value="italy_fake"
+          data-img-format="png"
+          data-img-path="Italy_Fake"
+          data-info-path="Italy_Fake"
+        >Italy (fake)</option>
+        <option
+          value="iwo_jima_online"
+          data-img-format="png"
+          data-img-path="Iwo_Jima_Online"
+          data-info-path="Iwo_Jima_Online"
+        >Iwo Jima (online)</option>
+        <optgroup label="Khalkhin Gol">
+          <option
+            value="khalkhin_gol_default"
+            data-img-format="png"
+            data-img-path="Khalkhin_Gol/default"
+            data-info-path="Khalkhin_Gol/default"
+          >Khalkhin Gol (default)</option>
+          <option
+            value="khalkhin_gol_summer_39"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Khalkhin_Gol/summer_39"
+            data-info-path="Khalkhin_Gol/summer_39"
+          >Khalkhin Gol (summer 39)</option>
+        </optgroup>
+        <optgroup label="Kurland">
+          <option
+            value="kurland_default"
+            data-img-format="png"
+            data-img-path="Kurland/default"
+            data-info-path="Kurland/default"
+          >Kurland (default)</option>
+          <option
+            value="kurland_online"
+            data-img-format="png"
+            data-img-path="Kurland/online"
+            data-info-path="Kurland/online"
+          >Kurland (online)</option>
+        </optgroup>
+        <option
+          value="kursk"
+          data-img-format="png"
+          data-img-path="Kursk"
+          data-info-path="Kursk"
+        >Kursk</option>
+        <option
+          value="kyiv"
+          data-img-format="png"
+          data-img-path="Kyiv"
+          data-info-path="Kyiv"
+        >Kyiv</option>
+        <option
+          value="kyushu"
+          data-img-format="png"
+          data-img-path="Kyushu"
+          data-info-path="Kyushu"
+        >Kyushu (South Japan)</option>
+        <option
+          value="lviv"
+          data-img-format="png"
+          data-img-path="Lviv"
+          data-info-path="Lviv"
+        >Lviv</option>
+        <option
+          value="manchuria"
+          data-img-format="png"
+          data-img-path="Manchuria"
+          data-info-path="Manchuria"
+        >Manchuria</option>
+        <option
+          value="marianas_online"
+          data-img-format="png"
+          data-img-path="Marianas_Online"
+          data-info-path="Marianas_Online"
+        >Marianas (online)</option>
+        <option
+          value="midway"
+          data-img-format="png"
+          data-img-path="Midway"
+          data-info-path="Midway"
+        >Midway</option>
+        <optgroup label="Moscow Regions">
+          <option
+            value="moscow_spring"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Moscow_Regions/full"
+            data-info-path="Moscow_Regions/full/spring"
+          >Moscow (spring)</option>
+          <option
+            value="moscow_summer"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Moscow_Regions/full"
+            data-info-path="Moscow_Regions/full/summer"
+          >Moscow (summer)</option>
+          <option
+            value="moscow_autumn"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Moscow_Regions/full"
+            data-info-path="Moscow_Regions/full/autumn"
+          >Moscow (autumn)</option>
+          <option
+            value="moscow_winter"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Moscow_Regions/full"
+            data-info-path="Moscow_Regions/full/winter"
+          >Moscow (winter)</option>
+          <option
+            value="moscow_region_summer"
+            data-img-format="png"
+            data-img-path="Moscow_Regions/region"
+            data-info-path="Moscow_Regions/region/summer"
+          >Moscow Region (summer)</option>
+          <option
+            value="moscow_region_winter"
+            data-img-format="png"
+            data-img-path="Moscow_Regions/region"
+            data-info-path="Moscow_Regions/region/winter"
+          >Moscow Region (winter)</option>
+          <option
+            value="smolensk"
+            data-img-format="png"
+            data-img-path="Moscow_Regions/Smolensk"
+            data-info-path="Moscow_Regions/Smolensk"
+          >Smolensk</option>
+        </optgroup>
+        <optgroup label="MTO">
+          <option
+            value="mto"
+            data-img-format="png"
+            data-img-path="MTO"
+            data-info-path="MTO/default"
+          >MTO (default)</option>
+          <option
+            value="mto_light"
+            data-img-format="png"
+            data-img-path="MTO"
+            data-info-path="MTO/light"
+          >MTO (light)</option>
+        </optgroup>
+        <optgroup label="Murmansk">
+          <option
+            value="murmansk_summer"
+            data-img-format="png"
+            data-img-path="Murmansk"
+            data-info-path="Murmansk/summer"
+          >Murmansk (summer)</option>
+          <option
+            value="murmansk_winter"
+            data-img-format="png"
+            data-img-path="Murmansk"
+            data-info-path="Murmansk/winter"
+          >Murmansk (winter)</option>
+        </optgroup>
+        <optgroup label="New Britain &amp; New Guinea">
+          <option
+            value="new_guinea"
+            data-img-format="png"
+            data-img-path="New_Britain_New_Guinea/New_Guinea"
+            data-info-path="New_Britain_New_Guinea/New_Guinea"
+          >New Guinea</option>
+          <option
+            value="new_britain_new_guinea_mar_43"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="New_Britain_New_Guinea/full"
+            data-info-path="New_Britain_New_Guinea/full/mar_43"
+          >New Britain &amp; New Guinea (Mar 43)</option>
+          <option
+            value="new_britain_new_guinea_sep_43"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="New_Britain_New_Guinea/full"
+            data-info-path="New_Britain_New_Guinea/full/sep_43"
+          >New Britain &amp; New Guinea (Sep 43)</option>
+          <option
+            value="new_britain_new_guinea_jan_44"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="New_Britain_New_Guinea/full"
+            data-info-path="New_Britain_New_Guinea/full/jan_44"
+          >New Britain &amp; New Guinea (Jan 44)</option>
+          <option
+            value="new_britain_new_guinea_jun_44"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="New_Britain_New_Guinea/full"
+            data-info-path="New_Britain_New_Guinea/full/jun_44"
+          >New Britain &amp; New Guinea (Jun 44)</option>
+        </optgroup>
+        <optgroup label="Normandy">
+          <option
+            value="normandy1"
+            data-img-format="png"
+            data-img-path="Normandy/1"
+            data-info-path="Normandy/1"
+          >Normandy 1</option>
+          <option
+            value="normandy2"
+            data-img-format="png"
+            data-img-path="Normandy/2"
+            data-info-path="Normandy/2"
+          >Normandy 2</option>
+          <option
+            value="normandy3"
+            data-img-format="png"
+            data-img-path="Normandy/3"
+            data-info-path="Normandy/3"
+          >Normandy 3</option>
+        </optgroup>
+        <option
+          value="northwest_europe"
+          data-img-format="png"
+          data-img-path="Northwest_Europe"
+          data-info-path="Northwest_Europe"
+        >Northwest Europe</option>
+        <option
+          value="norway"
+          data-img-format="png"
+          data-img-path="Norway"
+          data-info-path="Norway"
+        >Norway</option>
+        <option
+          value="okinawa"
+          data-img-format="png"
+          data-img-path="Okinawa"
+          data-info-path="Okinawa"
+        >Okinawa</option>
+        <option
+          value="pacific_islands_online"
+          data-img-format="webp"
+          data-img-format-fallback="jpg"
+          data-img-path="Pacific_Islands_Online"
+          data-info-path="Pacific_Islands_Online"
+        >Pacific Islands (online)</option>
+        <option
+          value="palau"
+          data-img-format="png"
+          data-img-path="Palau"
+          data-info-path="Palau"
+        >Palau</option>
+        <option
+          value="prokhorovka"
+          data-img-format="png"
+          data-img-path="Prokhorovka"
+          data-info-path="Prokhorovka"
+        >Prokhorovka</option>
+        <optgroup label="Singapore">
+          <option
+            value="singapore1"
+            data-img-format="png"
+            data-img-path="Singapore"
+            data-info-path="Singapore/1"
+          >Singapore 1</option>
+          <option
+            value="singapore2"
+            data-img-format="png"
+            data-img-path="Singapore"
+            data-info-path="Singapore/2"
+          >Singapore 2</option>
+        </optgroup>
+        <optgroup label="Slovakia">
+          <option
+            value="slovakia_default_summer"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Slovakia/default"
+            data-info-path="Slovakia/default/summer"
+          >Slovakia (summer)</option>
+          <option
+            value="slovakia_default_autumn"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Slovakia/default"
+            data-info-path="Slovakia/default/autumn"
+          >Slovakia (autumn)</option>
+          <option
+            value="slovakia_default_winter"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Slovakia/default"
+            data-info-path="Slovakia/default/winter"
+          >Slovakia (winter)</option>
+          <option
+            value="slovakia_online_summer"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Slovakia/online"
+            data-info-path="Slovakia/online/summer"
+          >Slovakia (online summer)</option>
+          <option
+            value="slovakia_online_winter"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Slovakia/online"
+            data-info-path="Slovakia/online/winter"
+          >Slovakia (online winter)</option>
+        </optgroup>
+        <optgroup label="Solomon Islands">
+          <option
+            value="solomon_islands_aug_42"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Solomon_Islands"
+            data-info-path="Solomon_Islands/aug_42"
+          >Solomon Islands (Aug 42)</option>
+          <option
+            value="solomon_islands_oct_42"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Solomon_Islands"
+            data-info-path="Solomon_Islands/oct_42"
+          >Solomon Islands (Oct 42)</option>
+          <option
+            value="solomon_islands_dec_42"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Solomon_Islands"
+            data-info-path="Solomon_Islands/dec_42"
+          >Solomon Islands (Dec 42)</option>
+          <option
+            value="solomon_islands_jul_43"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Solomon_Islands"
+            data-info-path="Solomon_Islands/jul_43"
+          >Solomon Islands (Jul 43)</option>
+          <option
+            value="solomon_islands_oct_43"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Solomon_Islands"
+            data-info-path="Solomon_Islands/oct_43"
+          >Solomon Islands (Oct 43)</option>
+          <option
+            value="solomon_islands_jan_44"
+            data-img-format="webp"
+            data-img-format-fallback="jpg"
+            data-img-path="Solomon_Islands"
+            data-info-path="Solomon_Islands/jan_44"
+          >Solomon Islands (Jan 44)</option>
+        </optgroup>
+        <optgroup label="Stalingrad">
+          <option
+            value="stalingrad_summer"
+            data-img-format="png"
+            data-img-path="Stalingrad"
+            data-info-path="Stalingrad/summer"
+          >Stalingrad (summer)</option>
+          <option
+            value="stalingrad_winter"
+            data-img-format="png"
+            data-img-path="Stalingrad"
+            data-info-path="Stalingrad/winter"
+          >Stalingrad (winter)</option>
+        </optgroup>
+        <option
+          value="svalbard"
+          data-img-format="webp"
+          data-img-format-fallback="jpg"
+          data-img-path="Svalbard"
+          data-info-path="Svalbard"
+        >Svalbard</option>
+        <option
+          value="tarawa"
+          data-img-format="png"
+          data-img-path="Tarawa"
+          data-info-path="Tarawa"
+        >Tarawa</option>
+        <option
+          value="tobruk"
+          data-img-format="webp"
+          data-img-format-fallback="jpg"
+          data-img-path="Tobruk"
+          data-info-path="Tobruk"
+        >Tobruk</option>
+        <option
+          value="wake"
+          data-img-format="png"
+          data-img-path="Wake"
+          data-info-path="Wake"
+        >Wake</option>
+        <optgroup label="Other">
+          <option
+            value="Net1Summer"
+            data-img-format="png"
+            data-img-path="Other/Net1Summer"
+            data-info-path="Other/Net1Summer"
+          >Online 1 (summer)</option>
+          <option
+            value="Net1Winter"
+            data-img-format="png"
+            data-img-path="Other/Net1Winter"
+            data-info-path="Other/Net1Winter"
+          >Online 1 (winter)</option>
+          <option
+            value="NetIslands"
+            data-img-format="png"
+            data-img-path="Other/NetIslands"
+            data-info-path="Other/NetIslands"
+          >Online 1 (islands)</option>
+          <option
+            value="Net2Summer"
+            data-img-format="png"
+            data-img-path="Other/Net2Summer"
+            data-info-path="Other/Net2Summer"
+          >Online 2 (summer)</option>
+          <option
+            value="Net2Winter"
+            data-img-format="png"
+            data-img-path="Other/Net2Winter"
+            data-info-path="Other/Net2Winter"
+          >Online 2 (winter)</option>
+          <option
+            value="Net3Summer"
+            data-img-format="png"
+            data-img-path="Other/Net3Summer"
+            data-info-path="Other/Net3Summer"
+          >Online 3 (summer)</option>
+          <option
+            value="NetMountains"
+            data-img-format="png"
+            data-img-path="Other/NetMountains"
+            data-info-path="Other/NetMountains"
+          >Online 4 (mountains)</option>
+          <option
+            value="Net5Summer"
+            data-img-format="png"
+            data-img-path="Other/Net5Summer"
+            data-info-path="Other/Net5Summer"
+          >Online 5 (summer)</option>
+          <option
+            value="Net6Island"
+            data-img-format="png"
+            data-img-path="Other/Net6Island"
+            data-info-path="Other/Net6Island"
+          >Online 6 (islands)</option>
+          <option
+            value="Net7Islands"
+            data-img-format="png"
+            data-img-path="Other/Net7Islands"
+            data-info-path="Other/Net7Islands"
+          >Online 7 (islands)</option>
+          <option
+            value="Net8Islands1"
+            data-img-format="png"
+            data-img-path="Other/Net8Islands1"
+            data-info-path="Other/Net8Islands1"
+          >Online 8 (Pacific islands)</option>
+          <option
+            value="Net8Islands2"
+            data-img-format="png"
+            data-img-path="Other/Net8Islands2"
+            data-info-path="Other/Net8Islands2"
+          >Online 8a (Pacific islands)</option>
+          <option
+            value="Empty1a"
+            data-img-format="png"
+            data-img-path="Other/Empty1a"
+            data-info-path="Other/Empty1a"
+          >Online 9a</option>
+          <option
+            value="Empty1aWinter"
+            data-img-format="png"
+            data-img-path="Other/Empty1aWinter"
+            data-info-path="Other/Empty1aWinter"
+          >Online 9a (winter)</option>
+          <option
+            value="Empty1b"
+            data-img-format="png"
+            data-img-path="Other/Empty1b"
+            data-info-path="Other/Empty1b"
+          >Online 9b</option>
+          <option
+            value="Empty1bWinter"
+            data-img-format="png"
+            data-img-path="Other/Empty1bWinter"
+            data-info-path="Other/Empty1bWinter"
+          >Online 9b (winter)</option>
+          <option
+            value="Empty2a"
+            data-img-format="png"
+            data-img-path="Other/Empty2a"
+            data-info-path="Other/Empty2a"
+          >Online 10a</option>
+          <option
+            value="Empty2aWinter"
+            data-img-format="png"
+            data-img-path="Other/Empty2aWinter"
+            data-info-path="Other/Empty2aWinter"
+          >Online 10a (winter)</option>
+          <option
+            value="Empty2b"
+            data-img-format="png"
+            data-img-path="Other/Empty2b"
+            data-info-path="Other/Empty2b"
+          >Online 10b</option>
+          <option
+            value="Empty2aWinter"
+            data-img-format="png"
+            data-img-path="Other/Empty2aWinter"
+            data-info-path="Other/Empty2aWinter"
+          >Online 10b (winter)</option>
+          <option
+            value="Empty4a"
+            data-img-format="png"
+            data-img-path="Other/Empty4a"
+            data-info-path="Other/Empty4a"
+          >Online 11a</option>
+          <option
+            value="Empty4b"
+            data-img-format="png"
+            data-img-path="Other/Empty4b"
+            data-info-path="Other/Empty4b"
+          >Online 11b</option>
+          <option
+            value="SandsOfTime"
+            data-img-format="png"
+            data-img-path="Other/SandsOfTime"
+            data-info-path="Other/SandsOfTime"
+          >Online MT (Sands of time)</option>
+        </optgroup>
       </select>
     </div>
     <div id="display_loading" title="Loading image..."></div>
@@ -181,13 +806,13 @@
 </div>
 <div id='ruler_corner'></div>
 <div id='top_ruler_wrap'>
-    <canvas id='top_ruler'></canvas>
+  <canvas id='top_ruler'></canvas>
 </div>
 <div id='left_ruler_wrap'>
-    <canvas id='left_ruler'></canvas>
+  <canvas id='left_ruler'></canvas>
 </div>
 <div id='map_holder_wrap'>
-    <canvas id='map_holder'></canvas>
+  <canvas id='map_holder'></canvas>
 </div>
 
 </body>

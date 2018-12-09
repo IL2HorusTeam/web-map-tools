@@ -1,0 +1,221 @@
+{
+  "airbases":[
+    {
+      "radius":1070.0006059712,
+      "runways":[
+        [
+          [
+            75334.7109,
+            95419.0
+          ],
+          [
+            74245.7656,
+            96507.9453
+          ]
+        ]
+      ],
+      "y":95963.47,
+      "x":74790.24
+    },
+    {
+      "radius":1070.0004065701,
+      "runways":[
+        [
+          [
+            63887.9297,
+            63757.3555
+          ],
+          [
+            62492.2148,
+            63106.5234
+          ]
+        ]
+      ],
+      "y":63431.94,
+      "x":63190.07
+    }
+  ],
+  "geometry":{
+    "width":163200,
+    "height":128000
+  },
+  "texts":[
+    {
+      "name_ru":"Kokumbono",
+      "code":"Kokumbono",
+      "align":1,
+      "type":1,
+      "zoom":6,
+      "name_en":"Kokumbono",
+      "color":4,
+      "y":62971,
+      "x":50237
+    },
+    {
+      "name_ru":"Tasimboko",
+      "code":"Tasimboko",
+      "align":1,
+      "type":1,
+      "zoom":6,
+      "name_en":"Tasimboko",
+      "color":4,
+      "y":65471,
+      "x":94583
+    },
+    {
+      "name_ru":"Tenaro",
+      "code":"Tenaro",
+      "align":1,
+      "type":1,
+      "zoom":6,
+      "name_en":"Tenaro",
+      "color":4,
+      "y":80337,
+      "x":29938
+    },
+    {
+      "name_ru":"Lunga Field",
+      "code":"Lunga_Field",
+      "align":1,
+      "type":0,
+      "zoom":6,
+      "name_en":"Lunga Field",
+      "color":6,
+      "y":63412,
+      "x":63243
+    },
+    {
+      "name_ru":"Gavutu Is",
+      "code":"Gavutu_Is",
+      "align":1,
+      "type":1,
+      "zoom":7,
+      "name_en":"Gavutu Is",
+      "color":1,
+      "y":94811,
+      "x":78193
+    },
+    {
+      "name_ru":"Tanambogo Is",
+      "code":"Tanambogo_Is",
+      "align":1,
+      "type":1,
+      "zoom":6,
+      "name_en":"Tanambogo Is",
+      "color":1,
+      "y":95570,
+      "x":77841
+    },
+    {
+      "name_ru":"Tulagi Is",
+      "code":"Tulagi_Is",
+      "align":1,
+      "type":1,
+      "zoom":7,
+      "name_en":"Tulagi Is",
+      "color":1,
+      "y":96313,
+      "x":73763
+    },
+    {
+      "name_ru":"Florida Is",
+      "code":"Florida_Is",
+      "align":1,
+      "type":2,
+      "zoom":7,
+      "name_en":"Florida Is",
+      "color":1,
+      "y":103531,
+      "x":77583
+    },
+    {
+      "name_ru":"Guadalcanal",
+      "code":"Guadalcanal",
+      "align":1,
+      "type":2,
+      "zoom":7,
+      "name_en":"Guadalcanal",
+      "color":1,
+      "y":40957,
+      "x":74201
+    },
+    {
+      "name_ru":"Malaita",
+      "code":"Malaita",
+      "align":1,
+      "type":2,
+      "zoom":7,
+      "name_en":"Malaita",
+      "color":1,
+      "y":111722,
+      "x":149459
+    },
+    {
+      "name_ru":"Savo Is",
+      "code":"Savo_Is",
+      "align":1,
+      "type":2,
+      "zoom":7,
+      "name_en":"Savo Is",
+      "color":1,
+      "y":91850,
+      "x":38897
+    },
+    {
+      "name_ru":"Cape Esperance",
+      "code":"Cape_Esperance",
+      "align":1,
+      "type":1,
+      "zoom":7,
+      "name_en":"Cape Esperance",
+      "color":2,
+      "y":81069,
+      "x":28116
+    },
+    {
+      "name_ru":"Koli Pt",
+      "code":"Koli_Pt",
+      "align":1,
+      "type":1,
+      "zoom":7,
+      "name_en":"Koli Pt",
+      "color":2,
+      "y":65187,
+      "x":74726
+    },
+    {
+      "name_ru":"Lunga Pt",
+      "code":"Lunga_Pt",
+      "align":1,
+      "type":1,
+      "zoom":7,
+      "name_en":"Lunga Pt",
+      "color":2,
+      "y":65848,
+      "x":61517
+    },
+    {
+      "name_ru":"Point Cruz",
+      "code":"Point_Cruz",
+      "align":1,
+      "type":1,
+      "zoom":7,
+      "name_en":"Point Cruz",
+      "color":2,
+      "y":63304,
+      "x":54473
+    },
+    {
+      "name_ru":"Taivu Point",
+      "code":"Taivu_Point",
+      "align":1,
+      "type":1,
+      "zoom":7,
+      "name_en":"Taivu Point",
+      "color":2,
+      "y":64358,
+      "x":97590
+    }
+  ],
+  "map_code":"Guadal"
+}

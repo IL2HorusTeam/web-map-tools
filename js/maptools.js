@@ -7,6 +7,8 @@ var CELL_SIDE = 100
 
 var map_path = null
   , map_img = null
+  , webp_support_present = null
+  , info_path = null
   , height_img = null
   , is_wide_map = false
   , map_canvas = null
@@ -172,7 +174,7 @@ function drawText(text, type, x, y, align, fill, stroke) {
 }
 
 function drawMapData(){
-    $.getJSON(map_path + "data.min.json", {}, function (data) {
+    $.getJSON(info_path + "data.min.json", {}, function (data) {
         if (data.airbases !== undefined) {
             data.airbases.map(drawAirbase);
         }
@@ -297,8 +299,20 @@ function drawMapContainer() {
 
 function setMapChangeHandler() {
     $("#map_selector").change(function () {
-        map_path = "maps/" + $(this).val() + "/";
-        map_img.src = map_path + "Map.png";
+        value = $(this).val();
+        option = $(this).find('[value=' + value + ']');
+
+        map_path = "maps/" + option.data('img-path') + "/";
+        info_path = "maps/" + option.data('info-path') + "/";
+        map_format = option.data('img-format');
+        if (map_format === 'webp' && !webp_support_present) {
+          map_format = option.data('img-format-fallback');
+        }
+
+        map_img.src = "";
+        height_img.src = "";
+
+        map_img.src = map_path + "Map." + map_format;
         $("#display_loading").css('visibility', 'visible');
     });
 }
@@ -360,9 +374,23 @@ function setHandlers() {
     $(map_canvas).mousemove(onMouseMove);
 }
 
+function canUseWebP() {
+    var elem = document.createElement('canvas');
+
+    if (!!(elem.getContext && elem.getContext('2d'))) {
+        // was able or not to get WebP representation
+        return elem.toDataURL('image/webp').indexOf('data:image/webp') == 0;
+    } else {
+        // very old browser like IE 8, canvas not supported
+        return false;
+    }
+}
+
 function initVariables() {
-    map_img = new Image()
-    height_img = new Image()
+    map_img = new Image();
+    height_img = new Image();
+
+    webp_support_present = canUseWebP();
 
     map_canvas = document.getElementById("map_holder");
     map_ctx = map_canvas.getContext("2d");

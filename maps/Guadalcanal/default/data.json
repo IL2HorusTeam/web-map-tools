@@ -1,0 +1,249 @@
+{
+  "map_code":"Guadal",
+  "airbases":[
+    {
+      "y":95963.47,
+      "radius":1070.0006059712,
+      "runways":[
+        [
+          [
+            75334.7109,
+            95419.0
+          ],
+          [
+            74245.7656,
+            96507.9453
+          ]
+        ]
+      ],
+      "x":74790.24
+    },
+    {
+      "y":62251.49,
+      "radius":1070.0003401238,
+      "runways":[
+        [
+          [
+            65726.5156,
+            62576.9023
+          ],
+          [
+            64330.8008,
+            61926.0703
+          ]
+        ]
+      ],
+      "x":65028.66
+    },
+    {
+      "y":63402.59,
+      "radius":1112.4971750051,
+      "runways":[
+        [
+          [
+            62473.8828,
+            63059.2109
+          ],
+          [
+            63946.6289,
+            63745.9609
+          ]
+        ]
+      ],
+      "x":63210.26
+    }
+  ],
+  "texts":[
+    {
+      "y":62971,
+      "type":1,
+      "x":50237,
+      "code":"Kokumbono",
+      "zoom":6,
+      "color":4,
+      "name_en":"Kokumbono",
+      "name_ru":"Kokumbono",
+      "align":1
+    },
+    {
+      "y":65471,
+      "type":1,
+      "x":94583,
+      "code":"Tasimboko",
+      "zoom":6,
+      "color":4,
+      "name_en":"Tasimboko",
+      "name_ru":"Tasimboko",
+      "align":1
+    },
+    {
+      "y":80337,
+      "type":1,
+      "x":29938,
+      "code":"Tenaro",
+      "zoom":6,
+      "color":4,
+      "name_en":"Tenaro",
+      "name_ru":"Tenaro",
+      "align":1
+    },
+    {
+      "y":62037,
+      "type":0,
+      "x":64922,
+      "code":"Fighter_1",
+      "zoom":6,
+      "color":6,
+      "name_en":"Fighter 1",
+      "name_ru":"Fighter 1",
+      "align":1
+    },
+    {
+      "y":63412,
+      "type":0,
+      "x":63243,
+      "code":"Henderson_Field",
+      "zoom":6,
+      "color":6,
+      "name_en":"Henderson Field",
+      "name_ru":"Henderson Field",
+      "align":1
+    },
+    {
+      "y":94811,
+      "type":1,
+      "x":78193,
+      "code":"Gavutu_Is",
+      "zoom":7,
+      "color":1,
+      "name_en":"Gavutu Is",
+      "name_ru":"Gavutu Is",
+      "align":1
+    },
+    {
+      "y":95570,
+      "type":1,
+      "x":77841,
+      "code":"Tanambogo_Is",
+      "zoom":6,
+      "color":1,
+      "name_en":"Tanambogo Is",
+      "name_ru":"Tanambogo Is",
+      "align":1
+    },
+    {
+      "y":96313,
+      "type":1,
+      "x":73763,
+      "code":"Tulagi_Is",
+      "zoom":7,
+      "color":1,
+      "name_en":"Tulagi Is",
+      "name_ru":"Tulagi Is",
+      "align":1
+    },
+    {
+      "y":103531,
+      "type":2,
+      "x":77583,
+      "code":"Florida_Is",
+      "zoom":7,
+      "color":1,
+      "name_en":"Florida Is",
+      "name_ru":"Florida Is",
+      "align":1
+    },
+    {
+      "y":40957,
+      "type":2,
+      "x":74201,
+      "code":"Guadalcanal",
+      "zoom":7,
+      "color":1,
+      "name_en":"Guadalcanal",
+      "name_ru":"Guadalcanal",
+      "align":1
+    },
+    {
+      "y":111722,
+      "type":2,
+      "x":149459,
+      "code":"Malaita",
+      "zoom":7,
+      "color":1,
+      "name_en":"Malaita",
+      "name_ru":"Malaita",
+      "align":1
+    },
+    {
+      "y":91850,
+      "type":2,
+      "x":38897,
+      "code":"Savo_Is",
+      "zoom":7,
+      "color":1,
+      "name_en":"Savo Is",
+      "name_ru":"Savo Is",
+      "align":1
+    },
+    {
+      "y":81069,
+      "type":1,
+      "x":28116,
+      "code":"Cape_Esperance",
+      "zoom":7,
+      "color":2,
+      "name_en":"Cape Esperance",
+      "name_ru":"Cape Esperance",
+      "align":1
+    },
+    {
+      "y":65187,
+      "type":1,
+      "x":74726,
+      "code":"Koli_Pt",
+      "zoom":7,
+      "color":2,
+      "name_en":"Koli Pt",
+      "name_ru":"Koli Pt",
+      "align":1
+    },
+    {
+      "y":65848,
+      "type":1,
+      "x":61517,
+      "code":"Lunga_Pt",
+      "zoom":7,
+      "color":2,
+      "name_en":"Lunga Pt",
+      "name_ru":"Lunga Pt",
+      "align":1
+    },
+    {
+      "y":63304,
+      "type":1,
+      "x":54473,
+      "code":"Point_Cruz",
+      "zoom":7,
+      "color":2,
+      "name_en":"Point Cruz",
+      "name_ru":"Point Cruz",
+      "align":1
+    },
+    {
+      "y":64358,
+      "type":1,
+      "x":97590,
+      "code":"Taivu_Point",
+      "zoom":7,
+      "color":2,
+      "name_en":"Taivu Point",
+      "name_ru":"Taivu Point",
+      "align":1
+    }
+  ],
+  "geometry":{
+    "height":128000,
+    "width":163200
+  }
+}
