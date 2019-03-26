@@ -1,0 +1,7 @@
+{
+  "short_name": "IL-2 Map Tools",
+  "name": "Web version of map tools for «IL-2 Sturmovik: Forgotten Battles» flight simulator",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape"
+}

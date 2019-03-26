@@ -1,0 +1,611 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>IL-2 Map Tools</title>
+  <meta name="description" content="Web version of map tools for «IL-2 Sturmovik: Forgotten Battles» flight simulator">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <meta property="og:image:width" content="256">
+  <meta property="og:image:height" content="256">
+  <meta property="og:site_name" content="IL-2 Map Tools">
+
+  <link rel="stylesheet" href="lib/spectre/spectre.min.css?v=0.5.7">
+  <link rel="stylesheet" href="lib/spectre/spectre-exp.min.css?v=0.5.7">
+  <link rel="stylesheet" href="lib/spectre/spectre-icons.min.css?v=0.5.7">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/fontawesome.css" integrity="sha384-u5J7JghGz0qUrmEsWzBQkfvc8nK3fUT7DCaQzNQ+q4oEXhGSx+P2OqjWsfIRB8QT" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/solid.css" integrity="sha384-rdyFrfAIC05c5ph7BKz3l5NG5yEottvO/DQ0dCrwD8gzeQDjYBHNr1ucUpQuljos" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+</head>
+<body>
+  <main>
+    <div id="welcome-pane" class="empty">
+      <div class="empty-icon">
+        <i class="fas fa-map-marked-alt fa-3x"></i>
+      </div>
+      <p class="empty-title h5">Welcome to IL-2 Map Tools</p>
+      <p class="empty-subtitle">Select location to start</p>
+      <div class="empty-action">
+        <button id="locations-browser-open-btn" class="btn btn-primary btn-dashboard" title="Click to browse locations">
+          <i class="fas fa-globe"></i> Browse locations
+        </button>
+      </div>
+    </div>
+    <div id="viewport" class="d-none"></div>
+  </main>
+
+  <footer id="instrument-panel" class="d-none">
+    <span id="locations-browser-open-btn-placeholder"></span>
+    <var id="location-title"></var>
+    <span class="float-right controls">
+      <button class="btn btn-dashboard disabled"><i class="fas fa-drafting-compass"></i></button>
+      <button class="btn btn-dashboard disabled"><i class="fas fa-layer-group"></i></button>
+
+      <div class="popover">
+        <button class="btn btn-dashboard"><i class="fas fa-balance-scale"></i></button>
+        <div class="popover-container" id="instrument-panel-units-popover">
+          <div class="card">
+            <div class="card-header">
+              <div class="card-title h5">Measurement Units</div>
+            </div>
+            <div class="card-body">
+
+              <div class="unit-selection-row">
+                <div class="divider text-center" data-content="Distance"></div>
+                <div class="location-info-form container">
+                  <div class="location-info text-right unit-selection-option">Metric</div>
+                  <div class="location-info">
+                    <label class="form-switch unit-selection-switch">
+                      <input id="distance-measurement-unit-ctrl" type="checkbox"><i class="form-icon"></i>
+                    </label>
+                  </div>
+                  <div class="location-info text-left unit-selection-option">Imperial</div>
+                </div>
+              </div>
+
+              <div class="unit-selection-row">
+                <div class="divider text-center" data-content="Temperature"></div>
+                <div class="location-info-form container">
+                  <div class="location-info text-right unit-selection-option">Celsius</div>
+                  <div class="location-info">
+                    <label class="form-switch unit-selection-switch">
+                      <input id="temperature-measurement-unit-ctrl" type="checkbox"><i class="form-icon"></i>
+                    </label>
+                  </div>
+                  <div class="location-info text-left unit-selection-option">Fahrenheit</div>
+                </div>
+              </div>
+            </div>
+            <div class="card-footer"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="popover">
+        <button class="btn btn-dashboard"><i class="fas fa-info-circle"></i></button>
+        <div class="popover-container" id="instrument-panel-info-popover">
+          <div class="card">
+            <div class="card-header">
+              <div class="card-title h5" id="location-name">Location Name</div>
+              <div class="card-subtitle text-gray" id="location-description">Location Description</div>
+            </div>
+            <div class="card-body">
+              <div class="location-info-form container">
+                <div class="location-info-pad"></div>
+                <div class="location-info-measure text-center">
+                  <div class=""><i class="fas fa-arrows-alt-h"></i></div>
+                  <div class=""><i class="fas fa-arrows-alt-v"></i></div>
+                  <div class=""><i class="fas fa-mountain"></i></div>
+                  <div class=""><i class="fas fa-temperature-low" style="left:4px;position:relative;"></i></div>
+                  <div class=""><i class="fas fa-weight"></i></div>
+                </div>
+                <div class="location-info-value text-right">
+                  <div id="location-info-dim-max-x-value">N/A</div>
+                  <div id="location-info-dim-max-y-value">N/A</div>
+                  <div id="location-info-dim-max-z-value">N/A</div>
+                  <div id="location-info-air-temperature-value">N/A</div>
+                  <div id="location-info-air-pressure-value">N/A</div>
+                </div>
+                <div class="location-info-unit text-left">
+                  <div id="location-info-dim-max-x-unit" class="unit-distance-large">km</div>
+                  <div id="location-info-dim-max-y-unit" class="unit-distance-large">km</div>
+                  <div id="location-info-dim-max-z-unit" class="unit-distance-short">m</div>
+                  <div id="location-info-air-temperature-unit" class="unit-air-temperature">°C</div>
+                  <div id="location-info-air-pressure-unit" class="unit-air-pressure">mmHg</div>
+                </div>
+                <div class="location-info-pad"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </span>
+  </footer>
+
+  <div class="modal modal-lg" id="locations-browser">
+    <div class="modal-overlay"></div>
+    <div class="modal-container">
+      <div class="modal-header">
+        <button class="btn btn-clear float-right" id="locations-browser-close-btn"></button>
+        <div class="modal-title h5">Browse locations</div>
+      </div>
+      <div class="modal-prebody"></div>
+      <div class="modal-body">
+        <div class="content">
+          <div class="container">
+            <div id="locations-list" class="columns">
+
+              <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-3">
+                <ul class="nav">
+                  <li class="divider text-center" data-content="Eastern Europe"></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Balaton
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#balaton-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#balaton-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#berlin" class="locations-list-item">Berlin</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Bessarabia
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#bessarabia-full" class="locations-list-item">Full</a></li>
+                          <li class="nav-item multi-variant"><a href="#bessarabia-iasi" class="locations-list-item">Iasi</a></li>
+                          <li class="nav-item multi-variant"><a href="#bessarabia-odessa" class="locations-list-item">Odessa</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#black-sea" class="locations-list-item">Black Sea</a></li>
+                  <li class="nav-item single-variant"><a href="#crimea" class="locations-list-item">Crimea</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Donbass
+                        <span class="label label-success label-rounded locations-list-item-badge">4.14</span>
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#donbass-spring" class="locations-list-item">Spring</a></li>
+                          <li class="nav-item multi-variant"><a href="#donbass-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#donbass-autumn" class="locations-list-item">Autumn</a></li>
+                          <li class="nav-item multi-variant"><a href="#donbass-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Gulf of Finland
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#gulf-of-finland-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#gulf-of-finland-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Kurland
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#kurland-default" class="locations-list-item">Default</a></li>
+                          <li class="nav-item multi-variant"><a href="#kurland-online" class="locations-list-item">Online</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#kursk" class="locations-list-item">Kursk</a></li>
+                  <li class="nav-item single-variant"><a href="#kyiv" class="locations-list-item">Kyiv</a></li>
+                  <li class="nav-item single-variant"><a href="#lviv" class="locations-list-item">Lviv</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Moscow
+                        <span class="label label-success label-rounded locations-list-item-badge">4.14</span>
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#moscow-spring" class="locations-list-item">Spring</a></li>
+                          <li class="nav-item multi-variant"><a href="#moscow-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#moscow-autumn" class="locations-list-item">Autumn</a></li>
+                          <li class="nav-item multi-variant"><a href="#moscow-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Moscow Region
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#moscow-region-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#moscow-region-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Murmansk
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#murmansk-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#murmansk-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#prokhorovka" class="locations-list-item">Prokhorovka</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Slovakia
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#slovakia-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#slovakia-summer-online" class="locations-list-item">Summer (online)</a></li>
+                          <li class="nav-item multi-variant"><a href="#slovakia-autumn" class="locations-list-item">Autumn</a></li>
+                          <li class="nav-item multi-variant"><a href="#slovakia-winter" class="locations-list-item">Winter</a></li>
+                          <li class="nav-item multi-variant"><a href="#slovakia-winter-online" class="locations-list-item">Winter (online)</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+
+                  <li class="nav-item single-variant"><a href="##" class="locations-list-item">Smolensk</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Stalingrad
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#stalingrad-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#stalingrad-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-3">
+                <ul class="nav">
+                  <li class="divider text-center" data-content="Pacific"></li>
+                  <li class="nav-item single-variant"><a href="#chichijima" class="locations-list-item">Chichijima</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Coral Sea
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#coral-sea-online-1" class="locations-list-item">Online 1</a></li>
+                          <li class="nav-item multi-variant"><a href="#coral-sea-online-2" class="locations-list-item">Online 2</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Guadalcanal
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#guadalcanal-default" class="locations-list-item">Default</a></li>
+                          <li class="nav-item multi-variant"><a href="#guadalcanal-early" class="locations-list-item">Early</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#hawaii" class="locations-list-item">Hawaii</a></li>
+                  <li class="nav-item single-variant"><a href="#iwo-jima" class="locations-list-item">Iwo Jima</a></li>
+                  <li class="nav-item single-variant"><a href="#kyushu" class="locations-list-item">Kyushu</a></li>
+                  <li class="nav-item single-variant"><a href="#mariana-islands" class="locations-list-item">Mariana Islands</a></li>
+                  <li class="nav-item single-variant"><a href="#midway" class="locations-list-item">Midway</a></li>
+                  <li class="nav-item single-variant"><a href="#new-guinea" class="locations-list-item">New Guinea</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        New Britain &amp; New Guinea
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#nbng-43-mar" class="locations-list-item">March 1943</a></li>
+                          <li class="nav-item multi-variant"><a href="#nbng-43-sep" class="locations-list-item">September 1943</a></li>
+                          <li class="nav-item multi-variant"><a href="#nbng-44-jan" class="locations-list-item">January 1944</a></li>
+                          <li class="nav-item multi-variant"><a href="#nbng-44-jun" class="locations-list-item">June 1944</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#okinawa" class="locations-list-item">Okinawa</a></li>
+                  <li class="nav-item single-variant"><a href="#pacific-islands" class="locations-list-item">Pacific Islands</a><span class="label label-success label-rounded locations-list-item-badge">4.14</span></li>
+                  <li class="nav-item single-variant"><a href="#palau" class="locations-list-item">Palau</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Singapore
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#singapore-1" class="locations-list-item">Variant 1</a></li>
+                          <li class="nav-item multi-variant"><a href="#singapore-2" class="locations-list-item">Variant 2</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Solomon Islands
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#solomon-islands-42-aug" class="locations-list-item">August 1942</a></li>
+                          <li class="nav-item multi-variant"><a href="#solomon-islands-42-oct" class="locations-list-item">October 1942</a></li>
+                          <li class="nav-item multi-variant"><a href="#solomon-islands-42-dec" class="locations-list-item">December 1942</a></li>
+                          <li class="nav-item multi-variant"><a href="#solomon-islands-43-jul" class="locations-list-item">July 1943</a></li>
+                          <li class="nav-item multi-variant"><a href="#solomon-islands-43-oct" class="locations-list-item">October 1943</a></li>
+                          <li class="nav-item multi-variant"><a href="#solomon-islands-44-jan" class="locations-list-item">January 1944</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#tarawa" class="locations-list-item">Tarawa</a></li>
+                  <li class="nav-item single-variant"><a href="#wake" class="locations-list-item">Wake</a></li>
+                </ul>
+              </div>
+
+              <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-3">
+                <ul class="nav">
+                  <li class="divider text-center" data-content="Other"></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Arctic
+                        <span class="label label-success label-rounded locations-list-item-badge">4.14</span>
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#arctic-41-summer" class="locations-list-item">Summer 1941</a></li>
+                          <li class="nav-item multi-variant"><a href="#arctic-42-44-summer" class="locations-list-item">Summer 1942-44</a></li>
+                          <li class="nav-item multi-variant"><a href="#arctic-41-winter" class="locations-list-item">Winter 1941</a></li>
+                          <li class="nav-item multi-variant"><a href="#arctic-42-44-winter" class="locations-list-item">Winter 1942-44</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#franz-josef-land" class="locations-list-item">Franz Josef Land</a><span class="label label-success label-rounded locations-list-item-badge">4.14</span></li>
+                  <li class="nav-item single-variant"><a href="#sands-of-time" class="locations-list-item">Sands of Time</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Online 1
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#online-1-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#online-1-winter" class="locations-list-item">Winter</a></li>
+                          <li class="nav-item multi-variant"><a href="#online-1-islands" class="locations-list-item">Islands</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Online 2
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#online-2-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#online-2-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#online-3" class="locations-list-item">Online 3</a></li>
+                  <li class="nav-item single-variant"><a href="#online-4" class="locations-list-item">Online 4 (mountains)</a></li>
+                  <li class="nav-item single-variant"><a href="#online-5" class="locations-list-item">Online 5</a></li>
+                  <li class="nav-item single-variant"><a href="#online-6" class="locations-list-item">Online 6 (islands)</a></li>
+                  <li class="nav-item single-variant"><a href="#online-7" class="locations-list-item">Online 7 (islands)</a></li>
+                  <li class="nav-item single-variant"><a href="#online-8" class="locations-list-item">Online 8 (Pacific islands)</a></li>
+                  <li class="nav-item single-variant"><a href="#online-8a" class="locations-list-item">Online 8a (Pacific islands)</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Online 9a (empty)
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#online-9a-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#online-9a-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Online 9b (empty)
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#online-9b-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#online-9b-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Online 10a (empty)
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#online-10a-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#online-10a-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Online 10b (empty)
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#online-10b-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#online-10b-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#online-11a-empty" class="locations-list-item">Online 11a (empty)</a></li>
+                  <li class="nav-item single-variant"><a href="#online-11b-empty" class="locations-list-item">Online 11b (empty)</a></li>
+                </ul>
+              </div>
+
+              <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-3">
+                <ul class="nav">
+                  <li class="divider text-center" data-content="Europe"></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Ardennes
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#ardennes-summer" class="locations-list-item">Summer</a></li>
+                          <li class="nav-item multi-variant"><a href="#ardennes-winter" class="locations-list-item">Winter</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Normandy
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#normandy-1" class="locations-list-item">Variant 1</a></li>
+                          <li class="nav-item multi-variant"><a href="#normandy-2" class="locations-list-item">Variant 2</a></li>
+                          <li class="nav-item multi-variant"><a href="#normandy-3" class="locations-list-item">Variant 3</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#norway" class="locations-list-item">Norway</a></li>
+                  <li class="nav-item single-variant"><a href="#svalbard" class="locations-list-item">Svalbard</a></li>
+                </ul>
+              </div>
+
+              <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-3">
+                <ul class="nav">
+                  <li class="divider text-center" data-content="Mediterranean"></li>
+                  <li class="nav-item single-variant"><a href="#italy" class="locations-list-item">Italy</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Mediterranean
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#mediterranean-default" class="locations-list-item">Default</a></li>
+                          <li class="nav-item multi-variant"><a href="#mediterranean-light" class="locations-list-item">Light</a></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#tobruk" class="locations-list-item">Tobruk</a></li>
+                </ul>
+              </div>
+
+              <div class="column col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-3">
+                <ul class="nav">
+                  <li class="divider text-center" data-content="Southeast Asia"></li>
+                  <li class="nav-item single-variant"><a href="#burma" class="locations-list-item">Burma</a></li>
+                  <li class="nav-item">
+                    <details class="accordion">
+                      <summary class="accordion-header">
+                        <i class="icon icon-arrow-right mr-1"></i>
+                        Khalkhyn Gol
+                        <i class="fas fa-dot-circle text-success locations-list-item-badge"></i>
+                      </summary>
+                      <div class="accordion-body">
+                        <ul class="nav">
+                          <li class="nav-item multi-variant"><a href="#khalkhyn-gol-default" class="locations-list-item">Default</a></li>
+                          <li class="nav-item multi-variant"><a href="#khalkhyn-gol-1939-summer" class="locations-list-item">Summer 1939</a><span class="label label-success label-rounded locations-list-item-badge">4.14</span></li>
+                        </ul>
+                      </div>
+                    </details>
+                  </li>
+                  <li class="nav-item single-variant"><a href="#manchuria" class="locations-list-item">Manchuria</a></li>
+                </ul>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer"></div>
+    </div>
+  </div>
+  <script src="js/scripts.js"></script>
+</body>
+</html>

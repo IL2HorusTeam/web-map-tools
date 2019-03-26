@@ -1,0 +1,17 @@
+$content-width-max:    1440;
+$content-width-max-px: $content-width-max + 0px;
+
+$content-cols-count-max: 4;
+
+$screen-width-step:    256;
+$screen-width-step-px: $screen-width-step + 0px;
+
+$outer-padding:    0.8rem;
+$outer-padding-x2: $outer-padding * 2;
+$outer-padding-x3: $outer-padding * 3;
+
+:export {
+  contentWidthMax:     $content-width-max;
+  contentColsCountMax: $content-cols-count-max;
+  screenWidthStep:     $screen-width-step;
+}
