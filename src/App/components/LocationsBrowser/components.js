@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import "./styles/index.scss";
 import StylesVariables from "./styles/variables.scss"
 
-import { Seasons, TagCategories, Theaters } from "../../constants";
+import { Theaters } from "locations/catalog.yaml";
 
 
 export default class LocationsBrowserWindow extends Component {
@@ -34,16 +34,14 @@ class LocationsBrowserContaiter extends Component {
 
 class LocationsBrowserHeader extends Component {
   render() {
-    let children = [
-      React.createElement("h4", null, "Locations Browser"),
-    ];
     return React.createElement(
       'div',
       {className: "LocationsBrowser-Header"},
-      ...children
+      React.createElement("h4", null, "Locations Browser"),
     );
   }
 }
+
 
 class LocationsBrowserBody extends Component {
   render() {
@@ -214,7 +212,7 @@ class TheaterBody extends Component {
 
       let type;
 
-      if (location.variants.length > 1) {
+      if (location.variants && location.variants.length > 1) {
         type = MultiVariantLocation;
         props['variants'] = location.variants;
       } else {

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "./styles.css";
+import "App/components/styles.css";
 
 import LocationsBrowserWindow from "./LocationsBrowser/components.js";
 import Workspace from "./Workspace/components";
