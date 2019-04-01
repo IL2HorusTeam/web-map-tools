@@ -7,6 +7,8 @@ import { Provider } from "react-redux";
 
 import "./styles.scss";
 
+import { Theaters } from "IL2MapTools/locations/catalog.yaml";
+
 import App from "./App/components";
 import { makeListenerWindowSizeChanged } from "./Window/listeners";
 import configureStore from "./store";
@@ -20,7 +22,9 @@ const store = configureStore();
 const app = React.createElement(
   Provider,
   {store: store},
-  React.createElement(App, null),
+  React.createElement(App, {
+    theaters: Theaters,
+  }),
 );
 
 
