@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 
-import "App/components/styles.css";
+import "./styles.scss";
 
-import LocationsBrowserWindow from "./LocationsBrowser/components.js";
+import LocationsBrowserWindow from "./LocationsBrowser/components";
 import Workspace from "./Workspace/components";
 
 

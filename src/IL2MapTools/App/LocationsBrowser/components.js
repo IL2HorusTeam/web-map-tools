@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import "./styles/index.scss";
 import StylesVariables from "./styles/variables.scss"
 
-import { Theaters } from "locations/catalog.yaml";
+import { Theaters } from "IL2MapTools/locations/catalog.yaml";
 
 
 export default class LocationsBrowserWindow extends Component {
