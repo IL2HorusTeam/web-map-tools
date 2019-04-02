@@ -5,14 +5,15 @@ import { makeActionWindowSizeChangedAck } from "./actions";
 import { WINDOW_SIZE_CHANGED } from "./types";
 
 
-const windowEpic = actionStream => actionStream.pipe(
-  ofType(WINDOW_SIZE_CHANGED),
-  debounceTime(500),
-  map(action => makeActionWindowSizeChangedAck(
-    action.payload.width,
-    action.payload.height,
-  )),
-);
-
-
-export default windowEpic;
+export default function makeWindowEpic() {
+  return function windowEpic(actionStream) {
+    return actionStream.pipe(
+      ofType(WINDOW_SIZE_CHANGED),
+      debounceTime(500),
+      map((action) => makeActionWindowSizeChangedAck(
+        action.payload.width,
+        action.payload.height,
+      )),
+    );
+  };
+}

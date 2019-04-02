@@ -1,6 +1,7 @@
 import { createAction } from "redux-actions";
 
-import { WINDOW_SIZE_CHANGED, WINDOW_SIZE_CHANGED_ACK } from "./types";
+import { WINDOW_SIZE_CHANGED } from "./types";
+import { WINDOW_SIZE_CHANGED_ACK } from "./types";
 
 
 export const makeActionWindowSizeChanged = createAction(

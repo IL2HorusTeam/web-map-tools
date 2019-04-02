@@ -17,7 +17,7 @@ export default class TheaterBody extends Component {
 
       let componentType;
 
-      if (location.variants && location.variants.length > 1) {
+      if (location.variants && location.variants.length) {
         componentType = MultipleVariantLocation;
         props['variants'] = location.variants;
       } else {

@@ -1,7 +1,7 @@
 Theaters:
   - title: Eastern Europe
     id:    eastern-europe
-    explorerPriority: 1
+    displayOrder: 1
     locations:
 
       - title: Balaton
@@ -23,29 +23,22 @@ Theaters:
         zoom:
           min: 0
           max: 3
-        variants:
-          - season: summer
-            air:
-              temperature: ~
-              pressure:    ~
+        season: summer
 
       - title: Bessarabia
         id:    bessarabia
         variants:
-          - title:  Bessarabia (full map)
-            id:     full
-            season: ~
-          - title: Iasi
+          - title: Full Map
+            id:    full
+          - title: Iasi Region
             id:    iasi
-            season: ~
             subregion:
               north: ~
               south: ~
               east:  ~
               west:  ~
-          - title: Odessa
+          - title: Odessa Region
             id:    odessa
-            season: ~
             subregion:
               north: ~
               south: ~
@@ -54,11 +47,9 @@ Theaters:
 
       - title: Black Sea
         id:    black-sea
-        variants: ~
 
       - title: Crimea
         id:    crimea
-        variants: ~
 
       - title: Donbass
         id:    donbass
@@ -92,12 +83,10 @@ Theaters:
       - title: Kurland
         id:    kurland
         variants:
-          - title:  default
-            id:     default
-            season: ~
-          - title:  online
-            id:     online
-            season: ~
+          - title: default
+            id:    default
+          - title: online
+            id:    online
 
       - title: Kursk
         id:    kursk
@@ -105,11 +94,9 @@ Theaters:
 
       - title: Kyiv
         id:    kyiv
-        variants: ~
 
       - title: Lviv
         id:    lviv
-        variants: ~
 
       - title: Moscow
         id:    moscow
@@ -152,7 +139,6 @@ Theaters:
 
       - title: Prokhorovka
         id:    prokhorovka
-        variants: ~
 
       - title: Slovakia
         id:    slovakia
@@ -175,7 +161,6 @@ Theaters:
 
       - title: Smolensk
         id:    smolensk
-        variants: ~
 
       - title: Stalingrad
         id:    stalingrad
@@ -189,48 +174,39 @@ Theaters:
 
   - title: Pacific
     id:    pacific
-    explorerPriority: 2
+    displayOrder: 2
     locations:
 
       - title: Chichijima
         id:    chichijima
-        variants: ~
 
       - title: Coral Sea
         id:    coral-sea
         variants:
-          - title:  variant 1 (online)
-            id:     v1-online
-            season: ~
-          - title:  variant 2 (online)
-            id:     v2-online
-            season: ~
+          - title: variant 1 (online)
+            id:    v1-online
+          - title: variant 2 (online)
+            id:    v2-online
 
       - title: Guadalcanal
         id:    guadalcanal
         variants:
-          - title:  variant 1 (default)
-            id:     default
-            season: ~
-          - title:  variant 2 (early)
-            id:     early
-            season: ~
+          - title: variant 1 (default)
+            id:    default
+          - title: variant 2 (early)
+            id:    early
 
       - title: Hawaii
         id:    hawaii
-        variants: ~
 
       - title: Iwo Jima
         id:    iwo-jima
-        variants: ~
 
       - title: Kyushu
         id:    kyushu
-        variants: ~
 
       - title: Mariana Islands
         id:    mariana-islands
-        variants: ~
 
       - title: Midway
         id:    midway
@@ -238,82 +214,64 @@ Theaters:
 
       - title: New Guinea
         id:    new-guine
-        variants: ~
 
       - title: New Britain & New Guinea
         id:    nbng
         variants:
-          - title:  1943 (March)
-            id:     43-mar
-            season: ~
-          - title:  1943 (September)
-            id:     43-sep
-            season: ~
-          - title:  1944 (January)
-            id:     44-jan
-            season: ~
-          - title:  1944 (June)
-            id:     44-jun
-            season: ~
+          - title: 1943 (March)
+            id:    43-mar
+          - title: 1943 (September)
+            id:    43-sep
+          - title: 1944 (January)
+            id:    44-jan
+          - title: 1944 (June)
+            id:    44-jun
 
       - title: Okinawa
         id:    okinawa
-        variants: ~
 
       - title: Pacific Islands
         id:    pacific-islands
         tags:
           - text:     4.14
             category: new
-        variants: ~
 
       - title: Palau
         id:    palau
-        variants: ~
 
       - title: Singapore
         id:    singapore
         variants:
-          - title:  variant 1
-            id:     v1
-            season: ~
-          - title:  variant 2
-            id:     v2
-            season: ~
+          - title: variant 1
+            id:    v1
+          - title: variant 2
+            id:    v2
 
       - title: Solomon Islands
         id:    solomon-islands
         variants:
-          - title:  1942 (August)
-            id:     42-aug
-            season: ~
-          - title:  1942 (October)
-            id:     42-oct
-            season: ~
-          - title:  1942 (December)
-            id:     42-dec
-            season: ~
-          - title:  1943 (July)
-            id:     43-jul
-            season: ~
-          - title:  1943 (October)
-            id:     43-oct
-            season: ~
-          - title:  1944 (January)
-            id:     44-jan
-            season: ~
+          - title: 1942 (August)
+            id:    42-aug
+          - title: 1942 (October)
+            id:    42-oct
+          - title: 1942 (December)
+            id:    42-dec
+          - title: 1943 (July)
+            id:    43-jul
+          - title: 1943 (October)
+            id:    43-oct
+          - title: 1944 (January)
+            id:    44-jan
 
       - title: Tarawa
         id:    tarawa
-        variants: ~
 
       - title: Wake
         id:    wake
-        variants: ~
 
   - title: Europe
     id:    europe
-    explorerPriority: 3
+    displayOrder: 3
     locations:
 
       - title: Ardennes
@@ -329,76 +287,63 @@ Theaters:
       - title: Normandy
         id:    normandy
         variants:
-          - title:  variant 1
-            id:     v1
-            season: ~
-          - title:  variant 2
-            id:     v2
-            season: ~
-          - title:  variant 3
-            id:     v3
-            season: ~
+          - title: variant 1
+            id:    v1
+          - title: variant 2
+            id:    v2
+          - title: variant 3
+            id:    v3
 
       - title: Norway
         id:    norway
-        variants: ~
 
       - title: Svalbard
         id:    svalbard
-        variants: ~
 
   - title: Mediterranean
     id:    mediterranean
-    explorerPriority: 3
+    displayOrder: 3
     locations:
 
       - title: Italy
         id:    italy
-        variants: ~
 
       - title: Mediterranean
         id:    mediterranean
         variants:
-          - title:  variant 1 (default)
-            id:     default
-            season: ~
-          - title:  variant 2 (light)
-            id:     light
-            season: ~
+          - title: variant 1 (default)
+            id:    default
+          - title: variant 2 (light)
+            id:    light
 
       - title: Tobruk
         id:    tobruk
-        variants: ~
 
   - title: Southeast Asia
     id:    southeast-asia
-    explorerPriority: 3
+    displayOrder: 3
     locations:
 
       - title: Burma
         id:    burma
-        variants: ~
 
       - title: Khalkhyn Gol
         id:    khalkhyn-gol
         variants:
-          - title:  variant 1 (default)
-            id:     default
-            season: ~
-          - title:  variant 2 (1939, summer)
-            id:     39-summer
-            season: ~
+          - title: variant 1 (default)
+            id:    default
+          - title: variant 2 (1939, summer)
+            id:    39-summer
             tags:
               - text:     4.14
                 category: new
 
       - title: Manchuria
         id:    manchuria
-        variants: ~
 
   - title: Other
     id:    other
-    explorerPriority: 0xFF
+    displayOrder: 0xFF
     locations:
 
       - title: Arctic
@@ -425,11 +370,9 @@ Theaters:
         tags:
           - text:     4.14
             category: new
-        variants: ~
 
       - title: Sands of Time
         id:    sands-of-time
-        variants: ~
 
       - title: Online 1
         id:    online-1
@@ -442,7 +385,6 @@ Theaters:
             season: winter
           - title:  islands
             id:     islands
-            season: ~
 
       - title: Online 2
         id:    online-2
@@ -456,31 +398,24 @@ Theaters:
 
       - title: Online 3
         id:    online-3
-        variants: ~
 
       - title: Online 4 (mountains)
         id:    online-4
-        variants: ~
 
       - title: Online 5
         id:    online-5
-        variants: ~
 
       - title: Online 6 (islands)
         id:    online-6
-        variants: ~
 
       - title: Online 7 (islands)
         id:    online-7
-        variants: ~
 
       - title: Online 8 (Pacific islands)
         id:    online-8
-        variants: ~
 
       - title: Online 8a (Pacific islands)
         id:    online-8a
-        variants: ~
 
       - title: Online 9a (empty)
         id:    online-9a
@@ -524,8 +459,6 @@ Theaters:
 
       - title: Online 11a (empty)
         id:    online-11a
-        variants: ~
 
       - title: Online 11b (empty)
         id:    online-11b
-        variants: ~

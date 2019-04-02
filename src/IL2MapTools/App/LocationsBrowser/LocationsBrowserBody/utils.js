@@ -1,6 +1,6 @@
 export function spreadTheatersAcrossColumns(theaters, columnsCount) {
   theaters = theaters.slice();
-  sortTheatersBySizeDescByPriorityAscByTitleAsc(theaters);
+  sortTheatersBySizeDescByOrderAscByTitleAsc(theaters);
 
   let columns = makeEmptyColumns(columnsCount);
 
@@ -10,25 +10,25 @@ export function spreadTheatersAcrossColumns(theaters, columnsCount) {
     column.items.push(theater);
     column.length = column.length + theater.locations.length;
 
-    if ((Number.MAX_SAFE_INTEGER - theater.priority) < column.priority) {
-      column.priority = Number.MAX_SAFE_INTEGER;
+    if ((Number.MAX_SAFE_INTEGER - theater.order) < column.order) {
+      column.order = Number.MAX_SAFE_INTEGER;
     } else {
-      column.priority += theater.priority;
+      column.order += theater.order;
     }
   }
 
-  sortColumnsByPriorityAscBySizeDesc(columns);
+  sortColumnsByOrderAscBySizeDesc(columns);
   return pluckColumnItems(columns);
 }
 
 
-function sortTheatersBySizeDescByPriorityAscByTitleAsc(theaters) {
+function sortTheatersBySizeDescByOrderAscByTitleAsc(theaters) {
   theaters.sort((a, b) => {
     if (a.locations.length > b.locations.length) {return -1;}
     if (a.locations.length < b.locations.length) {return 1;}
 
-    if (a.priority < b.priority) {return -1;}
-    if (a.priority > b.priority) {return  1;}
+    if (a.order < b.order) {return -1;}
+    if (a.order > b.order) {return  1;}
 
     if (a.title < b.title) {return -1;}
     if (a.title > b.title) {return  1;}
@@ -42,9 +42,9 @@ function makeEmptyColumns(count) {
   let columns = new Array(count);
   for (var i = 0; i < count; ++i) {
     columns[i] = {
-      items:    [],
-      length:   0,
-      priority: 0,
+      items:  [],
+      length: 0,
+      order:  0,
     };
   }
   return columns;
@@ -68,10 +68,10 @@ function getMostSuitableColumnForTheater(columns, theater) {
 }
 
 
-function sortColumnsByPriorityAscBySizeDesc(columns) {
+function sortColumnsByOrderAscBySizeDesc(columns) {
   columns.sort((a, b) => {
-    if (a.priority < b.priority) {return -1;}
-    if (a.priority > b.priority) {return  1;}
+    if (a.order < b.order) {return -1;}
+    if (a.order > b.order) {return  1;}
 
     if (a.length > b.length) {return -1;}
     if (a.length < b.length) {return  1;}

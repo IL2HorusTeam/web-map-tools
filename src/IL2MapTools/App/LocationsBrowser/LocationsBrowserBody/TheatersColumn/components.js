@@ -2,14 +2,14 @@ import React, { Component } from "react";
 
 import "./styles.scss";
 
-import { sortTheatersByPriorityAscByTitleAsc } from "./utils";
+import { sortTheatersByOrderAscByTitleAsc } from "./utils";
 import Theater from "./Theater/components";
 
 
 export default class TheatersColumn extends Component {
   render() {
     let theaters = this.props.theaters.slice();
-    sortTheatersByPriorityAscByTitleAsc(theaters);
+    sortTheatersByOrderAscByTitleAsc(theaters);
 
     let theatersAsComponents = theaters.map((theater) => {
       return React.createElement(Theater, {

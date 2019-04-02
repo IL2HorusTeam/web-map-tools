@@ -1,11 +1,12 @@
 import { combineEpics } from 'redux-observable';
 
-import windowEpic from "./Window/epics";
+import makeAppEpic from "./App/epics";
+import makeWindowEpic from "./Window/epics";
 
 
-const rootEpic = combineEpics(
-  windowEpic,
-);
-
-
-export default rootEpic;
+export function makeRootEpic(locationVariants) {
+  return combineEpics(
+    makeAppEpic(locationVariants),
+    makeWindowEpic(),
+  );
+}

@@ -1,10 +1,10 @@
-export function pluckLocationsBrowserTheaters(theaters) {
+export function locationsBrowserTheatersFromTree(theaters) {
   return theaters.map((theater) => {
 
     return {
-      title:    theater.title,
-      id:       theater.id,
-      priority: theater.explorerPriority,
+      title: theater.title,
+      id:    theater.id,
+      order: theater.displayOrder,
 
       locations: theater.locations.map((location) => {
         return {
@@ -15,14 +15,13 @@ export function pluckLocationsBrowserTheaters(theaters) {
           variants: (
                location.variants
             && location.variants.map((locationVariant) => {
-            return {
-              title:  locationVariant.title,
-              id:     locationVariant.id,
-              season: locationVariant.season,
-              tags:   locationVariant.tags,
-            };
-          })
-        ),
+              return {
+                title: locationVariant.title,
+                id:    locationVariant.id,
+                tags:  locationVariant.tags,
+              };
+            })
+          ),
 
         };
       }),
