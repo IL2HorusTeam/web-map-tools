@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import "./styles.scss";
+
 import { sortTheatersByPriorityAscByTitleAsc } from "./utils";
 import Theater from "./Theater/components";
 

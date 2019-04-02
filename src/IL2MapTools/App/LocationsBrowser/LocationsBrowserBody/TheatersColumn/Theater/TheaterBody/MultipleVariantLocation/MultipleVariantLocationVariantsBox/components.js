@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import "./styles.scss";
+
 import MultipleVariantLocationVariant from "./MultipleVariantLocationVariant/components";
 
 
@@ -15,7 +17,7 @@ export default class MultipleVariantLocationVariantsBox extends Component {
     });
     return React.createElement(
       'div',
-      {className: "LocationsBrowser-MultipleVariantLocationVariants"},
+      {className: "LocationsBrowser-MultipleVariantLocationVariantsBox"},
       ...variantsComponents,
     );
   }

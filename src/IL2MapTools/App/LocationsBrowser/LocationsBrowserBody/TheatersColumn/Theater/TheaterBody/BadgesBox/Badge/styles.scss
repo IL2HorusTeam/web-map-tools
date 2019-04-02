@@ -1,0 +1,21 @@
+.Badge {
+  display: inline-block;
+  font-weight: bold;
+  font-size: .5em;
+  height: .9em;
+  line-height: 1em;
+  min-width: .9em;
+  padding: .3em .4em .4em .35em;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: top;
+  background-clip: padding-box;
+  border-radius: .5rem;
+  box-shadow: 0 0 0 .1rem #fff;
+  margin-top: -0.6em;
+
+  &.new {
+    color: white;
+    background-color: #27b83b;
+  }
+}

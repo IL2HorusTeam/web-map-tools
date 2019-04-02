@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import "./styles.scss";
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import TagsBox from "../../TagsBox/components";

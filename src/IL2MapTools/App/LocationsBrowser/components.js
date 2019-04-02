@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 
-import "./styles/index.scss";
-import StylesVariables from "./styles/variables.scss";
+import "./styles.scss";
+import StylesVariables from "./stylesVariables.scss";
 
 import LocationsBrowserHeader from "./LocationsBrowserHeader/components";
 import LocationsBrowserBody from "./LocationsBrowserBody/components";

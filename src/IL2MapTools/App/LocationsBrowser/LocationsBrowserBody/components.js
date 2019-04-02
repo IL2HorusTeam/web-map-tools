@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import "./styles.scss";
+
 import { spreadTheatersAcrossColumns } from "./utils";
 import TheatersColumn from "./TheatersColumn/components";
 

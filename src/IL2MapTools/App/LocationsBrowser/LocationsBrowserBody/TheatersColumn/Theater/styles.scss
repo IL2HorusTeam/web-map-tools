@@ -1,0 +1,6 @@
+@import "../styles";
+
+
+.LocationsBrowser-Theater + .LocationsBrowser-Theater {
+  margin-top: $outer-padding-x5;
+}

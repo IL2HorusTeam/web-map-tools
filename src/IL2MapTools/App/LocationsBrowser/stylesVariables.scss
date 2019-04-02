@@ -9,6 +9,8 @@ $screen-width-step-px: $screen-width-step + 0px;
 $outer-padding:    0.8rem;
 $outer-padding-x2: $outer-padding * 2;
 $outer-padding-x3: $outer-padding * 3;
+$outer-padding-x4: $outer-padding * 4;
+$outer-padding-x5: $outer-padding * 5;
 
 :export {
   contentWidthMax:     $content-width-max;

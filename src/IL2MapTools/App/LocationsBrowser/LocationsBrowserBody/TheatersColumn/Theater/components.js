@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import "./styles.scss";
+
 import TheaterHeader from "./TheaterHeader/components";
 import TheaterBody from "./TheaterBody/components";
 

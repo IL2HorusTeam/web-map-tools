@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import "./styles.scss";
+
 import MultipleVariantLocation from "./MultipleVariantLocation/components";
 import SingleVariantLocation from "./SingleVariantLocation/components";
 

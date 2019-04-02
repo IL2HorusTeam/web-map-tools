@@ -1,0 +1,30 @@
+@import "../styles";
+
+.LocationsBrowser-Body {
+  width:       100%;
+  margin:      0 0 $outer-padding 0;
+  padding:     0 $outer-padding;
+  box-sizing:  border-box;
+  flex-grow:   1;
+  flex-shrink: 1;
+  overflow-y:  scroll;
+  scrollbar-width: none;
+
+  background: linear-gradient(white $outer-padding, hsla(0,0%,100%,0)) 0 0 / 100% 50px,
+  	          radial-gradient(at top, rgba(0,0,0,.2), transparent 70%) 0 0 / 100% $outer-padding,
+  	          linear-gradient(to top, white $outer-padding, hsla(0,0%,100%,0)) bottom / 100% 50px,
+  	          radial-gradient(at bottom, rgba(0,0,0,.2), transparent 70%) bottom / 100% $outer-padding;
+  background-repeat: no-repeat;
+  background-attachment: local, scroll, local, scroll;
+
+  &::-webkit-scrollbar { /* WebKit */
+      width:  0;
+      height: 0;
+  }
+}
+
+
+.LocationsBrowser-Content {
+  display: flex;
+  margin: $outer-padding-x2 0;
+}

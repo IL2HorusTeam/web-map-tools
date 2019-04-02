@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import "./styles.scss";
+
 import MultipleVariantLocationSummary from "./MultipleVariantLocationSummary/components";
 import MultipleVariantLocationVariantsBox from "./MultipleVariantLocationVariantsBox/components";
 

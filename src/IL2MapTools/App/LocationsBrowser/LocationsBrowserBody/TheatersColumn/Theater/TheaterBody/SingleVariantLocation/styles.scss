@@ -1,0 +1,6 @@
+@import "../styles";
+
+.LocationsBrowser-SingleVariantLocation {
+  @extend .LocationsBrowser-LocationsListItem;
+  @extend .LocationsBrowser-LocationsListLeafItem;
+}

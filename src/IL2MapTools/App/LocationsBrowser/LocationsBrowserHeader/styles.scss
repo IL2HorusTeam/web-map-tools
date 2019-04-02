@@ -1,0 +1,11 @@
+@import "../styles";
+
+
+.LocationsBrowser-Header {
+  width:        100%;
+  box-sizing:   border-box;
+  padding:      $outer-padding-x3 $outer-padding-x2;
+  padding-left: $outer-padding-x3 + 1.3rem;
+  flex-grow:    0;
+  flex-shrink:  0;
+}
