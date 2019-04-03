@@ -29,3 +29,15 @@ export function locationsBrowserTheatersFromTree(theaters) {
     };
   });
 }
+
+
+export function maybeGetArgsFromAddress() {
+  let hash = window.location.hash;
+  if (!hash) {
+    return;
+  }
+
+  let args = hash.substring(1).split("/");
+
+  // TODO:
+}

@@ -9,6 +9,7 @@ import { Provider } from "react-redux";
 import "./styles.scss";
 
 import App from "./App/components";
+import { makeActionApplicationLoaded } from "./App/actions";
 import { makeListenerWindowSizeChanged } from "./Window/listeners";
 import { makeRootEpic } from "./epics";
 import { configureStore } from "./store";
@@ -40,3 +41,5 @@ window.addEventListener(
   'resize',
   makeListenerWindowSizeChanged(store.dispatch),
 );
+
+store.dispatch(makeActionApplicationLoaded());

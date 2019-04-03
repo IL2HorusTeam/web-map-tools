@@ -1,8 +1,13 @@
 import { createAction } from "redux-actions";
 
+import { APPLICATION_LOADED } from "./types";
+
 import { LOCATION_VARIANT_SELECTED } from "./types";
 import { LOCATION_VARIANT_SELECTED_ACK } from "./types";
 import { LOCATION_VARIANT_SELECTED_REJECT } from "./types";
+
+
+export const makeActionApplicationLoaded = createAction(APPLICATION_LOADED);
 
 
 export const makeActionLocationVariantSelected = createAction(
