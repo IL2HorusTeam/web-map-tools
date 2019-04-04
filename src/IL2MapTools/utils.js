@@ -1,7 +1,8 @@
 import { library as FontAwesomeLibrary } from "@fortawesome/fontawesome-svg-core";
 import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 import { faCircleNotch } from "@fortawesome/free-solid-svg-icons";
-import { faGlobe  } from "@fortawesome/free-solid-svg-icons";
+import { faGlobe } from "@fortawesome/free-solid-svg-icons";
+import { faTimesCircle } from "@fortawesome/free-solid-svg-icons";
 
 import { Theaters } from "IL2MapTools/locations/catalog.yaml";
 
@@ -11,6 +12,7 @@ export function configureFontAwesome() {
     faChevronRight,
     faCircleNotch,
     faGlobe,
+    faTimesCircle,
   );
 }
 

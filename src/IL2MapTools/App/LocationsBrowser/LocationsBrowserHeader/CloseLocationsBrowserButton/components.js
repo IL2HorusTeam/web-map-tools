@@ -5,19 +5,19 @@ import "./styles.scss";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import { makeActionOpenLocationsBrowser } from "./actions";
+import { makeActionCloseLocationsBrowser } from "IL2MapTools/App/actions";
 
 
-class OpenLocationsBrowserButton extends Component {
+class CloseLocationsBrowserButton extends Component {
   render() {
     let icon = React.createElement(FontAwesomeIcon, {
-      icon:      "globe",
-      className: "OpenLocationsBrowserButton-Icon",
+      icon:      "times-circle",
+      className: "CloseLocationsBrowserButton-Icon",
     });
     return React.createElement(
       "div",
       {
-        className: "OpenLocationsBrowserButton",
+        className: "CloseLocationsBrowserButton",
         onClick:   this.props.onClick,
       },
       icon,
@@ -28,15 +28,15 @@ class OpenLocationsBrowserButton extends Component {
 
 function mapDispatchToProps(dispatch) {
   return {
-    onClick: () => {dispatch(makeActionOpenLocationsBrowser())},
+    onClick: () => {dispatch(makeActionCloseLocationsBrowser())},
   };
 }
 
 
-OpenLocationsBrowserButton = (
+CloseLocationsBrowserButton = (
   connect(null, mapDispatchToProps)
-  (OpenLocationsBrowserButton)
+  (CloseLocationsBrowserButton)
 );
 
 
-export default OpenLocationsBrowserButton;
+export default CloseLocationsBrowserButton;

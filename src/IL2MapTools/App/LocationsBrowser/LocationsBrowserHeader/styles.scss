@@ -8,4 +8,11 @@
   padding-left: $outer-padding-x3 + 1.3rem;
   flex-grow:    0;
   flex-shrink:  0;
+
+  display: flex;
+  justify-content: space-between;
+
+  h4 {
+    color: #3B4351;
+  }
 }

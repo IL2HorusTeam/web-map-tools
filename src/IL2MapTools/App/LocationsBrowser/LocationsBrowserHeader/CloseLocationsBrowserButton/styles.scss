@@ -1,0 +1,10 @@
+.CloseLocationsBrowserButton {
+  cursor: pointer;
+  color:  #3B4351;
+  font-size: 1.4rem;
+  margin: -0.05rem 0 -0.2rem 0;
+
+  &:hover {
+    color: HSL(200, 75%, 45%);
+  }
+}
