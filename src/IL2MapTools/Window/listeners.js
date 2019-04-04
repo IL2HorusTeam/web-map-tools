@@ -1,5 +1,4 @@
 import { makeActionWindowSizeChanged } from "./actions";
-import store from "IL2MapTools/store";
 
 
 export function makeListenerWindowSizeChanged(dispatch) {
