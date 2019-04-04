@@ -7,6 +7,7 @@ import { OPEN_LOCATIONS_BROWSER } from "./Workspace/InstrumentPanel/OpenLocation
 
 import { APPLICATION_LOADED } from "./types";
 import { APPLICATION_STATES } from "./types";
+import { CLOSE_LOCATIONS_BROWSER } from "./types";
 import { LOCATION_VARIANT_SELECTED_ACK } from "./types";
 
 import { maybeGetArgsFromAddress } from "./utils";
@@ -32,6 +33,9 @@ const appReducer = handleActions({
   }),
   OPEN_LOCATIONS_BROWSER: produce((draft, action) => {
     draft.state = APPLICATION_STATES.BROWSING_LOCATIONS;
+  }),
+  CLOSE_LOCATIONS_BROWSER: produce((draft, action) => {
+    draft.state = APPLICATION_STATES.USING_MAP;
   }),
 }, initialAppState);
 
