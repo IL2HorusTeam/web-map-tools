@@ -11,6 +11,7 @@ import "./styles.scss";
 import App from "./App/components";
 import { makeActionApplicationLoaded } from "./App/actions";
 import { makeListenerWindowSizeChanged } from "./Window/listeners";
+import { makeListenerKeyboardKeyPressed } from "./Keyboard/listeners";
 import { makeRootEpic } from "./epics";
 import { configureStore } from "./store";
 import { configureFontAwesome } from "./utils";
@@ -41,5 +42,10 @@ window.addEventListener(
   'resize',
   makeListenerWindowSizeChanged(store.dispatch),
 );
+
+window.addEventListener(
+  'keydown',
+  makeListenerKeyboardKeyPressed(store.dispatch),
+)
 
 store.dispatch(makeActionApplicationLoaded());
