@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 
-import './styles.css';
+import './styles.scss';
 
 import InstrumentPanel from "./InstrumentPanel/components.js";
 import Viewport from "./Viewport/components.js";
+
 
 class Workspace extends Component {
   render() {

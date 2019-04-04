@@ -39,8 +39,6 @@ function mapDispatchToProps(dispatch) {
 
 
 SingleVariantLocation = (
-  connect(
-    null,
-    mapDispatchToProps,
-  )(SingleVariantLocation)
+  connect(null, mapDispatchToProps)
+  (SingleVariantLocation)
 );

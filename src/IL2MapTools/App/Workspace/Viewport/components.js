@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import './styles.css';
+import './styles.scss';
 
 class Viewport extends Component {
   render() {

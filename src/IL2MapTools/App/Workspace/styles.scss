@@ -3,8 +3,6 @@
   width:      100%;
   min-height: 100%;
   min-width:  100%;
-  display:    grid;
-
-  grid-template-columns:   100%;
-  grid-template-rows: auto 42px;
+  display:    flex;
+  flex-direction: column;
 }
