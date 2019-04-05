@@ -28,7 +28,10 @@ class App extends Component {
     }
 
     if (this.props.showWorkspace) {
-      children.push(React.createElement(Workspace, null));
+      children.push(React.createElement(
+        Workspace,
+        {locationVariants: this.props.locationVariants},
+      ));
     }
 
     return React.createElement('div', {className: 'App'}, ...children);

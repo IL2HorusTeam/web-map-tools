@@ -12,7 +12,9 @@ class Workspace extends Component {
       'div',
       {className: 'Workspace'},
       React.createElement(Viewport, null),
-      React.createElement(InstrumentPanel, null),
+      React.createElement(InstrumentPanel, {
+        locationVariants: this.props.locationVariants,
+      }),
     );
   }
 }

@@ -32,7 +32,10 @@ const app = React.createElement(
   {store: store},
   React.createElement(
     App,
-    {locationVariantsTree: locationVariantsTree},
+    {
+      locationVariantsTree: locationVariantsTree,
+      locationVariants:     locationVariants,
+    },
   ),
 );
 
