@@ -1,1 +1,0 @@
-export const ESCAPE_KEY_PRESSED = "ESCAPE_KEY_PRESSED";

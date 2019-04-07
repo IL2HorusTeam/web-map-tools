@@ -2,17 +2,10 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
-  entry: "./src/IL2MapTools/index.js",
+  entry: "./src/index.js",
   output: {
     path: path.join(__dirname, "/dist"),
     filename: "index_bundle.js",
-  },
-  resolve: {
-    modules: [
-      path.join(__dirname, "/src"),
-      path.join(__dirname, "/assets"),
-      "node_modules",
-    ],
   },
   module: {
     rules: [
@@ -37,7 +30,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: "./src/IL2MapTools/index.html",
+      template: "./src/index.html",
     }),
   ],
 };

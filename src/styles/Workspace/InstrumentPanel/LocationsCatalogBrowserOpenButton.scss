@@ -1,0 +1,26 @@
+.LocationsCatalogBrowserOpenButton {
+  margin: 0.2em;
+  padding: 0.3em;
+  cursor: pointer;
+  outline: 0;
+  color: #fff;
+  white-space: nowrap;
+
+  border-style: solid;
+  border-width: .05rem;
+  border-radius: .1rem;
+
+  transition: background .2s, border .2s, box-shadow .2s, color .2s;
+
+  background:   HSL(200, 75%, 50%);
+  border-color: HSL(200, 75%, 45%);
+
+  &:hover {
+    background:   HSL(200, 75%, 45%);
+    border-color: HSL(200, 75%, 40%);
+  }
+
+  > .Icon {
+    font-size: 1.7em;
+  }  
+}

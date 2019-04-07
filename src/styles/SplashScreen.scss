@@ -1,0 +1,37 @@
+@keyframes rotate360deg {
+  from {
+    transform: rotate(0deg);
+  }
+  to   {
+    transform: rotate(360deg);
+  }
+}
+
+.SplashScreen {
+  height: 100%;
+  width: 100%;
+  min-height: 100%;
+  min-width: 100%;
+  position: absolute;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  color: #66758C;
+  background-color: rgba(255, 255, 255, 1);
+
+  .ContentBox {
+
+    .Icon {
+      will-change: transform;
+      animation: rotate360deg 2s linear infinite;
+    }
+
+    .TextBox {
+      font-weight: bold;
+      margin-left: 0.5em;
+      font-size: 1.15em;
+    }
+  }
+}
