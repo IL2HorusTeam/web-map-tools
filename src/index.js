@@ -14,7 +14,7 @@ import { componentWithStoreProvider } from "./store";
 import makeAppContainer from "./containers/App";
 import makeMiddlewareAppLoading from "./middlewares/App";
 import makeMiddlewareArgs from "./middlewares/args";
-import { makeLocationVariantIdValidator } from "./validators/Workspace";
+import { makeLocationVariantIdValidator } from "./validators";
 import makeLocationsCatalogBrowserContainer from "./containers/LocationsCatalogBrowser";
 import makeWorkspaceContainer from "./containers/Workspace";
 

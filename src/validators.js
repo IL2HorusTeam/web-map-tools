@@ -1,4 +1,4 @@
-import { InvalidLocationVariantId } from "../errors";
+import { InvalidLocationVariantId } from "./errors";
 
 
 export function makeLocationVariantIdValidator(locationVariantsIds) {
