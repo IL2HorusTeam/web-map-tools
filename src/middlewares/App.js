@@ -1,6 +1,6 @@
-import { APP_LOADED } from "../actions/App";
+import { APP_LOADED } from "../actions";
+import { makeActionLocationsCatalogBrowserOpen } from "../actions";
 import { makeActionWindowHashChanged } from "../actions/window";
-import { makeActionLocationsCatalogBrowserOpen } from "../actions/LocationsCatalogBrowser";
 import { getWindowHash } from "../utils/window";
 
 

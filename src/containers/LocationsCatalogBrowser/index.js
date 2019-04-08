@@ -2,8 +2,8 @@ import React from "react";
 import { connect } from "react-redux";
 
 import { getColumnsCount } from "./utils";
-import { makeActionLocationsCatalogBrowserClose } from "../../actions/LocationsCatalogBrowser";
-import { makeActionLocationSelected } from "../../actions/Workspace";
+import { makeActionLocationsCatalogBrowserClose } from "../../actions";
+import { makeActionLocationSelected } from "../../actions";
 import { selectIsLocationsCatalogBrowserClosable } from "../../selectors";
 import { selectWindowWidth } from "../../selectors";
 import LocationsCatalogBrowserComponent from "../../components/LocationsCatalogBrowser";

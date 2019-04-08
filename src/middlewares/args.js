@@ -1,6 +1,6 @@
 import { WINDOW_HASH_CHANGED } from "../actions/window";
-import { makeActionLocationSelected } from "../actions/Workspace";
-import { makeActionLocationsCatalogBrowserOpen } from "../actions/LocationsCatalogBrowser";
+import { makeActionLocationSelected } from "../actions";
+import { makeActionLocationsCatalogBrowserOpen } from "../actions";
 import { getWindowHash } from "../utils/window";
 import { parseArgumentsString } from "../utils/args";
 import { InvalidLocationVariantId } from "../errors/Workspace";

@@ -2,7 +2,7 @@ import { handleActions } from "redux-actions";
 
 import produce from "immer";
 
-import { LOCATION_SELECTED } from "../actions/Workspace";
+import { LOCATION_SELECTED } from "../actions";
 
 
 const initialState = {
