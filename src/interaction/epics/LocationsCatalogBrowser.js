@@ -7,10 +7,10 @@ import { withLatestFrom } from 'rxjs/operators';
 
 import { makeActionLocationsCatalogBrowserClose } from "../actions";
 import { KEY_DOWN } from "../actions/keyboard";
-import { KEY_CODE_ESCAPE } from "../constants/keyboard";
+import { KEY_CODE_ESCAPE } from "../../constants/keyboard";
 import { LOCATION_SELECTED } from "../actions";
-import { selectIsLocationsCatalogBrowserClosable } from "../state/selectors";
-import { selectIsLocationsCatalogBrowserOpen } from "../state/selectors";
+import { selectIsLocationsCatalogBrowserClosable } from "../../state/selectors";
+import { selectIsLocationsCatalogBrowserOpen } from "../../state/selectors";
 
 
 function makeEpicCloseOnEscapeKey() {

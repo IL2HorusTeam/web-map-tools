@@ -1,9 +1,9 @@
 import { WINDOW_HASH_CHANGED } from "../actions/window";
 import { makeActionLocationSelected } from "../actions";
 import { makeActionLocationsCatalogBrowserOpen } from "../actions";
-import { getWindowHash } from "../utils/window";
-import { parseArgumentsString } from "../utils/args";
-import { InvalidLocationVariantId } from "../errors";
+import { getWindowHash } from "../../utils/window";
+import { parseArgumentsString } from "../../utils/args";
+import { InvalidLocationVariantId } from "../../errors";
 
 
 export default function makeMiddlewareArgs(validateLocationVariantId) {

@@ -6,17 +6,23 @@ import ReactDOM from "react-dom";
 import loggerMiddleware from "redux-logger";
 
 import { loadLocationsCatalog } from "./LocationsCatalog";
-import initFontAwesome from "./utils/fontawesome";
-import makeEpic from "./epics";
+
+import makeAppContainer from "./containers/App";
+import makeWorkspaceContainer from "./containers/Workspace";
+import makeLocationsCatalogBrowserContainer from "./containers/LocationsCatalogBrowser";
+
+import makeEpic from "./interaction/epics";
+
+import makeMiddlewareAppLoading from "./interaction/middlewares/App";
+import makeMiddlewareArgs from "./interaction/middlewares/args";
+
 import makeReducer from "./state/reducers";
 import { makeStore } from "./state/store";
 import { componentWithStoreProvider } from "./state/store";
-import makeAppContainer from "./containers/App";
-import makeMiddlewareAppLoading from "./middlewares/App";
-import makeMiddlewareArgs from "./middlewares/args";
+
 import { makeLocationVariantIdValidator } from "./validators";
-import makeLocationsCatalogBrowserContainer from "./containers/LocationsCatalogBrowser";
-import makeWorkspaceContainer from "./containers/Workspace";
+
+import initFontAwesome from "./utils/fontawesome";
 
 
 initFontAwesome();
