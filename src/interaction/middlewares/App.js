@@ -1,7 +1,7 @@
 import { APP_LOADED } from "../actions";
 import { makeActionLocationsCatalogBrowserOpen } from "../actions";
 import { makeActionWindowHashChanged } from "../actions/window";
-import { getWindowHash } from "../../utils/window";
+import { getWindowHash } from "../../window";
 
 
 export default function makeMiddlewareAppLoading() {

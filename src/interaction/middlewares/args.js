@@ -1,7 +1,7 @@
 import { WINDOW_HASH_CHANGED } from "../actions/window";
 import { makeActionLocationSelected } from "../actions";
 import { makeActionLocationsCatalogBrowserOpen } from "../actions";
-import { getWindowHash } from "../../utils/window";
+import { getWindowHash } from "../../window";
 import { parseArgumentsString } from "../../args";
 import { InvalidLocationVariantId } from "../../errors";
 
