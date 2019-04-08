@@ -22,7 +22,7 @@ import { componentWithStoreProvider } from "./state/store";
 
 import { makeLocationVariantIdValidator } from "./validators";
 
-import initFontAwesome from "./utils/fontawesome";
+import initFontAwesome from "./fontawesome";
 
 
 initFontAwesome();
