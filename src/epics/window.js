@@ -14,7 +14,7 @@ import { makeActionWindowHashChanged } from "../actions/window";
 import { formatArgumentsString } from "../utils/args";
 import { getWindowHash } from "../utils/window";
 import { maybeUpdateWindowHash } from "../utils/window";
-import { selectArguments } from "../selectors";
+import { selectArguments } from "../state/selectors";
 
 
 function makeWindowResizeListener() {

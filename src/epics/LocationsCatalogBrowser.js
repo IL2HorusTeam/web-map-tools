@@ -9,8 +9,8 @@ import { makeActionLocationsCatalogBrowserClose } from "../actions";
 import { KEY_DOWN } from "../actions/keyboard";
 import { KEY_CODE_ESCAPE } from "../constants/keyboard";
 import { LOCATION_SELECTED } from "../actions";
-import { selectIsLocationsCatalogBrowserClosable } from "../selectors";
-import { selectIsLocationsCatalogBrowserOpen } from "../selectors";
+import { selectIsLocationsCatalogBrowserClosable } from "../state/selectors";
+import { selectIsLocationsCatalogBrowserOpen } from "../state/selectors";
 
 
 function makeEpicCloseOnEscapeKey() {

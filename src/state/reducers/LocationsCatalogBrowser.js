@@ -2,8 +2,8 @@ import { handleActions } from "redux-actions";
 
 import produce from "immer";
 
-import { LOCATIONS_CATALOG_BROWSER_OPEN } from "../actions";
-import { LOCATIONS_CATALOG_BROWSER_CLOSE } from "../actions";
+import { LOCATIONS_CATALOG_BROWSER_OPEN } from "../../actions";
+import { LOCATIONS_CATALOG_BROWSER_CLOSE } from "../../actions";
 
 
 const initialState = {
