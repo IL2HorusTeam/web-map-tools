@@ -11,10 +11,10 @@ import makeAppContainer from "./containers/App";
 import makeWorkspaceContainer from "./containers/Workspace";
 import makeLocationsCatalogBrowserContainer from "./containers/LocationsCatalogBrowser";
 
-import makeEpic from "./interaction/epics";
+import makeEpic from "./behavior/epics";
 
-import makeMiddlewareAppLoading from "./interaction/middlewares/App";
-import makeMiddlewareArgs from "./interaction/middlewares/args";
+import makeMiddlewareAppLoading from "./behavior/middlewares/App";
+import makeMiddlewareArgs from "./behavior/middlewares/args";
 
 import makeReducer from "./state/reducers";
 import { makeStore } from "./state/store";

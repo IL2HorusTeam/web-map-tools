@@ -2,7 +2,7 @@ import { handleActions } from "redux-actions";
 
 import produce from "immer";
 
-import { LOCATION_SELECTED } from "../../interaction/actions";
+import { LOCATION_SELECTED } from "../../behavior/actions";
 
 
 const initialState = {
