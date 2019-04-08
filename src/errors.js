@@ -1,8 +1,7 @@
-import IL2MapToolsError from ".";
+export default class IL2MapToolsError extends Error {}
 
-export class WorkspaceError extends IL2MapToolsError {}
 
-export class InvalidLocationVariantId extends WorkspaceError {
+export class InvalidLocationVariantId extends IL2MapToolsError {
   constructor(locationVariantId) {
     super(locationVariantId + "");
     this.name = "InvalidLocationVariantId";

@@ -3,7 +3,7 @@ import { makeActionLocationSelected } from "../actions";
 import { makeActionLocationsCatalogBrowserOpen } from "../actions";
 import { getWindowHash } from "../utils/window";
 import { parseArgumentsString } from "../utils/args";
-import { InvalidLocationVariantId } from "../errors/Workspace";
+import { InvalidLocationVariantId } from "../errors";
 
 
 export default function makeMiddlewareArgs(validateLocationVariantId) {
