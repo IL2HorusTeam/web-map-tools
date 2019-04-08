@@ -8,8 +8,8 @@ import { skip } from "rxjs/operators";
 
 import { combineEpics } from 'redux-observable';
 
-import { makeActionWindowSizeChanged } from "../actions/window";
-import { makeActionWindowHashChanged } from "../actions/window";
+import { makeActionWindowSizeChanged } from "../../interaction/actions/window";
+import { makeActionWindowHashChanged } from "../../interaction/actions/window";
 
 import { formatArgumentsString } from "../../utils/args";
 import { getWindowHash } from "../../utils/window";

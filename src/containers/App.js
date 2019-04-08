@@ -2,7 +2,7 @@ import React from "react";
 import { connect } from "react-redux";
 
 import AppComponent from "../components/App";
-import { makeActionAppLoaded } from "../actions";
+import { makeActionAppLoaded } from "../interaction/actions";
 import { selectIsAppLoading } from "../state/selectors";
 import { selectIsLocationsCatalogBrowserOpen } from "../state/selectors";
 

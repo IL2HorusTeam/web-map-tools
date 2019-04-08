@@ -2,7 +2,7 @@ import { handleActions } from "redux-actions";
 
 import produce from "immer";
 
-import { WINDOW_SIZE_CHANGED } from "../../actions/window";
+import { WINDOW_SIZE_CHANGED } from "../../interaction/actions/window";
 
 
 const initialState = {
