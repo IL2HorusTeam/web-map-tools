@@ -11,7 +11,7 @@ import { combineEpics } from 'redux-observable';
 import { makeActionWindowSizeChanged } from "../../interaction/actions/window";
 import { makeActionWindowHashChanged } from "../../interaction/actions/window";
 
-import { formatArgumentsString } from "../../utils/args";
+import { formatArgumentsString } from "../../args";
 import { getWindowHash } from "../../utils/window";
 import { maybeUpdateWindowHash } from "../../utils/window";
 import { selectArguments } from "../../state/selectors";
