@@ -7,9 +7,9 @@ import loggerMiddleware from "redux-logger";
 
 import { loadLocationsCatalog } from "./LocationsCatalog";
 
-import makeAppContainer from "./containers/App";
-import makeWorkspaceContainer from "./containers/Workspace";
-import makeLocationsCatalogBrowserContainer from "./containers/LocationsCatalogBrowser";
+import makeAppContainer from "./structure/containers/App";
+import makeWorkspaceContainer from "./structure/containers/Workspace";
+import makeLocationsCatalogBrowserContainer from "./structure/containers/LocationsCatalogBrowser";
 
 import makeEpic from "./behavior/epics";
 

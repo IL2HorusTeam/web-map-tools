@@ -2,9 +2,9 @@ import React from "react";
 import { connect } from "react-redux";
 
 import AppComponent from "../components/App";
-import { makeActionAppLoaded } from "../behavior/actions";
-import { selectIsAppLoading } from "../state/selectors";
-import { selectIsLocationsCatalogBrowserOpen } from "../state/selectors";
+import { makeActionAppLoaded } from "../../behavior/actions";
+import { selectIsAppLoading } from "../../state/selectors";
+import { selectIsLocationsCatalogBrowserOpen } from "../../state/selectors";
 
 
 function mapStateToProps(state) {

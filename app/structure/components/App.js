@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 
-import LocationsCatalog from "../LocationsCatalog";
+import LocationsCatalog from "../../LocationsCatalog";
 import SplashScreenComponent from "./SplashScreen";
 
 

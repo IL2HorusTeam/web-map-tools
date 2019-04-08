@@ -2,12 +2,12 @@ import React from "react";
 import { connect } from "react-redux";
 
 import { getColumnsCount } from "./utils";
-import { makeActionLocationsCatalogBrowserClose } from "../../behavior/actions";
-import { makeActionLocationSelected } from "../../behavior/actions";
-import { selectIsLocationsCatalogBrowserClosable } from "../../state/selectors";
-import { selectWindowWidth } from "../../state/selectors";
+import { makeActionLocationsCatalogBrowserClose } from "../../../behavior/actions";
+import { makeActionLocationSelected } from "../../../behavior/actions";
+import { selectIsLocationsCatalogBrowserClosable } from "../../../state/selectors";
+import { selectWindowWidth } from "../../../state/selectors";
 import LocationsCatalogBrowserComponent from "../../components/LocationsCatalogBrowser";
-import StylesVariables from "../../styles/variables.scss";
+import StylesVariables from "../../../styles/variables.scss";
 
 
 function mapStateToProps(state) {

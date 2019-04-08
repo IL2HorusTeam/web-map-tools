@@ -1,8 +1,8 @@
 import React from "react";
 import { connect } from "react-redux";
 
+import { makeActionLocationsCatalogBrowserOpen } from "../../../../behavior/actions";
 import LocationsCatalogBrowserOpenButtonComponent from "../../../components/Workspace/InstrumentPanel/LocationsCatalogBrowserOpenButton";
-import { makeActionLocationsCatalogBrowserOpen } from "../../../behavior/actions";
 
 
 function mapDispatchToProps(dispatch) {

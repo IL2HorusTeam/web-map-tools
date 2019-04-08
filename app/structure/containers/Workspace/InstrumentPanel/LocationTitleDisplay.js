@@ -2,7 +2,7 @@ import React from "react";
 import { connect } from "react-redux";
 
 import LocationTitleDisplayComponent from "../../../components/Workspace/InstrumentPanel/LocationTitleDisplay";
-import { selectLocationVariantId } from "../../../state/selectors";
+import { selectLocationVariantId } from "../../../../state/selectors";
 
 
 function makeMapStateToProps(locationsVariantsMap) {
