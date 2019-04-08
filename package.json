@@ -13,7 +13,7 @@
     "tools",
     "web"
   ],
-  "browser": "./src/index.js",
+  "browser": "./app/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --hot --host 0.0.0.0 --port 5000",
     "build": "webpack --mode production"
