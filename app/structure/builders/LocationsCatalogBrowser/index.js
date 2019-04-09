@@ -3,8 +3,8 @@ import { connect } from "react-redux";
 
 import { calculateColumnsCount } from "./utils";
 
-import { buildActionLocationsCatalogBrowserClose } from "../../../behavior/actions";
-import { buildActionLocationSelected } from "../../../behavior/actions";
+import { buildLocationsCatalogBrowserCloseAction } from "../../../behavior/actions";
+import { buildLocationSelectedAction } from "../../../behavior/actions";
 
 import { selectIsLocationsCatalogBrowserClosable } from "../../../state/selectors";
 import { selectWindowWidth } from "../../../state/selectors";
@@ -29,9 +29,9 @@ function mapStateToProps(state) {
 
 
 function mapDispatchToProps(dispatch, ownProps) {
-  const onClose = () => dispatch(buildActionLocationsCatalogBrowserClose());
+  const onClose = () => dispatch(buildLocationsCatalogBrowserCloseAction());
   const onLocationSelected = (locationVariantId) => dispatch(
-    buildActionLocationSelected(locationVariantId)
+    buildLocationSelectedAction(locationVariantId)
   );
   return {
     onClose: onClose,

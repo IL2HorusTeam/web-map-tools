@@ -5,7 +5,7 @@ import { filter } from 'rxjs/operators';
 import { map } from 'rxjs/operators';
 import { withLatestFrom } from 'rxjs/operators';
 
-import { buildActionLocationsCatalogBrowserClose } from "../actions";
+import { buildLocationsCatalogBrowserCloseAction } from "../actions";
 import { KEY_DOWN } from "../actions/keyboard";
 import { KEY_CODE_ESCAPE } from "../../constants";
 import { LOCATION_SELECTED } from "../actions";
@@ -24,7 +24,7 @@ function buildEpicCloseOnEscapeKey() {
       withLatestFrom(stateStream),
       filter(([, state]) => selectIsLocationsCatalogBrowserOpen(state)),
       filter(([, state]) => selectIsLocationsCatalogBrowserClosable(state)),
-      map(() => buildActionLocationsCatalogBrowserClose()),
+      map(() => buildLocationsCatalogBrowserCloseAction()),
     );
   }
 }
@@ -39,7 +39,7 @@ function buildEpicCloseOnLocationSelected() {
       ofType(LOCATION_SELECTED),
       withLatestFrom(stateStream),
       filter(([, state]) => selectIsLocationsCatalogBrowserOpen(state)),
-      map(() => buildActionLocationsCatalogBrowserClose()),
+      map(() => buildLocationsCatalogBrowserCloseAction()),
     );
   }
 }

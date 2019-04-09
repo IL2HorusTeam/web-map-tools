@@ -1,6 +1,6 @@
 import { WINDOW_HASH_CHANGED } from "../actions/window";
-import { buildActionLocationSelected } from "../actions";
-import { buildActionLocationsCatalogBrowserOpen } from "../actions";
+import { buildLocationSelectedAction } from "../actions";
+import { buildLocationsCatalogBrowserOpenAction } from "../actions";
 import { getWindowHash } from "../../window";
 import { parseArgumentsString } from "../../args";
 import { InvalidLocationVariantId } from "../../errors";
@@ -32,11 +32,11 @@ export default function buildMiddlewareArgs(validateLocationVariantId) {
     let state = store.getState();
 
     if (locationVariantId != state.workspace.locationVariantId) {
-      store.dispatch(buildActionLocationSelected(locationVariantId));
+      store.dispatch(buildLocationSelectedAction(locationVariantId));
     }
 
     if (!locationVariantId && !state.locationsCatalogBrowser.isOpen) {
-      store.dispatch(buildActionLocationsCatalogBrowserOpen());
+      store.dispatch(buildLocationsCatalogBrowserOpenAction());
     }
   }
 }

@@ -3,7 +3,7 @@ import React from "react";
 import { connect } from "react-redux";
 import { Provider } from "react-redux";
 
-import { buildActionAppLoaded } from "../../behavior/actions";
+import { buildAppLoadedAction } from "../../behavior/actions";
 
 import { selectIsAppLoading } from "../../state/selectors";
 import { selectIsLocationsCatalogBrowserOpen } from "../../state/selectors";
@@ -53,7 +53,7 @@ const buildMapStateToProps = (locationsCatalog, workspaceContainer) => (state) =
 
 
 const mapDispatchToProps = (dispatch) => ({
-  onLoaded: () => dispatch(buildActionAppLoaded()),
+  onLoaded: () => dispatch(buildAppLoadedAction()),
 });
 
 

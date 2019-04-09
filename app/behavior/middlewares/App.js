@@ -1,6 +1,6 @@
 import { APP_LOADED } from "../actions";
-import { buildActionLocationsCatalogBrowserOpen } from "../actions";
-import { buildActionWindowHashChanged } from "../actions/window";
+import { buildLocationsCatalogBrowserOpenAction } from "../actions";
+import { buildWindowHashChangedAction } from "../actions/window";
 import { getWindowHash } from "../../window";
 
 
@@ -9,9 +9,9 @@ export default function buildMiddlewareAppLoading() {
     if (action.type == APP_LOADED) {
       let hash = getWindowHash();
       if (hash) {
-        store.dispatch(buildActionWindowHashChanged(hash));
+        store.dispatch(buildWindowHashChangedAction(hash));
       } else {
-        store.dispatch(buildActionLocationsCatalogBrowserOpen());
+        store.dispatch(buildLocationsCatalogBrowserOpenAction());
       }
     }
     return next(action);

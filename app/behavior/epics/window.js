@@ -8,8 +8,8 @@ import { skip } from "rxjs/operators";
 
 import { combineEpics } from 'redux-observable';
 
-import { buildActionWindowSizeChanged } from "../../behavior/actions/window";
-import { buildActionWindowHashChanged } from "../../behavior/actions/window";
+import { buildWindowSizeChangedAction } from "../../behavior/actions/window";
+import { buildWindowHashChangedAction } from "../../behavior/actions/window";
 
 import { formatArgumentsString } from "../../args";
 import { getWindowHash } from "../../window";
@@ -21,7 +21,7 @@ function buildWindowResizeListener() {
   return function windowResizeListener() {
     return fromEvent(window, 'resize').pipe(
       debounceTime(500),
-      map((event) => buildActionWindowSizeChanged(
+      map((event) => buildWindowSizeChangedAction(
         event.target.innerWidth,
         event.target.innerHeight,
       )),
@@ -33,7 +33,7 @@ function buildWindowResizeListener() {
 function buildWindowHashUpdatesListener() {
   return function windowHashUpdatesListener() {
     return fromEvent(window, 'hashchange').pipe(
-      map(() => buildActionWindowHashChanged(getWindowHash())),
+      map(() => buildWindowHashChangedAction(getWindowHash())),
     );
   };
 }

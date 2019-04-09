@@ -1,12 +1,12 @@
 import React from "react";
 import { connect } from "react-redux";
 
-import { buildActionLocationsCatalogBrowserOpen } from "../../../../behavior/actions";
+import { buildLocationsCatalogBrowserOpenAction } from "../../../../behavior/actions";
 import LocationsCatalogBrowserOpenButtonComponent from "../../../components/Workspace/InstrumentPanel/LocationsCatalogBrowserOpenButton";
 
 
 const mapDispatchToProps = (dispatch) => ({
-  onClick: () => dispatch(buildActionLocationsCatalogBrowserOpen()),
+  onClick: () => dispatch(buildLocationsCatalogBrowserOpenAction()),
 });
 
 
