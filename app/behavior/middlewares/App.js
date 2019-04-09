@@ -4,7 +4,7 @@ import { buildWindowHashChangedAction } from "../actions/window";
 import { getWindowHash } from "../../window";
 
 
-export default function buildMiddlewareAppLoading() {
+export default function buildAppLoadingMiddleware() {
   return (store) => (next) => (action) => {
     if (action.type == APP_LOADED) {
       let hash = getWindowHash();

@@ -6,7 +6,7 @@ import { parseArgumentsString } from "../../args";
 import { InvalidLocationVariantId } from "../../errors";
 
 
-export default function buildMiddlewareArgs(validateLocationVariantId) {
+export default function buildArgsMiddleware(validateLocationVariantId) {
   return (store) => (next) => (action) => {
     if (action.type != WINDOW_HASH_CHANGED) {
       return next(action);

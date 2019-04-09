@@ -9,8 +9,8 @@ import { loadLocationsCatalog } from "./LocationsCatalog";
 
 import buildEpic from "./behavior/epics";
 
-import buildMiddlewareAppLoading from "./behavior/middlewares/App";
-import buildMiddlewareArgs from "./behavior/middlewares/args";
+import buildAppLoadingMiddleware from "./behavior/middlewares/App";
+import buildArgsMiddleware from "./behavior/middlewares/args";
 
 import buildReducer from "./state/reducers";
 import buildStore from "./state/store";
@@ -35,8 +35,8 @@ const reducer = buildReducer();
 const epic = buildEpic();
 const middlewares = [
   loggerMiddleware,
-  buildMiddlewareAppLoading(),
-  buildMiddlewareArgs(locationVariantIdValidator),
+  buildAppLoadingMiddleware(),
+  buildArgsMiddleware(locationVariantIdValidator),
 ];
 const store = buildStore(reducer, epic, middlewares);
 const appContainer = buildAppContainer(locationsCatalog);
