@@ -12,6 +12,7 @@ export default class LocationTitleDisplayComponent extends Component {
   }
 }
 
+
 LocationTitleDisplayComponent.propTypes = {
   locationFullTitle: PropTypes.string.isRequired,
 };

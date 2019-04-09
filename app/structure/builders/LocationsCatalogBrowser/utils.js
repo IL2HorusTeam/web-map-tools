@@ -1,4 +1,4 @@
-export function getColumnsCount(
+export function calculateColumnsCount(
   widthActual,
   widthMax,
   widthStep,

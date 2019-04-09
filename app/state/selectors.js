@@ -1,6 +1,6 @@
 export function selectIsAppLoading(state) {
   return !(
-       state.workspace.locationVariantId
+       selectIsLocationSelected(state)
     || state.locationsCatalogBrowser.isOpen
   );
 }
@@ -11,14 +11,18 @@ export function selectIsLocationsCatalogBrowserOpen(state) {
 }
 
 
-
 export function selectLocationVariantId(state) {
   return state.workspace.locationVariantId;
 }
 
 
-export function selectIsLocationsCatalogBrowserClosable(state) {
+export function selectIsLocationSelected(state) {
   return selectLocationVariantId(state) !== undefined;
+}
+
+
+export function selectIsLocationsCatalogBrowserClosable(state) {
+  return selectIsLocationSelected(state);
 }
 
 

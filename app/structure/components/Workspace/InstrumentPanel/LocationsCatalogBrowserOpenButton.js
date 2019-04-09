@@ -24,6 +24,7 @@ export default class LocationsCatalogBrowserOpenButtonComponent extends Componen
   }
 }
 
+
 LocationsCatalogBrowserOpenButtonComponent.propTypes = {
-  onClick: PropTypes.func,
+  onClick: PropTypes.func.isRequired,
 };

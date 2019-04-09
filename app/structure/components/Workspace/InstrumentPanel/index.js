@@ -6,12 +6,13 @@ import ToolsBoxComponent from "./ToolsBox";
 
 export default class InstrumentPanelComponent extends Component {
   render() {
+    const builder = this.props.builder;
     return React.createElement(
       'div',
       {className: 'InstrumentPanel'},
       this.wrapWithToolsBox(
-        this.props.makeLocationsCatalogBrowserOpenButton(),
-        this.props.makeLocationTitleDisplay(),
+        builder.buildLocationsCatalogBrowserOpenButton(),
+        builder.buildLocationTitleDisplay(),
       ),
     );
   }
@@ -23,6 +24,8 @@ export default class InstrumentPanelComponent extends Component {
 
 
 InstrumentPanelComponent.propTypes = {
-  makeLocationsCatalogBrowserOpenButton: PropTypes.func.isRequired,
-  makeLocationTitleDisplay: PropTypes.func.isRequired,
+  builder: PropTypes.shape({
+    buildLocationsCatalogBrowserOpenButton: PropTypes.func.isRequired,
+    buildLocationTitleDisplay: PropTypes.func.isRequired,
+  }).isRequired,
 };

@@ -5,19 +5,18 @@ import { makeActionLocationsCatalogBrowserOpen } from "../../../../behavior/acti
 import LocationsCatalogBrowserOpenButtonComponent from "../../../components/Workspace/InstrumentPanel/LocationsCatalogBrowserOpenButton";
 
 
-function mapDispatchToProps(dispatch) {
-  return {
-    onClick: () => dispatch(makeActionLocationsCatalogBrowserOpen()),
-  };
-}
+const mapDispatchToProps = (dispatch) => ({
+  onClick: () => dispatch(makeActionLocationsCatalogBrowserOpen()),
+});
 
 
-export const LocationsCatalogBrowserOpenButtonContainer = (
-  connect(null, mapDispatchToProps)
-  (LocationsCatalogBrowserOpenButtonComponent)
+export const LocationsCatalogBrowserOpenButtonContainer = connect(
+  null, mapDispatchToProps,
+)(
+  LocationsCatalogBrowserOpenButtonComponent
 );
 
 
-export default function makeLocationsCatalogBrowserOpenButtonContainer() {
+export default function buildLocationsCatalogBrowserOpenButton() {
   return React.createElement(LocationsCatalogBrowserOpenButtonContainer, null);
-};
+}

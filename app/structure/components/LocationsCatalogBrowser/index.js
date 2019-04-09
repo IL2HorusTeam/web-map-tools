@@ -35,7 +35,7 @@ export default class LocationsCatalogBrowserComponent extends Component {
 
   renderHeader() {
     let maybeCloseButton;
-    if (this.props.isClosable) {
+    if (this.props.onClose) {
       maybeCloseButton = React.createElement(CloseButtonComponent, {
         onClick: this.props.onClose,
       });
@@ -109,8 +109,7 @@ export default class LocationsCatalogBrowserComponent extends Component {
 
 
 LocationsCatalogBrowserComponent.propTypes = {
-  isClosable: PropTypes.bool,
-  onClose: PropTypes.func.isRequired,
+  onClose: PropTypes.func,
   onLocationSelected: PropTypes.func.isRequired,
   columnsCount: PropTypes.number,
   locationsCatalogSkeleton: PropTypes.shape({
@@ -146,5 +145,4 @@ LocationsCatalogBrowserComponent.propTypes = {
 
 LocationsCatalogBrowserComponent.defaultProps = {
   columnsCount: 1,
-  isClosable: true,
 };
