@@ -10,7 +10,7 @@ const initialState = {
 };
 
 
-function buildReducerWorkspace() {
+function buildWorkspaceReducer() {
   const handlersMap = {
     [LOCATION_SELECTED]: produce((draft, action) => {
       draft.locationVariantId = action.payload.locationVariantId;
@@ -20,4 +20,4 @@ function buildReducerWorkspace() {
 }
 
 
-export default buildReducerWorkspace;
+export default buildWorkspaceReducer;

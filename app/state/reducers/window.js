@@ -11,7 +11,7 @@ const initialState = {
 };
 
 
-function buildReducerWindow() {
+function buildWindowReducer() {
   const handlersMap = {
     [WINDOW_SIZE_CHANGED]: produce((draft, action) => {
       draft.width  = action.payload.width;
@@ -22,4 +22,4 @@ function buildReducerWindow() {
 }
 
 
-export default buildReducerWindow;
+export default buildWindowReducer;
