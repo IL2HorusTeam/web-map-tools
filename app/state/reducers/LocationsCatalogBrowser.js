@@ -11,7 +11,7 @@ const initialState = {
 };
 
 
-function makeReducerLocationsCatalogBrowser() {
+function buildReducerLocationsCatalogBrowser() {
   const handlersMap = {
     [LOCATIONS_CATALOG_BROWSER_OPEN]: produce((draft, action) => {
       draft.isOpen = true;
@@ -24,4 +24,4 @@ function makeReducerLocationsCatalogBrowser() {
 }
 
 
-export default makeReducerLocationsCatalogBrowser;
+export default buildReducerLocationsCatalogBrowser;

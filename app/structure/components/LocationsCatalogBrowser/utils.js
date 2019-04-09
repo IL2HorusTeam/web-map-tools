@@ -2,7 +2,7 @@ export function spreadTheatersAcrossColumns(theaters, columnsCount) {
   theaters = theaters.slice();
   sortTheatersBySizeDescByOrderAscByTitleAsc(theaters);
 
-  let columns = makeEmptyColumns(columnsCount);
+  let columns = buildEmptyColumns(columnsCount);
 
   for (var theater of theaters) {
     let column = getMostSuitableColumnForTheater(columns, theater);
@@ -38,7 +38,7 @@ function sortTheatersBySizeDescByOrderAscByTitleAsc(theaters) {
 }
 
 
-function makeEmptyColumns(count) {
+function buildEmptyColumns(count) {
   let columns = new Array(count);
   for (var i = 0; i < count; ++i) {
     columns[i] = {

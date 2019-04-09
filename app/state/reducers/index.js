@@ -1,14 +1,14 @@
 import { combineReducers } from "redux";
 
-import makeReducerWindow from "./window";
-import makeReducerWorkspace from "./Workspace";
-import makeReducerLocationsCatalogBrowser from "./LocationsCatalogBrowser";
+import buildReducerWindow from "./window";
+import buildReducerWorkspace from "./Workspace";
+import buildReducerLocationsCatalogBrowser from "./LocationsCatalogBrowser";
 
 
-export default function makeReducer() {
+export default function buildReducer() {
   return combineReducers({
-    window: makeReducerWindow(),
-    locationsCatalogBrowser: makeReducerLocationsCatalogBrowser(),
-    workspace: makeReducerWorkspace(),
+    window: buildReducerWindow(),
+    locationsCatalogBrowser: buildReducerLocationsCatalogBrowser(),
+    workspace: buildReducerWorkspace(),
   });
 }

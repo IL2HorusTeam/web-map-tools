@@ -94,9 +94,9 @@ export function loadLocationsCatalog() {
            location.variants
         && location.variants.map(variant => Object.freeze({
 
-          id:        makeLocationVariantFullId(location.id, variant.id),
+          id:        buildLocationVariantFullId(location.id, variant.id),
           title:     variant.title,
-          fullTitle: makeLocationVariantFullTitle(location.title, variant.title),
+          fullTitle: buildLocationVariantFullTitle(location.title, variant.title),
           tags:      variant.tags,
           season:    variant.season,
           subregion: variant.subregion,
@@ -109,12 +109,12 @@ export function loadLocationsCatalog() {
 }
 
 
-function makeLocationVariantFullId(locationId, locationVariantId) {
+function buildLocationVariantFullId(locationId, locationVariantId) {
   return `${locationId}:${locationVariantId}`;
 }
 
 
-function makeLocationVariantFullTitle(locationTitle, locationVariantTitle) {
+function buildLocationVariantFullTitle(locationTitle, locationVariantTitle) {
   return `${locationTitle} / ${locationVariantTitle}`;
 }
 

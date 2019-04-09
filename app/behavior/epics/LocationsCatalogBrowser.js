@@ -5,7 +5,7 @@ import { filter } from 'rxjs/operators';
 import { map } from 'rxjs/operators';
 import { withLatestFrom } from 'rxjs/operators';
 
-import { makeActionLocationsCatalogBrowserClose } from "../actions";
+import { buildActionLocationsCatalogBrowserClose } from "../actions";
 import { KEY_DOWN } from "../actions/keyboard";
 import { KEY_CODE_ESCAPE } from "../../constants";
 import { LOCATION_SELECTED } from "../actions";
@@ -13,7 +13,7 @@ import { selectIsLocationsCatalogBrowserClosable } from "../../state/selectors";
 import { selectIsLocationsCatalogBrowserOpen } from "../../state/selectors";
 
 
-function makeEpicCloseOnEscapeKey() {
+function buildEpicCloseOnEscapeKey() {
   return function locationsCatalogBrowserCloseOnEscapeKeyEpic(
     actionStream,
     stateStream,
@@ -24,13 +24,13 @@ function makeEpicCloseOnEscapeKey() {
       withLatestFrom(stateStream),
       filter(([, state]) => selectIsLocationsCatalogBrowserOpen(state)),
       filter(([, state]) => selectIsLocationsCatalogBrowserClosable(state)),
-      map(() => makeActionLocationsCatalogBrowserClose()),
+      map(() => buildActionLocationsCatalogBrowserClose()),
     );
   }
 }
 
 
-function makeEpicCloseOnLocationSelected() {
+function buildEpicCloseOnLocationSelected() {
   return function locationsCatalogBrowserCloseOnLocationSelectedEpic(
     actionStream,
     stateStream,
@@ -39,15 +39,15 @@ function makeEpicCloseOnLocationSelected() {
       ofType(LOCATION_SELECTED),
       withLatestFrom(stateStream),
       filter(([, state]) => selectIsLocationsCatalogBrowserOpen(state)),
-      map(() => makeActionLocationsCatalogBrowserClose()),
+      map(() => buildActionLocationsCatalogBrowserClose()),
     );
   }
 }
 
 
-export default function makeEpicLocationsCatalogBrowser() {
+export default function buildEpicLocationsCatalogBrowser() {
   return combineEpics(
-    makeEpicCloseOnEscapeKey(),
-    makeEpicCloseOnLocationSelected(),
+    buildEpicCloseOnEscapeKey(),
+    buildEpicCloseOnLocationSelected(),
   );
 }

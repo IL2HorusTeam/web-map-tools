@@ -7,15 +7,15 @@ import loggerMiddleware from "redux-logger";
 
 import { loadLocationsCatalog } from "./LocationsCatalog";
 
-import makeEpic from "./behavior/epics";
+import buildEpic from "./behavior/epics";
 
-import makeMiddlewareAppLoading from "./behavior/middlewares/App";
-import makeMiddlewareArgs from "./behavior/middlewares/args";
+import buildMiddlewareAppLoading from "./behavior/middlewares/App";
+import buildMiddlewareArgs from "./behavior/middlewares/args";
 
-import makeReducer from "./state/reducers";
-import makeStore from "./state/store";
+import buildReducer from "./state/reducers";
+import buildStore from "./state/store";
 
-import { makeLocationVariantIdValidator } from "./validators";
+import { buildLocationVariantIdValidator } from "./validators";
 
 import { buildAppContainer } from "./structure/builders/App";
 import { buildApp } from "./structure/builders/App";
@@ -27,18 +27,18 @@ initFontAwesome();
 
 
 const locationsCatalog = loadLocationsCatalog();
-const locationVariantIdValidator = makeLocationVariantIdValidator(
+const locationVariantIdValidator = buildLocationVariantIdValidator(
   locationsCatalog.getLocationVariantIds(),
 );
 
-const reducer = makeReducer();
-const epic = makeEpic();
+const reducer = buildReducer();
+const epic = buildEpic();
 const middlewares = [
   loggerMiddleware,
-  makeMiddlewareAppLoading(),
-  makeMiddlewareArgs(locationVariantIdValidator),
+  buildMiddlewareAppLoading(),
+  buildMiddlewareArgs(locationVariantIdValidator),
 ];
-const store = makeStore(reducer, epic, middlewares);
+const store = buildStore(reducer, epic, middlewares);
 const appContainer = buildAppContainer(locationsCatalog);
 const app = buildApp(appContainer, store);
 

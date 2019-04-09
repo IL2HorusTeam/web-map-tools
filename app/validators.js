@@ -1,7 +1,7 @@
 import { InvalidLocationVariantId } from "./errors";
 
 
-export function makeLocationVariantIdValidator(locationVariantsIds) {
+export function buildLocationVariantIdValidator(locationVariantsIds) {
   const ids = new Set(locationVariantsIds);
 
   return function locationIdValidator(locationVariantId) {

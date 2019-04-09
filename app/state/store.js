@@ -2,7 +2,7 @@ import { createStore, applyMiddleware } from "redux";
 import { createEpicMiddleware } from "redux-observable";
 
 
-export default function makeStore(reducer, epic, middlewares) {
+export default function buildStore(reducer, epic, middlewares) {
   const epicMiddleware = createEpicMiddleware();
 
   const store = createStore(

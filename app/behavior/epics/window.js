@@ -8,8 +8,8 @@ import { skip } from "rxjs/operators";
 
 import { combineEpics } from 'redux-observable';
 
-import { makeActionWindowSizeChanged } from "../../behavior/actions/window";
-import { makeActionWindowHashChanged } from "../../behavior/actions/window";
+import { buildActionWindowSizeChanged } from "../../behavior/actions/window";
+import { buildActionWindowHashChanged } from "../../behavior/actions/window";
 
 import { formatArgumentsString } from "../../args";
 import { getWindowHash } from "../../window";
@@ -17,11 +17,11 @@ import { maybeUpdateWindowHash } from "../../window";
 import { selectArguments } from "../../state/selectors";
 
 
-function makeWindowResizeListener() {
+function buildWindowResizeListener() {
   return function windowResizeListener() {
     return fromEvent(window, 'resize').pipe(
       debounceTime(500),
-      map((event) => makeActionWindowSizeChanged(
+      map((event) => buildActionWindowSizeChanged(
         event.target.innerWidth,
         event.target.innerHeight,
       )),
@@ -30,16 +30,16 @@ function makeWindowResizeListener() {
 }
 
 
-function makeWindowHashUpdatesListener() {
+function buildWindowHashUpdatesListener() {
   return function windowHashUpdatesListener() {
     return fromEvent(window, 'hashchange').pipe(
-      map(() => makeActionWindowHashChanged(getWindowHash())),
+      map(() => buildActionWindowHashChanged(getWindowHash())),
     );
   };
 }
 
 
-function makeWindowHashUpdater() {
+function buildWindowHashUpdater() {
   return function windowHashUpdater(actionStream, stateStream) {
     return stateStream.pipe(
       skip(1), // skip initial state, TODO: refactor, this is ugly
@@ -52,10 +52,10 @@ function makeWindowHashUpdater() {
 }
 
 
-export default function makeEpicWindow() {
+export default function buildEpicWindow() {
   return combineEpics(
-    makeWindowResizeListener(),
-    makeWindowHashUpdatesListener(),
-    makeWindowHashUpdater(),
+    buildWindowResizeListener(),
+    buildWindowHashUpdatesListener(),
+    buildWindowHashUpdater(),
   );
 }
