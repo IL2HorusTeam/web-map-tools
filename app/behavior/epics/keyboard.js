@@ -6,7 +6,7 @@ import { map } from "rxjs/operators";
 import buildKeyDownAction from "../actions/keyboard";
 
 
-export default function buildEpicKeyboard() {
+export default function buildKeyboardEpic() {
   return function keyboardEpic() {
     return fromEvent(window, 'keydown').pipe(
       auditTime(125),
@@ -16,4 +16,3 @@ export default function buildEpicKeyboard() {
     );
   };
 }
-  

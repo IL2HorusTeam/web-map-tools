@@ -13,7 +13,7 @@ import { selectIsLocationsCatalogBrowserClosable } from "../../state/selectors";
 import { selectIsLocationsCatalogBrowserOpen } from "../../state/selectors";
 
 
-function buildEpicCloseOnEscapeKey() {
+function buildCloseOnEscapeKeyEpic() {
   return function locationsCatalogBrowserCloseOnEscapeKeyEpic(
     actionStream,
     stateStream,
@@ -30,7 +30,7 @@ function buildEpicCloseOnEscapeKey() {
 }
 
 
-function buildEpicCloseOnLocationSelected() {
+function buildCloseOnLocationSelectedEpic() {
   return function locationsCatalogBrowserCloseOnLocationSelectedEpic(
     actionStream,
     stateStream,
@@ -45,9 +45,9 @@ function buildEpicCloseOnLocationSelected() {
 }
 
 
-export default function buildEpicLocationsCatalogBrowser() {
+export default function buildLocationsCatalogBrowserEpic() {
   return combineEpics(
-    buildEpicCloseOnEscapeKey(),
-    buildEpicCloseOnLocationSelected(),
+    buildCloseOnEscapeKeyEpic(),
+    buildCloseOnLocationSelectedEpic(),
   );
 }

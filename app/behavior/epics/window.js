@@ -52,7 +52,7 @@ function buildWindowHashUpdater() {
 }
 
 
-export default function buildEpicWindow() {
+export default function buildWindowEpic() {
   return combineEpics(
     buildWindowResizeListener(),
     buildWindowHashUpdatesListener(),

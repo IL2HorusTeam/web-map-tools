@@ -1,14 +1,14 @@
 import { combineEpics } from "redux-observable";
 
-import buildEpicWindow from "./window";
-import buildEpicKeyboard from "./keyboard";
-import buildEpicLocationsCatalogBrowser from "./LocationsCatalogBrowser";
+import buildWindowEpic from "./window";
+import buildKeyboardEpic from "./keyboard";
+import buildLocationsCatalogBrowserEpic from "./LocationsCatalogBrowser";
 
 
 export default function buildEpic() {
   return combineEpics(
-    buildEpicWindow(),
-    buildEpicKeyboard(),
-    buildEpicLocationsCatalogBrowser(),
+    buildWindowEpic(),
+    buildKeyboardEpic(),
+    buildLocationsCatalogBrowserEpic(),
   );
 }
