@@ -6,7 +6,7 @@ import { calculateColumnsCount } from "./utils";
 import { buildLocationsCatalogBrowserCloseAction } from "../../../behavior/actions";
 import { buildLocationSelectedAction } from "../../../behavior/actions";
 
-import { selectIsLocationsCatalogBrowserClosable } from "../../../state/selectors";
+import { selectLocationsCatalogBrowserIsClosable } from "../../../state/selectors";
 import { selectWindowWidth } from "../../../state/selectors";
 
 import LocationsCatalogBrowserComponent from "../../components/LocationsCatalogBrowser";
@@ -22,7 +22,7 @@ function mapStateToProps(state) {
     StylesVariables.contentColsCountMax,
   );
   return {
-    isClosable: selectIsLocationsCatalogBrowserClosable(state),
+    isClosable: selectLocationsCatalogBrowserIsClosable(state),
     columnsCount: columnsCount,
   };
 }

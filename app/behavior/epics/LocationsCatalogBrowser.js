@@ -9,8 +9,8 @@ import { buildLocationsCatalogBrowserCloseAction } from "../actions";
 import { KEY_DOWN } from "../actions/keyboard";
 import { KEY_CODE_ESCAPE } from "../../constants";
 import { LOCATION_SELECTED } from "../actions";
-import { selectIsLocationsCatalogBrowserClosable } from "../../state/selectors";
-import { selectIsLocationsCatalogBrowserOpen } from "../../state/selectors";
+import { selectLocationsCatalogBrowserIsClosable } from "../../state/selectors";
+import { selectLocationsCatalogBrowserIsOpen } from "../../state/selectors";
 
 
 function buildCloseOnEscapeKeyEpic() {
@@ -22,8 +22,8 @@ function buildCloseOnEscapeKeyEpic() {
       ofType(KEY_DOWN),
       filter(action => (action.payload.keyCode === KEY_CODE_ESCAPE)),
       withLatestFrom(stateStream),
-      filter(([, state]) => selectIsLocationsCatalogBrowserOpen(state)),
-      filter(([, state]) => selectIsLocationsCatalogBrowserClosable(state)),
+      filter(([, state]) => selectLocationsCatalogBrowserIsOpen(state)),
+      filter(([, state]) => selectLocationsCatalogBrowserIsClosable(state)),
       map(() => buildLocationsCatalogBrowserCloseAction()),
     );
   }
@@ -38,7 +38,7 @@ function buildCloseOnLocationSelectedEpic() {
     return actionStream.pipe(
       ofType(LOCATION_SELECTED),
       withLatestFrom(stateStream),
-      filter(([, state]) => selectIsLocationsCatalogBrowserOpen(state)),
+      filter(([, state]) => selectLocationsCatalogBrowserIsOpen(state)),
       map(() => buildLocationsCatalogBrowserCloseAction()),
     );
   }

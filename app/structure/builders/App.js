@@ -5,9 +5,9 @@ import { Provider } from "react-redux";
 
 import { buildAppLoadedAction } from "../../behavior/actions";
 
-import { selectIsAppLoading } from "../../state/selectors";
-import { selectIsLocationsCatalogBrowserOpen } from "../../state/selectors";
-import { selectIsLocationSelected } from "../../state/selectors";
+import { selectAppIsLoading } from "../../state/selectors";
+import { selectLocationsCatalogBrowserIsOpen } from "../../state/selectors";
+import { selectLocationIsSelected } from "../../state/selectors";
 
 import AppComponent from "../components/App";
 import buildSplashScreen from "./SplashScreen";
@@ -24,14 +24,14 @@ class AppBuilder {
   }
 
   maybeBuildSplashScreen() {
-    const isLoading = selectIsAppLoading(this.state);
+    const isLoading = selectAppIsLoading(this.state);
     if (isLoading) {
       return buildSplashScreen();
     }
   }
 
   maybeBuildLocationsCatalogBrowser() {
-    const isOpen = selectIsLocationsCatalogBrowserOpen(this.state);
+    const isOpen = selectLocationsCatalogBrowserIsOpen(this.state);
     if (isOpen) {
       const locationsSkeleton = this.locationsCatalog.getSkeleton();
       return buildLocationsCatalogBrowser(locationsSkeleton);
@@ -39,7 +39,7 @@ class AppBuilder {
   }
 
   maybeBuildWorkspace() {
-    const isLocationSelected = selectIsLocationSelected(this.state);
+    const isLocationSelected = selectLocationIsSelected(this.state);
     if (isLocationSelected) {
       return buildWorkspace(this.workspaceContainer);
     }

@@ -1,12 +1,12 @@
-export function selectIsAppLoading(state) {
+export function selectAppIsLoading(state) {
   return !(
-       selectIsLocationSelected(state)
+       selectLocationIsSelected(state)
     || state.locationsCatalogBrowser.isOpen
   );
 }
 
 
-export function selectIsLocationsCatalogBrowserOpen(state) {
+export function selectLocationsCatalogBrowserIsOpen(state) {
   return state.locationsCatalogBrowser.isOpen;
 }
 
@@ -16,13 +16,13 @@ export function selectLocationVariantId(state) {
 }
 
 
-export function selectIsLocationSelected(state) {
+export function selectLocationIsSelected(state) {
   return selectLocationVariantId(state) !== undefined;
 }
 
 
-export function selectIsLocationsCatalogBrowserClosable(state) {
-  return selectIsLocationSelected(state);
+export function selectLocationsCatalogBrowserIsClosable(state) {
+  return selectLocationIsSelected(state);
 }
 
 
