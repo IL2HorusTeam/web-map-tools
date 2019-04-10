@@ -1,42 +1,74 @@
+import { parseArgumentsString } from "../../args";
+import { formatArgumentsString } from "../../args";
+
 import { WINDOW_HASH_CHANGED } from "../actions/window";
 import { buildLocationSelectedAction } from "../actions";
 import { buildLocationsCatalogBrowserOpenAction } from "../actions";
-import { getWindowHash } from "../../window";
-import { parseArgumentsString } from "../../args";
+
 import { InvalidLocationVariantId } from "../../errors";
 
+import { selectLocationsCatalogBrowserIsOpen } from "../../state/selectors";
+import { selectLocationVariantId } from "../../state/selectors";
 
-export default function buildArgsMiddleware(validateLocationVariantId) {
+import { getWindowHash } from "../../window";
+import { maybeUpdateWindowHash } from "../../window";
+
+
+export default function buildArgsMiddleware(locationVariantIdValidator) {
   return (store) => (next) => (action) => {
     if (action.type != WINDOW_HASH_CHANGED) {
       return next(action);
     }
 
-    let hash = getWindowHash();
-    let locationVariantId;
+    const currentHash = getWindowHash();
+    const currentArgs = maybeParseArgs(currentHash);
 
-    if (hash) {
-      let args = parseArgumentsString(hash);
-      if (args.locationVariantId) {
-        try {
-          validateLocationVariantId(args.locationVariantId);
-          locationVariantId = args.locationVariantId;
-        } catch (InvalidLocationVariantId) {
-          console.warn(
-            `invalid locationVariantId in window hash: ${args.locationVariantId}`
-          );
-        }
-      }
+    const newArgs = {
+      locationVariantId: maybeGetAndValidateLocationVariantId(
+        currentArgs,
+        locationVariantIdValidator,
+      ),
+    };
+
+    const currentState = store.getState();
+    const currentLocationVariantId = selectLocationVariantId(currentState);
+
+    if (newArgs.locationVariantId != currentLocationVariantId) {
+      store.dispatch(buildLocationSelectedAction(newArgs.locationVariantId));
     }
 
-    let state = store.getState();
-
-    if (locationVariantId != state.workspace.locationVariantId) {
-      store.dispatch(buildLocationSelectedAction(locationVariantId));
+    if (
+         !newArgs.locationVariantId
+      && !selectLocationsCatalogBrowserIsOpen(currentState)
+    ) {
+        store.dispatch(buildLocationsCatalogBrowserOpenAction());
     }
 
-    if (!locationVariantId && !state.locationsCatalogBrowser.isOpen) {
-      store.dispatch(buildLocationsCatalogBrowserOpenAction());
+    if (currentHash && !newArgs.locationVariantId) {
+      maybeUpdateWindowHash(formatArgumentsString(newArgs));
+    }
+  }
+}
+
+
+function maybeParseArgs(str) {
+  if (str) {
+    return parseArgumentsString(str);
+  }
+}
+
+
+function maybeGetAndValidateLocationVariantId(args, validator) {
+  const locationVariantId = (args && args.locationVariantId);
+
+  if (locationVariantId) {
+    try {
+      validator(locationVariantId);
+      return locationVariantId;
+    } catch (InvalidLocationVariantId) {
+      console.warn(
+        `invalid locationVariantId in args: ${locationVariantId}`
+      );
     }
   }
 }
