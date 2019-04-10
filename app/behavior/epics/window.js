@@ -1,13 +1,15 @@
+import { combineEpics } from 'redux-observable';
+import { ofType } from "redux-observable";
+
 import { fromEvent } from 'rxjs';
 
 import { debounceTime } from "rxjs/operators";
 import { distinctUntilChanged } from "rxjs/operators";
 import { ignoreElements } from "rxjs/operators";
 import { map } from "rxjs/operators";
-import { skip } from "rxjs/operators";
+import { skipUntil } from "rxjs/operators";
 
-import { combineEpics } from 'redux-observable';
-
+import { APP_LOADED } from "../../behavior/actions";
 import { buildWindowSizeChangedAction } from "../../behavior/actions/window";
 import { buildWindowHashChangedAction } from "../../behavior/actions/window";
 
@@ -42,7 +44,9 @@ function buildWindowHashUpdatesListener() {
 function buildWindowHashUpdater() {
   return function windowHashUpdater(actionStream, stateStream) {
     return stateStream.pipe(
-      skip(1), // skip initial state, TODO: refactor, this is ugly
+      skipUntil(actionStream.pipe(
+        ofType(APP_LOADED),
+      )),
       map(state => formatArgumentsString(selectArguments(state))),
       distinctUntilChanged(),
       map(str => maybeUpdateWindowHash(str)),
